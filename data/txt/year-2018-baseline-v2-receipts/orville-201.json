@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt5691552",
+    "imdb_id": "tt5691552",
+    "revision": "5daa2bb0f58fe6b678ea0a572049b3311de52618",
+    "wikidata_id": "Q28429653",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Orville"
+  },
+  "coverage_sha256": "ae4d3052fd415ea83731e7d4841a406e1e6781b2c5f8f4b7f696ae3b87d076e8",
+  "generated_at": "2026-09-06T18:45:03.635670+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2018-archives/orville-201.cache/cache.20190127.tar.xz",
+      "sha256": "9dc9bb23cb34a2249b5506cb84ef803726fa43ff78fc3edda95c1a5322d63e89",
+      "size": 153777808
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2018/data/txt/year-2018-coverage-evidence/orville-201.md",
+      "sha256": "63f75809d06bd9957b42ff790c20c58de11caf4cfc18c02fb097e207406b7c6c",
+      "size": 589
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2018/data/txt/year-2018-day-cache-stream-receipts/orville-201.json",
+      "sha256": "99552126ca9788b15e29d0cde5b1036a297449a7f749c1a0b482d2b031382df5",
+      "size": 2105
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2018/data/txt/year-2018-day-product-receipts/orville-201.json",
+      "sha256": "6c8f5b79fb885ded2b802119ec472ac266afab2f495b09515565c71d5ff6286c",
+      "size": 363
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2018-control/worker-map.json",
+      "sha256": "0f0151a9d86552ffa4d2bdec8cc0b2a7ce1ff4f549d25d26b400c16672f3f222",
+      "size": 55881
+    }
+  },
+  "media_object": "orville-201",
+  "published_files": {
+    "data/csv/bytes/orville-201-cumulative-detail.2018-btiha-itemized-by-bytes.csv": "4a3244d59b5c4ba515c5155910c1f3a98078d1be1049474348a490cd3f7f1ee5",
+    "docs/itemized/figures/orville-201-carto-4k.webp": "eec5e78fc37ec456f0990b21e4cbc1745af7000cccfda2d0e3abdc2b483d8ba1",
+    "docs/itemized/figures/orville-201-carto.png": "006cf3a495944d0ed0a92025b54817be96654c70ef533f6470aa549043bc1323",
+    "docs/itemized/figures/orville-201-cumulative-detail-btiha-itemized-by-bytes.svg": "5d02193ee863dfa474a16e4613ff814a7586f449ba75b5490633df7864e4617e",
+    "docs/itemized/figures/orville-201-data-ge-1080p-4k.webp": "68abe710f897b0dd1334900c7966fb64ca6f6dde4f30879a539042751d39f368",
+    "docs/itemized/figures/orville-201-data-ge-1080p.webp": "1259758a62e4a8f0c340faa026d08a6be0379f64b773389d9f116003ac66723b",
+    "docs/itemized/figures/orville-201-data-lt-1080p-4k.webp": "62b1d8297d4307aa3f3a27a9c2d76da3a581b698973bd1412a66971f1351776f",
+    "docs/itemized/figures/orville-201-data-lt-1080p.webp": "b359adec6f62b51ec440bf15faccc39a9e021cf2a43598e0fe5ed0bceeb56b41",
+    "docs/itemized/figures/orville-201-downloads-by-day-day.svg": "a295ac5e9713de5bf2012fadc12a027aaf3710c27139e2b811d8869d7d451ab6",
+    "docs/itemized/figures/orville-201-downloads-by-week-orville-201-week.svg": "aacc8c5f84b82fd2d2a0a8a9a3032e5acde53c5745abcbba7419365b1a0825e1",
+    "docs/itemized/orville-201-sample-cache-audit.md": "a0e8cf8e1db17c32d911f3c3ca3dee4e167cd376e76ee5d899cb3478fd3b97ee",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "27af472f439958c53f0aab30b89cddaa411eedaf",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2018/orville-201/tmp/orville-201-cumulative-btiha.geojson",
+        "sha256": "dd64ef883dfdef446f48fb21ec1949331e803d5ef90c8a204f1cdeb0eed53905",
+        "size": 26756859
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2018/orville-201/tmp/orville-201-cumulative-btiha-media-objects.json",
+        "sha256": "2220227b25311f2c6d67541a2a637571721db979eb76d54b96d0b1d08a141353",
+        "size": 108506
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2018-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "orville-201",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "3e6a87ec7490ec3b39db0dba09ab6311a015621eb704ac975c05f399296c8393",
+      "size": 8759376
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2018-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          67.0,
+          64.0,
+          57.0,
+          47.0,
+          39.0,
+          33.0,
+          30.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Ashburn",
+          "Columbus",
+          "London",
+          "Leipzig",
+          "New York City",
+          "Seattle",
+          "Seoul",
+          "Independence",
+          "Shanghai",
+          "Sydney"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          77.0,
+          70.0,
+          49.0,
+          44.0,
+          40.0,
+          37.0,
+          37.0,
+          32.0,
+          31.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Ashburn",
+          "London",
+          "Columbus",
+          "New York City",
+          "Leipzig",
+          "Seattle",
+          "Tokyo",
+          "Seoul",
+          "Sydney",
+          "Independence"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 28,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 9,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 4,
+        "y_tick_labels": 20
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "27af472f439958c53f0aab30b89cddaa411eedaf",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "980e731bb2e99b13ecc9d15c75480125d514e26c",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "5daa2bb0f58fe6b678ea0a572049b3311de52618"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2018"
+}
