@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt2788432",
+    "imdb_id": "tt2788432",
+    "revision": "5daa2bb0f58fe6b678ea0a572049b3311de52618",
+    "wikidata_id": "Q18209262",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/American_Crime_Story"
+  },
+  "coverage_sha256": "0114f18e771785c27eb6245ed9d8ff37b91db2a61d7729bbb90c7a0db3734896",
+  "generated_at": "2026-09-06T18:13:12.626341+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2018-archives/american-crime-story-205.cache/cache.20180310.tar.xz",
+      "sha256": "9ae6612b4dfbd26b5709883ebb7028b45f95063c84ff2760874fadb21c9bddf2",
+      "size": 36085252
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2018/data/txt/year-2018-coverage-evidence/american-crime-story-205.md",
+      "sha256": "6e77e611c3b3e83554c85ff657d8ef45167d54ef400a4748a1478c408678338d",
+      "size": 602
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2018/data/txt/year-2018-day-cache-stream-receipts/american-crime-story-205.json",
+      "sha256": "b599043aee5ee27baf8c92809ec8ba31987ea5783d616812bdfdf1e209dc4897",
+      "size": 2112
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2018/data/txt/year-2018-day-product-receipts/american-crime-story-205.json",
+      "sha256": "66bfcb8d16035f9c4eab767211ebd6d62a7a101af965c34383bee73589a5a1fd",
+      "size": 376
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2018-control/worker-map.json",
+      "sha256": "0f0151a9d86552ffa4d2bdec8cc0b2a7ce1ff4f549d25d26b400c16672f3f222",
+      "size": 55881
+    }
+  },
+  "media_object": "american-crime-story-205",
+  "published_files": {
+    "data/csv/bytes/american-crime-story-205-cumulative-detail.2018-btiha-itemized-by-bytes.csv": "1c7f8bb1deab373c7da72c3ba35f7815d9d88338f6002d385bf69bfdd994cf82",
+    "docs/itemized/american-crime-story-205-sample-cache-audit.md": "7a7d6d8aecba0a0e0341c65c8a57be0feecc1b08489b80859ab1116c099cb400",
+    "docs/itemized/figures/american-crime-story-205-carto-4k.webp": "37f787794485bfdb16d1e5a57801aca885c86bd61b00430b4c02cb83ef58e584",
+    "docs/itemized/figures/american-crime-story-205-carto.png": "74e95c913c116ce4766c6bff5385d67b9cd61b3dd5ab001762f099658b91f53a",
+    "docs/itemized/figures/american-crime-story-205-cumulative-detail-btiha-itemized-by-bytes.svg": "b72bfdd9b755f48663b04400d0f6995040b7c002d764d43cf7bce20ef608ecda",
+    "docs/itemized/figures/american-crime-story-205-data-ge-1080p-4k.webp": "9aca940a936766efc863cbd442adbfa1cefed008a681845354c8f125c92f742e",
+    "docs/itemized/figures/american-crime-story-205-data-ge-1080p.webp": "082748d977783362e890e9ce903d31a7dbb1edcf92bced26bc0e3543bea2d60a",
+    "docs/itemized/figures/american-crime-story-205-data-lt-1080p-4k.webp": "7169f5fbe1befa18bec3f700f22fc1477eda1d54ae1f9ad9afd979f5062b7492",
+    "docs/itemized/figures/american-crime-story-205-data-lt-1080p.webp": "cada0c74e918ccc294df6cb96d40da916902f084ca31c921c60cd037d9fbe165",
+    "docs/itemized/figures/american-crime-story-205-downloads-by-day-day.svg": "cbacd2de88a780b68ed37be5238236a1686aa1c90263e8a38936486ed22bc8e6",
+    "docs/itemized/figures/american-crime-story-205-downloads-by-week-american-crime-story-205-week.svg": "b85133fff6b3ad24aa631eaed0bc066d1a0028a57c0fd4619f7c80743d5d91a6",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "27af472f439958c53f0aab30b89cddaa411eedaf",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2018/american-crime-story-205/tmp/american-crime-story-205-cumulative-btiha.geojson",
+        "sha256": "e33e4223150d5a89031a69511e088fdc3c9efaf519d1c9a48ec0d0b377670249",
+        "size": 5274833
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2018/american-crime-story-205/tmp/american-crime-story-205-cumulative-btiha-media-objects.json",
+        "sha256": "ecdb710c99d575694cdf81e7ece429470840e9dcc2de2fc2eb36c4a63e3dc1cf",
+        "size": 103870
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2018-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "american-crime-story-205",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "3e6a87ec7490ec3b39db0dba09ab6311a015621eb704ac975c05f399296c8393",
+      "size": 8759376
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2018-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Ashburn",
+          "Frankfurt am Main",
+          "Dublin",
+          "Amsterdam",
+          "Boardman",
+          "Moscow",
+          "Riyadh",
+          "Paris",
+          "Sofia",
+          "New York City"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          38.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Ashburn",
+          "London",
+          "S\u00e3o Paulo",
+          "Dublin",
+          "Frankfurt am Main",
+          "Sydney",
+          "New York City",
+          "Dallas",
+          "Lelystad",
+          "Quezon City"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 24,
+        "y_tick_labels": 20
+      },
+      "histogram": {
+        "bars": 16,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 4,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "27af472f439958c53f0aab30b89cddaa411eedaf",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "980e731bb2e99b13ecc9d15c75480125d514e26c",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "5daa2bb0f58fe6b678ea0a572049b3311de52618"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2018"
+}
