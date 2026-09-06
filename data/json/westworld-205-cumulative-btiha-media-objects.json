@@ -1,0 +1,3521 @@
+{
+    "collection_name": "Westworld",
+    "collection_id": "205",
+    "collection_key": "westworld-205",
+    "collection_notes": "",
+    "data_version": "2026-08-05",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "6:1777968300",
+    "collection_btiha_duplicates": [
+        {
+            "duplicate_id": 0,
+            "duplicate_btih": "01751e042f4b4d4940b386c56025ae2f9d086d70",
+            "duplicate_0_0": "[limetorrents.cc]Westworld.S02E05.1080p.WEB.H264-DEFLATE.[rarbg]",
+            "duplicate_0_1": "Westworld.S02E05.1080p.WEB.H264-DEFLATE[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 1,
+            "duplicate_btih": "8220fe43aea14a0d85d4ceb239969ed0ab7c6083",
+            "duplicate_1_0": "[limetorrents.cc]Westworld.S02E05.720p.WEB.H264-DEFLATE.EZTV",
+            "duplicate_1_1": "Westworld.S02E05.720p.WEB.H264-DEFLATE[eztv].mkv"
+        },
+        {
+            "duplicate_id": 2,
+            "duplicate_btih": "9b8d7a794a5527115f38e07df3c50555668300d3",
+            "duplicate_2_0": "[limetorrents.cc]Westworld.S02E05.720p.WEB.H264-DEFLATE.[rarbg]",
+            "duplicate_2_1": "Westworld.S02E05.720p.WEB.H264-DEFLATE[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 3,
+            "duplicate_btih": "cbc113d7b5805acd30dc59d0c30bd5a98cb9abb3",
+            "duplicate_3_0": "[limetorrents.cc]Westworld.S02E05.Akane.No.Mai.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb",
+            "duplicate_3_1": "Westworld.S02E05.Akane.No.Mai.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 4,
+            "duplicate_btih": "1baa2482e2bf82180771c416121040f22c8d4570",
+            "duplicate_4_0": "[limetorrents.cc]Westworld.S02E05.Akane.No.Mai.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb",
+            "duplicate_4_1": "Westworld.S02E05.Akane.No.Mai.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 5,
+            "duplicate_btih": "81ef350e31ee08c2bf84e86afbeff282904472f9",
+            "duplicate_5_0": "[limetorrents.cc]Westworld.S02E05.Akane.No.Mai.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.EZTV",
+            "duplicate_5_1": "Westworld.S02E05.Akane.No.Mai.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[eztv].mkv"
+        },
+        {
+            "duplicate_id": 6,
+            "duplicate_btih": "3ecedfc9c737ccdf6349e9b795ed88b1ee797846",
+            "duplicate_6_0": "[limetorrents.cc]Westworld.S02E05.WEB.H264-DEFLATE.EZTV",
+            "duplicate_6_1": "Westworld.S02E05.WEB.H264-DEFLATE[eztv].mkv"
+        },
+        {
+            "duplicate_id": 7,
+            "duplicate_btih": "1e05d48bbe95f80599a38f728de57e5788b076a8",
+            "duplicate_7_0": "[limetorrents.cc]Westworld.S02E05.WEBRip.x264-RARBG",
+            "duplicate_7_1": "Westworld.S02E05.WEBRip.x264-ION10-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 8,
+            "duplicate_btih": "6e0111f6ec3821be5eec8b55c17c0f723035d5b2",
+            "duplicate_8_0": "[rutor.is]Westworld._Sezon_2._WEB-DL_l_400p_l_JASKiER",
+            "duplicate_8_1": "Мир Дикого запада Westworld Сезон 2 Эпизод 1-5 из 10 (Ричард Дж. Льюис, Винченцо Натали, Джонатан Нолан) [2018, США, фантас [rutracker-55543-1"
+        },
+        {
+            "duplicate_id": 9,
+            "duplicate_btih": "535e733e11405cd8b5142eff68028a0f58b3914c",
+            "duplicate_9_0": "[rutor.is]Westworld._Sezon_2._WEB-DL_l_720p_l_JASKiER",
+            "duplicate_9_1": "Мир Дикого запада Westworld Сезон 2 Эпизод 1-5 из 10 (Ричард Дж. Льюис, Винченцо Натали, Джонатан Нолан) [2018, США, фантас [rutracker-55543"
+        },
+        {
+            "duplicate_id": 10,
+            "duplicate_btih": "77eb8377260bda7c3a3c43908d69ab15e513a7b2",
+            "duplicate_10_0": "[rutor.is]Westworld_2_1080p_WEB-DL",
+            "duplicate_10_1": "Мир Дикого запада Westworld Сезон 2 Серии 1-5 из 10 (Джонатан Нолан, Джонни Кэмпбелл, Ричард Дж. Льюис) [2018, США, фантас [rutracker-5554112"
+        },
+        {
+            "duplicate_id": 11,
+            "duplicate_btih": "68659bb5def4b1851a8013d1914ea613892be873",
+            "duplicate_11_0": "[rutor.is]Westworld_Season_02",
+            "duplicate_11_1": "Мир Дикого запада Westworld Сезон 2 Серии 1-5 из 10 (Джонатан Нолан, Джонни Кэмпбелл, Ричард Дж. Льюис) [2018, США, фантас [rutracker-5553510"
+        },
+        {
+            "duplicate_id": 12,
+            "duplicate_btih": "6cb15e528db5dc6efd9d1e3368f4ea73febe17f3",
+            "duplicate_12_0": "[rutor.is]Westworld_Season_02_AVC",
+            "duplicate_12_1": "Мир Дикого запада Westworld Сезон 2 Серии 1-5 из 10 (Джонатан Нолан, Джонни Кэмпбелл, Ричард Дж. Льюис) [2018, США, фантас [rutracker-5557300"
+        },
+        {
+            "duplicate_id": 13,
+            "duplicate_btih": "26a37847a17630c6efe8d6cd7265f4fdaf0ba2bd",
+            "duplicate_13_0": "[rutor.is]Westworld_s02_1080p_Amedia",
+            "duplicate_13_1": "Мир Дикого запада Westworld Сезон 2 Серии 1-5 (10) (Ричард Дж. Льюис, Винченцо Натали, Джонатан Нолан) [2018, США, фантаст [rutracker-5552364]"
+        },
+        {
+            "duplicate_id": 14,
+            "duplicate_btih": "01329e0cf44c925b9171bea4ead285fa4cc4b1dd",
+            "duplicate_14_0": "[rutor.is]Westworld_s02_720p_Amedia",
+            "duplicate_14_1": "Мир Дикого запада Westworld Сезон 2 Серии 1-5 (10) (Ричард Дж. Льюис, Винченцо Натали, Джонатан Нолан) [2018, США, фантаст [rutracker-5552426]"
+        }
+    ],
+    "collection_btiha_metadata": [
+        {
+            "id": 1,
+            "name": "[limetorrents.cc]Westworld.2x05..720p-WEBRip-x264-DEFLATE.[VTV]",
+            "size_total": 1.937934121,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.937934121,
+                    "path": "Westworld.S02E05.720p.WEB.H264-DEFLATE.[VTV].mkv"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "[limetorrents.cc]Westworld.S02.EP05.HDTV.1080p.x264.[ExYu-Subs]",
+            "size_total": 1.069203138,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000142514,
+                    "path": "Westworld.S02.EP05.HDTV.1080p.x264.[ExYu-Subs]/exyu-subs.jpg"
+                },
+                {
+                    "number": 2,
+                    "size": 2.09e-7,
+                    "path": "Westworld.S02.EP05.HDTV.1080p.x264.[ExYu-Subs]/Read Me.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 1.069060415,
+                    "path": "Westworld.S02.EP05.HDTV.1080p.x264.[ExYu-Subs]/Westworld.S02.EP05.HDTV.1080p.x264.[ExYu-Subs].mp4"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "[limetorrents.cc]Westworld.S02E04.1080p.10bit.AMZN.WEB-DL.6CH.x265.HEVC-samz2",
+            "size_total": 1.224741067,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.224741067,
+                    "path": "Westworld S02E04 - The Riddle of the Sphinx.mkv"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "[limetorrents.cc]Westworld.S02E05.1080p.WEB.H264-DEFLATE.[rarbg]",
+            "size_total": 5.954670766,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Westworld.S02E05.1080p.WEB.H264-DEFLATE[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 5.954670287,
+                    "path": "Westworld.S02E05.1080p.WEB.H264-DEFLATE[rarbg]/Westworld.S02E05.1080p.WEB.H264-DEFLATE.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 4.49e-7,
+                    "path": "Westworld.S02E05.1080p.WEB.H264-DEFLATE[rarbg]/westworld.s02e05.1080p.web.h264-deflate.nfo"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "[limetorrents.cc]Westworld.S02E05.480p.244mb.HDwebrip.x264-][.Akane.No.Mai.]mp4",
+            "size_total": 0.256023086,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.256023086,
+                    "path": "Westworld.S02E05.480p.244mb.HDwebrip.x264-][ Akane No Mai ][ 21-May-2018 ].mp4"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "[limetorrents.cc]Westworld.S02E05.480p.x264-mSD[TGx]",
+            "size_total": 0.214811949,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000272443,
+                    "path": "Westworld.S02E05.480p.x264-mSD[TGx]/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000137425,
+                    "path": "Westworld.S02E05.480p.x264-mSD[TGx]/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000298689,
+                    "path": "Westworld.S02E05.480p.x264-mSD[TGx]/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000142884,
+                    "path": "Westworld.S02E05.480p.x264-mSD[TGx]/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.213959117,
+                    "path": "Westworld.S02E05.480p.x264-mSD[TGx]/Westworld.S02E05.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001174,
+                    "path": "Westworld.S02E05.480p.x264-mSD[TGx]/Westworld.S02E05.480p.x264-mSD.nfo"
+                },
+                {
+                    "number": 7,
+                    "size": 2.17e-7,
+                    "path": "Westworld.S02E05.480p.x264-mSD[TGx]/[TGx]Downloaded_from_torrentgalaxy.org_.txt"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "[limetorrents.cc]Westworld.S02E05.720p.WEB.H264-DEFLATE.[rarbg]",
+            "size_total": 1.937934585,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Westworld.S02E05.720p.WEB.H264-DEFLATE[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.937934121,
+                    "path": "Westworld.S02E05.720p.WEB.H264-DEFLATE[rarbg]/Westworld.S02E05.720p.WEB.H264-DEFLATE.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 4.34e-7,
+                    "path": "Westworld.S02E05.720p.WEB.H264-DEFLATE[rarbg]/westworld.s02e05.720p.web.h264-deflate.nfo"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "[limetorrents.cc]Westworld.S02E05.720p.WEB.H264-DEFLATE.EZTV",
+            "size_total": 1.937934121,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.937934121,
+                    "path": "Westworld.S02E05.720p.WEB.H264-DEFLATE[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "[limetorrents.cc]Westworld.S02E05.720p.WEB.H264-DEFLATE[ettv]",
+            "size_total": 1.9379343,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.79e-7,
+                    "path": "Westworld.S02E05.720p.WEB.H264-DEFLATE[ettv]/Downloaded from www.ETTV.tv .txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.937934121,
+                    "path": "Westworld.S02E05.720p.WEB.H264-DEFLATE[ettv]/Westworld.S02E05.720p.WEB.H264-DEFLATE[ettv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "[limetorrents.cc]Westworld.S02E05.720p.WEB.H264-DEFLATE[N1C]",
+            "size_total": 1.937934568,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.937934121,
+                    "path": "Westworld.S02E05.720p.WEB.H264-DEFLATE[N1C]/Westworld.S02E05.720p.WEB.H264-DEFLATE[N1C].mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 4.47e-7,
+                    "path": "Westworld.S02E05.720p.WEB.H264-DEFLATE[N1C]/westworld.s02e05.720p.web.h264-deflate.nfo"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "[limetorrents.cc]Westworld.S02E05.720p.WEB.H264-DEFLATE[TGx]",
+            "size_total": 1.937934772,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.937934121,
+                    "path": "Westworld.S02E05.720p.WEB.H264-DEFLATE[TGx]/Westworld.S02E05.720p.WEB.H264-DEFLATE.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 2.17e-7,
+                    "path": "Westworld.S02E05.720p.WEB.H264-DEFLATE[TGx]/[TGx]Downloaded_from_torrentgalaxy.org_.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 4.34e-7,
+                    "path": "Westworld.S02E05.720p.WEB.H264-DEFLATE[TGx]/westworld.s02e05.720p.web.h264-deflate.nfo"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "[limetorrents.cc]Westworld.S02E05.720p.WEB.x264-worldmkv",
+            "size_total": 0.467930117,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.467930117,
+                    "path": "Westworld.S02E05.720p.WEB.x264-worldmkv.mkv"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "[limetorrents.cc]Westworld.S02E05.720p.WEB.x264.[470MB].[MP4]",
+            "size_total": 0.492024984,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.492024404,
+                    "path": "[TorrentCouch.com].Westworld.S02E05.720p.WEB.x264.[470MB].[MP4]/[TorrentCouch.com].Westworld.S02E05.720p.WEB.x264.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 2e-7,
+                    "path": "[TorrentCouch.com].Westworld.S02E05.720p.WEB.x264.[470MB].[MP4]/Download HD & BluRay Movies from TorrentCounter.to .txt"
+                },
+                {
+                    "number": 3,
+                    "size": 1.9e-7,
+                    "path": "[TorrentCouch.com].Westworld.S02E05.720p.WEB.x264.[470MB].[MP4]/Download Subs from SubtitlesCouch.com.txt"
+                },
+                {
+                    "number": 4,
+                    "size": 1.9e-7,
+                    "path": "[TorrentCouch.com].Westworld.S02E05.720p.WEB.x264.[470MB].[MP4]/Download Daily Updated TV Shows from TorrentCouch.com.txt"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "[limetorrents.cc]Westworld.S02E05.720p.WEBRip.HEVC.x265-RMTeam..309MB.",
+            "size_total": 0.308705527,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.30869495,
+                    "path": "Westworld S02E05 720p WEBRip HEVC x265-RMTeam (309MB)/westworld.s02e05.akane.no.mai.720p.webrip.hevc.x265.rmteam.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000010518,
+                    "path": "Westworld S02E05 720p WEBRip HEVC x265-RMTeam (309MB)/www.DEMONOID.pw.png"
+                },
+                {
+                    "number": 3,
+                    "size": 5.9e-8,
+                    "path": "Westworld S02E05 720p WEBRip HEVC x265-RMTeam (309MB)/Torrent_downloaded_from_Demonoid_-_www.demonoid.pw_.txt"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "[limetorrents.cc]Westworld.S02E05.Akane.No.Mai.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb",
+            "size_total": 6.0246948,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Westworld.S02E05.Akane.No.Mai.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 6.02469477,
+                    "path": "Westworld.S02E05.Akane.No.Mai.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/Westworld.S02E05.Akane.No.Mai.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "[limetorrents.cc]Westworld.S02E05.Akane.No.Mai.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[TGx]",
+            "size_total": 6.024694987,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 6.02469477,
+                    "path": "Westworld.S02E05.Akane.No.Mai.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[TGx]/Westworld.S02E05.Akane.No.Mai.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 2.17e-7,
+                    "path": "Westworld.S02E05.Akane.No.Mai.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[TGx]/[TGx]Downloaded_from_torrentgalaxy.org_.txt"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "[limetorrents.cc]Westworld.S02E05.Akane.No.Mai.720p.AMZN.WEB-DL.500MB.[MOVCR].1..mkv",
+            "size_total": 0.526303189,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.526303189,
+                    "path": "[www.Movcr.com]Westworld.S02E05.Akane.No.Mai.720p.AMZN.WEB-DL.500MB [MOVCR](1).mkv"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": "[limetorrents.cc]Westworld.S02E05.Akane.No.Mai.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.EZTV",
+            "size_total": 1.962319231,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.962319231,
+                    "path": "Westworld.S02E05.Akane.No.Mai.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "name": "[limetorrents.cc]Westworld.S02E05.Akane.No.Mai.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb",
+            "size_total": 1.962319261,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Westworld.S02E05.Akane.No.Mai.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.962319231,
+                    "path": "Westworld.S02E05.Akane.No.Mai.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/Westworld.S02E05.Akane.No.Mai.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "name": "[limetorrents.cc]Westworld.S02E05.Akane.No.Mai.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[N",
+            "size_total": 1.96232057,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000001339,
+                    "path": "Westworld.S02E05.Akane.No.Mai.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[N1C]/Westworld.S02E05.Akane.No.Mai.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 1.962319231,
+                    "path": "Westworld.S02E05.Akane.No.Mai.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[N1C]/Westworld.S02E05.Akane.No.Mai.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[N1C].mkv"
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "name": "[limetorrents.cc]Westworld.S02E05.Akane.No.Mai.720p.AMZN.WEBRip.DDP5.1.x264-NTb[TG",
+            "size_total": 1.962319448,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.962319231,
+                    "path": "Westworld.S02E05.Akane.No.Mai.720p.AMZN.WEBRip.DDP5.1.x264-NTb[TGx]/Westworld.S02E05.Akane.No.Mai.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 2.17e-7,
+                    "path": "Westworld.S02E05.Akane.No.Mai.720p.AMZN.WEBRip.DDP5.1.x264-NTb[TGx]/[TGx]Downloaded_from_torrentgalaxy.org_.txt"
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "name": "[limetorrents.cc]Westworld.S02E05.Akane.No.Mai.WEB.XviD-AVID[TGx]",
+            "size_total": 0.663636225,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.663636008,
+                    "path": "Westworld.S02E05.Akane.No.Mai.WEB.XviD-AVID[TGx]/Westworld.S02E05.Akane.No.Mai.WEB.XviD-AVID.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 2.17e-7,
+                    "path": "Westworld.S02E05.Akane.No.Mai.WEB.XviD-AVID[TGx]/[TGx]Downloaded_from_torrentgalaxy.org_.txt"
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "name": "[limetorrents.cc]Westworld.S02E05.WEB.H264-DEFLATE.EZTV",
+            "size_total": 0.376334099,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.376334099,
+                    "path": "Westworld.S02E05.WEB.H264-DEFLATE[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "name": "[limetorrents.cc]Westworld.S02E05.WEB.H264-DEFLATE[ettv]",
+            "size_total": 0.376334292,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.93e-7,
+                    "path": "Westworld.S02E05.WEB.H264-DEFLATE[ettv]/Downloaded from www.ETTV.tv .txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.376334099,
+                    "path": "Westworld.S02E05.WEB.H264-DEFLATE[ettv]/Westworld.S02E05.WEB.H264-DEFLATE[ettv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "name": "[limetorrents.cc]Westworld.S02E05.WEB.H264-DEFLATE[N1C]",
+            "size_total": 0.376334527,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.376334099,
+                    "path": "Westworld.S02E05.WEB.H264-DEFLATE[N1C]/Westworld.S02E05.WEB.H264-DEFLATE[N1C].mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 4.28e-7,
+                    "path": "Westworld.S02E05.WEB.H264-DEFLATE[N1C]/westworld.s02e05.web.h264-deflate.nfo"
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "name": "[limetorrents.cc]Westworld.S02E05.WEB.H264-DEFLATE[TGx]",
+            "size_total": 0.376334731,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.376334099,
+                    "path": "Westworld.S02E05.WEB.H264-DEFLATE[TGx]/Westworld.S02E05.WEB.H264-DEFLATE.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 2.17e-7,
+                    "path": "Westworld.S02E05.WEB.H264-DEFLATE[TGx]/[TGx]Downloaded_from_torrentgalaxy.org_.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 4.15e-7,
+                    "path": "Westworld.S02E05.WEB.H264-DEFLATE[TGx]/westworld.s02e05.web.h264-deflate.nfo"
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "name": "[limetorrents.cc]Westworld.S02E05.WEBRip.x264-ION10[TGx]",
+            "size_total": 0.608407397,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000022588,
+                    "path": "Westworld.S02E05.WEBRip.x264-ION10[TGx]/Subs/2_Eng.srt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000030426,
+                    "path": "Westworld.S02E05.WEBRip.x264-ION10[TGx]/Subs/3_Eng.srt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.608354166,
+                    "path": "Westworld.S02E05.WEBRip.x264-ION10[TGx]/Westworld.S02E05.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 4,
+                    "size": 2.17e-7,
+                    "path": "Westworld.S02E05.WEBRip.x264-ION10[TGx]/[TGx]Downloaded_from_torrentgalaxy.org_.txt"
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "name": "[limetorrents.cc]Westworld.S02E05.WEBRip.x264-RARBG",
+            "size_total": 0.60840721,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Westworld.S02E05.WEBRip.x264-ION10/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000022588,
+                    "path": "Westworld.S02E05.WEBRip.x264-ION10/Subs/2_Eng.srt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000030426,
+                    "path": "Westworld.S02E05.WEBRip.x264-ION10/Subs/3_Eng.srt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.608354166,
+                    "path": "Westworld.S02E05.WEBRip.x264-ION10/Westworld.S02E05.WEBRip.x264-ION10.mp4"
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "name": "[rutor.is]Mir_Dikogo_Zapada_2_sezon_Am_720p_scarabey.org",
+            "size_total": 13.969738145,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.828039937,
+                    "path": "Мир Дикого Запада_2_сезон_Am_720p_[scarabey.org]/Westworld.S02E04_720p_[scarabey.org].mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 2.921429033,
+                    "path": "Мир Дикого Запада_2_сезон_Am_720p_[scarabey.org]/Westworld.S02E01_720p_[scarabey.org].mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 2.458115597,
+                    "path": "Мир Дикого Запада_2_сезон_Am_720p_[scarabey.org]/Westworld.S02E05_720p_[scarabey.org].mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 2.400342797,
+                    "path": "Мир Дикого Запада_2_сезон_Am_720p_[scarabey.org]/Westworld.S02E03_720p_[scarabey.org].mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 2.361810781,
+                    "path": "Мир Дикого Запада_2_сезон_Am_720p_[scarabey.org]/Westworld.S02E02_720p_[scarabey.org].mkv"
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "name": "[rutor.is]Mir_Dikogo_Zapada_2_sezon_Am_scarabey.org",
+            "size_total": 2.353840128,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.524761088,
+                    "path": "Мир Дикого Запада_2_сезон_Am_[scarabey.org]/Westworld.S02E01_[scarabey.org].avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.509227008,
+                    "path": "Мир Дикого Запада_2_сезон_Am_[scarabey.org]/Westworld.S02E03_[scarabey.org].avi"
+                },
+                {
+                    "number": 3,
+                    "size": 0.506322944,
+                    "path": "Мир Дикого Запада_2_сезон_Am_[scarabey.org]/Westworld.S02E04_[scarabey.org].avi"
+                },
+                {
+                    "number": 4,
+                    "size": 0.418981888,
+                    "path": "Мир Дикого Запада_2_сезон_Am_[scarabey.org]/Westworld.S02E02_[scarabey.org].avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.3945472,
+                    "path": "Мир Дикого Запада_2_сезон_Am_[scarabey.org]/Westworld.S02E05_[scarabey.org].avi"
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "name": "[rutor.is]Westworld._Sezon_2._WEB-DL_l_400p_l_JASKiER",
+            "size_total": 4.10877952,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.93499392,
+                    "path": "Westworld. Сезон 2. (WEB-DL l 400p l JASKiER)/Westworld.S02E01.400p. JASKiER.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.746545152,
+                    "path": "Westworld. Сезон 2. (WEB-DL l 400p l JASKiER)/Westworld.S02E02.400p. JASKiER.avi"
+                },
+                {
+                    "number": 3,
+                    "size": 0.747743232,
+                    "path": "Westworld. Сезон 2. (WEB-DL l 400p l JASKiER)/Westworld.S02E03.400p. JASKiER.avi"
+                },
+                {
+                    "number": 4,
+                    "size": 0.91529216,
+                    "path": "Westworld. Сезон 2. (WEB-DL l 400p l JASKiER)/Westworld.S02E04.400p. JASKiER.avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.764205056,
+                    "path": "Westworld. Сезон 2. (WEB-DL l 400p l JASKiER)/Westworld.S02E05.400p. JASKiER.avi"
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "name": "[rutor.is]Westworld._Sezon_2._WEB-DL_l_720p_l_JASKiER",
+            "size_total": 10.177249054,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.172538151,
+                    "path": "Westworld. Сезон 2. (WEB-DL l 720p l JASKiER)/Westworld.S02E01.720p. JASKiER.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.57491895,
+                    "path": "Westworld. Сезон 2. (WEB-DL l 720p l JASKiER)/Westworld.S02E02.720p. JASKiER.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.860211743,
+                    "path": "Westworld. Сезон 2. (WEB-DL l 720p l JASKiER)/Westworld.S02E03.720p. JASKiER.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 2.548619504,
+                    "path": "Westworld. Сезон 2. (WEB-DL l 720p l JASKiER)/Westworld.S02E04.720p. JASKiER.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 2.020960706,
+                    "path": "Westworld. Сезон 2. (WEB-DL l 720p l JASKiER)/Westworld.S02E05.720p. JASKiER.mkv"
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "name": "[rutor.is]Westworld.S02.1080p.GostFilm",
+            "size_total": 29.702733432,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 4.88524961,
+                    "path": "Westworld.S02.1080p.GostFilm/Westworld.S02E02.1080p.GostFilm.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 5.464823192,
+                    "path": "Westworld.S02.1080p.GostFilm/Westworld.S02E03.1080p.GostFilm.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 6.041128435,
+                    "path": "Westworld.S02.1080p.GostFilm/Westworld.S02E05.1080p.GostFilm.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 6.114701759,
+                    "path": "Westworld.S02.1080p.GostFilm/Westworld.S02E01.1080p.GostFilm.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 7.196830436,
+                    "path": "Westworld.S02.1080p.GostFilm/Westworld.S02E04.1080p.GostFilm.mkv"
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "name": "[rutor.is]Westworld.S02.400p.GostFilm",
+            "size_total": 4.217893932,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.690814642,
+                    "path": "Westworld.S02.400p.GostFilm/Westworld.S02E02.400p.GostFilm.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.800223842,
+                    "path": "Westworld.S02.400p.GostFilm/Westworld.S02E05.400p.GostFilm.avi"
+                },
+                {
+                    "number": 3,
+                    "size": 0.81046907,
+                    "path": "Westworld.S02.400p.GostFilm/Westworld.S02E03.400p.GostFilm.avi"
+                },
+                {
+                    "number": 4,
+                    "size": 0.926025316,
+                    "path": "Westworld.S02.400p.GostFilm/Westworld.S02E01.400p.GostFilm.avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.990361062,
+                    "path": "Westworld.S02.400p.GostFilm/Westworld.S02E04.400p.GostFilm.avi"
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "name": "[rutor.is]Westworld.S02.720p.GostFilm",
+            "size_total": 10.087451167,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.556881538,
+                    "path": "Westworld.S02.720p.GostFilm/Westworld.S02E02.720p.GostFilm.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.840684348,
+                    "path": "Westworld.S02.720p.GostFilm/Westworld.S02E03.720p.GostFilm.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 2.024384581,
+                    "path": "Westworld.S02.720p.GostFilm/Westworld.S02E05.720p.GostFilm.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 2.1476250120000002,
+                    "path": "Westworld.S02.720p.GostFilm/Westworld.S02E01.720p.GostFilm.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 2.517875688,
+                    "path": "Westworld.S02.720p.GostFilm/Westworld.S02E04.720p.GostFilm.mkv"
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "name": "[rutor.is]Westworld.S02.WEBRip.1080p",
+            "size_total": 18.948850958,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 4.303036952,
+                    "path": "Westworld.S02.WEBRip.1080p/Westworld.S02E01.WEBRip.1080p-IdeaFilm.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3.427006664,
+                    "path": "Westworld.S02.WEBRip.1080p/Westworld.S02E02.WEBRip.1080p-IdeaFilm.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 3.454328861,
+                    "path": "Westworld.S02.WEBRip.1080p/Westworld.S02E03.WEBRip.1080p-IdeaFilm.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 4.234848304,
+                    "path": "Westworld.S02.WEBRip.1080p/Westworld.S02E04.WEBRip.1080p-IdeaFilm.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 3.529630177,
+                    "path": "Westworld.S02.WEBRip.1080p/Westworld.S02E05.WEBRip.1080p-IdeaFilm.mkv"
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "name": "[rutor.is]Westworld.S02.WEBRip.720p",
+            "size_total": 13.019137346,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.962450153,
+                    "path": "Westworld.S02.WEBRip.720p/Westworld.S02E01.WEBRip.720p-IdeaFilm.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 2.367903781,
+                    "path": "Westworld.S02.WEBRip.720p/Westworld.S02E02.WEBRip.720p-IdeaFilm.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 2.366123555,
+                    "path": "Westworld.S02.WEBRip.720p/Westworld.S02E03.WEBRip.720p-IdeaFilm.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 2.90010197,
+                    "path": "Westworld.S02.WEBRip.720p/Westworld.S02E04.WEBRip.720p-IdeaFilm.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 2.422557887,
+                    "path": "Westworld.S02.WEBRip.720p/Westworld.S02E05.WEBRip.720p-IdeaFilm.mkv"
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "name": "[rutor.is]Westworld.S02.WEBRip",
+            "size_total": 4.703936512,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.069164544,
+                    "path": "Westworld.S02.WEBRip/Westworld.S02E01.WEBRip-IDEAFILM.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.855515136,
+                    "path": "Westworld.S02.WEBRip/Westworld.S02E02.WEBRip-IDEAFILM.avi"
+                },
+                {
+                    "number": 3,
+                    "size": 0.856889344,
+                    "path": "Westworld.S02.WEBRip/Westworld.S02E03.WEBRip-IDEAFILM.avi"
+                },
+                {
+                    "number": 4,
+                    "size": 1.046802432,
+                    "path": "Westworld.S02.WEBRip/Westworld.S02E04.WEBRip-IDEAFILM.avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.875565056,
+                    "path": "Westworld.S02.WEBRip/Westworld.S02E05.WEBRip-IDEAFILM.avi"
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "name": "[rutor.is]Westworld_2_1080p_WEB-DL",
+            "size_total": 29.959919607,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 7.321682394,
+                    "path": "Westworld 2 1080p WEB-DL/Westworld 2x04 The Riddle of the Sphinx 1080p WEB-DL.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 6.072748652,
+                    "path": "Westworld 2 1080p WEB-DL/Westworld 2x05 Akane No Mai 1080p WEB-DL.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 5.971406939,
+                    "path": "Westworld 2 1080p WEB-DL/Westworld 2x01 Journey into Night 1080p WEB-DL.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 5.591629233,
+                    "path": "Westworld 2 1080p WEB-DL/Westworld 2x03 Virtu e Fortuna 1080p WEB-DL.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 5.002452389,
+                    "path": "Westworld 2 1080p WEB-DL/Westworld 2x02 Reunion 1080p WEB-DL.mkv"
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "name": "[rutor.is]Westworld_s02_1080p_Amedia",
+            "size_total": 30.150599264,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 6.222451901,
+                    "path": "Westworld.2016.S02.1080p.AMZN.WEB-DL.H264/Westworld.S02E01.1080p.AMZN.WEB-DL.H264.RUS.SRT.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 4.9569449,
+                    "path": "Westworld.2016.S02.1080p.AMZN.WEB-DL.H264/Westworld.S02E02.1080p.AMZN.WEB-DL.H264.RUS.SRT.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 5.544464123,
+                    "path": "Westworld.2016.S02.1080p.AMZN.WEB-DL.H264/Westworld.S02E03.1080p.AMZN.WEB-DL.H264.RUS.SRT.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 7.314001825,
+                    "path": "Westworld.2016.S02.1080p.AMZN.WEB-DL.H264/Westworld.S02E04.1080p.AMZN.WEB-DL.H264.RUS.SRT.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 6.112736515,
+                    "path": "Westworld.2016.S02.1080p.AMZN.WEB-DL.H264/Westworld.S02E05.1080p.AMZN.WEB-DL.H264.RUS.SRT.mkv"
+                }
+            ]
+        },
+        {
+            "id": 41,
+            "name": "[rutor.is]Westworld_s02_720p_Amedia",
+            "size_total": 10.442946299,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.316083316,
+                    "path": "Westworld.2016.S02.720p.AMZN.WEB-DL.H264/Westworld.S02E01.720p.AMZN.WEB-DL.H264.RUS.SRT.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.603684244,
+                    "path": "Westworld.2016.S02.720p.AMZN.WEB-DL.H264/Westworld.S02E02.720p.AMZN.WEB-DL.H264.RUS.SRT.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.889017342,
+                    "path": "Westworld.2016.S02.720p.AMZN.WEB-DL.H264/Westworld.S02E03.720p.AMZN.WEB-DL.H264.RUS.SRT.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 2.583808519,
+                    "path": "Westworld.2016.S02.720p.AMZN.WEB-DL.H264/Westworld.S02E04.720p.AMZN.WEB-DL.H264.RUS.SRT.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 2.050352878,
+                    "path": "Westworld.2016.S02.720p.AMZN.WEB-DL.H264/Westworld.S02E05.720p.AMZN.WEB-DL.H264.RUS.SRT.mkv"
+                }
+            ]
+        },
+        {
+            "id": 42,
+            "name": "[rutor.is]Westworld_Season_02",
+            "size_total": 5.635110773,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.246328832,
+                    "path": "Westworld (Season 02)/Westworld.S02E01.DUB.DD5.1.MegaPeer.(qqss44).avi"
+                },
+                {
+                    "number": 2,
+                    "size": 1.049810944,
+                    "path": "Westworld (Season 02)/Westworld.S02E02.DUB.DD5.1.MegaPeer.(qqss44).avi"
+                },
+                {
+                    "number": 3,
+                    "size": 1.038317568,
+                    "path": "Westworld (Season 02)/Westworld.S02E03.DUB.DD5.1.MegaPeer.(qqss44).avi"
+                },
+                {
+                    "number": 4,
+                    "size": 1.25088768,
+                    "path": "Westworld (Season 02)/Westworld.S02E04.DUB.DD5.1.MegaPeer.(qqss44).avi"
+                },
+                {
+                    "number": 5,
+                    "size": 3.97e-7,
+                    "path": "Westworld (Season 02)/Westworld.S02E04.DUB.DD5.1.MegaPeer.(qqss44).FORCED.srt"
+                },
+                {
+                    "number": 6,
+                    "size": 1.049749504,
+                    "path": "Westworld (Season 02)/Westworld.S02E05.DUB.DD5.1.MegaPeer.(qqss44).avi"
+                },
+                {
+                    "number": 7,
+                    "size": 0.000015848,
+                    "path": "Westworld (Season 02)/Westworld.S02E05.DUB.DD5.1.MegaPeer.(qqss44).FORCED.srt"
+                }
+            ]
+        },
+        {
+            "id": 43,
+            "name": "[rutor.is]Westworld_Season_02_AVC",
+            "size_total": 6.628321387,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.47001659,
+                    "path": "Westworld (Season 02) AVC/Westworld.S02E01.DUB.DD5.1.MegaPeer.(qqss44).mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.22047506,
+                    "path": "Westworld (Season 02) AVC/Westworld.S02E02.DUB.DD5.1.MegaPeer.(qqss44).mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.224551834,
+                    "path": "Westworld (Season 02) AVC/Westworld.S02E03.DUB.DD5.1.MegaPeer.(qqss44).mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.47512234,
+                    "path": "Westworld (Season 02) AVC/Westworld.S02E04.DUB.DD5.1.MegaPeer.(qqss44).mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 1.238155563,
+                    "path": "Westworld (Season 02) AVC/Westworld.S02E05.DUB.DD5.1.MegaPeer.(qqss44).mkv"
+                }
+            ]
+        },
+        {
+            "id": 44,
+            "name": "Westworld.S02E05.1080p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 1.188661997,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.002323407,
+                    "path": "Westworld.S02E05.1080p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.00109471,
+                    "path": "Westworld.S02E05.1080p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00223394,
+                    "path": "Westworld.S02E05.1080p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001539183,
+                    "path": "Westworld.S02E05.1080p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 1.181469549,
+                    "path": "Westworld.S02E05.1080p.HEVC.x265-MeGusta/Westworld.S02E05.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001208,
+                    "path": "Westworld.S02E05.1080p.HEVC.x265-MeGusta/Westworld.S02E05.1080p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 45,
+            "name": "Westworld.S02E05.1080p.WEB.H264-DEFLATE [IPT]",
+            "size_total": 5.954681476,
+            "files_total": 62,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 4.49e-7,
+                    "path": "Westworld.S02E05.1080p.WEB.H264-DEFLATE/westworld.s02e05.1080p.web.h264-deflate.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.1,
+                    "path": "Westworld.S02E05.1080p.WEB.H264-DEFLATE/westworld.s02e05.1080p.web.h264-deflate.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.1,
+                    "path": "Westworld.S02E05.1080p.WEB.H264-DEFLATE/westworld.s02e05.1080p.web.h264-deflate.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.1,
+                    "path": "Westworld.S02E05.1080p.WEB.H264-DEFLATE/westworld.s02e05.1080p.web.h264-deflate.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.1,
+                    "path": "Westworld.S02E05.1080p.WEB.H264-DEFLATE/westworld.s02e05.1080p.web.h264-deflate.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.1,
+                    "path": "Westworld.S02E05.1080p.WEB.H264-DEFLATE/westworld.s02e05.1080p.web.h264-deflate.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.1,
+                    "path": "Westworld.S02E05.1080p.WEB.H264-DEFLATE/westworld.s02e05.1080p.web.h264-deflate.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.1,
+                    "path": "Westworld.S02E05.1080p.WEB.H264-DEFLATE/westworld.s02e05.1080p.web.h264-deflate.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.1,
+                    "path": "Westworld.S02E05.1080p.WEB.H264-DEFLATE/westworld.s02e05.1080p.web.h264-deflate.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.1,
+                    "path": "Westworld.S02E05.1080p.WEB.H264-DEFLATE/westworld.s02e05.1080p.web.h264-deflate.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.1,
+                    "path": "Westworld.S02E05.1080p.WEB.H264-DEFLATE/westworld.s02e05.1080p.web.h264-deflate.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.1,
+                    "path": "Westworld.S02E05.1080p.WEB.H264-DEFLATE/westworld.s02e05.1080p.web.h264-deflate.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.1,
+                    "path": "Westworld.S02E05.1080p.WEB.H264-DEFLATE/westworld.s02e05.1080p.web.h264-deflate.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.1,
+                    "path": "Westworld.S02E05.1080p.WEB.H264-DEFLATE/westworld.s02e05.1080p.web.h264-deflate.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.1,
+                    "path": "Westworld.S02E05.1080p.WEB.H264-DEFLATE/westworld.s02e05.1080p.web.h264-deflate.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.1,
+                    "path": "Westworld.S02E05.1080p.WEB.H264-DEFLATE/westworld.s02e05.1080p.web.h264-deflate.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.1,
+                    "path": "Westworld.S02E05.1080p.WEB.H264-DEFLATE/westworld.s02e05.1080p.web.h264-deflate.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.1,
+                    "path": "Westworld.S02E05.1080p.WEB.H264-DEFLATE/westworld.s02e05.1080p.web.h264-deflate.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.1,
+                    "path": "Westworld.S02E05.1080p.WEB.H264-DEFLATE/westworld.s02e05.1080p.web.h264-deflate.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.1,
+                    "path": "Westworld.S02E05.1080p.WEB.H264-DEFLATE/westworld.s02e05.1080p.web.h264-deflate.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.1,
+                    "path": "Westworld.S02E05.1080p.WEB.H264-DEFLATE/westworld.s02e05.1080p.web.h264-deflate.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.1,
+                    "path": "Westworld.S02E05.1080p.WEB.H264-DEFLATE/westworld.s02e05.1080p.web.h264-deflate.r20"
+                },
+                {
+                    "number": 23,
+                    "size": 0.1,
+                    "path": "Westworld.S02E05.1080p.WEB.H264-DEFLATE/westworld.s02e05.1080p.web.h264-deflate.r21"
+                },
+                {
+                    "number": 24,
+                    "size": 0.1,
+                    "path": "Westworld.S02E05.1080p.WEB.H264-DEFLATE/westworld.s02e05.1080p.web.h264-deflate.r22"
+                },
+                {
+                    "number": 25,
+                    "size": 0.1,
+                    "path": "Westworld.S02E05.1080p.WEB.H264-DEFLATE/westworld.s02e05.1080p.web.h264-deflate.r23"
+                },
+                {
+                    "number": 26,
+                    "size": 0.1,
+                    "path": "Westworld.S02E05.1080p.WEB.H264-DEFLATE/westworld.s02e05.1080p.web.h264-deflate.r24"
+                },
+                {
+                    "number": 27,
+                    "size": 0.1,
+                    "path": "Westworld.S02E05.1080p.WEB.H264-DEFLATE/westworld.s02e05.1080p.web.h264-deflate.r25"
+                },
+                {
+                    "number": 28,
+                    "size": 0.1,
+                    "path": "Westworld.S02E05.1080p.WEB.H264-DEFLATE/westworld.s02e05.1080p.web.h264-deflate.r26"
+                },
+                {
+                    "number": 29,
+                    "size": 0.1,
+                    "path": "Westworld.S02E05.1080p.WEB.H264-DEFLATE/westworld.s02e05.1080p.web.h264-deflate.r27"
+                },
+                {
+                    "number": 30,
+                    "size": 0.1,
+                    "path": "Westworld.S02E05.1080p.WEB.H264-DEFLATE/westworld.s02e05.1080p.web.h264-deflate.r28"
+                },
+                {
+                    "number": 31,
+                    "size": 0.1,
+                    "path": "Westworld.S02E05.1080p.WEB.H264-DEFLATE/westworld.s02e05.1080p.web.h264-deflate.r29"
+                },
+                {
+                    "number": 32,
+                    "size": 0.1,
+                    "path": "Westworld.S02E05.1080p.WEB.H264-DEFLATE/westworld.s02e05.1080p.web.h264-deflate.r30"
+                },
+                {
+                    "number": 33,
+                    "size": 0.1,
+                    "path": "Westworld.S02E05.1080p.WEB.H264-DEFLATE/westworld.s02e05.1080p.web.h264-deflate.r31"
+                },
+                {
+                    "number": 34,
+                    "size": 0.1,
+                    "path": "Westworld.S02E05.1080p.WEB.H264-DEFLATE/westworld.s02e05.1080p.web.h264-deflate.r32"
+                },
+                {
+                    "number": 35,
+                    "size": 0.1,
+                    "path": "Westworld.S02E05.1080p.WEB.H264-DEFLATE/westworld.s02e05.1080p.web.h264-deflate.r33"
+                },
+                {
+                    "number": 36,
+                    "size": 0.1,
+                    "path": "Westworld.S02E05.1080p.WEB.H264-DEFLATE/westworld.s02e05.1080p.web.h264-deflate.r34"
+                },
+                {
+                    "number": 37,
+                    "size": 0.1,
+                    "path": "Westworld.S02E05.1080p.WEB.H264-DEFLATE/westworld.s02e05.1080p.web.h264-deflate.r35"
+                },
+                {
+                    "number": 38,
+                    "size": 0.1,
+                    "path": "Westworld.S02E05.1080p.WEB.H264-DEFLATE/westworld.s02e05.1080p.web.h264-deflate.r36"
+                },
+                {
+                    "number": 39,
+                    "size": 0.1,
+                    "path": "Westworld.S02E05.1080p.WEB.H264-DEFLATE/westworld.s02e05.1080p.web.h264-deflate.r37"
+                },
+                {
+                    "number": 40,
+                    "size": 0.1,
+                    "path": "Westworld.S02E05.1080p.WEB.H264-DEFLATE/westworld.s02e05.1080p.web.h264-deflate.r38"
+                },
+                {
+                    "number": 41,
+                    "size": 0.1,
+                    "path": "Westworld.S02E05.1080p.WEB.H264-DEFLATE/westworld.s02e05.1080p.web.h264-deflate.r39"
+                },
+                {
+                    "number": 42,
+                    "size": 0.1,
+                    "path": "Westworld.S02E05.1080p.WEB.H264-DEFLATE/westworld.s02e05.1080p.web.h264-deflate.r40"
+                },
+                {
+                    "number": 43,
+                    "size": 0.1,
+                    "path": "Westworld.S02E05.1080p.WEB.H264-DEFLATE/westworld.s02e05.1080p.web.h264-deflate.r41"
+                },
+                {
+                    "number": 44,
+                    "size": 0.1,
+                    "path": "Westworld.S02E05.1080p.WEB.H264-DEFLATE/westworld.s02e05.1080p.web.h264-deflate.r42"
+                },
+                {
+                    "number": 45,
+                    "size": 0.1,
+                    "path": "Westworld.S02E05.1080p.WEB.H264-DEFLATE/westworld.s02e05.1080p.web.h264-deflate.r43"
+                },
+                {
+                    "number": 46,
+                    "size": 0.1,
+                    "path": "Westworld.S02E05.1080p.WEB.H264-DEFLATE/westworld.s02e05.1080p.web.h264-deflate.r44"
+                },
+                {
+                    "number": 47,
+                    "size": 0.1,
+                    "path": "Westworld.S02E05.1080p.WEB.H264-DEFLATE/westworld.s02e05.1080p.web.h264-deflate.r45"
+                },
+                {
+                    "number": 48,
+                    "size": 0.1,
+                    "path": "Westworld.S02E05.1080p.WEB.H264-DEFLATE/westworld.s02e05.1080p.web.h264-deflate.r46"
+                },
+                {
+                    "number": 49,
+                    "size": 0.1,
+                    "path": "Westworld.S02E05.1080p.WEB.H264-DEFLATE/westworld.s02e05.1080p.web.h264-deflate.r47"
+                },
+                {
+                    "number": 50,
+                    "size": 0.1,
+                    "path": "Westworld.S02E05.1080p.WEB.H264-DEFLATE/westworld.s02e05.1080p.web.h264-deflate.r48"
+                },
+                {
+                    "number": 51,
+                    "size": 0.1,
+                    "path": "Westworld.S02E05.1080p.WEB.H264-DEFLATE/westworld.s02e05.1080p.web.h264-deflate.r49"
+                },
+                {
+                    "number": 52,
+                    "size": 0.1,
+                    "path": "Westworld.S02E05.1080p.WEB.H264-DEFLATE/westworld.s02e05.1080p.web.h264-deflate.r50"
+                },
+                {
+                    "number": 53,
+                    "size": 0.1,
+                    "path": "Westworld.S02E05.1080p.WEB.H264-DEFLATE/westworld.s02e05.1080p.web.h264-deflate.r51"
+                },
+                {
+                    "number": 54,
+                    "size": 0.1,
+                    "path": "Westworld.S02E05.1080p.WEB.H264-DEFLATE/westworld.s02e05.1080p.web.h264-deflate.r52"
+                },
+                {
+                    "number": 55,
+                    "size": 0.1,
+                    "path": "Westworld.S02E05.1080p.WEB.H264-DEFLATE/westworld.s02e05.1080p.web.h264-deflate.r53"
+                },
+                {
+                    "number": 56,
+                    "size": 0.1,
+                    "path": "Westworld.S02E05.1080p.WEB.H264-DEFLATE/westworld.s02e05.1080p.web.h264-deflate.r54"
+                },
+                {
+                    "number": 57,
+                    "size": 0.1,
+                    "path": "Westworld.S02E05.1080p.WEB.H264-DEFLATE/westworld.s02e05.1080p.web.h264-deflate.r55"
+                },
+                {
+                    "number": 58,
+                    "size": 0.1,
+                    "path": "Westworld.S02E05.1080p.WEB.H264-DEFLATE/westworld.s02e05.1080p.web.h264-deflate.r56"
+                },
+                {
+                    "number": 59,
+                    "size": 0.1,
+                    "path": "Westworld.S02E05.1080p.WEB.H264-DEFLATE/westworld.s02e05.1080p.web.h264-deflate.r57"
+                },
+                {
+                    "number": 60,
+                    "size": 0.054677787,
+                    "path": "Westworld.S02E05.1080p.WEB.H264-DEFLATE/westworld.s02e05.1080p.web.h264-deflate.r58"
+                },
+                {
+                    "number": 61,
+                    "size": 0.1,
+                    "path": "Westworld.S02E05.1080p.WEB.H264-DEFLATE/westworld.s02e05.1080p.web.h264-deflate.rar"
+                },
+                {
+                    "number": 62,
+                    "size": 0.00000324,
+                    "path": "Westworld.S02E05.1080p.WEB.H264-DEFLATE/westworld.s02e05.1080p.web.h264-deflate.sfv"
+                }
+            ]
+        },
+        {
+            "id": 46,
+            "name": "Westworld.S02E05.1080p.WEB.H264-DEFLATE[rartv]-[rarbg.to]",
+            "size_total": 5.954670766,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Westworld.S02E05.1080p.WEB.H264-DEFLATE[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 5.954670287,
+                    "path": "Westworld.S02E05.1080p.WEB.H264-DEFLATE[rarbg]/Westworld.S02E05.1080p.WEB.H264-DEFLATE.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 4.49e-7,
+                    "path": "Westworld.S02E05.1080p.WEB.H264-DEFLATE[rarbg]/westworld.s02e05.1080p.web.h264-deflate.nfo"
+                }
+            ]
+        },
+        {
+            "id": 47,
+            "name": "Westworld.S02E05.480p.x264-mSD [IPT]",
+            "size_total": 0.214811732,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000272443,
+                    "path": "Westworld.S02E05.480p.x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000137425,
+                    "path": "Westworld.S02E05.480p.x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000298689,
+                    "path": "Westworld.S02E05.480p.x264-mSD/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000142884,
+                    "path": "Westworld.S02E05.480p.x264-mSD/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.213959117,
+                    "path": "Westworld.S02E05.480p.x264-mSD/Westworld.S02E05.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001174,
+                    "path": "Westworld.S02E05.480p.x264-mSD/Westworld.S02E05.480p.x264-mSD.nfo"
+                }
+            ]
+        },
+        {
+            "id": 48,
+            "name": "Westworld.S02E05.720p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.378068455,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000475844,
+                    "path": "Westworld.S02E05.720p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000537351,
+                    "path": "Westworld.S02E05.720p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000407758,
+                    "path": "Westworld.S02E05.720p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000853243,
+                    "path": "Westworld.S02E05.720p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.375793076,
+                    "path": "Westworld.S02E05.720p.HEVC.x265-MeGusta/Westworld.S02E05.720p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001183,
+                    "path": "Westworld.S02E05.720p.HEVC.x265-MeGusta/Westworld.S02E05.720p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 49,
+            "name": "Westworld.S02E05.720p.WEB.H264-DEFLATE [IPT]",
+            "size_total": 1.937941159,
+            "files_total": 41,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 4.47e-7,
+                    "path": "Westworld.S02E05.720p.WEB.H264-DEFLATE/westworld.s02e05.720p.web.h264-deflate.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.05,
+                    "path": "Westworld.S02E05.720p.WEB.H264-DEFLATE/westworld.s02e05.720p.web.h264-deflate.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.05,
+                    "path": "Westworld.S02E05.720p.WEB.H264-DEFLATE/westworld.s02e05.720p.web.h264-deflate.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.05,
+                    "path": "Westworld.S02E05.720p.WEB.H264-DEFLATE/westworld.s02e05.720p.web.h264-deflate.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.05,
+                    "path": "Westworld.S02E05.720p.WEB.H264-DEFLATE/westworld.s02e05.720p.web.h264-deflate.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.05,
+                    "path": "Westworld.S02E05.720p.WEB.H264-DEFLATE/westworld.s02e05.720p.web.h264-deflate.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.05,
+                    "path": "Westworld.S02E05.720p.WEB.H264-DEFLATE/westworld.s02e05.720p.web.h264-deflate.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.05,
+                    "path": "Westworld.S02E05.720p.WEB.H264-DEFLATE/westworld.s02e05.720p.web.h264-deflate.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.05,
+                    "path": "Westworld.S02E05.720p.WEB.H264-DEFLATE/westworld.s02e05.720p.web.h264-deflate.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.05,
+                    "path": "Westworld.S02E05.720p.WEB.H264-DEFLATE/westworld.s02e05.720p.web.h264-deflate.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.05,
+                    "path": "Westworld.S02E05.720p.WEB.H264-DEFLATE/westworld.s02e05.720p.web.h264-deflate.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.05,
+                    "path": "Westworld.S02E05.720p.WEB.H264-DEFLATE/westworld.s02e05.720p.web.h264-deflate.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.05,
+                    "path": "Westworld.S02E05.720p.WEB.H264-DEFLATE/westworld.s02e05.720p.web.h264-deflate.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.05,
+                    "path": "Westworld.S02E05.720p.WEB.H264-DEFLATE/westworld.s02e05.720p.web.h264-deflate.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.05,
+                    "path": "Westworld.S02E05.720p.WEB.H264-DEFLATE/westworld.s02e05.720p.web.h264-deflate.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.05,
+                    "path": "Westworld.S02E05.720p.WEB.H264-DEFLATE/westworld.s02e05.720p.web.h264-deflate.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.05,
+                    "path": "Westworld.S02E05.720p.WEB.H264-DEFLATE/westworld.s02e05.720p.web.h264-deflate.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.05,
+                    "path": "Westworld.S02E05.720p.WEB.H264-DEFLATE/westworld.s02e05.720p.web.h264-deflate.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.05,
+                    "path": "Westworld.S02E05.720p.WEB.H264-DEFLATE/westworld.s02e05.720p.web.h264-deflate.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.05,
+                    "path": "Westworld.S02E05.720p.WEB.H264-DEFLATE/westworld.s02e05.720p.web.h264-deflate.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.05,
+                    "path": "Westworld.S02E05.720p.WEB.H264-DEFLATE/westworld.s02e05.720p.web.h264-deflate.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.05,
+                    "path": "Westworld.S02E05.720p.WEB.H264-DEFLATE/westworld.s02e05.720p.web.h264-deflate.r20"
+                },
+                {
+                    "number": 23,
+                    "size": 0.05,
+                    "path": "Westworld.S02E05.720p.WEB.H264-DEFLATE/westworld.s02e05.720p.web.h264-deflate.r21"
+                },
+                {
+                    "number": 24,
+                    "size": 0.05,
+                    "path": "Westworld.S02E05.720p.WEB.H264-DEFLATE/westworld.s02e05.720p.web.h264-deflate.r22"
+                },
+                {
+                    "number": 25,
+                    "size": 0.05,
+                    "path": "Westworld.S02E05.720p.WEB.H264-DEFLATE/westworld.s02e05.720p.web.h264-deflate.r23"
+                },
+                {
+                    "number": 26,
+                    "size": 0.05,
+                    "path": "Westworld.S02E05.720p.WEB.H264-DEFLATE/westworld.s02e05.720p.web.h264-deflate.r24"
+                },
+                {
+                    "number": 27,
+                    "size": 0.05,
+                    "path": "Westworld.S02E05.720p.WEB.H264-DEFLATE/westworld.s02e05.720p.web.h264-deflate.r25"
+                },
+                {
+                    "number": 28,
+                    "size": 0.05,
+                    "path": "Westworld.S02E05.720p.WEB.H264-DEFLATE/westworld.s02e05.720p.web.h264-deflate.r26"
+                },
+                {
+                    "number": 29,
+                    "size": 0.05,
+                    "path": "Westworld.S02E05.720p.WEB.H264-DEFLATE/westworld.s02e05.720p.web.h264-deflate.r27"
+                },
+                {
+                    "number": 30,
+                    "size": 0.05,
+                    "path": "Westworld.S02E05.720p.WEB.H264-DEFLATE/westworld.s02e05.720p.web.h264-deflate.r28"
+                },
+                {
+                    "number": 31,
+                    "size": 0.05,
+                    "path": "Westworld.S02E05.720p.WEB.H264-DEFLATE/westworld.s02e05.720p.web.h264-deflate.r29"
+                },
+                {
+                    "number": 32,
+                    "size": 0.05,
+                    "path": "Westworld.S02E05.720p.WEB.H264-DEFLATE/westworld.s02e05.720p.web.h264-deflate.r30"
+                },
+                {
+                    "number": 33,
+                    "size": 0.05,
+                    "path": "Westworld.S02E05.720p.WEB.H264-DEFLATE/westworld.s02e05.720p.web.h264-deflate.r31"
+                },
+                {
+                    "number": 34,
+                    "size": 0.05,
+                    "path": "Westworld.S02E05.720p.WEB.H264-DEFLATE/westworld.s02e05.720p.web.h264-deflate.r32"
+                },
+                {
+                    "number": 35,
+                    "size": 0.05,
+                    "path": "Westworld.S02E05.720p.WEB.H264-DEFLATE/westworld.s02e05.720p.web.h264-deflate.r33"
+                },
+                {
+                    "number": 36,
+                    "size": 0.05,
+                    "path": "Westworld.S02E05.720p.WEB.H264-DEFLATE/westworld.s02e05.720p.web.h264-deflate.r34"
+                },
+                {
+                    "number": 37,
+                    "size": 0.05,
+                    "path": "Westworld.S02E05.720p.WEB.H264-DEFLATE/westworld.s02e05.720p.web.h264-deflate.r35"
+                },
+                {
+                    "number": 38,
+                    "size": 0.05,
+                    "path": "Westworld.S02E05.720p.WEB.H264-DEFLATE/westworld.s02e05.720p.web.h264-deflate.r36"
+                },
+                {
+                    "number": 39,
+                    "size": 0.037938645,
+                    "path": "Westworld.S02E05.720p.WEB.H264-DEFLATE/westworld.s02e05.720p.web.h264-deflate.r37"
+                },
+                {
+                    "number": 40,
+                    "size": 0.05,
+                    "path": "Westworld.S02E05.720p.WEB.H264-DEFLATE/westworld.s02e05.720p.web.h264-deflate.rar"
+                },
+                {
+                    "number": 41,
+                    "size": 0.000002067,
+                    "path": "Westworld.S02E05.720p.WEB.H264-DEFLATE/westworld.s02e05.720p.web.h264-deflate.sfv"
+                }
+            ]
+        },
+        {
+            "id": 50,
+            "name": "Westworld.S02E05.720p.WEB.H264-DEFLATE[eztv].mkv",
+            "size_total": 1.937934121,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.937934121,
+                    "path": "Westworld.S02E05.720p.WEB.H264-DEFLATE[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 51,
+            "name": "Westworld.S02E05.720p.WEB.H264-DEFLATE[rartv]-[rarbg.to]",
+            "size_total": 1.937934585,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Westworld.S02E05.720p.WEB.H264-DEFLATE[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.937934121,
+                    "path": "Westworld.S02E05.720p.WEB.H264-DEFLATE[rarbg]/Westworld.S02E05.720p.WEB.H264-DEFLATE.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 4.34e-7,
+                    "path": "Westworld.S02E05.720p.WEB.H264-DEFLATE[rarbg]/westworld.s02e05.720p.web.h264-deflate.nfo"
+                }
+            ]
+        },
+        {
+            "id": 52,
+            "name": "Westworld.S02E05.AAC.MP4-Mobile [IPT]",
+            "size_total": 0.236515441,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.0003211,
+                    "path": "Westworld.S02E05.AAC.MP4-Mobile/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000159864,
+                    "path": "Westworld.S02E05.AAC.MP4-Mobile/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000341203,
+                    "path": "Westworld.S02E05.AAC.MP4-Mobile/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000165593,
+                    "path": "Westworld.S02E05.AAC.MP4-Mobile/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.235526406,
+                    "path": "Westworld.S02E05.AAC.MP4-Mobile/Westworld.S02E05.AAC.MP4-Mobile.mp4"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001275,
+                    "path": "Westworld.S02E05.AAC.MP4-Mobile/Westworld.S02E05.AAC.MP4-Mobile.nfo"
+                }
+            ]
+        },
+        {
+            "id": 53,
+            "name": "Westworld.S02E05.Akane.No.Mai.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb [IPT]",
+            "size_total": 6.031179096,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.001600964,
+                    "path": "Westworld.S02E05.Akane.No.Mai.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.001403409,
+                    "path": "Westworld.S02E05.Akane.No.Mai.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001298012,
+                    "path": "Westworld.S02E05.Akane.No.Mai.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.0021806,
+                    "path": "Westworld.S02E05.Akane.No.Mai.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 6.02469477,
+                    "path": "Westworld.S02E05.Akane.No.Mai.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb/Westworld.S02E05.Akane.No.Mai.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001341,
+                    "path": "Westworld.S02E05.Akane.No.Mai.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb/Westworld.S02E05.Akane.No.Mai.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo"
+                }
+            ]
+        },
+        {
+            "id": 54,
+            "name": "Westworld.S02E05.Akane.No.Mai.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]-[rarbg.to]",
+            "size_total": 6.0246948,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Westworld.S02E05.Akane.No.Mai.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 6.02469477,
+                    "path": "Westworld.S02E05.Akane.No.Mai.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/Westworld.S02E05.Akane.No.Mai.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                }
+            ]
+        },
+        {
+            "id": 55,
+            "name": "Westworld.S02E05.Akane.No.Mai.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb [IPT]",
+            "size_total": 1.965157857,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000681161,
+                    "path": "Westworld.S02E05.Akane.No.Mai.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000595921,
+                    "path": "Westworld.S02E05.Akane.No.Mai.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00055595,
+                    "path": "Westworld.S02E05.Akane.No.Mai.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001004255,
+                    "path": "Westworld.S02E05.Akane.No.Mai.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 1.962319231,
+                    "path": "Westworld.S02E05.Akane.No.Mai.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb/Westworld.S02E05.Akane.No.Mai.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001339,
+                    "path": "Westworld.S02E05.Akane.No.Mai.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb/Westworld.S02E05.Akane.No.Mai.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo"
+                }
+            ]
+        },
+        {
+            "id": 56,
+            "name": "Westworld.S02E05.Akane.No.Mai.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[eztv].mkv",
+            "size_total": 1.962319231,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.962319231,
+                    "path": "Westworld.S02E05.Akane.No.Mai.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 57,
+            "name": "Westworld.S02E05.Akane.No.Mai.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]-[rarbg.to]",
+            "size_total": 1.962319261,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Westworld.S02E05.Akane.No.Mai.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.962319231,
+                    "path": "Westworld.S02E05.Akane.No.Mai.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/Westworld.S02E05.Akane.No.Mai.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                }
+            ]
+        },
+        {
+            "id": 58,
+            "name": "Westworld.S02E05.WEB.H264-DEFLATE [IPT]",
+            "size_total": 0.376338661,
+            "files_total": 28,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 4.28e-7,
+                    "path": "Westworld.S02E05.WEB.H264-DEFLATE/westworld.s02e05.web.h264-deflate.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.015,
+                    "path": "Westworld.S02E05.WEB.H264-DEFLATE/westworld.s02e05.web.h264-deflate.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.015,
+                    "path": "Westworld.S02E05.WEB.H264-DEFLATE/westworld.s02e05.web.h264-deflate.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.015,
+                    "path": "Westworld.S02E05.WEB.H264-DEFLATE/westworld.s02e05.web.h264-deflate.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.015,
+                    "path": "Westworld.S02E05.WEB.H264-DEFLATE/westworld.s02e05.web.h264-deflate.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.015,
+                    "path": "Westworld.S02E05.WEB.H264-DEFLATE/westworld.s02e05.web.h264-deflate.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.015,
+                    "path": "Westworld.S02E05.WEB.H264-DEFLATE/westworld.s02e05.web.h264-deflate.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.015,
+                    "path": "Westworld.S02E05.WEB.H264-DEFLATE/westworld.s02e05.web.h264-deflate.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.015,
+                    "path": "Westworld.S02E05.WEB.H264-DEFLATE/westworld.s02e05.web.h264-deflate.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.015,
+                    "path": "Westworld.S02E05.WEB.H264-DEFLATE/westworld.s02e05.web.h264-deflate.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.015,
+                    "path": "Westworld.S02E05.WEB.H264-DEFLATE/westworld.s02e05.web.h264-deflate.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.015,
+                    "path": "Westworld.S02E05.WEB.H264-DEFLATE/westworld.s02e05.web.h264-deflate.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.015,
+                    "path": "Westworld.S02E05.WEB.H264-DEFLATE/westworld.s02e05.web.h264-deflate.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.015,
+                    "path": "Westworld.S02E05.WEB.H264-DEFLATE/westworld.s02e05.web.h264-deflate.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.015,
+                    "path": "Westworld.S02E05.WEB.H264-DEFLATE/westworld.s02e05.web.h264-deflate.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.015,
+                    "path": "Westworld.S02E05.WEB.H264-DEFLATE/westworld.s02e05.web.h264-deflate.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.015,
+                    "path": "Westworld.S02E05.WEB.H264-DEFLATE/westworld.s02e05.web.h264-deflate.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.015,
+                    "path": "Westworld.S02E05.WEB.H264-DEFLATE/westworld.s02e05.web.h264-deflate.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.015,
+                    "path": "Westworld.S02E05.WEB.H264-DEFLATE/westworld.s02e05.web.h264-deflate.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.015,
+                    "path": "Westworld.S02E05.WEB.H264-DEFLATE/westworld.s02e05.web.h264-deflate.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.015,
+                    "path": "Westworld.S02E05.WEB.H264-DEFLATE/westworld.s02e05.web.h264-deflate.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.015,
+                    "path": "Westworld.S02E05.WEB.H264-DEFLATE/westworld.s02e05.web.h264-deflate.r20"
+                },
+                {
+                    "number": 23,
+                    "size": 0.015,
+                    "path": "Westworld.S02E05.WEB.H264-DEFLATE/westworld.s02e05.web.h264-deflate.r21"
+                },
+                {
+                    "number": 24,
+                    "size": 0.015,
+                    "path": "Westworld.S02E05.WEB.H264-DEFLATE/westworld.s02e05.web.h264-deflate.r22"
+                },
+                {
+                    "number": 25,
+                    "size": 0.015,
+                    "path": "Westworld.S02E05.WEB.H264-DEFLATE/westworld.s02e05.web.h264-deflate.r23"
+                },
+                {
+                    "number": 26,
+                    "size": 0.001336985,
+                    "path": "Westworld.S02E05.WEB.H264-DEFLATE/westworld.s02e05.web.h264-deflate.r24"
+                },
+                {
+                    "number": 27,
+                    "size": 0.015,
+                    "path": "Westworld.S02E05.WEB.H264-DEFLATE/westworld.s02e05.web.h264-deflate.rar"
+                },
+                {
+                    "number": 28,
+                    "size": 0.000001248,
+                    "path": "Westworld.S02E05.WEB.H264-DEFLATE/westworld.s02e05.web.h264-deflate.sfv"
+                }
+            ]
+        },
+        {
+            "id": 59,
+            "name": "Westworld.S02E05.WEB.H264-DEFLATE[eztv].mkv",
+            "size_total": 0.376334099,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.376334099,
+                    "path": "Westworld.S02E05.WEB.H264-DEFLATE[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 60,
+            "name": "Westworld.S02E05.WEB.H264-DEFLATE[rartv]-[rarbg.to]",
+            "size_total": 0.376334544,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Westworld.S02E05.WEB.H264-DEFLATE[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.376334099,
+                    "path": "Westworld.S02E05.WEB.H264-DEFLATE[rarbg]/Westworld.S02E05.WEB.H264-DEFLATE.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 4.15e-7,
+                    "path": "Westworld.S02E05.WEB.H264-DEFLATE[rarbg]/westworld.s02e05.web.h264-deflate.nfo"
+                }
+            ]
+        },
+        {
+            "id": 61,
+            "name": "Westworld.S02E05.WEBRip.x264-ION10-[rarbg.to]",
+            "size_total": 0.60840721,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Westworld.S02E05.WEBRip.x264-ION10/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000022588,
+                    "path": "Westworld.S02E05.WEBRip.x264-ION10/Subs/2_Eng.srt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000030426,
+                    "path": "Westworld.S02E05.WEBRip.x264-ION10/Subs/3_Eng.srt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.608354166,
+                    "path": "Westworld.S02E05.WEBRip.x264-ION10/Westworld.S02E05.WEBRip.x264-ION10.mp4"
+                }
+            ]
+        },
+        {
+            "id": 62,
+            "name": "Westworld.S02E05.XviD-AFG [IPT]",
+            "size_total": 0.558419292,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000330938,
+                    "path": "Westworld.S02E05.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000151629,
+                    "path": "Westworld.S02E05.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000341933,
+                    "path": "Westworld.S02E05.XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000180357,
+                    "path": "Westworld.S02E05.XviD-AFG/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.557413282,
+                    "path": "Westworld.S02E05.XviD-AFG/Westworld.S02E05.XviD-AFG.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001153,
+                    "path": "Westworld.S02E05.XviD-AFG/Westworld.S02E05.XviD-AFG.nfo"
+                }
+            ]
+        },
+        {
+            "id": 63,
+            "name": "Мир Дикого запада Westworld Сезон 2 Серии 1-5 (10) (Ричард Дж. Льюис, Винченцо Натали, Джонатан Нолан) [2018, США, фантаст [rutracker-5552364]",
+            "size_total": 30.150599264,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 6.222451901,
+                    "path": "Westworld.2016.S02.1080p.AMZN.WEB-DL.H264/Westworld.S02E01.1080p.AMZN.WEB-DL.H264.RUS.SRT.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 4.9569449,
+                    "path": "Westworld.2016.S02.1080p.AMZN.WEB-DL.H264/Westworld.S02E02.1080p.AMZN.WEB-DL.H264.RUS.SRT.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 5.544464123,
+                    "path": "Westworld.2016.S02.1080p.AMZN.WEB-DL.H264/Westworld.S02E03.1080p.AMZN.WEB-DL.H264.RUS.SRT.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 7.314001825,
+                    "path": "Westworld.2016.S02.1080p.AMZN.WEB-DL.H264/Westworld.S02E04.1080p.AMZN.WEB-DL.H264.RUS.SRT.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 6.112736515,
+                    "path": "Westworld.2016.S02.1080p.AMZN.WEB-DL.H264/Westworld.S02E05.1080p.AMZN.WEB-DL.H264.RUS.SRT.mkv"
+                }
+            ]
+        },
+        {
+            "id": 64,
+            "name": "Мир Дикого запада Westworld Сезон 2 Серии 1-5 (10) (Ричард Дж. Льюис, Винченцо Натали, Джонатан Нолан) [2018, США, фантаст [rutracker-5552426]",
+            "size_total": 10.442946299,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.316083316,
+                    "path": "Westworld.2016.S02.720p.AMZN.WEB-DL.H264/Westworld.S02E01.720p.AMZN.WEB-DL.H264.RUS.SRT.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.603684244,
+                    "path": "Westworld.2016.S02.720p.AMZN.WEB-DL.H264/Westworld.S02E02.720p.AMZN.WEB-DL.H264.RUS.SRT.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.889017342,
+                    "path": "Westworld.2016.S02.720p.AMZN.WEB-DL.H264/Westworld.S02E03.720p.AMZN.WEB-DL.H264.RUS.SRT.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 2.583808519,
+                    "path": "Westworld.2016.S02.720p.AMZN.WEB-DL.H264/Westworld.S02E04.720p.AMZN.WEB-DL.H264.RUS.SRT.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 2.050352878,
+                    "path": "Westworld.2016.S02.720p.AMZN.WEB-DL.H264/Westworld.S02E05.720p.AMZN.WEB-DL.H264.RUS.SRT.mkv"
+                }
+            ]
+        },
+        {
+            "id": 65,
+            "name": "Мир Дикого запада Westworld Сезон 2 Серии 1-5 из 10 (Джонатан Нолан, Джонни Кэмпбелл, Ричард Дж. Льюис) [2018, США, фантас [rutracker-5553510",
+            "size_total": 5.635110773,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.246328832,
+                    "path": "Westworld (Season 02)/Westworld.S02E01.DUB.DD5.1.MegaPeer.(qqss44).avi"
+                },
+                {
+                    "number": 2,
+                    "size": 1.049810944,
+                    "path": "Westworld (Season 02)/Westworld.S02E02.DUB.DD5.1.MegaPeer.(qqss44).avi"
+                },
+                {
+                    "number": 3,
+                    "size": 1.038317568,
+                    "path": "Westworld (Season 02)/Westworld.S02E03.DUB.DD5.1.MegaPeer.(qqss44).avi"
+                },
+                {
+                    "number": 4,
+                    "size": 1.25088768,
+                    "path": "Westworld (Season 02)/Westworld.S02E04.DUB.DD5.1.MegaPeer.(qqss44).avi"
+                },
+                {
+                    "number": 5,
+                    "size": 3.97e-7,
+                    "path": "Westworld (Season 02)/Westworld.S02E04.DUB.DD5.1.MegaPeer.(qqss44).FORCED.srt"
+                },
+                {
+                    "number": 6,
+                    "size": 1.049749504,
+                    "path": "Westworld (Season 02)/Westworld.S02E05.DUB.DD5.1.MegaPeer.(qqss44).avi"
+                },
+                {
+                    "number": 7,
+                    "size": 0.000015848,
+                    "path": "Westworld (Season 02)/Westworld.S02E05.DUB.DD5.1.MegaPeer.(qqss44).FORCED.srt"
+                }
+            ]
+        },
+        {
+            "id": 66,
+            "name": "Мир Дикого запада Westworld Сезон 2 Серии 1-5 из 10 (Джонатан Нолан, Джонни Кэмпбелл, Ричард Дж. Льюис) [2018, США, фантас [rutracker-5554112",
+            "size_total": 29.959919607,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 7.321682394,
+                    "path": "Westworld 2 1080p WEB-DL/Westworld 2x04 The Riddle of the Sphinx 1080p WEB-DL.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 6.072748652,
+                    "path": "Westworld 2 1080p WEB-DL/Westworld 2x05 Akane No Mai 1080p WEB-DL.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 5.971406939,
+                    "path": "Westworld 2 1080p WEB-DL/Westworld 2x01 Journey into Night 1080p WEB-DL.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 5.591629233,
+                    "path": "Westworld 2 1080p WEB-DL/Westworld 2x03 Virtu e Fortuna 1080p WEB-DL.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 5.002452389,
+                    "path": "Westworld 2 1080p WEB-DL/Westworld 2x02 Reunion 1080p WEB-DL.mkv"
+                }
+            ]
+        },
+        {
+            "id": 67,
+            "name": "Мир Дикого запада Westworld Сезон 2 Серии 1-5 из 10 (Джонатан Нолан, Джонни Кэмпбелл, Ричард Дж. Льюис) [2018, США, фантас [rutracker-5557300",
+            "size_total": 6.628321387,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.47001659,
+                    "path": "Westworld (Season 02) AVC/Westworld.S02E01.DUB.DD5.1.MegaPeer.(qqss44).mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.22047506,
+                    "path": "Westworld (Season 02) AVC/Westworld.S02E02.DUB.DD5.1.MegaPeer.(qqss44).mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.224551834,
+                    "path": "Westworld (Season 02) AVC/Westworld.S02E03.DUB.DD5.1.MegaPeer.(qqss44).mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.47512234,
+                    "path": "Westworld (Season 02) AVC/Westworld.S02E04.DUB.DD5.1.MegaPeer.(qqss44).mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 1.238155563,
+                    "path": "Westworld (Season 02) AVC/Westworld.S02E05.DUB.DD5.1.MegaPeer.(qqss44).mkv"
+                }
+            ]
+        },
+        {
+            "id": 68,
+            "name": "Мир Дикого запада Westworld Сезон 2 Серии 1-5 из 10 (Ричард Дж. Льюис) [2018, США, фантастика, драма, детектив, вестерн, W [rutracker-5552766]",
+            "size_total": 6.836057815,
+            "files_total": 15,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000050112,
+                    "path": "Westworld.s02.WEBRip.Rus.Eng.BaibaKo/Sub Eng/Westworld.S02E01.WEBRip.Rus.Eng.BaibaKo.e.srt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000042434,
+                    "path": "Westworld.s02.WEBRip.Rus.Eng.BaibaKo/Sub Eng/Westworld.S02E02.WEBRip.Rus.Eng.BaibaKo.e.srt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000040179,
+                    "path": "Westworld.s02.WEBRip.Rus.Eng.BaibaKo/Sub Eng/Westworld.S02E03.WEBRip.Rus.Eng.BaibaKo.e.srt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000041742,
+                    "path": "Westworld.s02.WEBRip.Rus.Eng.BaibaKo/Sub Eng/Westworld.S02E04.WEBRip.Rus.Eng.BaibaKo.e.srt"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000025709,
+                    "path": "Westworld.s02.WEBRip.Rus.Eng.BaibaKo/Sub Eng/Westworld.S02E05.WEBRip.Rus.Eng.BaibaKo.e.srt"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000049096,
+                    "path": "Westworld.s02.WEBRip.Rus.Eng.BaibaKo/Sub rus/Westworld.S02E01.WEBRip.Rus.Eng.BaibaKo.r.srt"
+                },
+                {
+                    "number": 7,
+                    "size": 0.000047341,
+                    "path": "Westworld.s02.WEBRip.Rus.Eng.BaibaKo/Sub rus/Westworld.S02E02.WEBRip.Rus.Eng.BaibaKo.r.srt"
+                },
+                {
+                    "number": 8,
+                    "size": 0.000041725,
+                    "path": "Westworld.s02.WEBRip.Rus.Eng.BaibaKo/Sub rus/Westworld.S02E03.WEBRip.Rus.Eng.BaibaKo.r.srt"
+                },
+                {
+                    "number": 9,
+                    "size": 0.000049547,
+                    "path": "Westworld.s02.WEBRip.Rus.Eng.BaibaKo/Sub rus/Westworld.S02E04.WEBRip.Rus.Eng.BaibaKo.r.srt"
+                },
+                {
+                    "number": 10,
+                    "size": 0.000025514,
+                    "path": "Westworld.s02.WEBRip.Rus.Eng.BaibaKo/Sub rus/Westworld.S02E05.WEBRip.Rus.Eng.BaibaKo.r.srt"
+                },
+                {
+                    "number": 11,
+                    "size": 1.560676352,
+                    "path": "Westworld.s02.WEBRip.Rus.Eng.BaibaKo/Westworld.S02E01.WEBRip.Rus.Eng.BaibaKo.avi"
+                },
+                {
+                    "number": 12,
+                    "size": 1.24736512,
+                    "path": "Westworld.s02.WEBRip.Rus.Eng.BaibaKo/Westworld.S02E02.WEBRip.Rus.Eng.BaibaKo.avi"
+                },
+                {
+                    "number": 13,
+                    "size": 1.248464896,
+                    "path": "Westworld.s02.WEBRip.Rus.Eng.BaibaKo/Westworld.S02E03.WEBRip.Rus.Eng.BaibaKo.avi"
+                },
+                {
+                    "number": 14,
+                    "size": 1.50483968,
+                    "path": "Westworld.s02.WEBRip.Rus.Eng.BaibaKo/Westworld.S02E04.WEBRip.Rus.Eng.BaibaKo.avi"
+                },
+                {
+                    "number": 15,
+                    "size": 1.274298368,
+                    "path": "Westworld.s02.WEBRip.Rus.Eng.BaibaKo/Westworld.S02E05.WEBRip.Rus.Eng.BaibaKo.avi"
+                }
+            ]
+        },
+        {
+            "id": 69,
+            "name": "Мир Дикого запада Westworld Сезон 2 Серии 1-5 из 10 (Ричард Дж. Льюис, Винченцо Натали, Джонатан Нолан [2018, США, фантаст [rutracker-555242",
+            "size_total": 4.361191127,
+            "files_total": 15,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000050112,
+                    "path": "Westworld/Subtitles/Westworld.s02e01.Eng.srt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000049547,
+                    "path": "Westworld/Subtitles/Westworld.s02e04.srt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000049096,
+                    "path": "Westworld/Subtitles/Westworld.s02e01.srt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000047341,
+                    "path": "Westworld/Subtitles/Westworld.s02e02.srt"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000042434,
+                    "path": "Westworld/Subtitles/Westworld.s02e02.Eng.srt"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000041742,
+                    "path": "Westworld/Subtitles/Westworld.s02e04.Eng.srt"
+                },
+                {
+                    "number": 7,
+                    "size": 0.000041725,
+                    "path": "Westworld/Subtitles/Westworld.s02e03.srt"
+                },
+                {
+                    "number": 8,
+                    "size": 0.000040179,
+                    "path": "Westworld/Subtitles/Westworld.s02e03.Eng.srt"
+                },
+                {
+                    "number": 9,
+                    "size": 0.000025709,
+                    "path": "Westworld/Subtitles/Westworld.s02e05.Eng.srt"
+                },
+                {
+                    "number": 10,
+                    "size": 0.000025514,
+                    "path": "Westworld/Subtitles/Westworld.s02e05.srt"
+                },
+                {
+                    "number": 11,
+                    "size": 1.000802304,
+                    "path": "Westworld/Westworld.s02e01.avi"
+                },
+                {
+                    "number": 12,
+                    "size": 0.959117312,
+                    "path": "Westworld/Westworld.s02e04.avi"
+                },
+                {
+                    "number": 13,
+                    "size": 0.81129472,
+                    "path": "Westworld/Westworld.s02e05.avi"
+                },
+                {
+                    "number": 14,
+                    "size": 0.795824128,
+                    "path": "Westworld/Westworld.s02e03.avi"
+                },
+                {
+                    "number": 15,
+                    "size": 0.7937392640000001,
+                    "path": "Westworld/Westworld.s02e02.avi"
+                }
+            ]
+        },
+        {
+            "id": 70,
+            "name": "Мир Дикого запада Westworld Сезон 2 Эпизод 1-5 из 10 (Ричард Дж. Льюис, Винченцо Натали, Джонатан Нолан) [2018, США, фантас [rutracker-55543-1",
+            "size_total": 4.10877952,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.93499392,
+                    "path": "Westworld. Сезон 2. (WEB-DL l 400p l JASKiER)/Westworld.S02E01.400p. JASKiER.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.746545152,
+                    "path": "Westworld. Сезон 2. (WEB-DL l 400p l JASKiER)/Westworld.S02E02.400p. JASKiER.avi"
+                },
+                {
+                    "number": 3,
+                    "size": 0.747743232,
+                    "path": "Westworld. Сезон 2. (WEB-DL l 400p l JASKiER)/Westworld.S02E03.400p. JASKiER.avi"
+                },
+                {
+                    "number": 4,
+                    "size": 0.91529216,
+                    "path": "Westworld. Сезон 2. (WEB-DL l 400p l JASKiER)/Westworld.S02E04.400p. JASKiER.avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.764205056,
+                    "path": "Westworld. Сезон 2. (WEB-DL l 400p l JASKiER)/Westworld.S02E05.400p. JASKiER.avi"
+                }
+            ]
+        },
+        {
+            "id": 71,
+            "name": "Мир Дикого запада Westworld Сезон 2 Эпизод 1-5 из 10 (Ричард Дж. Льюис, Винченцо Натали, Джонатан Нолан) [2018, США, фантас [rutracker-55543",
+            "size_total": 10.177249054,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.172538151,
+                    "path": "Westworld. Сезон 2. (WEB-DL l 720p l JASKiER)/Westworld.S02E01.720p. JASKiER.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.57491895,
+                    "path": "Westworld. Сезон 2. (WEB-DL l 720p l JASKiER)/Westworld.S02E02.720p. JASKiER.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.860211743,
+                    "path": "Westworld. Сезон 2. (WEB-DL l 720p l JASKiER)/Westworld.S02E03.720p. JASKiER.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 2.548619504,
+                    "path": "Westworld. Сезон 2. (WEB-DL l 720p l JASKiER)/Westworld.S02E04.720p. JASKiER.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 2.020960706,
+                    "path": "Westworld. Сезон 2. (WEB-DL l 720p l JASKiER)/Westworld.S02E05.720p. JASKiER.mkv"
+                }
+            ]
+        },
+        {
+            "id": 72,
+            "name": "西部世界.Westworld.S02E05.1080p-天天美剧字幕组.mp4.5c3f2e4dc306499d",
+            "size_total": 1.398783655,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.398783655,
+                    "path": "西部世界.Westworld.S02E05.1080p-天天美剧字幕组.mp4"
+                }
+            ]
+        },
+        {
+            "id": 73,
+            "name": "西部世界.Westworld.S02E05.720p-天天美剧字幕组.mp4.80b7c1d13fa75c66",
+            "size_total": 0.788324526,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.788324526,
+                    "path": "西部世界.Westworld.S02E05.720p-天天美剧字幕组.mp4"
+                }
+            ]
+        }
+    ],
+    "collection_cumulative_by_btiha": [
+        {
+            "id": 80,
+            "name": "multi-btih-6-2-x-[limetorrents.cc]Westworld.S02E05.WEB.H264-DEFLATE.EZTV",
+            "btih": "3ecedfc9c737ccdf6349e9b795ed88b1ee797846",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.376334099,
+            "creation": "2018-05-21T01:39:26.000000000Z,EZTV,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 389147,
+            "uuploaders": 128427
+        },
+        {
+            "id": 75,
+            "name": "multi-btih-1-2-x-[limetorrents.cc]Westworld.S02E05.720p.WEB.H264-DEFLATE.EZTV",
+            "btih": "8220fe43aea14a0d85d4ceb239969ed0ab7c6083",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.937934121,
+            "creation": "2018-05-21T01:43:39.000000000Z,EZTV,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 216918,
+            "uuploaders": 94077
+        },
+        {
+            "id": 76,
+            "name": "multi-btih-2-2-x-[limetorrents.cc]Westworld.S02E05.720p.WEB.H264-DEFLATE.[rarbg]",
+            "btih": "9b8d7a794a5527115f38e07df3c50555668300d3",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.937934585,
+            "creation": "2018-05-21T10:11:33.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 159657,
+            "uuploaders": 49994
+        },
+        {
+            "id": 24,
+            "name": "[limetorrents.cc]Westworld.S02E05.WEB.H264-DEFLATE[ettv]",
+            "btih": "46b840ed1c1af3e8ab22c261ec971d248eb59283",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.376334292,
+            "creation": "2018-05-21T01:34:08.000000000Z,mktorrent 1.0,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 128391,
+            "uuploaders": 32861
+        },
+        {
+            "id": 60,
+            "name": "Westworld.S02E05.WEB.H264-DEFLATE[rartv]-[rarbg.to]",
+            "btih": "93df95c260b0a07f3cc65699c0ef4692ba6904df",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.376334544,
+            "creation": "2018-05-21T01:32:06.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 113626,
+            "uuploaders": 25967
+        },
+        {
+            "id": 77,
+            "name": "multi-btih-3-2-x-[limetorrents.cc]Westworld.S02E05.Akane.No.Mai.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb",
+            "btih": "cbc113d7b5805acd30dc59d0c30bd5a98cb9abb3",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 6.0246948,
+            "creation": "2018-05-21T10:07:49.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 97809,
+            "uuploaders": 37563
+        },
+        {
+            "id": 79,
+            "name": "multi-btih-5-2-x-[limetorrents.cc]Westworld.S02E05.Akane.No.Mai.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.EZTV",
+            "btih": "81ef350e31ee08c2bf84e86afbeff282904472f9",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.962319231,
+            "creation": "2018-05-21T02:20:38.000000000Z,EZTV,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 75077,
+            "uuploaders": 42427
+        },
+        {
+            "id": 72,
+            "name": "西部世界.Westworld.S02E05.1080p-天天美剧字幕组.mp4.5c3f2e4dc306499d",
+            "btih": "5c3f2e4dc306499dd5992cde8e520843dd41b132",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 1.398783655,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 73002,
+            "uuploaders": 26728
+        },
+        {
+            "id": 88,
+            "name": "multi-btih-14-2-x-[rutor.is]Westworld_s02_720p_Amedia",
+            "btih": "01329e0cf44c925b9171bea4ead285fa4cc4b1dd",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 10.442946299,
+            "creation": "2018-05-21T05:08:02.000000000Z,ruTorrent (PHP Class - Adrien Gibrat),http://rutor.is/torrent/627754",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 66957,
+            "uuploaders": 31834
+        },
+        {
+            "id": 9,
+            "name": "[limetorrents.cc]Westworld.S02E05.720p.WEB.H264-DEFLATE[ettv]",
+            "btih": "0c0d0ea8cd0dcbb72c3fa04c9afdf873e60fa5b4",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.9379343,
+            "creation": "2018-05-21T01:34:12.000000000Z,mktorrent 1.0,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 59047,
+            "uuploaders": 24310
+        },
+        {
+            "id": 74,
+            "name": "multi-btih-0-2-x-[limetorrents.cc]Westworld.S02E05.1080p.WEB.H264-DEFLATE.[rarbg]",
+            "btih": "01751e042f4b4d4940b386c56025ae2f9d086d70",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 5.954670766,
+            "creation": "2018-05-21T09:50:40.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 53473,
+            "uuploaders": 27246
+        },
+        {
+            "id": 78,
+            "name": "multi-btih-4-2-x-[limetorrents.cc]Westworld.S02E05.Akane.No.Mai.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb",
+            "btih": "1baa2482e2bf82180771c416121040f22c8d4570",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.962319261,
+            "creation": "2018-05-21T10:10:57.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 48870,
+            "uuploaders": 18958
+        },
+        {
+            "id": 81,
+            "name": "multi-btih-7-2-x-[limetorrents.cc]Westworld.S02E05.WEBRip.x264-RARBG",
+            "btih": "1e05d48bbe95f80599a38f728de57e5788b076a8",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.60840721,
+            "creation": "2018-05-21T09:50:30.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 47757,
+            "uuploaders": 21526
+        },
+        {
+            "id": 2,
+            "name": "[limetorrents.cc]Westworld.S02.EP05.HDTV.1080p.x264.[ExYu-Subs]",
+            "btih": "9f5e6b4875bd776f3622bd68a76ab1a79a833b2c",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.069203138,
+            "creation": "2018-05-21T18:20:04.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 44125,
+            "uuploaders": 25724
+        },
+        {
+            "id": 87,
+            "name": "multi-btih-13-2-x-[rutor.is]Westworld_s02_1080p_Amedia",
+            "btih": "26a37847a17630c6efe8d6cd7265f4fdaf0ba2bd",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 30.150599264,
+            "creation": "2018-05-21T05:11:03.000000000Z,ruTorrent (PHP Class - Adrien Gibrat),http://rutor.is/torrent/627745",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 33708,
+            "uuploaders": 17701
+        },
+        {
+            "id": 85,
+            "name": "multi-btih-11-2-x-[rutor.is]Westworld_Season_02",
+            "btih": "68659bb5def4b1851a8013d1914ea613892be873",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 5.635110773,
+            "creation": "2018-05-21T21:01:35.000000000Z,uTorrent/2210,http://rutor.is/torrent/628304",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 25304,
+            "uuploaders": 15958
+        },
+        {
+            "id": 73,
+            "name": "西部世界.Westworld.S02E05.720p-天天美剧字幕组.mp4.80b7c1d13fa75c66",
+            "btih": "80b7c1d13fa75c6600acdba8b313392e5a4d1d02",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.788324526,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 15868,
+            "uuploaders": 4744
+        },
+        {
+            "id": 49,
+            "name": "Westworld.S02E05.720p.WEB.H264-DEFLATE [IPT]",
+            "btih": "22de73b49bb5ddf194cc2fd5bab33e4a89fed62f",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.937941159,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 15137,
+            "uuploaders": 8740
+        },
+        {
+            "id": 84,
+            "name": "multi-btih-10-2-x-[rutor.is]Westworld_2_1080p_WEB-DL",
+            "btih": "77eb8377260bda7c3a3c43908d69ab15e513a7b2",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 29.959919607,
+            "creation": "2018-05-21T21:09:00.000000000Z,uTorrent/2210,http://rutor.is/torrent/628294",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 14129,
+            "uuploaders": 9113
+        },
+        {
+            "id": 69,
+            "name": "Мир Дикого запада Westworld Сезон 2 Серии 1-5 из 10 (Ричард Дж. Льюис, Винченцо Натали, Джонатан Нолан [2018, США, фантаст [rutracker-555242",
+            "btih": "94f308258982e06074b82c699f808e78da153d72",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 4.361191127,
+            "creation": "2018-05-21T11:49:28.000000000Z,uTorrent/2210,https://rutracker.org/forum/viewtopic.php?t=5552429",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 13534,
+            "uuploaders": 4700
+        },
+        {
+            "id": 13,
+            "name": "[limetorrents.cc]Westworld.S02E05.720p.WEB.x264.[470MB].[MP4]",
+            "btih": "5748662213b3ae83216cd0e1eac3cd6ace983030",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.492024984,
+            "creation": "2018-05-21T10:07:05.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 9299,
+            "uuploaders": 3496
+        },
+        {
+            "id": 25,
+            "name": "[limetorrents.cc]Westworld.S02E05.WEB.H264-DEFLATE[N1C]",
+            "btih": "b3a138eddc78bb1e10e4802b2164d4eed3b6f293",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.376334527,
+            "creation": "2018-05-21T01:34:33.000000000Z,mktorrent 1.0,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 8296,
+            "uuploaders": 3688
+        },
+        {
+            "id": 86,
+            "name": "multi-btih-12-2-x-[rutor.is]Westworld_Season_02_AVC",
+            "btih": "6cb15e528db5dc6efd9d1e3368f4ea73febe17f3",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 6.628321387,
+            "creation": "2018-05-21T21:00:38.000000000Z,uTorrent/2210,http://rutor.is/torrent/629872",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 6464,
+            "uuploaders": 3051
+        },
+        {
+            "id": 62,
+            "name": "Westworld.S02E05.XviD-AFG [IPT]",
+            "btih": "b74bc92a34d2e825071dab772cfd3a26d6c11144",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.558419292,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 6186,
+            "uuploaders": 3133
+        },
+        {
+            "id": 29,
+            "name": "[rutor.is]Mir_Dikogo_Zapada_2_sezon_Am_720p_scarabey.org",
+            "btih": "310e544e0b4460a78502a4d14d4985cd0a9fa776",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 13.969738145,
+            "creation": "2018-05-23T05:48:00.000000000Z,uTorrent/2210,http://rutor.is/torrent/628057",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 5715,
+            "uuploaders": 3866
+        },
+        {
+            "id": 44,
+            "name": "Westworld.S02E05.1080p.HEVC.x265-MeGusta [IPT]",
+            "btih": "abfc55c9916c78500d11b2992ff78aa8ed043b45",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 1.188661997,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 5561,
+            "uuploaders": 2721
+        },
+        {
+            "id": 14,
+            "name": "[limetorrents.cc]Westworld.S02E05.720p.WEBRip.HEVC.x265-RMTeam..309MB.",
+            "btih": "cad5e6f231db9613a8b2e47a21701f35a5465ce5",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.308705527,
+            "creation": "2018-05-21T14:02:06.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 5064,
+            "uuploaders": 1878
+        },
+        {
+            "id": 48,
+            "name": "Westworld.S02E05.720p.HEVC.x265-MeGusta [IPT]",
+            "btih": "3ecd40f36f32630b581c4a093dc12013ea2cc3dd",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.378068455,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 5020,
+            "uuploaders": 2477
+        },
+        {
+            "id": 22,
+            "name": "[limetorrents.cc]Westworld.S02E05.Akane.No.Mai.WEB.XviD-AVID[TGx]",
+            "btih": "451d15c4897095abf783f83bfc1e61d73e6e076e",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.663636225,
+            "creation": "2018-05-21T10:00:45.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4997,
+            "uuploaders": 2339
+        },
+        {
+            "id": 35,
+            "name": "[rutor.is]Westworld.S02.720p.GostFilm",
+            "btih": "0db749fa46caecd2e2e7907af8047aa601e06a8e",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 10.087451167,
+            "creation": "2018-05-21T20:40:28.000000000Z,uTorrent/3.5,http://rutor.is/torrent/632718",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4666,
+            "uuploaders": 2423
+        },
+        {
+            "id": 45,
+            "name": "Westworld.S02E05.1080p.WEB.H264-DEFLATE [IPT]",
+            "btih": "96c48400bd229d8618755db7d03b028266f6e625",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 5.954681476,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 4338,
+            "uuploaders": 2194
+        },
+        {
+            "id": 30,
+            "name": "[rutor.is]Mir_Dikogo_Zapada_2_sezon_Am_scarabey.org",
+            "btih": "008bb99f9ef8ad004cc4b1ef4591eeff6ac496dd",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 2.353840128,
+            "creation": "2018-05-22T20:00:56.000000000Z,uTorrent/2210,http://rutor.is/torrent/628068",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4191,
+            "uuploaders": 2295
+        },
+        {
+            "id": 20,
+            "name": "[limetorrents.cc]Westworld.S02E05.Akane.No.Mai.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[N",
+            "btih": "55e23ca73a5ab00647c6b7a5b7de0b02343eb680",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.96232057,
+            "creation": "2018-05-21T09:49:44.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4020,
+            "uuploaders": 1646
+        },
+        {
+            "id": 12,
+            "name": "[limetorrents.cc]Westworld.S02E05.720p.WEB.x264-worldmkv",
+            "btih": "7f5d643ed757a76255854449eca77e47ea95d9f1",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.467930117,
+            "creation": "2018-05-21T09:52:30.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 3894,
+            "uuploaders": 1574
+        },
+        {
+            "id": 53,
+            "name": "Westworld.S02E05.Akane.No.Mai.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb [IPT]",
+            "btih": "6d2dab3a2923abe660b35ab92d933786d966369e",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 6.031179096,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 3098,
+            "uuploaders": 1663
+        },
+        {
+            "id": 83,
+            "name": "multi-btih-9-2-x-[rutor.is]Westworld._Sezon_2._WEB-DL_l_720p_l_JASKiER",
+            "btih": "535e733e11405cd8b5142eff68028a0f58b3914c",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 10.177249054,
+            "creation": "2018-05-23T13:42:56.000000000Z,uTorrent/2210,http://rutor.is/torrent/628689",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2999,
+            "uuploaders": 1468
+        },
+        {
+            "id": 34,
+            "name": "[rutor.is]Westworld.S02.400p.GostFilm",
+            "btih": "d2070b5a80fb0da1ea146561dac3497fe234e5d9",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 4.217893932,
+            "creation": "2018-05-21T20:37:39.000000000Z,uTorrent/3.5,http://rutor.is/torrent/632717",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2629,
+            "uuploaders": 1389
+        },
+        {
+            "id": 82,
+            "name": "multi-btih-8-2-x-[rutor.is]Westworld._Sezon_2._WEB-DL_l_400p_l_JASKiER",
+            "btih": "6e0111f6ec3821be5eec8b55c17c0f723035d5b2",
+            "resolution": "2160",
+            "encoding": "none",
+            "gigabytes": 4.10877952,
+            "creation": "2018-05-23T13:44:14.000000000Z,uTorrent/2210,http://rutor.is/torrent/628690",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2574,
+            "uuploaders": 1243
+        },
+        {
+            "id": 3,
+            "name": "[limetorrents.cc]Westworld.S02E04.1080p.10bit.AMZN.WEB-DL.6CH.x265.HEVC-samz2",
+            "btih": "267e3e32106793ad35a08c79b7bfaf4163aaec98",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 1.224741067,
+            "creation": "2018-05-22T01:57:57.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2506,
+            "uuploaders": 1285
+        },
+        {
+            "id": 16,
+            "name": "[limetorrents.cc]Westworld.S02E05.Akane.No.Mai.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[TGx]",
+            "btih": "b3fd3f334439a8cbfcdfe4dfcb6c6bf32dc19a89",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 6.024694987,
+            "creation": "2018-05-21T10:07:34.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2450,
+            "uuploaders": 1095
+        },
+        {
+            "id": 26,
+            "name": "[limetorrents.cc]Westworld.S02E05.WEB.H264-DEFLATE[TGx]",
+            "btih": "8dfec8dcd7c097da650d88a786feb63ea654c5e4",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.376334731,
+            "creation": "2018-05-21T09:51:04.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2389,
+            "uuploaders": 924
+        },
+        {
+            "id": 36,
+            "name": "[rutor.is]Westworld.S02.WEBRip.1080p",
+            "btih": "6a1176703599dee08df806b980ddb4714a1a197c",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 18.948850958,
+            "creation": "2018-05-22T19:22:06.000000000Z,uTorrent/3230,http://rutor.is/torrent/627873",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2172,
+            "uuploaders": 1186
+        },
+        {
+            "id": 55,
+            "name": "Westworld.S02E05.Akane.No.Mai.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb [IPT]",
+            "btih": "42854bafc655a9f27963409f0401abad42fcf370",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.965157857,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 2160,
+            "uuploaders": 1098
+        },
+        {
+            "id": 6,
+            "name": "[limetorrents.cc]Westworld.S02E05.480p.x264-mSD[TGx]",
+            "btih": "45c804fad756fc5ee054b0e953823e3a0dcf3f8f",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.214811949,
+            "creation": "2018-05-21T09:50:38.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2160,
+            "uuploaders": 856
+        },
+        {
+            "id": 47,
+            "name": "Westworld.S02E05.480p.x264-mSD [IPT]",
+            "btih": "656aaa3137751970fd87a9727c748d65461b640c",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.214811732,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 2056,
+            "uuploaders": 638
+        },
+        {
+            "id": 1,
+            "name": "[limetorrents.cc]Westworld.2x05..720p-WEBRip-x264-DEFLATE.[VTV]",
+            "btih": "78e28d779a6c0cfc9f43f1295600c7320fbc4864",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.937934121,
+            "creation": "2018-05-21T10:09:23.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2039,
+            "uuploaders": 1149
+        },
+        {
+            "id": 5,
+            "name": "[limetorrents.cc]Westworld.S02E05.480p.244mb.HDwebrip.x264-][.Akane.No.Mai.]mp4",
+            "btih": "cd6f8361385ea425929fd0b772dda769f9cf328e",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.256023086,
+            "creation": "2018-05-21T10:10:20.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1947,
+            "uuploaders": 763
+        },
+        {
+            "id": 17,
+            "name": "[limetorrents.cc]Westworld.S02E05.Akane.No.Mai.720p.AMZN.WEB-DL.500MB.[MOVCR].1..mkv",
+            "btih": "2d86420b881e727aa1c7169d231c7c45f4d6aa16",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.526303189,
+            "creation": "2018-05-21T03:01:04.000000000Z,uTorrent/2210,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1856,
+            "uuploaders": 987
+        },
+        {
+            "id": 11,
+            "name": "[limetorrents.cc]Westworld.S02E05.720p.WEB.H264-DEFLATE[TGx]",
+            "btih": "da15d0f9a0b3fe0bc2723fef5006cc590f4cdac5",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.937934772,
+            "creation": "2018-05-21T09:50:51.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1824,
+            "uuploaders": 788
+        },
+        {
+            "id": 33,
+            "name": "[rutor.is]Westworld.S02.1080p.GostFilm",
+            "btih": "de3682c67456458ddcccfeae6c97aedec7277089",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 29.702733432,
+            "creation": "2018-05-21T20:48:46.000000000Z,uTorrent/3.5,http://rutor.is/torrent/632719",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1799,
+            "uuploaders": 1153
+        },
+        {
+            "id": 38,
+            "name": "[rutor.is]Westworld.S02.WEBRip",
+            "btih": "0e05ec7ca9a2f08566af145c669e7b0b52e4dadc",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 4.703936512,
+            "creation": "2018-05-22T18:58:50.000000000Z,uTorrent/3230,http://rutor.is/torrent/627871",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1666,
+            "uuploaders": 801
+        },
+        {
+            "id": 27,
+            "name": "[limetorrents.cc]Westworld.S02E05.WEBRip.x264-ION10[TGx]",
+            "btih": "3f3a0bbb4f6be82798671fb3790233a712b4ef35",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.608407397,
+            "creation": "2018-05-21T09:50:06.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1609,
+            "uuploaders": 804
+        },
+        {
+            "id": 37,
+            "name": "[rutor.is]Westworld.S02.WEBRip.720p",
+            "btih": "d8ecc0b4b700d6638490e1dbe13a01943c984799",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 13.019137346,
+            "creation": "2018-05-22T18:08:11.000000000Z,uTorrent/3230,http://rutor.is/torrent/627872",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1557,
+            "uuploaders": 820
+        },
+        {
+            "id": 68,
+            "name": "Мир Дикого запада Westworld Сезон 2 Серии 1-5 из 10 (Ричард Дж. Льюис) [2018, США, фантастика, драма, детектив, вестерн, W [rutracker-5552766]",
+            "btih": "55e84ca6cb0d15222d7a1f3ebca3717c53502c47",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 6.836057815,
+            "creation": "2018-05-22T05:18:48.000000000Z,uTorrent/1820,https://rutracker.org/forum/viewtopic.php?t=5552766",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1527,
+            "uuploaders": 813
+        },
+        {
+            "id": 58,
+            "name": "Westworld.S02E05.WEB.H264-DEFLATE [IPT]",
+            "btih": "38092a81dd610fc7b24723980a376bba9143b27e",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.376338661,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 1191,
+            "uuploaders": 648
+        },
+        {
+            "id": 10,
+            "name": "[limetorrents.cc]Westworld.S02E05.720p.WEB.H264-DEFLATE[N1C]",
+            "btih": "f0b9eddc6c4d9aea80c4148256529a025e377847",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.937934568,
+            "creation": "2018-05-21T09:50:55.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1035,
+            "uuploaders": 466
+        },
+        {
+            "id": 52,
+            "name": "Westworld.S02E05.AAC.MP4-Mobile [IPT]",
+            "btih": "2f9ef0a3a594fe521dc69c123693bf375550be26",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.236515441,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 957,
+            "uuploaders": 495
+        },
+        {
+            "id": 21,
+            "name": "[limetorrents.cc]Westworld.S02E05.Akane.No.Mai.720p.AMZN.WEBRip.DDP5.1.x264-NTb[TG",
+            "btih": "d62227241e2647654da99b4332083c68f78a5d27",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.962319448,
+            "creation": "2018-05-21T09:49:07.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 753,
+            "uuploaders": 352
+        }
+    ]
+}
