@@ -1,0 +1,2577 @@
+{
+    "collection_name": "Queen Of The South",
+    "collection_id": "313",
+    "collection_key": "queen-of-the-south-313",
+    "collection_notes": "",
+    "data_version": "2026-08-05",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "6:1777968300",
+    "collection_btiha_duplicates": [
+        {
+            "duplicate_id": 0,
+            "duplicate_btih": "7156cc0f5880ccdeac9766f82d4db8e23a03cc74",
+            "duplicate_0_0": "[rutor.is]Queen.of.the.South.S03.HDTV.720p.Jaskier_",
+            "duplicate_0_1": "Королева юга Queen of the South Сезон 3 Серии 1-13 из 13 (Шарлотта Зилинг) [2018, США, Боевик, триллер, драма, HDTV 720p] [rutracker-5578845]"
+        },
+        {
+            "duplicate_id": 1,
+            "duplicate_btih": "fd339fad09a331011f2f3128c5b46a4b0c3e4165",
+            "duplicate_1_0": "[rutor.is]Queen.of.the.South.S03.HDTVRip.Jaskier_",
+            "duplicate_1_1": "Королева юга Queen of the South Сезон 3 Серии 1-13 из 13 (Шарлотта Зилинг) [2018, США, Боевик, триллер, драма, HDTVRip] MV [rutracker-5578844]"
+        }
+    ],
+    "collection_btiha_metadata": [
+        {
+            "id": 1,
+            "name": "005e-Queen.of.the.South.S03E13.720p.HDTV.x264-KILLERS[ettv]",
+            "size_total": 0.849546092,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.85e-7,
+                    "path": "Queen.of.the.South.S03E13.720p.HDTV.x264-KILLERS[ettv]/Downloaded from www.ETTV.tv .txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.849545907,
+                    "path": "Queen.of.the.South.S03E13.720p.HDTV.x264-KILLERS[ettv]/Queen.of.the.South.S03E13.720p.HDTV.x264-KILLERS[ettv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "3d69-Queen.of.the.South.S03E13.HDTV.x264-KILLERS[ettv]",
+            "size_total": 0.244085963,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.99e-7,
+                    "path": "Queen.of.the.South.S03E13.HDTV.x264-KILLERS[ettv]/Downloaded from www.ETTV.tv .txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.244085764,
+                    "path": "Queen.of.the.South.S03E13.HDTV.x264-KILLERS[ettv]/Queen.of.the.South.S03E13.HDTV.x264-KILLERS[ettv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "[limetorrents.info]-.Queen.of.the.South.S03E13.HDTV.x264-KILLERS",
+            "size_total": 0.250502427,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.244085764,
+                    "path": "www.torrenting.com - Queen.of.the.South.S03E13.HDTV.x264-KILLERS/Queen.of.the.South.S03E13.HDTV.x264-KILLERS.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000010872,
+                    "path": "www.torrenting.com - Queen.of.the.South.S03E13.HDTV.x264-KILLERS/queen.of.the.south.s03e13.hdtv.x264-killers.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 9.86e-7,
+                    "path": "www.torrenting.com - Queen.of.the.South.S03E13.HDTV.x264-KILLERS/queen.of.the.south.s03e13.hdtv.x264-killers.sfv"
+                },
+                {
+                    "number": 4,
+                    "size": 0.006402783,
+                    "path": "www.torrenting.com - Queen.of.the.South.S03E13.HDTV.x264-KILLERS/Sample/sample-queen.of.the.south.s03e13.hdtv.x264-killers.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 8.6e-8,
+                    "path": "www.torrenting.com - Queen.of.the.South.S03E13.HDTV.x264-KILLERS/Torrent Downloaded From www.torrenting.com.txt"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001936,
+                    "path": "www.torrenting.com - Queen.of.the.South.S03E13.HDTV.x264-KILLERS/tvmaze.nfo"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "[rutor.is]Queen.Of.The.South.S03.1080p.GostFilm",
+            "size_total": 17.572550657,
+            "files_total": 13,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.299389312,
+                    "path": "Queen.Of.The.South.S03.1080p.GostFilm/Queen.Of.The.South.S03E01.1080p.GostFilm.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.316773382,
+                    "path": "Queen.Of.The.South.S03.1080p.GostFilm/Queen.Of.The.South.S03E02.1080p.GostFilm.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.34685693,
+                    "path": "Queen.Of.The.South.S03.1080p.GostFilm/Queen.Of.The.South.S03E13.1080p.GostFilm.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.349234098,
+                    "path": "Queen.Of.The.South.S03.1080p.GostFilm/Queen.Of.The.South.S03E10.1080p.GostFilm.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 1.358657087,
+                    "path": "Queen.Of.The.South.S03.1080p.GostFilm/Queen.Of.The.South.S03E12.1080p.GostFilm.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 1.360371996,
+                    "path": "Queen.Of.The.South.S03.1080p.GostFilm/Queen.Of.The.South.S03E07.1080p.GostFilm.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 1.360616479,
+                    "path": "Queen.Of.The.South.S03.1080p.GostFilm/Queen.Of.The.South.S03E03.1080p.GostFilm.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 1.361587751,
+                    "path": "Queen.Of.The.South.S03.1080p.GostFilm/Queen.Of.The.South.S03E04.1080p.GostFilm.mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 1.361946166,
+                    "path": "Queen.Of.The.South.S03.1080p.GostFilm/Queen.Of.The.South.S03E06.1080p.GostFilm.mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 1.363187833,
+                    "path": "Queen.Of.The.South.S03.1080p.GostFilm/Queen.Of.The.South.S03E09.1080p.GostFilm.mkv"
+                },
+                {
+                    "number": 11,
+                    "size": 1.363507682,
+                    "path": "Queen.Of.The.South.S03.1080p.GostFilm/Queen.Of.The.South.S03E11.1080p.GostFilm.mkv"
+                },
+                {
+                    "number": 12,
+                    "size": 1.363691489,
+                    "path": "Queen.Of.The.South.S03.1080p.GostFilm/Queen.Of.The.South.S03E08.1080p.GostFilm.mkv"
+                },
+                {
+                    "number": 13,
+                    "size": 1.366730452,
+                    "path": "Queen.Of.The.South.S03.1080p.GostFilm/Queen.Of.The.South.S03E05.1080p.GostFilm.mkv"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "[rutor.is]Queen.Of.The.South.S03.400p.ColdFilm",
+            "size_total": 6.930211474,
+            "files_total": 13,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.58944175,
+                    "path": "Queen.Of.The.South.S03.400p.ColdFilm/Queen.of.the.South.S03E03.400p.ColdFilm.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.57160182,
+                    "path": "Queen.Of.The.South.S03.400p.ColdFilm/Queen.Of.The.South.S03E02.400p.ColdFilm.avi"
+                },
+                {
+                    "number": 3,
+                    "size": 0.568605378,
+                    "path": "Queen.Of.The.South.S03.400p.ColdFilm/Queen.Of.The.South.S03E01.400p.ColdFilm.avi"
+                },
+                {
+                    "number": 4,
+                    "size": 0.563550994,
+                    "path": "Queen.Of.The.South.S03.400p.ColdFilm/Queen.of.the.South.S03E04.400p.ColdFilm.avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.560002088,
+                    "path": "Queen.Of.The.South.S03.400p.ColdFilm/Queen.Of.The.South.S03E05.400p.ColdFilm.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.55991718,
+                    "path": "Queen.Of.The.South.S03.400p.ColdFilm/Queen.Of.The.South.S03E08.400p.ColdFilm.avi"
+                },
+                {
+                    "number": 7,
+                    "size": 0.546075964,
+                    "path": "Queen.Of.The.South.S03.400p.ColdFilm/Queen.of.the.South.S03E12.400p.ColdFilm.avi"
+                },
+                {
+                    "number": 8,
+                    "size": 0.542196498,
+                    "path": "Queen.Of.The.South.S03.400p.ColdFilm/Queen.of.the.South.S03E06.400p.ColdFilm.avi"
+                },
+                {
+                    "number": 9,
+                    "size": 0.528061108,
+                    "path": "Queen.Of.The.South.S03.400p.ColdFilm/Queen.of.the.South.S03E10.400p.ColdFilm.avi"
+                },
+                {
+                    "number": 10,
+                    "size": 0.496903074,
+                    "path": "Queen.Of.The.South.S03.400p.ColdFilm/Queen.of.the.South.S03E07.400p.ColdFilm.avi"
+                },
+                {
+                    "number": 11,
+                    "size": 0.480090464,
+                    "path": "Queen.Of.The.South.S03.400p.ColdFilm/Queen.of.the.South.S03E11.400p.ColdFilm.avi"
+                },
+                {
+                    "number": 12,
+                    "size": 0.476870954,
+                    "path": "Queen.Of.The.South.S03.400p.ColdFilm/Queen.of.the.South.S03E13.400p.ColdFilm.avi"
+                },
+                {
+                    "number": 13,
+                    "size": 0.446894202,
+                    "path": "Queen.Of.The.South.S03.400p.ColdFilm/Queen.Of.The.South.S03E09.400p.ColdFilm.avi"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "[rutor.is]Queen.Of.The.South.S03.400p.GostFilm",
+            "size_total": 6.757342646,
+            "files_total": 13,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.459730908,
+                    "path": "Queen.Of.The.South.S03.400p.GostFilm/Queen.Of.The.South.S03E07.400p.GostFilm.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.470356084,
+                    "path": "Queen.Of.The.South.S03.400p.GostFilm/Queen.Of.The.South.S03E05.400p.GostFilm.avi"
+                },
+                {
+                    "number": 3,
+                    "size": 0.481773084,
+                    "path": "Queen.Of.The.South.S03.400p.GostFilm/Queen.Of.The.South.S03E13.400p.GostFilm.avi"
+                },
+                {
+                    "number": 4,
+                    "size": 0.496930542,
+                    "path": "Queen.Of.The.South.S03.400p.GostFilm/Queen.Of.The.South.S03E11.400p.GostFilm.avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.502153,
+                    "path": "Queen.Of.The.South.S03.400p.GostFilm/Queen.Of.The.South.S03E02.400p.GostFilm.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.504492044,
+                    "path": "Queen.Of.The.South.S03.400p.GostFilm/Queen.Of.The.South.S03E06.400p.GostFilm.avi"
+                },
+                {
+                    "number": 7,
+                    "size": 0.512396666,
+                    "path": "Queen.Of.The.South.S03.400p.GostFilm/Queen.Of.The.South.S03E08.400p.GostFilm.avi"
+                },
+                {
+                    "number": 8,
+                    "size": 0.519032158,
+                    "path": "Queen.Of.The.South.S03.400p.GostFilm/Queen.Of.The.South.S03E10.400p.GostFilm.avi"
+                },
+                {
+                    "number": 9,
+                    "size": 0.544507838,
+                    "path": "Queen.Of.The.South.S03.400p.GostFilm/Queen.Of.The.South.S03E01.400p.GostFilm.avi"
+                },
+                {
+                    "number": 10,
+                    "size": 0.546695072,
+                    "path": "Queen.Of.The.South.S03.400p.GostFilm/Queen.Of.The.South.S03E04.400p.GostFilm.avi"
+                },
+                {
+                    "number": 11,
+                    "size": 0.5469717,
+                    "path": "Queen.Of.The.South.S03.400p.GostFilm/Queen.Of.The.South.S03E12.400p.GostFilm.avi"
+                },
+                {
+                    "number": 12,
+                    "size": 0.58612636,
+                    "path": "Queen.Of.The.South.S03.400p.GostFilm/Queen.Of.The.South.S03E03.400p.GostFilm.avi"
+                },
+                {
+                    "number": 13,
+                    "size": 0.58617719,
+                    "path": "Queen.Of.The.South.S03.400p.GostFilm/Queen.Of.The.South.S03E09.400p.GostFilm.avi"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "[rutor.is]Queen.Of.The.South.S03.720p.ColdFilm",
+            "size_total": 15.285493768,
+            "files_total": 13,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.311356915,
+                    "path": "Queen.Of.The.South.S03.720p.ColdFilm/Queen.Of.The.South.S03E09.720p.ColdFilm.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.178899288,
+                    "path": "Queen.Of.The.South.S03.720p.ColdFilm/Queen.Of.The.South.S03E05.720p.ColdFilm.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.178563777,
+                    "path": "Queen.Of.The.South.S03.720p.ColdFilm/Queen.Of.The.South.S03E08.720p.ColdFilm.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.174290517,
+                    "path": "Queen.Of.The.South.S03.720p.ColdFilm/Queen.of.the.South.S03E04.720p.ColdFilm.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 1.173186774,
+                    "path": "Queen.Of.The.South.S03.720p.ColdFilm/Queen.of.the.South.S03E07.720p.ColdFilm.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 1.172874974,
+                    "path": "Queen.Of.The.South.S03.720p.ColdFilm/Queen.of.the.South.S03E03.720p.ColdFilm.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 1.170545112,
+                    "path": "Queen.Of.The.South.S03.720p.ColdFilm/Queen.of.the.South.S03E11.720p.ColdFilm.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 1.170504634,
+                    "path": "Queen.Of.The.South.S03.720p.ColdFilm/Queen.of.the.South.S03E06.720p.ColdFilm.mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 1.168553905,
+                    "path": "Queen.Of.The.South.S03.720p.ColdFilm/Queen.of.the.South.S03E12.720p.ColdFilm.mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 1.16012234,
+                    "path": "Queen.Of.The.South.S03.720p.ColdFilm/Queen.of.the.South.S03E13.720p.ColdFilm.mkv"
+                },
+                {
+                    "number": 11,
+                    "size": 1.157751935,
+                    "path": "Queen.Of.The.South.S03.720p.ColdFilm/Queen.of.the.South.S03E10.720p.ColdFilm.mkv"
+                },
+                {
+                    "number": 12,
+                    "size": 1.141618798,
+                    "path": "Queen.Of.The.South.S03.720p.ColdFilm/Queen.Of.The.South.S03E02.720p.ColdFilm.mkv"
+                },
+                {
+                    "number": 13,
+                    "size": 1.127224799,
+                    "path": "Queen.Of.The.South.S03.720p.ColdFilm/Queen.Of.The.South.S03E01.720p.ColdFilm.mkv"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "[rutor.is]Queen.Of.The.South.S03.720p.GostFilm",
+            "size_total": 13.840085553,
+            "files_total": 13,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.888710928,
+                    "path": "Queen.Of.The.South.S03.720p.GostFilm/Queen.Of.The.South.S03E08.720p.GostFilm.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.02720828,
+                    "path": "Queen.Of.The.South.S03.720p.GostFilm/Queen.Of.The.South.S03E02.720p.GostFilm.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.031432029,
+                    "path": "Queen.Of.The.South.S03.720p.GostFilm/Queen.Of.The.South.S03E03.720p.GostFilm.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.033908907,
+                    "path": "Queen.Of.The.South.S03.720p.GostFilm/Queen.Of.The.South.S03E09.720p.GostFilm.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 1.034426316,
+                    "path": "Queen.Of.The.South.S03.720p.GostFilm/Queen.Of.The.South.S03E07.720p.GostFilm.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 1.037091564,
+                    "path": "Queen.Of.The.South.S03.720p.GostFilm/Queen.Of.The.South.S03E06.720p.GostFilm.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 1.037709949,
+                    "path": "Queen.Of.The.South.S03.720p.GostFilm/Queen.Of.The.South.S03E04.720p.GostFilm.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 1.039727326,
+                    "path": "Queen.Of.The.South.S03.720p.GostFilm/Queen.Of.The.South.S03E05.720p.GostFilm.mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 1.063358547,
+                    "path": "Queen.Of.The.South.S03.720p.GostFilm/Queen.Of.The.South.S03E01.720p.GostFilm.mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 1.068678081,
+                    "path": "Queen.Of.The.South.S03.720p.GostFilm/Queen.Of.The.South.S03E12.720p.GostFilm.mkv"
+                },
+                {
+                    "number": 11,
+                    "size": 1.068686352,
+                    "path": "Queen.Of.The.South.S03.720p.GostFilm/Queen.Of.The.South.S03E13.720p.GostFilm.mkv"
+                },
+                {
+                    "number": 12,
+                    "size": 1.06941856,
+                    "path": "Queen.Of.The.South.S03.720p.GostFilm/Queen.Of.The.South.S03E10.720p.GostFilm.mkv"
+                },
+                {
+                    "number": 13,
+                    "size": 1.439728714,
+                    "path": "Queen.Of.The.South.S03.720p.GostFilm/Queen.Of.The.South.S03E11.720p.GostFilm.mkv"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "[rutor.is]Queen.of.the.South.S03.720p.SunshineStudio_1",
+            "size_total": 11.978889686,
+            "files_total": 13,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.255628555,
+                    "path": "Queen.of.the.South.S03.720p.SunshineStudio/Queen.of.the.South.S03E09.720p.SunshineStudio.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.047321625,
+                    "path": "Queen.of.the.South.S03.720p.SunshineStudio/Queen.of.the.South.S03E04.720p.SunshineStudio.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.023132401,
+                    "path": "Queen.of.the.South.S03.720p.SunshineStudio/Queen.of.the.South.S03E08.720p.SunshineStudio.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 0.976384348,
+                    "path": "Queen.of.the.South.S03.720p.SunshineStudio/Queen.of.the.South.S03E03.720p.SunshineStudio.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.939016242,
+                    "path": "Queen.of.the.South.S03.720p.SunshineStudio/Queen.of.the.South.S03E05.720p.SunshineStudio.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.930313336,
+                    "path": "Queen.of.the.South.S03.720p.SunshineStudio/Queen.of.the.South.S03E01.720p.SunshineStudio.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 0.910819685,
+                    "path": "Queen.of.the.South.S03.720p.SunshineStudio/Queen.of.the.South.S03E13.720p.SunshineStudio.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 0.906349393,
+                    "path": "Queen.of.the.South.S03.720p.SunshineStudio/Queen.of.the.South.S03E11.720p.SunshineStudio.mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 0.863456441,
+                    "path": "Queen.of.the.South.S03.720p.SunshineStudio/Queen.of.the.South.S03E02.720p.SunshineStudio.mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 0.836481565,
+                    "path": "Queen.of.the.South.S03.720p.SunshineStudio/Queen.of.the.South.S03E07.720p.SunshineStudio.mkv"
+                },
+                {
+                    "number": 11,
+                    "size": 0.768732912,
+                    "path": "Queen.of.the.South.S03.720p.SunshineStudio/Queen.of.the.South.S03E06.720p.SunshineStudio.mkv"
+                },
+                {
+                    "number": 12,
+                    "size": 0.766135372,
+                    "path": "Queen.of.the.South.S03.720p.SunshineStudio/Queen.of.the.South.S03E10.720p.SunshineStudio.mkv"
+                },
+                {
+                    "number": 13,
+                    "size": 0.755117811,
+                    "path": "Queen.of.the.South.S03.720p.SunshineStudio/Queen.of.the.South.S03E12.720p.SunshineStudio.mkv"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "[rutor.is]Queen.of.the.South.S03.HDTV.720p.Jaskier_",
+            "size_total": 13.164034584,
+            "files_total": 13,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.047473111,
+                    "path": "Queen.of.the.South Season 3 (HDTVRip l 720p l Jaskier)/Queen.of.the.South.S03E01.HDTV.720p.Jaskier.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.036284531,
+                    "path": "Queen.of.the.South Season 3 (HDTVRip l 720p l Jaskier)/Queen.of.the.South.S03E02.HDTV.720p.Jaskier.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.058324491,
+                    "path": "Queen.of.the.South Season 3 (HDTVRip l 720p l Jaskier)/Queen.of.the.South.S03E03.HDTV.720p.Jaskier.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.025747184,
+                    "path": "Queen.of.the.South Season 3 (HDTVRip l 720p l Jaskier)/Queen.of.the.South.S03E04.HDTV.720p.Jaskier.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.968490661,
+                    "path": "Queen.of.the.South Season 3 (HDTVRip l 720p l Jaskier)/Queen.of.the.South.S03E05.HDTV.720p.Jaskier.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 1.024659729,
+                    "path": "Queen.of.the.South Season 3 (HDTVRip l 720p l Jaskier)/Queen.of.the.South.S03E06.HDTV.720p.Jaskier.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 0.957731407,
+                    "path": "Queen.of.the.South Season 3 (HDTVRip l 720p l Jaskier)/Queen.of.the.South.S03E07.HDTV.720p.Jaskier.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 1.059838697,
+                    "path": "Queen.of.the.South Season 3 (HDTVRip l 720p l Jaskier)/Queen.of.the.South.S03E08.HDTV.720p.Jaskier.mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 0.987294213,
+                    "path": "Queen.of.the.South Season 3 (HDTVRip l 720p l Jaskier)/Queen.of.the.South.S03E09.HDTV.720p.Jaskier.mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 1.016010289,
+                    "path": "Queen.of.the.South Season 3 (HDTVRip l 720p l Jaskier)/Queen.of.the.South.S03E10.HDTV.720p.Jaskier.mkv"
+                },
+                {
+                    "number": 11,
+                    "size": 1.0200309,
+                    "path": "Queen.of.the.South Season 3 (HDTVRip l 720p l Jaskier)/Queen.of.the.South.S03E11.HDTV.720p.Jaskier.mkv"
+                },
+                {
+                    "number": 12,
+                    "size": 0.992880226,
+                    "path": "Queen.of.the.South Season 3 (HDTVRip l 720p l Jaskier)/Queen.of.the.South.S03E12.HDTV.720p.Jaskier.mkv"
+                },
+                {
+                    "number": 13,
+                    "size": 0.969269145,
+                    "path": "Queen.of.the.South Season 3 (HDTVRip l 720p l Jaskier)/Queen.of.the.South.S03E13.HDTV.720p.Jaskier.mkv"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "[rutor.is]Queen.of.the.South.S03.HDTVRip.Jaskier_",
+            "size_total": 7.226261504,
+            "files_total": 13,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.533088256,
+                    "path": "Queen.of.the.South Season 3 (HDTVRip l 400p l Jaskier)/Queen.of.the.South.S03E01.HDTVRip.Jaskier.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.538384384,
+                    "path": "Queen.of.the.South Season 3 (HDTVRip l 400p l Jaskier)/Queen.of.the.South.S03E02.HDTVRip.Jaskier.avi"
+                },
+                {
+                    "number": 3,
+                    "size": 0.557305856,
+                    "path": "Queen.of.the.South Season 3 (HDTVRip l 400p l Jaskier)/Queen.of.the.South.S03E03.HDTVRip.Jaskier.avi"
+                },
+                {
+                    "number": 4,
+                    "size": 0.55753728,
+                    "path": "Queen.of.the.South Season 3 (HDTVRip l 400p l Jaskier)/Queen.of.the.South.S03E04.HDTVRip.Jaskier.avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.55579648,
+                    "path": "Queen.of.the.South Season 3 (HDTVRip l 400p l Jaskier)/Queen.of.the.South.S03E05.HDTVRip.Jaskier.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.555669504,
+                    "path": "Queen.of.the.South Season 3 (HDTVRip l 400p l Jaskier)/Queen.of.the.South.S03E06.HDTVRip.Jaskier.avi"
+                },
+                {
+                    "number": 7,
+                    "size": 0.5573632,
+                    "path": "Queen.of.the.South Season 3 (HDTVRip l 400p l Jaskier)/Queen.of.the.South.S03E07.HDTVRip.Jaskier.avi"
+                },
+                {
+                    "number": 8,
+                    "size": 0.556910592,
+                    "path": "Queen.of.the.South Season 3 (HDTVRip l 400p l Jaskier)/Queen.of.the.South.S03E08.HDTVRip.Jaskier.avi"
+                },
+                {
+                    "number": 9,
+                    "size": 0.557717504,
+                    "path": "Queen.of.the.South Season 3 (HDTVRip l 400p l Jaskier)/Queen.of.the.South.S03E09.HDTVRip.Jaskier.avi"
+                },
+                {
+                    "number": 10,
+                    "size": 0.57181184,
+                    "path": "Queen.of.the.South Season 3 (HDTVRip l 400p l Jaskier)/Queen.of.the.South.S03E10.HDTVRip.Jaskier.avi"
+                },
+                {
+                    "number": 11,
+                    "size": 0.578082816,
+                    "path": "Queen.of.the.South Season 3 (HDTVRip l 400p l Jaskier)/Queen.of.the.South.S03E11.HDTVRip.Jaskier.avi"
+                },
+                {
+                    "number": 12,
+                    "size": 0.555237376,
+                    "path": "Queen.of.the.South Season 3 (HDTVRip l 400p l Jaskier)/Queen.of.the.South.S03E12.HDTVRip.Jaskier.avi"
+                },
+                {
+                    "number": 13,
+                    "size": 0.551356416,
+                    "path": "Queen.of.the.South Season 3 (HDTVRip l 400p l Jaskier)/Queen.of.the.South.S03E13.HDTVRip.Jaskier.avi"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Queen of the South (2016) Season 3 S03 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros).0dfb32221a1fc525",
+            "size_total": 9.358399283,
+            "files_total": 13,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.765031903,
+                    "path": "Queen of the South (2016) Season 3 S03 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros)/Queen.of.the.South.S03E01.La.Ermitaña.1080p.10bit.AMZN.WEB-DL.AAC5.1.HEVC-Vyndros.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.701400048,
+                    "path": "Queen of the South (2016) Season 3 S03 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros)/Queen.of.the.South.S03E02.El.Colgado.1080p.10bit.AMZN.WEB-DL.AAC5.1.HEVC-Vyndros.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.807725344,
+                    "path": "Queen of the South (2016) Season 3 S03 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros)/Queen.of.the.South.S03E03.Reina.de.Oros.1080p.10bit.AMZN.WEB-DL.AAC5.1.HEVC-Vyndros.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 0.819727596,
+                    "path": "Queen of the South (2016) Season 3 S03 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros)/Queen.of.the.South.S03E04.La.Fuerza.1080p.10bit.AMZN.WEB-DL.AAC5.1.HEVC-Vyndros.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.640619953,
+                    "path": "Queen of the South (2016) Season 3 S03 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros)/Queen.of.the.South.S03E05.El.Juicio.1080p.10bit.AMZN.WEB-DL.AAC5.1.HEVC-Vyndros.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.700640311,
+                    "path": "Queen of the South (2016) Season 3 S03 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros)/Queen.of.the.South.S03E06.Los.Enamorados.1080p.10bit.AMZN.WEB-DL.AAC5.1.HEVC-Vyndros.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 0.634873196,
+                    "path": "Queen of the South (2016) Season 3 S03 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros)/Queen.of.the.South.S03E07.Reina.de.Espadas.1080p.10bit.AMZN.WEB-DL.AAC5.1.HEVC-Vyndros.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 0.749385867,
+                    "path": "Queen of the South (2016) Season 3 S03 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros)/Queen.of.the.South.S03E08.El.Carro.1080p.10bit.AMZN.WEB-DL.AAC5.1.HEVC-Vyndros.mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 0.739742862,
+                    "path": "Queen of the South (2016) Season 3 S03 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros)/Queen.of.the.South.S03E09.El.Diablo.1080p.10bit.AMZN.WEB-DL.AAC5.1.HEVC-Vyndros.mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 0.675698217,
+                    "path": "Queen of the South (2016) Season 3 S03 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros)/Queen.of.the.South.S03E10.La.Muerte.1080p.10bit.AMZN.WEB-DL.AAC5.1.HEVC-Vyndros.mkv"
+                },
+                {
+                    "number": 11,
+                    "size": 0.720776801,
+                    "path": "Queen of the South (2016) Season 3 S03 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros)/Queen.of.the.South.S03E11.Diez.de.Copas.1080p.10bit.AMZN.WEB-DL.AAC5.1.HEVC-Vyndros.mkv"
+                },
+                {
+                    "number": 12,
+                    "size": 0.727431825,
+                    "path": "Queen of the South (2016) Season 3 S03 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros)/Queen.of.the.South.S03E12.Justicia.1080p.10bit.AMZN.WEB-DL.AAC5.1.HEVC-Vyndros.mkv"
+                },
+                {
+                    "number": 13,
+                    "size": 0.67534536,
+                    "path": "Queen of the South (2016) Season 3 S03 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros)/Queen.of.the.South.S03E13.El.Mundo.1080p.10bit.AMZN.WEB-DL.AAC5.1.HEVC-Vyndros.mkv"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Queen of the South Season 3.cd9aba39fb5d36f6",
+            "size_total": 3.725072888,
+            "files_total": 15,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000002037,
+                    "path": "Queen of the South Season 3/Media Info.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 8.26e-7,
+                    "path": "Queen of the South Season 3/Original File Names.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.272450135,
+                    "path": "Queen of the South Season 3/S03E01 La Ermitaña.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 0.268458445,
+                    "path": "Queen of the South Season 3/S03E02 El Colgado.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.278778464,
+                    "path": "Queen of the South Season 3/S03E03 Reina De Oros.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.278920347,
+                    "path": "Queen of the South Season 3/S03E04 La Fuerza.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 0.234478065,
+                    "path": "Queen of the South Season 3/S03E05 El Juicio.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 0.254026742,
+                    "path": "Queen of the South Season 3/S03E06 Los Enamorados.mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 0.234900387,
+                    "path": "Queen of the South Season 3/S03E07 Reina De Espadas.mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 0.273076596,
+                    "path": "Queen of the South Season 3/S03E08 El Carro.mkv"
+                },
+                {
+                    "number": 11,
+                    "size": 0.619282184,
+                    "path": "Queen of the South Season 3/S03E09 El Diablo.mkv"
+                },
+                {
+                    "number": 12,
+                    "size": 0.254931389,
+                    "path": "Queen of the South Season 3/S03E10 La Muerte.mkv"
+                },
+                {
+                    "number": 13,
+                    "size": 0.257230874,
+                    "path": "Queen of the South Season 3/S03E11 Diez De Copas.mkv"
+                },
+                {
+                    "number": 14,
+                    "size": 0.254450633,
+                    "path": "Queen of the South Season 3/S03E12 Justicia.mkv"
+                },
+                {
+                    "number": 15,
+                    "size": 0.244085764,
+                    "path": "Queen of the South Season 3/S03E13 El Mundo.mkv"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Queen.Of.The.South.S03E12.1080p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.586522238,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.580448954,
+                    "path": "Queen.Of.The.South.S03E12.1080p.HEVC.x265-MeGusta/Queen.Of.The.South.S03E12.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001222,
+                    "path": "Queen.Of.The.South.S03E12.1080p.HEVC.x265-MeGusta/Queen.Of.The.South.S03E12.1080p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001640821,
+                    "path": "Queen.Of.The.South.S03E12.1080p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001980161,
+                    "path": "Queen.Of.The.South.S03E12.1080p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.001225293,
+                    "path": "Queen.Of.The.South.S03E12.1080p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.001225787,
+                    "path": "Queen.Of.The.South.S03E12.1080p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Queen.Of.The.South.S03E13.1080p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.572693402,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.56863299,
+                    "path": "Queen.Of.The.South.S03E13.1080p.HEVC.x265-MeGusta/Queen.Of.The.South.S03E13.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001222,
+                    "path": "Queen.Of.The.South.S03E13.1080p.HEVC.x265-MeGusta/Queen.Of.The.South.S03E13.1080p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001541089,
+                    "path": "Queen.Of.The.South.S03E13.1080p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001278032,
+                    "path": "Queen.Of.The.South.S03E13.1080p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.001223929,
+                    "path": "Queen.Of.The.South.S03E13.1080p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.00001614,
+                    "path": "Queen.Of.The.South.S03E13.1080p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Queen.Of.The.South.S03E13.1080p.WEB.x264-TBS [IPT]",
+            "size_total": 1.286397294,
+            "files_total": 28,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 5.6e-8,
+                    "path": "Queen.Of.The.South.S03E13.1080p.WEB.x264-TBS/queen.of.the.south.s03e13.1080p.web.x264-tbs.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.05,
+                    "path": "Queen.Of.The.South.S03E13.1080p.WEB.x264-TBS/queen.of.the.south.s03e13.1080p.web.x264-tbs.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.05,
+                    "path": "Queen.Of.The.South.S03E13.1080p.WEB.x264-TBS/queen.of.the.south.s03e13.1080p.web.x264-tbs.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.05,
+                    "path": "Queen.Of.The.South.S03E13.1080p.WEB.x264-TBS/queen.of.the.south.s03e13.1080p.web.x264-tbs.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.05,
+                    "path": "Queen.Of.The.South.S03E13.1080p.WEB.x264-TBS/queen.of.the.south.s03e13.1080p.web.x264-tbs.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.05,
+                    "path": "Queen.Of.The.South.S03E13.1080p.WEB.x264-TBS/queen.of.the.south.s03e13.1080p.web.x264-tbs.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.05,
+                    "path": "Queen.Of.The.South.S03E13.1080p.WEB.x264-TBS/queen.of.the.south.s03e13.1080p.web.x264-tbs.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.05,
+                    "path": "Queen.Of.The.South.S03E13.1080p.WEB.x264-TBS/queen.of.the.south.s03e13.1080p.web.x264-tbs.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.05,
+                    "path": "Queen.Of.The.South.S03E13.1080p.WEB.x264-TBS/queen.of.the.south.s03e13.1080p.web.x264-tbs.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.05,
+                    "path": "Queen.Of.The.South.S03E13.1080p.WEB.x264-TBS/queen.of.the.south.s03e13.1080p.web.x264-tbs.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.05,
+                    "path": "Queen.Of.The.South.S03E13.1080p.WEB.x264-TBS/queen.of.the.south.s03e13.1080p.web.x264-tbs.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.05,
+                    "path": "Queen.Of.The.South.S03E13.1080p.WEB.x264-TBS/queen.of.the.south.s03e13.1080p.web.x264-tbs.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.05,
+                    "path": "Queen.Of.The.South.S03E13.1080p.WEB.x264-TBS/queen.of.the.south.s03e13.1080p.web.x264-tbs.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.05,
+                    "path": "Queen.Of.The.South.S03E13.1080p.WEB.x264-TBS/queen.of.the.south.s03e13.1080p.web.x264-tbs.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.05,
+                    "path": "Queen.Of.The.South.S03E13.1080p.WEB.x264-TBS/queen.of.the.south.s03e13.1080p.web.x264-tbs.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.05,
+                    "path": "Queen.Of.The.South.S03E13.1080p.WEB.x264-TBS/queen.of.the.south.s03e13.1080p.web.x264-tbs.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.05,
+                    "path": "Queen.Of.The.South.S03E13.1080p.WEB.x264-TBS/queen.of.the.south.s03e13.1080p.web.x264-tbs.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.05,
+                    "path": "Queen.Of.The.South.S03E13.1080p.WEB.x264-TBS/queen.of.the.south.s03e13.1080p.web.x264-tbs.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.05,
+                    "path": "Queen.Of.The.South.S03E13.1080p.WEB.x264-TBS/queen.of.the.south.s03e13.1080p.web.x264-tbs.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.05,
+                    "path": "Queen.Of.The.South.S03E13.1080p.WEB.x264-TBS/queen.of.the.south.s03e13.1080p.web.x264-tbs.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.05,
+                    "path": "Queen.Of.The.South.S03E13.1080p.WEB.x264-TBS/queen.of.the.south.s03e13.1080p.web.x264-tbs.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.05,
+                    "path": "Queen.Of.The.South.S03E13.1080p.WEB.x264-TBS/queen.of.the.south.s03e13.1080p.web.x264-tbs.r20"
+                },
+                {
+                    "number": 23,
+                    "size": 0.05,
+                    "path": "Queen.Of.The.South.S03E13.1080p.WEB.x264-TBS/queen.of.the.south.s03e13.1080p.web.x264-tbs.r21"
+                },
+                {
+                    "number": 24,
+                    "size": 0.05,
+                    "path": "Queen.Of.The.South.S03E13.1080p.WEB.x264-TBS/queen.of.the.south.s03e13.1080p.web.x264-tbs.r22"
+                },
+                {
+                    "number": 25,
+                    "size": 0.05,
+                    "path": "Queen.Of.The.South.S03E13.1080p.WEB.x264-TBS/queen.of.the.south.s03e13.1080p.web.x264-tbs.r23"
+                },
+                {
+                    "number": 26,
+                    "size": 0.036395704,
+                    "path": "Queen.Of.The.South.S03E13.1080p.WEB.x264-TBS/queen.of.the.south.s03e13.1080p.web.x264-tbs.r24"
+                },
+                {
+                    "number": 27,
+                    "size": 0.05,
+                    "path": "Queen.Of.The.South.S03E13.1080p.WEB.x264-TBS/queen.of.the.south.s03e13.1080p.web.x264-tbs.rar"
+                },
+                {
+                    "number": 28,
+                    "size": 0.000001534,
+                    "path": "Queen.Of.The.South.S03E13.1080p.WEB.x264-TBS/queen.of.the.south.s03e13.1080p.web.x264-tbs.sfv"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Queen.Of.The.South.S03E13.1080p.WEB.x264-TBS[rartv]-[rarbg.to]",
+            "size_total": 1.286392618,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Queen.Of.The.South.S03E13.1080p.WEB.x264-TBS[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.286392532,
+                    "path": "Queen.Of.The.South.S03E13.1080p.WEB.x264-TBS[rarbg]/queen.of.the.south.s03e13.1080p.web.x264-tbs.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 5.6e-8,
+                    "path": "Queen.Of.The.South.S03E13.1080p.WEB.x264-TBS[rarbg]/queen.of.the.south.s03e13.1080p.web.x264-tbs.nfo"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Queen.Of.The.South.S03E13.1080p.WEB.x264-TBS[TGx].48a861612036567b",
+            "size_total": 1.316614905,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.030218156,
+                    "path": "Queen.Of.The.South.S03E13.1080p.WEB.x264-TBS[TGx]/Sample/sample-queen.of.the.south.s03e13.1080p.web.x264-tbs.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 6.91e-7,
+                    "path": "Queen.Of.The.South.S03E13.1080p.WEB.x264-TBS[TGx]/[TGx]Downloaded from torrentgalaxy.org .txt"
+                },
+                {
+                    "number": 3,
+                    "size": 1.286392532,
+                    "path": "Queen.Of.The.South.S03E13.1080p.WEB.x264-TBS[TGx]/queen.of.the.south.s03e13.1080p.web.x264-tbs.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 5.6e-8,
+                    "path": "Queen.Of.The.South.S03E13.1080p.WEB.x264-TBS[TGx]/queen.of.the.south.s03e13.1080p.web.x264-tbs.nfo"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000001534,
+                    "path": "Queen.Of.The.South.S03E13.1080p.WEB.x264-TBS[TGx]/queen.of.the.south.s03e13.1080p.web.x264-tbs.sfv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001936,
+                    "path": "Queen.Of.The.South.S03E13.1080p.WEB.x264-TBS[TGx]/tvmaze.nfo"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "name": "Queen.of.the.South.S03E13.480p.x264-mSD [IPT]",
+            "size_total": 0.139780122,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.139397414,
+                    "path": "Queen.of.the.South.S03E13.480p.x264-mSD/Queen.of.the.South.S03E13.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001192,
+                    "path": "Queen.of.the.South.S03E13.480p.x264-mSD/Queen.of.the.South.S03E13.480p.x264-mSD.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000158125,
+                    "path": "Queen.of.the.South.S03E13.480p.x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000117461,
+                    "path": "Queen.of.the.South.S03E13.480p.x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000104465,
+                    "path": "Queen.of.the.South.S03E13.480p.x264-mSD/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001465,
+                    "path": "Queen.of.the.South.S03E13.480p.x264-mSD/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "name": "Queen.of.the.South.S03E13.720p.HDTV.x264-300MB.mkv.dbb5ee659c45e382",
+            "size_total": 0.318525146,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.318525146,
+                    "path": "Queen.of.the.South.S03E13.720p.HDTV.x264-300MB.mkv"
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "name": "Queen.of.the.South.S03E13.720p.HDTV.x264-KILLERS [IPT]",
+            "size_total": 0.84956,
+            "files_total": 19,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.00001088,
+                    "path": "Queen.of.the.South.S03E13.720p.HDTV.x264-KILLERS/queen.of.the.south.s03e13.720p.hdtv.x264-killers.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.05,
+                    "path": "Queen.of.the.South.S03E13.720p.HDTV.x264-KILLERS/queen.of.the.south.s03e13.720p.hdtv.x264-killers.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.05,
+                    "path": "Queen.of.the.South.S03E13.720p.HDTV.x264-KILLERS/queen.of.the.south.s03e13.720p.hdtv.x264-killers.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.05,
+                    "path": "Queen.of.the.South.S03E13.720p.HDTV.x264-KILLERS/queen.of.the.south.s03e13.720p.hdtv.x264-killers.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.05,
+                    "path": "Queen.of.the.South.S03E13.720p.HDTV.x264-KILLERS/queen.of.the.south.s03e13.720p.hdtv.x264-killers.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.05,
+                    "path": "Queen.of.the.South.S03E13.720p.HDTV.x264-KILLERS/queen.of.the.south.s03e13.720p.hdtv.x264-killers.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.05,
+                    "path": "Queen.of.the.South.S03E13.720p.HDTV.x264-KILLERS/queen.of.the.south.s03e13.720p.hdtv.x264-killers.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.05,
+                    "path": "Queen.of.the.South.S03E13.720p.HDTV.x264-KILLERS/queen.of.the.south.s03e13.720p.hdtv.x264-killers.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.05,
+                    "path": "Queen.of.the.South.S03E13.720p.HDTV.x264-KILLERS/queen.of.the.south.s03e13.720p.hdtv.x264-killers.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.05,
+                    "path": "Queen.of.the.South.S03E13.720p.HDTV.x264-KILLERS/queen.of.the.south.s03e13.720p.hdtv.x264-killers.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.05,
+                    "path": "Queen.of.the.South.S03E13.720p.HDTV.x264-KILLERS/queen.of.the.south.s03e13.720p.hdtv.x264-killers.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.05,
+                    "path": "Queen.of.the.South.S03E13.720p.HDTV.x264-KILLERS/queen.of.the.south.s03e13.720p.hdtv.x264-killers.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.05,
+                    "path": "Queen.of.the.South.S03E13.720p.HDTV.x264-KILLERS/queen.of.the.south.s03e13.720p.hdtv.x264-killers.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.05,
+                    "path": "Queen.of.the.South.S03E13.720p.HDTV.x264-KILLERS/queen.of.the.south.s03e13.720p.hdtv.x264-killers.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.05,
+                    "path": "Queen.of.the.South.S03E13.720p.HDTV.x264-KILLERS/queen.of.the.south.s03e13.720p.hdtv.x264-killers.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.05,
+                    "path": "Queen.of.the.South.S03E13.720p.HDTV.x264-KILLERS/queen.of.the.south.s03e13.720p.hdtv.x264-killers.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.049548049,
+                    "path": "Queen.of.the.South.S03E13.720p.HDTV.x264-KILLERS/queen.of.the.south.s03e13.720p.hdtv.x264-killers.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.05,
+                    "path": "Queen.of.the.South.S03E13.720p.HDTV.x264-KILLERS/queen.of.the.south.s03e13.720p.hdtv.x264-killers.rar"
+                },
+                {
+                    "number": 19,
+                    "size": 0.000001071,
+                    "path": "Queen.of.the.South.S03E13.720p.HDTV.x264-KILLERS/queen.of.the.south.s03e13.720p.hdtv.x264-killers.sfv"
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "name": "Queen.of.the.South.S03E13.720p.HDTV.x264-KILLERS[eztv].mkv",
+            "size_total": 0.849545907,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.849545907,
+                    "path": "Queen.of.the.South.S03E13.720p.HDTV.x264-KILLERS[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "name": "Queen.of.the.South.S03E13.720p.HDTV.x264-KILLERS[rartv]-[rarbg.to]",
+            "size_total": 0.849556817,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.849545907,
+                    "path": "Queen.of.the.South.S03E13.720p.HDTV.x264-KILLERS[rarbg]/Queen.of.the.South.S03E13.720p.HDTV.x264-KILLERS.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Queen.of.the.South.S03E13.720p.HDTV.x264-KILLERS[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00001088,
+                    "path": "Queen.of.the.South.S03E13.720p.HDTV.x264-KILLERS[rarbg]/queen.of.the.south.s03e13.720p.hdtv.x264-killers.nfo"
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "name": "Queen.of.the.South.S03E13.El.Mundo.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb [IPT]",
+            "size_total": 2.394618151,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.387234466,
+                    "path": "Queen.of.the.South.S03E13.El.Mundo.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb/Queen.of.the.South.S03E13.El.Mundo.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001599,
+                    "path": "Queen.of.the.South.S03E13.El.Mundo.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb/Queen.of.the.South.S03E13.El.Mundo.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001839003,
+                    "path": "Queen.of.the.South.S03E13.El.Mundo.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001058205,
+                    "path": "Queen.of.the.South.S03E13.El.Mundo.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.002549866,
+                    "path": "Queen.of.the.South.S03E13.El.Mundo.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.001935012,
+                    "path": "Queen.of.the.South.S03E13.El.Mundo.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "name": "Queen.of.the.South.S03E13.El.Mundo.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx].b3e6486ffed497fb",
+            "size_total": 2.394618842,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.387234466,
+                    "path": "Queen.of.the.South.S03E13.El.Mundo.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]/Queen.of.the.South.S03E13.El.Mundo.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001599,
+                    "path": "Queen.of.the.South.S03E13.El.Mundo.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]/Queen.of.the.South.S03E13.El.Mundo.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001839003,
+                    "path": "Queen.of.the.South.S03E13.El.Mundo.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001058205,
+                    "path": "Queen.of.the.South.S03E13.El.Mundo.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.002549866,
+                    "path": "Queen.of.the.South.S03E13.El.Mundo.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.001935012,
+                    "path": "Queen.of.the.South.S03E13.El.Mundo.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]/Screens/screen0004.png"
+                },
+                {
+                    "number": 7,
+                    "size": 6.91e-7,
+                    "path": "Queen.of.the.South.S03E13.El.Mundo.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]/[TGx]Downloaded from torrentgalaxy.org .txt"
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "name": "Queen.of.the.South.S03E13.El.Mundo.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]-[rarbg.to]",
+            "size_total": 2.387234496,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.387234466,
+                    "path": "Queen.of.the.South.S03E13.El.Mundo.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/Queen.of.the.South.S03E13.El.Mundo.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Queen.of.the.South.S03E13.El.Mundo.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG.txt"
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "name": "Queen.of.the.South.S03E13.El.Mundo.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]-[rarbg.to]",
+            "size_total": 0.734973128,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.734973098,
+                    "path": "Queen.of.the.South.S03E13.El.Mundo.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/Queen.of.the.South.S03E13.El.Mundo.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Queen.of.the.South.S03E13.El.Mundo.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG.txt"
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "name": "Queen.of.the.South.S03E13.HDTV.x264-KILLERS [IPT]",
+            "size_total": 0.244099679,
+            "files_total": 19,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000010872,
+                    "path": "Queen.of.the.South.S03E13.HDTV.x264-KILLERS/queen.of.the.south.s03e13.hdtv.x264-killers.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.015,
+                    "path": "Queen.of.the.South.S03E13.HDTV.x264-KILLERS/queen.of.the.south.s03e13.hdtv.x264-killers.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.015,
+                    "path": "Queen.of.the.South.S03E13.HDTV.x264-KILLERS/queen.of.the.south.s03e13.hdtv.x264-killers.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.015,
+                    "path": "Queen.of.the.South.S03E13.HDTV.x264-KILLERS/queen.of.the.south.s03e13.hdtv.x264-killers.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.015,
+                    "path": "Queen.of.the.South.S03E13.HDTV.x264-KILLERS/queen.of.the.south.s03e13.hdtv.x264-killers.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.015,
+                    "path": "Queen.of.the.South.S03E13.HDTV.x264-KILLERS/queen.of.the.south.s03e13.hdtv.x264-killers.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.015,
+                    "path": "Queen.of.the.South.S03E13.HDTV.x264-KILLERS/queen.of.the.south.s03e13.hdtv.x264-killers.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.015,
+                    "path": "Queen.of.the.South.S03E13.HDTV.x264-KILLERS/queen.of.the.south.s03e13.hdtv.x264-killers.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.015,
+                    "path": "Queen.of.the.South.S03E13.HDTV.x264-KILLERS/queen.of.the.south.s03e13.hdtv.x264-killers.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.015,
+                    "path": "Queen.of.the.South.S03E13.HDTV.x264-KILLERS/queen.of.the.south.s03e13.hdtv.x264-killers.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.015,
+                    "path": "Queen.of.the.South.S03E13.HDTV.x264-KILLERS/queen.of.the.south.s03e13.hdtv.x264-killers.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.015,
+                    "path": "Queen.of.the.South.S03E13.HDTV.x264-KILLERS/queen.of.the.south.s03e13.hdtv.x264-killers.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.015,
+                    "path": "Queen.of.the.South.S03E13.HDTV.x264-KILLERS/queen.of.the.south.s03e13.hdtv.x264-killers.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.015,
+                    "path": "Queen.of.the.South.S03E13.HDTV.x264-KILLERS/queen.of.the.south.s03e13.hdtv.x264-killers.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.015,
+                    "path": "Queen.of.the.South.S03E13.HDTV.x264-KILLERS/queen.of.the.south.s03e13.hdtv.x264-killers.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.015,
+                    "path": "Queen.of.the.South.S03E13.HDTV.x264-KILLERS/queen.of.the.south.s03e13.hdtv.x264-killers.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.004087821,
+                    "path": "Queen.of.the.South.S03E13.HDTV.x264-KILLERS/queen.of.the.south.s03e13.hdtv.x264-killers.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.015,
+                    "path": "Queen.of.the.South.S03E13.HDTV.x264-KILLERS/queen.of.the.south.s03e13.hdtv.x264-killers.rar"
+                },
+                {
+                    "number": 19,
+                    "size": 9.86e-7,
+                    "path": "Queen.of.the.South.S03E13.HDTV.x264-KILLERS/queen.of.the.south.s03e13.hdtv.x264-killers.sfv"
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "name": "Queen.of.the.South.S03E13.HDTV.x264-KILLERS[eztv].mkv",
+            "size_total": 0.244085764,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.244085764,
+                    "path": "Queen.of.the.South.S03E13.HDTV.x264-KILLERS[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "name": "Queen.of.the.South.S03E13.HDTV.x264-KILLERS[rartv]-[rarbg.to]",
+            "size_total": 0.244096666,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.244085764,
+                    "path": "Queen.of.the.South.S03E13.HDTV.x264-KILLERS[rarbg]/Queen.of.the.South.S03E13.HDTV.x264-KILLERS.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Queen.of.the.South.S03E13.HDTV.x264-KILLERS[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000010872,
+                    "path": "Queen.of.the.South.S03E13.HDTV.x264-KILLERS[rarbg]/queen.of.the.south.s03e13.hdtv.x264-killers.nfo"
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "name": "Queen.Of.The.South.S03E13.iNTERNAL.480p.x264-mSD [IPT]",
+            "size_total": 0.148505636,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.148077929,
+                    "path": "Queen.Of.The.South.S03E13.iNTERNAL.480p.x264-mSD/Queen.Of.The.South.S03E13.iNTERNAL.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001207,
+                    "path": "Queen.Of.The.South.S03E13.iNTERNAL.480p.x264-mSD/Queen.Of.The.South.S03E13.iNTERNAL.480p.x264-mSD.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000178483,
+                    "path": "Queen.Of.The.South.S03E13.iNTERNAL.480p.x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000131537,
+                    "path": "Queen.Of.The.South.S03E13.iNTERNAL.480p.x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000113469,
+                    "path": "Queen.Of.The.South.S03E13.iNTERNAL.480p.x264-mSD/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000003011,
+                    "path": "Queen.Of.The.South.S03E13.iNTERNAL.480p.x264-mSD/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "name": "Queen.Of.The.South.S03E13.iNTERNAL.720p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.213520377,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.210944918,
+                    "path": "Queen.Of.The.South.S03E13.iNTERNAL.720p.HEVC.x265-MeGusta/Queen.Of.The.South.S03E13.iNTERNAL.720p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001215,
+                    "path": "Queen.Of.The.South.S03E13.iNTERNAL.720p.HEVC.x265-MeGusta/Queen.Of.The.South.S03E13.iNTERNAL.720p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000281048,
+                    "path": "Queen.Of.The.South.S03E13.iNTERNAL.720p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000953019,
+                    "path": "Queen.Of.The.South.S03E13.iNTERNAL.720p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000723533,
+                    "path": "Queen.Of.The.South.S03E13.iNTERNAL.720p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000616644,
+                    "path": "Queen.Of.The.South.S03E13.iNTERNAL.720p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "name": "Queen.Of.The.South.S03E13.iNTERNAL.720p.WEB.x264-BAMBOOZLE [IPT]",
+            "size_total": 0.817066155,
+            "files_total": 19,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 7e-8,
+                    "path": "Queen.Of.The.South.S03E13.iNTERNAL.720p.WEB.x264-BAMBOOZLE/queen.of.the.south.s03e13.internal.720p.web.x264-bamboozle.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.05,
+                    "path": "Queen.Of.The.South.S03E13.iNTERNAL.720p.WEB.x264-BAMBOOZLE/queen.of.the.south.s03e13.internal.720p.web.x264-bamboozle.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.05,
+                    "path": "Queen.Of.The.South.S03E13.iNTERNAL.720p.WEB.x264-BAMBOOZLE/queen.of.the.south.s03e13.internal.720p.web.x264-bamboozle.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.05,
+                    "path": "Queen.Of.The.South.S03E13.iNTERNAL.720p.WEB.x264-BAMBOOZLE/queen.of.the.south.s03e13.internal.720p.web.x264-bamboozle.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.05,
+                    "path": "Queen.Of.The.South.S03E13.iNTERNAL.720p.WEB.x264-BAMBOOZLE/queen.of.the.south.s03e13.internal.720p.web.x264-bamboozle.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.05,
+                    "path": "Queen.Of.The.South.S03E13.iNTERNAL.720p.WEB.x264-BAMBOOZLE/queen.of.the.south.s03e13.internal.720p.web.x264-bamboozle.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.05,
+                    "path": "Queen.Of.The.South.S03E13.iNTERNAL.720p.WEB.x264-BAMBOOZLE/queen.of.the.south.s03e13.internal.720p.web.x264-bamboozle.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.05,
+                    "path": "Queen.Of.The.South.S03E13.iNTERNAL.720p.WEB.x264-BAMBOOZLE/queen.of.the.south.s03e13.internal.720p.web.x264-bamboozle.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.05,
+                    "path": "Queen.Of.The.South.S03E13.iNTERNAL.720p.WEB.x264-BAMBOOZLE/queen.of.the.south.s03e13.internal.720p.web.x264-bamboozle.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.05,
+                    "path": "Queen.Of.The.South.S03E13.iNTERNAL.720p.WEB.x264-BAMBOOZLE/queen.of.the.south.s03e13.internal.720p.web.x264-bamboozle.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.05,
+                    "path": "Queen.Of.The.South.S03E13.iNTERNAL.720p.WEB.x264-BAMBOOZLE/queen.of.the.south.s03e13.internal.720p.web.x264-bamboozle.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.05,
+                    "path": "Queen.Of.The.South.S03E13.iNTERNAL.720p.WEB.x264-BAMBOOZLE/queen.of.the.south.s03e13.internal.720p.web.x264-bamboozle.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.05,
+                    "path": "Queen.Of.The.South.S03E13.iNTERNAL.720p.WEB.x264-BAMBOOZLE/queen.of.the.south.s03e13.internal.720p.web.x264-bamboozle.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.05,
+                    "path": "Queen.Of.The.South.S03E13.iNTERNAL.720p.WEB.x264-BAMBOOZLE/queen.of.the.south.s03e13.internal.720p.web.x264-bamboozle.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.05,
+                    "path": "Queen.Of.The.South.S03E13.iNTERNAL.720p.WEB.x264-BAMBOOZLE/queen.of.the.south.s03e13.internal.720p.web.x264-bamboozle.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.05,
+                    "path": "Queen.Of.The.South.S03E13.iNTERNAL.720p.WEB.x264-BAMBOOZLE/queen.of.the.south.s03e13.internal.720p.web.x264-bamboozle.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.017064844,
+                    "path": "Queen.Of.The.South.S03E13.iNTERNAL.720p.WEB.x264-BAMBOOZLE/queen.of.the.south.s03e13.internal.720p.web.x264-bamboozle.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.05,
+                    "path": "Queen.Of.The.South.S03E13.iNTERNAL.720p.WEB.x264-BAMBOOZLE/queen.of.the.south.s03e13.internal.720p.web.x264-bamboozle.rar"
+                },
+                {
+                    "number": 19,
+                    "size": 0.000001241,
+                    "path": "Queen.Of.The.South.S03E13.iNTERNAL.720p.WEB.x264-BAMBOOZLE/queen.of.the.south.s03e13.internal.720p.web.x264-bamboozle.sfv"
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "name": "Queen.Of.The.South.S03E13.iNTERNAL.720p.WEB.x264-BAMBOOZLE[rartv]-[rarbg.to]",
+            "size_total": 0.817062632,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Queen.Of.The.South.S03E13.iNTERNAL.720p.WEB.x264-BAMBOOZLE[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.817062532,
+                    "path": "Queen.Of.The.South.S03E13.iNTERNAL.720p.WEB.x264-BAMBOOZLE[rarbg]/queen.of.the.south.s03e13.internal.720p.web.x264-bamboozle.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 7e-8,
+                    "path": "Queen.Of.The.South.S03E13.iNTERNAL.720p.WEB.x264-BAMBOOZLE[rarbg]/queen.of.the.south.s03e13.internal.720p.web.x264-bamboozle.nfo"
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "name": "Queen.of.the.South.S03E13.WEBRip.x264-ION10-[rarbg.to]",
+            "size_total": 0.424079989,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.424036079,
+                    "path": "Queen.of.the.South.S03E13.WEBRip.x264-ION10/Queen.of.the.South.S03E13.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Queen.of.the.South.S03E13.WEBRip.x264-ION10/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00004388,
+                    "path": "Queen.of.the.South.S03E13.WEBRip.x264-ION10/Subs/2_Eng.srt"
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "name": "Королева Юга Queen of the South Сезон 3 Серии 1-12 из 13 (Шарлотта Зилинг) [2018, США, Боевик, триллер, драма, WEB-DLRip] [rutracker-5580369]",
+            "size_total": 6.685435904,
+            "files_total": 12,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.557344768,
+                    "path": "Queen of the South. (Season 03). NewStudio/Queen.of.the.South.s03e01.WEB-DLRip.NewStudio.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.557119488,
+                    "path": "Queen of the South. (Season 03). NewStudio/Queen.of.the.South.s03e02.WEBDLRip.NewStudio.avi"
+                },
+                {
+                    "number": 3,
+                    "size": 0.55775232,
+                    "path": "Queen of the South. (Season 03). NewStudio/Queen.of.the.South.s03e03.WEBDLRip.NewStudio.avi"
+                },
+                {
+                    "number": 4,
+                    "size": 0.557582336,
+                    "path": "Queen of the South. (Season 03). NewStudio/Queen.of.the.South.s03e04.WEBDLRip.NewStudio.avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.558278656,
+                    "path": "Queen of the South. (Season 03). NewStudio/Queen.of.the.South.s03e05.WEBDLRip.NewStudio.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.556693504,
+                    "path": "Queen of the South. (Season 03). NewStudio/Queen.of.the.South.s03e06.WEBDLRip.NewStudio.avi"
+                },
+                {
+                    "number": 7,
+                    "size": 0.555608064,
+                    "path": "Queen of the South. (Season 03). NewStudio/Queen.of.the.South.s03e07.WEBDLRip.NewStudio.avi"
+                },
+                {
+                    "number": 8,
+                    "size": 0.557236224,
+                    "path": "Queen of the South. (Season 03). NewStudio/Queen.of.the.South.s03e08.WEBDLRip.NewStudio.avi"
+                },
+                {
+                    "number": 9,
+                    "size": 0.557225984,
+                    "path": "Queen of the South. (Season 03). NewStudio/Queen.of.the.South.s03e09.WEBDLRip.NewStudio.avi"
+                },
+                {
+                    "number": 10,
+                    "size": 0.556460032,
+                    "path": "Queen of the South. (Season 03). NewStudio/Queen.of.the.South.s03e10.WEBDLRip.NewStudio.avi"
+                },
+                {
+                    "number": 11,
+                    "size": 0.557084672,
+                    "path": "Queen of the South. (Season 03). NewStudio/Queen.of.the.South.s03e11.WEBDLRip.NewStudio.avi"
+                },
+                {
+                    "number": 12,
+                    "size": 0.557049856,
+                    "path": "Queen of the South. (Season 03). NewStudio/Queen.of.the.South.s03e12.WEBDLRip.NewStudio.avi"
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "name": "Королева Юга Queen of the South Сезон 3 Серии 1-8 из 13 (Шарлотта Зилинг) [2018, США, Боевик, триллер, драма, WEBRip 720p] [rutracker-5582173]",
+            "size_total": 7.402264753,
+            "files_total": 8,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.058332122,
+                    "path": "Queen of the south S03 (2018) 720p WEBRip (Gears Media)/Queen of the south S03E03 (2018) 720p WEBRip (Gears Media).mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.9562579,
+                    "path": "Queen of the south S03 (2018) 720p WEBRip (Gears Media)/Queen of the south S03E08 (2018) 720p WEBRip (Gears Media).mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.948973397,
+                    "path": "Queen of the south S03 (2018) 720p WEBRip (Gears Media)/Queen of the south S03E06 (2018) 720p WEBRip (Gears Media).mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 0.948076611,
+                    "path": "Queen of the south S03 (2018) 720p WEBRip (Gears Media)/Queen of the south S03E04 (2018) 720p WEBRip (Gears Media).mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.917175714,
+                    "path": "Queen of the south S03 (2018) 720p WEBRip (Gears Media)/Queen of the south S03E02 (2018) 720p WEBRip (Gears Media).mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.902774198,
+                    "path": "Queen of the south S03 (2018) 720p WEBRip (Gears Media)/Queen of the south S03E01 (2018) 720p WEBRip (Gears Media).mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 0.843389357,
+                    "path": "Queen of the south S03 (2018) 720p WEBRip (Gears Media)/Queen of the south S03E05 (2018) 720p WEBRip (Gears Media).mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 0.827285454,
+                    "path": "Queen of the south S03 (2018) 720p WEBRip (Gears Media)/Queen of the south S03E07 (2018) 720p WEBRip (Gears Media).mkv"
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "name": "Королева юга Queen of the South Сезон 3 Серии 1-13 из 13 (Шарлотта Зилинг) [2018, США, Боевик, триллер, драма, HDTV 720p] [rutracker-5578845]",
+            "size_total": 13.164034584,
+            "files_total": 13,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.047473111,
+                    "path": "Queen.of.the.South Season 3 (HDTVRip l 720p l Jaskier)/Queen.of.the.South.S03E01.HDTV.720p.Jaskier.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.036284531,
+                    "path": "Queen.of.the.South Season 3 (HDTVRip l 720p l Jaskier)/Queen.of.the.South.S03E02.HDTV.720p.Jaskier.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.058324491,
+                    "path": "Queen.of.the.South Season 3 (HDTVRip l 720p l Jaskier)/Queen.of.the.South.S03E03.HDTV.720p.Jaskier.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.025747184,
+                    "path": "Queen.of.the.South Season 3 (HDTVRip l 720p l Jaskier)/Queen.of.the.South.S03E04.HDTV.720p.Jaskier.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.968490661,
+                    "path": "Queen.of.the.South Season 3 (HDTVRip l 720p l Jaskier)/Queen.of.the.South.S03E05.HDTV.720p.Jaskier.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 1.024659729,
+                    "path": "Queen.of.the.South Season 3 (HDTVRip l 720p l Jaskier)/Queen.of.the.South.S03E06.HDTV.720p.Jaskier.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 0.957731407,
+                    "path": "Queen.of.the.South Season 3 (HDTVRip l 720p l Jaskier)/Queen.of.the.South.S03E07.HDTV.720p.Jaskier.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 1.059838697,
+                    "path": "Queen.of.the.South Season 3 (HDTVRip l 720p l Jaskier)/Queen.of.the.South.S03E08.HDTV.720p.Jaskier.mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 0.987294213,
+                    "path": "Queen.of.the.South Season 3 (HDTVRip l 720p l Jaskier)/Queen.of.the.South.S03E09.HDTV.720p.Jaskier.mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 1.016010289,
+                    "path": "Queen.of.the.South Season 3 (HDTVRip l 720p l Jaskier)/Queen.of.the.South.S03E10.HDTV.720p.Jaskier.mkv"
+                },
+                {
+                    "number": 11,
+                    "size": 1.0200309,
+                    "path": "Queen.of.the.South Season 3 (HDTVRip l 720p l Jaskier)/Queen.of.the.South.S03E11.HDTV.720p.Jaskier.mkv"
+                },
+                {
+                    "number": 12,
+                    "size": 0.992880226,
+                    "path": "Queen.of.the.South Season 3 (HDTVRip l 720p l Jaskier)/Queen.of.the.South.S03E12.HDTV.720p.Jaskier.mkv"
+                },
+                {
+                    "number": 13,
+                    "size": 0.969269145,
+                    "path": "Queen.of.the.South Season 3 (HDTVRip l 720p l Jaskier)/Queen.of.the.South.S03E13.HDTV.720p.Jaskier.mkv"
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "name": "Королева юга Queen of the South Сезон 3 Серии 1-13 из 13 (Шарлотта Зилинг) [2018, США, Боевик, триллер, драма, HDTVRip] MV [rutracker-5578844]",
+            "size_total": 7.226261504,
+            "files_total": 13,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.533088256,
+                    "path": "Queen.of.the.South Season 3 (HDTVRip l 400p l Jaskier)/Queen.of.the.South.S03E01.HDTVRip.Jaskier.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.538384384,
+                    "path": "Queen.of.the.South Season 3 (HDTVRip l 400p l Jaskier)/Queen.of.the.South.S03E02.HDTVRip.Jaskier.avi"
+                },
+                {
+                    "number": 3,
+                    "size": 0.557305856,
+                    "path": "Queen.of.the.South Season 3 (HDTVRip l 400p l Jaskier)/Queen.of.the.South.S03E03.HDTVRip.Jaskier.avi"
+                },
+                {
+                    "number": 4,
+                    "size": 0.55753728,
+                    "path": "Queen.of.the.South Season 3 (HDTVRip l 400p l Jaskier)/Queen.of.the.South.S03E04.HDTVRip.Jaskier.avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.55579648,
+                    "path": "Queen.of.the.South Season 3 (HDTVRip l 400p l Jaskier)/Queen.of.the.South.S03E05.HDTVRip.Jaskier.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.555669504,
+                    "path": "Queen.of.the.South Season 3 (HDTVRip l 400p l Jaskier)/Queen.of.the.South.S03E06.HDTVRip.Jaskier.avi"
+                },
+                {
+                    "number": 7,
+                    "size": 0.5573632,
+                    "path": "Queen.of.the.South Season 3 (HDTVRip l 400p l Jaskier)/Queen.of.the.South.S03E07.HDTVRip.Jaskier.avi"
+                },
+                {
+                    "number": 8,
+                    "size": 0.556910592,
+                    "path": "Queen.of.the.South Season 3 (HDTVRip l 400p l Jaskier)/Queen.of.the.South.S03E08.HDTVRip.Jaskier.avi"
+                },
+                {
+                    "number": 9,
+                    "size": 0.557717504,
+                    "path": "Queen.of.the.South Season 3 (HDTVRip l 400p l Jaskier)/Queen.of.the.South.S03E09.HDTVRip.Jaskier.avi"
+                },
+                {
+                    "number": 10,
+                    "size": 0.57181184,
+                    "path": "Queen.of.the.South Season 3 (HDTVRip l 400p l Jaskier)/Queen.of.the.South.S03E10.HDTVRip.Jaskier.avi"
+                },
+                {
+                    "number": 11,
+                    "size": 0.578082816,
+                    "path": "Queen.of.the.South Season 3 (HDTVRip l 400p l Jaskier)/Queen.of.the.South.S03E11.HDTVRip.Jaskier.avi"
+                },
+                {
+                    "number": 12,
+                    "size": 0.555237376,
+                    "path": "Queen.of.the.South Season 3 (HDTVRip l 400p l Jaskier)/Queen.of.the.South.S03E12.HDTVRip.Jaskier.avi"
+                },
+                {
+                    "number": 13,
+                    "size": 0.551356416,
+                    "path": "Queen.of.the.South Season 3 (HDTVRip l 400p l Jaskier)/Queen.of.the.South.S03E13.HDTVRip.Jaskier.avi"
+                }
+            ]
+        }
+    ],
+    "collection_cumulative_by_btiha": [
+        {
+            "id": 29,
+            "name": "Queen.of.the.South.S03E13.HDTV.x264-KILLERS[eztv].mkv",
+            "btih": "29b611cf69b85debcc2fd5b7edeac83a407cb682",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.244085764,
+            "creation": "2018-09-14T02:13:23.000000000Z,EZTV,Visit us: https://eztv.ag/ - Bitcoin: 1EZTVtpeNttqdDayh3D98nfQYybeZhu5YV",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 122670,
+            "uuploaders": 48530
+        },
+        {
+            "id": 41,
+            "name": "multi-btih-1-2-x-[rutor.is]Queen.of.the.South.S03.HDTVRip.Jaskier_",
+            "btih": "fd339fad09a331011f2f3128c5b46a4b0c3e4165",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 7.226261504,
+            "creation": "2018-09-16T10:20:04.000000000Z,uTorrent/2210,http://rutor.is/torrent/638436",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 71940,
+            "uuploaders": 1885
+        },
+        {
+            "id": 40,
+            "name": "multi-btih-0-2-x-[rutor.is]Queen.of.the.South.S03.HDTV.720p.Jaskier_",
+            "btih": "7156cc0f5880ccdeac9766f82d4db8e23a03cc74",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 13.164034584,
+            "creation": "2018-09-16T10:18:55.000000000Z,uTorrent/2210,http://rutor.is/torrent/638437",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 66745,
+            "uuploaders": 1167
+        },
+        {
+            "id": 30,
+            "name": "Queen.of.the.South.S03E13.HDTV.x264-KILLERS[rartv]-[rarbg.to]",
+            "btih": "38d325bf021677fd9b5b9654e1fbc6738f95c5bb",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.244096666,
+            "creation": "2018-09-14T02:03:23.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 61946,
+            "uuploaders": 7435
+        },
+        {
+            "id": 26,
+            "name": "Queen.of.the.South.S03E13.El.Mundo.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]-[rarbg.to]",
+            "btih": "682f9bfd7dd98d742854ed8680484fae8388bbaa",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.387234496,
+            "creation": "2018-09-14T13:34:37.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 60399,
+            "uuploaders": 2676
+        },
+        {
+            "id": 2,
+            "name": "3d69-Queen.of.the.South.S03E13.HDTV.x264-KILLERS[ettv]",
+            "btih": "9ca3af5bee5970593ae895cb96b3d094a51b8075",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.244085963,
+            "creation": "2018-09-14T02:08:08.000000000Z,mktorrent 1.0",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 59925,
+            "uuploaders": 20583
+        },
+        {
+            "id": 22,
+            "name": "Queen.of.the.South.S03E13.720p.HDTV.x264-KILLERS[eztv].mkv",
+            "btih": "62604d405fdac02589d0107cda70f1443c4a173a",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.849545907,
+            "creation": "2018-09-14T02:11:29.000000000Z,EZTV,Visit us: https://eztv.ag/ - Bitcoin: 1EZTVtpeNttqdDayh3D98nfQYybeZhu5YV",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 53340,
+            "uuploaders": 11971
+        },
+        {
+            "id": 20,
+            "name": "Queen.of.the.South.S03E13.720p.HDTV.x264-300MB.mkv.dbb5ee659c45e382",
+            "btih": "dbb5ee659c45e3829b7d54d1d5b0722c465836af",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.318525146,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 51856,
+            "uuploaders": 504
+        },
+        {
+            "id": 5,
+            "name": "[rutor.is]Queen.Of.The.South.S03.400p.ColdFilm",
+            "btih": "04d65658f1d30fe70dd58185b7da70a128104355",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 6.930211474,
+            "creation": "2018-09-14T09:45:53.000000000Z,uTorrent/2210,http://rutor.is/torrent/653217",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 51252,
+            "uuploaders": 1170
+        },
+        {
+            "id": 9,
+            "name": "[rutor.is]Queen.of.the.South.S03.720p.SunshineStudio_1",
+            "btih": "5bc179d3c885e11cd9607b190a88b17234ef89f5",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 11.978889686,
+            "creation": "2018-09-14T15:48:51.000000000Z,Sunny (koshara777.net),http://rutor.is/torrent/640587",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 50575,
+            "uuploaders": 823
+        },
+        {
+            "id": 34,
+            "name": "Queen.Of.The.South.S03E13.iNTERNAL.720p.WEB.x264-BAMBOOZLE[rartv]-[rarbg.to]",
+            "btih": "cf5e4c36c63c5e83cae69ddd4be9c436381ed0f8",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.817062632,
+            "creation": "2018-09-14T15:02:38.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 49992,
+            "uuploaders": 1296
+        },
+        {
+            "id": 37,
+            "name": "Королева Юга Queen of the South Сезон 3 Серии 1-8 из 13 (Шарлотта Зилинг) [2018, США, Боевик, триллер, драма, WEBRip 720p] [rutracker-5582173]",
+            "btih": "08eae6b01ab87a79b16c92c57cd8d455a32fbac3",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 7.402264753,
+            "creation": "2018-09-05T04:53:56.000000000Z,uTorrent/2210,https://rutracker.org/forum/viewtopic.php?t=5582173",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 46020,
+            "uuploaders": 125
+        },
+        {
+            "id": 17,
+            "name": "Queen.Of.The.South.S03E13.1080p.WEB.x264-TBS[rartv]-[rarbg.to]",
+            "btih": "7a80bc1e1d92d7c8d8670fa2f0fd70d8364533b3",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.286392618,
+            "creation": "2018-09-14T10:10:37.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 44880,
+            "uuploaders": 1531
+        },
+        {
+            "id": 12,
+            "name": "Queen of the South (2016) Season 3 S03 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros).0dfb32221a1fc525",
+            "btih": "0dfb32221a1fc52579eb2b70164ece8fa8687636",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 9.358399283,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 43625,
+            "uuploaders": 1196
+        },
+        {
+            "id": 23,
+            "name": "Queen.of.the.South.S03E13.720p.HDTV.x264-KILLERS[rartv]-[rarbg.to]",
+            "btih": "d3769ba1919f704668d912f904063d9aa6b16ecd",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.849556817,
+            "creation": "2018-09-14T02:03:14.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 42057,
+            "uuploaders": 4097
+        },
+        {
+            "id": 13,
+            "name": "Queen of the South Season 3.cd9aba39fb5d36f6",
+            "btih": "cd9aba39fb5d36f6c5e8a2f057c69724091046f5",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 3.725072888,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 41697,
+            "uuploaders": 3569
+        },
+        {
+            "id": 4,
+            "name": "[rutor.is]Queen.Of.The.South.S03.1080p.GostFilm",
+            "btih": "c7785ffda85f24157ed411c4b2b04db37422fd46",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 17.572550657,
+            "creation": "2018-09-14T13:44:22.000000000Z,uTorrent/3.5,http://rutor.is/torrent/653284",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 40783,
+            "uuploaders": 804
+        },
+        {
+            "id": 6,
+            "name": "[rutor.is]Queen.Of.The.South.S03.400p.GostFilm",
+            "btih": "af2812b107e5f8cd3d458d768f12295898a031ed",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 6.757342646,
+            "creation": "2018-09-14T13:29:56.000000000Z,uTorrent/3.5,http://rutor.is/torrent/653281",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 39272,
+            "uuploaders": 1278
+        },
+        {
+            "id": 8,
+            "name": "[rutor.is]Queen.Of.The.South.S03.720p.GostFilm",
+            "btih": "3a78994da5967b3234f620fd37ac3c1120db2773",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 13.840085553,
+            "creation": "2018-09-14T13:40:42.000000000Z,uTorrent/3.5,http://rutor.is/torrent/653282",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 37735,
+            "uuploaders": 661
+        },
+        {
+            "id": 18,
+            "name": "Queen.Of.The.South.S03E13.1080p.WEB.x264-TBS[TGx].48a861612036567b",
+            "btih": "48a861612036567b5d37835fe118dd904192f310",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.316614905,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 37623,
+            "uuploaders": 1268
+        },
+        {
+            "id": 27,
+            "name": "Queen.of.the.South.S03E13.El.Mundo.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]-[rarbg.to]",
+            "btih": "d8321de5942340ac59b9180e9452466097f0ec6e",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.734973128,
+            "creation": "2018-09-14T13:20:33.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 36653,
+            "uuploaders": 1230
+        },
+        {
+            "id": 3,
+            "name": "[limetorrents.info]-.Queen.of.the.South.S03E13.HDTV.x264-KILLERS",
+            "btih": "659443687509ff049dd094c32536dfc58eb5bea5",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.250502427,
+            "creation": "2018-09-14T03:06:02.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 36236,
+            "uuploaders": 2449
+        },
+        {
+            "id": 7,
+            "name": "[rutor.is]Queen.Of.The.South.S03.720p.ColdFilm",
+            "btih": "5de6de3bcb645b7be1c0010cac83f354f4427958",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 15.285493768,
+            "creation": "2018-09-14T09:48:37.000000000Z,uTorrent/2210,http://rutor.is/torrent/653218",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 32848,
+            "uuploaders": 783
+        },
+        {
+            "id": 25,
+            "name": "Queen.of.the.South.S03E13.El.Mundo.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx].b3e6486ffed497fb",
+            "btih": "b3e6486ffed497fbf0dad22aee7eedeb2da6f445",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.394618842,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 28515,
+            "uuploaders": 958
+        },
+        {
+            "id": 1,
+            "name": "005e-Queen.of.the.South.S03E13.720p.HDTV.x264-KILLERS[ettv]",
+            "btih": "d6f9c043a05a28f70a332538f3c72b022890a55a",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.849546092,
+            "creation": "2018-09-14T02:08:08.000000000Z,mktorrent 1.0",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 28125,
+            "uuploaders": 2267
+        },
+        {
+            "id": 35,
+            "name": "Queen.of.the.South.S03E13.WEBRip.x264-ION10-[rarbg.to]",
+            "btih": "63abbda585bf139fa23d3931e655418f188ef45f",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.424079989,
+            "creation": "2018-09-14T13:29:46.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 27766,
+            "uuploaders": 3590
+        },
+        {
+            "id": 36,
+            "name": "Королева Юга Queen of the South Сезон 3 Серии 1-12 из 13 (Шарлотта Зилинг) [2018, США, Боевик, триллер, драма, WEB-DLRip] [rutracker-5580369]",
+            "btih": "a9de8ddffb2516e4ad79cfd76f289a44f0be1b19",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 6.685435904,
+            "creation": "2018-09-11T07:35:18.000000000Z,uTorrent/2210,https://rutracker.org/forum/viewtopic.php?t=5580369",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 24900,
+            "uuploaders": 591
+        },
+        {
+            "id": 21,
+            "name": "Queen.of.the.South.S03E13.720p.HDTV.x264-KILLERS [IPT]",
+            "btih": "48d8d1cb869a5fdb020a391a1d4fe49ca7f36f99",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.84956,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 675,
+            "uuploaders": 460
+        },
+        {
+            "id": 28,
+            "name": "Queen.of.the.South.S03E13.HDTV.x264-KILLERS [IPT]",
+            "btih": "fbd538646243bfeecc65bb0548fc7c74274ed12e",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.244099679,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 666,
+            "uuploaders": 370
+        },
+        {
+            "id": 15,
+            "name": "Queen.Of.The.South.S03E13.1080p.HEVC.x265-MeGusta [IPT]",
+            "btih": "69a823d71f7752310d2bb3694b5cc2bb68eae29e",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.572693402,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 291,
+            "uuploaders": 200
+        },
+        {
+            "id": 19,
+            "name": "Queen.of.the.South.S03E13.480p.x264-mSD [IPT]",
+            "btih": "f3548593daf7ea9ff6140c02a0b257c33e4f5045",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.139780122,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 186,
+            "uuploaders": 113
+        },
+        {
+            "id": 16,
+            "name": "Queen.Of.The.South.S03E13.1080p.WEB.x264-TBS [IPT]",
+            "btih": "d063c85f52aebcf1bf3b5ac4fde73272b49cc6a2",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.286397294,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 177,
+            "uuploaders": 119
+        },
+        {
+            "id": 33,
+            "name": "Queen.Of.The.South.S03E13.iNTERNAL.720p.WEB.x264-BAMBOOZLE [IPT]",
+            "btih": "a2b95a63cdb60f0d4e1e2b3cdfaf698d3a2d1d45",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.817066155,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 171,
+            "uuploaders": 112
+        },
+        {
+            "id": 32,
+            "name": "Queen.Of.The.South.S03E13.iNTERNAL.720p.HEVC.x265-MeGusta [IPT]",
+            "btih": "94e461662c868f597d1c11860726745156a8e771",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.213520377,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 155,
+            "uuploaders": 97
+        },
+        {
+            "id": 24,
+            "name": "Queen.of.the.South.S03E13.El.Mundo.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb [IPT]",
+            "btih": "b700465aca8c4c68f5abb847f029f4d4b50b0a51",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.394618151,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 121,
+            "uuploaders": 92
+        },
+        {
+            "id": 14,
+            "name": "Queen.Of.The.South.S03E12.1080p.HEVC.x265-MeGusta [IPT]",
+            "btih": "6bab14d4d7d42f9275ef3d7e797eced2c4cfc9a5",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.586522238,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 111,
+            "uuploaders": 68
+        },
+        {
+            "id": 31,
+            "name": "Queen.Of.The.South.S03E13.iNTERNAL.480p.x264-mSD [IPT]",
+            "btih": "98987063aa4d1e5c6d6f42266923597f814115b1",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.148505636,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 74,
+            "uuploaders": 58
+        }
+    ]
+}
