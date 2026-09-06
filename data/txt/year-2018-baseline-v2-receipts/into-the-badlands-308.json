@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt3865236",
+    "imdb_id": "tt3865236",
+    "revision": "5daa2bb0f58fe6b678ea0a572049b3311de52618",
+    "wikidata_id": "Q19798711",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Into_the_Badlands_(TV_series)"
+  },
+  "coverage_sha256": "9669fca31b8b3f2530636bb76fc2cb320154c58e682002c63f12673d55f71414",
+  "generated_at": "2026-09-06T19:57:15.580162+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2018-archives/into-the-badlands-308.cache/cache.20180625.tar.xz",
+      "sha256": "f77b99bb0e97c13f0482dbd05b0b4423428c61962aace04d8a3d43925b7c74dc",
+      "size": 31059728
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2018/data/txt/year-2018-coverage-evidence/into-the-badlands-308.md",
+      "sha256": "e357da0849675409ebb1ad48a39deeff70c6bca732864719c29ba67cc0ad604d",
+      "size": 597
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2018/data/txt/year-2018-day-cache-stream-receipts/into-the-badlands-308.json",
+      "sha256": "05c52228a8a4a7afe8bc126c22329d3d06550720ca8169a1930070435b819f0b",
+      "size": 1968
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2018/data/txt/year-2018-day-product-receipts/into-the-badlands-308.json",
+      "sha256": "13495c543a01ff682752b2172f0c376512a8487c8f624639071e0435cfb2a42c",
+      "size": 371
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2018-control/worker-map.json",
+      "sha256": "0f0151a9d86552ffa4d2bdec8cc0b2a7ce1ff4f549d25d26b400c16672f3f222",
+      "size": 55881
+    }
+  },
+  "media_object": "into-the-badlands-308",
+  "published_files": {
+    "data/csv/bytes/into-the-badlands-308-cumulative-detail.2018-btiha-itemized-by-bytes.csv": "6b5e40ebad1607bf224868620659f26d1222e9e3a16b7bfd07b77898f80f0da8",
+    "docs/itemized/figures/into-the-badlands-308-carto-4k.webp": "fc35bffb89bb7879a83b4c83e19a125768a25f951f4fa3f823043b7bc41575fc",
+    "docs/itemized/figures/into-the-badlands-308-carto.png": "9a98eb8e4056adc3e087843229ee9d246fc70bd0ee5969d56d9199eefc696624",
+    "docs/itemized/figures/into-the-badlands-308-cumulative-detail-btiha-itemized-by-bytes.svg": "892dfafce735ba6e886bf788600d1bc2a3ae29a5b797db479a03abd5a6f1254b",
+    "docs/itemized/figures/into-the-badlands-308-data-ge-1080p-4k.webp": "acc882e973ad3abadcb0965b76e8a6a89f71b4fef3c5c0662405e8ce4c053dcd",
+    "docs/itemized/figures/into-the-badlands-308-data-ge-1080p.webp": "75215aeac71ec95dd3815135f09dcee864a6ce46664d62893a2b6ef5aeb3b22f",
+    "docs/itemized/figures/into-the-badlands-308-data-lt-1080p-4k.webp": "ab7016c05990b53eb3c51d8d0fc2a71d3b6b6642d1090cd2384f5c1631d5940e",
+    "docs/itemized/figures/into-the-badlands-308-data-lt-1080p.webp": "4378df19d62fa129f0318f3e9bb6bbfdcbc5ce967c051b3a207c6b2825c45286",
+    "docs/itemized/figures/into-the-badlands-308-downloads-by-day-day.svg": "ba4f549a3de63fffdca3d4ddf59cc2862f51ba340d7b7d94f63bf5563839ddd6",
+    "docs/itemized/figures/into-the-badlands-308-downloads-by-week-into-the-badlands-308-week.svg": "2bdd78e937330b925b17c242833afe36800f22b0ffe6fa2203bb58bf98a4a181",
+    "docs/itemized/into-the-badlands-308-sample-cache-audit.md": "9eae10e52a85212c52886dbf476873079b87fc0939826f12f06d95c15a6eeb63",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "977ac71404a574bcfe8b0bbdf839c61c95ff0f68",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "e9557435d4436b955e35ce9d77d77bbef2c8da903222fb2c6f42877078ae0776",
+      "size": 37133552
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2018/into-the-badlands-308/tmp/into-the-badlands-308-cumulative-btiha.geojson",
+        "sha256": "8be012dde89b019295308e51e338699452120500103ce0970311392d605afc4d",
+        "size": 6457802
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2018/into-the-badlands-308/tmp/into-the-badlands-308-cumulative-btiha-media-objects.json",
+        "sha256": "998fd6e51bd79b5c0bf048e4ee882687c7824eb11b7a17c63ea9c08303d75561",
+        "size": 156695
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2018-toolchain/izzi",
+      "revision": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+      "untracked": false
+    },
+    "media_object": "into-the-badlands-308",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "c8123c331bb382b004482f68c6d9d9a10011f7e2b0b16b642fbaad46bcf6c1ab",
+      "size": 8759488
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2018-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "ac0b8fe4ecd11aa639a37a9b3df83dba08cf103723eb6004aea76989f1a5b09e",
+      "size": 3694176
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          80.0,
+          52.0,
+          51.0,
+          50.0,
+          46.0,
+          45.0,
+          44.0,
+          43.0,
+          43.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "Ashburn",
+          "Armonk",
+          "Lelystad",
+          "London",
+          "Frankfurt am Main",
+          "Paris",
+          "Dallas",
+          "Saint Petersburg",
+          "Dublin"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          51.0,
+          36.0,
+          31.0,
+          28.0,
+          28.0,
+          27.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "London",
+          "Dar es Salaam",
+          "Frankfurt am Main",
+          "Nairobi",
+          "Moscow",
+          "Sydney",
+          "Accra",
+          "S\u00e3o Paulo",
+          "Dallas",
+          "Newark"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 8,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 20,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 2,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "977ac71404a574bcfe8b0bbdf839c61c95ff0f68",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "980e731bb2e99b13ecc9d15c75480125d514e26c",
+    "izzi": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+    "metadata": "5daa2bb0f58fe6b678ea0a572049b3311de52618"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2018"
+}
