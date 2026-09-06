@@ -1,0 +1,4028 @@
+{
+    "collection_name": "Doctor Who 2005",
+    "collection_id": "1101",
+    "collection_key": "doctor-who-1101",
+    "collection_notes": "",
+    "data_version": "2026-08-05",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "6:1777968300",
+    "collection_btiha_duplicates": [
+        {
+            "duplicate_id": 0,
+            "duplicate_btih": "3e5cf3f859d951abaa33d8d777112d5281d34427",
+            "duplicate_0_0": "012d-Doctor.Who.2005.S11E01.720p.HDTV.x264-FoV[ettv]",
+            "duplicate_0_1": "[limetorrents.info]Doctor.Who.2005.S11E01.720p.HDTV.x264-FoV[ettv]"
+        },
+        {
+            "duplicate_id": 1,
+            "duplicate_btih": "89ead05fce2b3b6b9d63ed961a70cdbaaa501d0f",
+            "duplicate_1_0": "[limetorrents.info]Doctor.Who.2005.S11E01.720p.HDTV.x264-FoV[rarbg]",
+            "duplicate_1_1": "Doctor.Who.2005.S11E01.720p.HDTV.x264-FoV[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 2,
+            "duplicate_btih": "04bbd8c454bf4a91fef0ca23d8e9699f72f91e0b",
+            "duplicate_2_0": "[limetorrents.info]Doctor.Who.2005.S11E01.720p.WEB.x265-MiNX.EZTV",
+            "duplicate_2_1": "Doctor.Who.2005.S11E01.720p.WEB.x265-MiNX[eztv].mkv"
+        },
+        {
+            "duplicate_id": 3,
+            "duplicate_btih": "656af823e51447a4e3df6d3e9269ed6e6ae9c781",
+            "duplicate_3_0": "[limetorrents.info]Doctor.Who.2005.S11E01.720p.iP.WEBRip.AAC2.0.H264-BTW.EZTV",
+            "duplicate_3_1": "Doctor.Who.2005.S11E01.720p.iP.WEBRip.AAC2.0.H264-BTW[eztv].mkv"
+        },
+        {
+            "duplicate_id": 4,
+            "duplicate_btih": "34cb9b4d5a22ae62bb5212c5c766a955acad5b5a",
+            "duplicate_4_0": "[limetorrents.info]Doctor.Who.2005.S11E01.720p.iP.WEBRip.AAC2.0.H264-BTW[rarbg]",
+            "duplicate_4_1": "Doctor.Who.2005.S11E01.720p.iP.WEBRip.AAC2.0.H264-BTW[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 5,
+            "duplicate_btih": "656fc8b7d0688df9667cbabd78c0222542dc94ef",
+            "duplicate_5_0": "[limetorrents.info]Doctor.Who.2005.S11E01.INTERNAL.1080p.HDTV.x264-FaiLED[rarbg]",
+            "duplicate_5_1": "Doctor.Who.2005.S11E01.INTERNAL.1080p.HDTV.x264-FaiLED[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 6,
+            "duplicate_btih": "466ed1d047d7be842ee30bbd3353417b5cdf8424",
+            "duplicate_6_0": "[limetorrents.info]Doctor.Who.2005.S11E01.The.Woman.Who.Fell.to.Earth.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]",
+            "duplicate_6_1": "Doctor.Who.2005.S11E01.The.Woman.Who.Fell.to.Earth.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 7,
+            "duplicate_btih": "b80849d3ccb62ca291ea27a2e0a2ab3857d614dc",
+            "duplicate_7_0": "[limetorrents.info]Doctor.Who.2005.S11E01.XviD-AFG.EZTV",
+            "duplicate_7_1": "Doctor.Who.2005.S11E01.XviD-AFG[eztv].avi"
+        },
+        {
+            "duplicate_id": 8,
+            "duplicate_btih": "faf3eb3c6d6e1d4c6639855b6e6c9026904deb27",
+            "duplicate_8_0": "[limetorrents.info]Doctor.Who.2005.S11E01.iP.WEB-DL.AAC2.0.H.264-ViSUM.EZTV",
+            "duplicate_8_1": "Doctor.Who.2005.S11E01.iP.WEB-DL.AAC2.0.H.264-ViSUM[eztv].mkv"
+        },
+        {
+            "duplicate_id": 9,
+            "duplicate_btih": "3a843553a7d1be4d5ecd09e1a3e1869c835162bf",
+            "duplicate_9_0": "[limetorrents.info]Doctor.Who.S11.AMZN.WEBRip.TeamNotDead",
+            "duplicate_9_1": "Доктор Кто Doctor Who Сезон 11 Серии 1 из 11 (Джейми Чайлдс, Марк Тондерай) [2018, Великобритания, фантастика, драма, коме [rutracker-56254",
+            "duplicate_9_2": "Доктор Кто Doctor Who Сезон 11 Серии 1 из 11 (Джейми Чайлдс, Марк Тондерай) [2018, Великобритания, фантастика, драма, коме [rutracker-5625403]",
+            "duplicate_9_3": "Доктор Кто Doctor Who Сезон 11 Серии 1 из 11 (Крис Чибнелл) [2018, Великобритания, фантастика, WEBRip] Original + Rus Sub [rutracker-5625403]"
+        },
+        {
+            "duplicate_id": 10,
+            "duplicate_btih": "6acfbf2d0498aac962db6ae9153b1fe93618668d",
+            "duplicate_10_0": "[limetorrents.info]Doctor.Who.S11.AMZN.WEBRip.TeamNotDead.1080p",
+            "duplicate_10_1": "Доктор Кто Doctor Who Сезон 11 Серии 1 из 11 (Крис Чибнелл) [2018, Великобритания, фантастика, WEBRip 1080p] Original + Ru [rutracker-5625393]"
+        },
+        {
+            "duplicate_id": 11,
+            "duplicate_btih": "8336091a81c9970d3acb3c1bd8e788749abcd1d6",
+            "duplicate_11_0": "[limetorrents.info]Doctor.Who.S11.AMZN.WEBRip.TeamNotDead.720p",
+            "duplicate_11_1": "Доктор Кто Doctor Who Сезон 11 Серии 1 из 11 (Крис Чибнелл) [2018, Великобритания, фантастика, WEBRip 720p] Original + Rus [rutracker-5625387]"
+        },
+        {
+            "duplicate_id": 12,
+            "duplicate_btih": "0045c20e9d700a5ca7f04504896126841f154ede",
+            "duplicate_12_0": "[limetorrents.info]Doctor.Who.S11.WEBRip.1080p",
+            "duplicate_12_1": "[rutor.is]Doctor.Who.S11.WEBRip.1080p"
+        },
+        {
+            "duplicate_id": 13,
+            "duplicate_btih": "c45c5d2f5f45b6bdb6c86b348708b262a6f2998d",
+            "duplicate_13_0": "[limetorrents.info]Doctor.Who.S11E01.400p.ColdFilm.avi",
+            "duplicate_13_1": "[rutor.is]Doctor_Who_S11E01_400p_ColdFilm_avi_torrent"
+        },
+        {
+            "duplicate_id": 14,
+            "duplicate_btih": "652033c3cc28c5d56d39aa43ab7be68e20ad68bf",
+            "duplicate_14_0": "[limetorrents.info]Doctor.Who.S11E01.720p.ColdFilm.mkv",
+            "duplicate_14_1": "[rutor.is]Doctor_Who_S11E01_720p_ColdFilm_mkv_torrent"
+        },
+        {
+            "duplicate_id": 15,
+            "duplicate_btih": "4d202253a2580f036a8bb9c67cadf0d0bfe835d6",
+            "duplicate_15_0": "[limetorrents.info]Doctor.Who.S11E01.WEBRip.x264-ION10",
+            "duplicate_15_1": "Doctor.Who.S11E01.WEBRip.x264-ION10-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 16,
+            "duplicate_btih": "b1ca7c76a207c449f0321c5fffeb82c57fe909e2",
+            "duplicate_16_0": "[rutor.is]Doctor_Who._Season_11_WEB-DLRip_l_400p_l_Jaskie",
+            "duplicate_16_1": "Доктор Кто Doctor Who Сезон 11 Серии 0-1 из 12 (Стивен Моффат) [2017, Великобритания, Приключения, фантастика, комедия, WE [rutracker-5500215]"
+        },
+        {
+            "duplicate_id": 17,
+            "duplicate_btih": "3a21bf20f92285d660138d2040e32f59d8350ba3",
+            "duplicate_17_0": "[rutor.is]Doctor_Who._Season_11_WEB-DL_l_1080p_l_Jaskier",
+            "duplicate_17_1": "Доктор Кто Doctor Who Сезон 11 Серии 0-1 из 12 (Стивен Моффат) [2017, Великобритания, Приключения, фантастика, комедия, WE [rutracker-5500214]"
+        },
+        {
+            "duplicate_id": 18,
+            "duplicate_btih": "1a906338c533bd7bcc934b07fcc5b1be9b4e2de7",
+            "duplicate_18_0": "[rutor.is]Doctor_Who._Season_11_WEBRip_l_400p_l_Good_Peop",
+            "duplicate_18_1": "Доктор Кто Doctor Who Сезон 11 Серии 0-1 из 12 (Стивен Моффат) [2017, Великобритания, Приключения, фантастика, комедия, WE [rutracker-5500219]"
+        },
+        {
+            "duplicate_id": 19,
+            "duplicate_btih": "3c499a496eb6f71959c24fdc31c77cfa6e0cd38b",
+            "duplicate_19_0": "[rutor.is]Doctor_Who._Season_11_WEBRip_l_720p_l_Good_Peop",
+            "duplicate_19_1": "Доктор Кто Doctor Who Сезон 11 Серия 0-1 из 12 (Стивен Моффат, Джейми Чайлдс) [2017, Великобритания, Фантастика, комедия, [rutracker-5500013]"
+        }
+    ],
+    "collection_btiha_metadata": [
+        {
+            "id": 1,
+            "name": "012d-Doctor.Who.2005.S11E01.720p.HDTV.x264-FoV[ettv]",
+            "size_total": 0.91053007,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.85e-7,
+                    "path": "Doctor.Who.2005.S11E01.720p.HDTV.x264-FoV[ettv]/Downloaded from www.ETTV.tv .txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.910529885,
+                    "path": "Doctor.Who.2005.S11E01.720p.HDTV.x264-FoV[ettv]/doctor_who_2005.11x01.720p_hdtv_x264-fov[ettv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "3442-Doctor.Who.2005.S11E01.HDTV.x264-MTB[ettv]",
+            "size_total": 0.347282618,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.99e-7,
+                    "path": "Doctor.Who.2005.S11E01.HDTV.x264-MTB[ettv]/Downloaded from www.ETTV.tv .txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.347282419,
+                    "path": "Doctor.Who.2005.S11E01.HDTV.x264-MTB[ettv]/doctor.who.2005.s11e01.hdtv.x264-mtb[ettv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "[limetorrents.info]Doctor.Who.-.Explicado..Dublado.",
+            "size_total": 0.828000689,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.828000689,
+                    "path": "Doctor Who - Explicado (Dublado)/Doctor Who - Explicado (Dublado).mkv"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "[limetorrents.info]Doctor.Who.-.Four.Doctors..2016...digital...The.Magicians-Empire.",
+            "size_total": 0.262747624,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.262747624,
+                    "path": "Doctor Who - Four Doctors (2016) (digital) (The Magicians-Empire).cbr"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "[limetorrents.info]Doctor.Who.2005.S11E01.1080p.HDTV.x264-MTB[TGx]",
+            "size_total": 2.376797083,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.00141331,
+                    "path": "Doctor.Who.2005.S11E01.1080p.HDTV.x264-MTB[TGx]/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.001288892,
+                    "path": "Doctor.Who.2005.S11E01.1080p.HDTV.x264-MTB[TGx]/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001953281,
+                    "path": "Doctor.Who.2005.S11E01.1080p.HDTV.x264-MTB[TGx]/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.002245216,
+                    "path": "Doctor.Who.2005.S11E01.1080p.HDTV.x264-MTB[TGx]/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 6.91e-7,
+                    "path": "Doctor.Who.2005.S11E01.1080p.HDTV.x264-MTB[TGx]/[TGx]Downloaded from torrentgalaxy.org .txt"
+                },
+                {
+                    "number": 6,
+                    "size": 2.369882952,
+                    "path": "Doctor.Who.2005.S11E01.1080p.HDTV.x264-MTB[TGx]/doctor.who.2005.s11e01.1080p.hdtv.x264-mtb.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 0.000012741,
+                    "path": "Doctor.Who.2005.S11E01.1080p.HDTV.x264-MTB[TGx]/doctor.who.2005.s11e01.1080p.hdtv.x264-mtb.nfo"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "[limetorrents.info]Doctor.Who.2005.S11E01.1080p.HEVC.x265-MeGusta",
+            "size_total": 0.690314494,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.68547927,
+                    "path": "www.torrenting.com - Doctor.Who.2005.S11E01.1080p.HEVC.x265-MeGusta/Doctor.Who.2005.S11E01.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001209,
+                    "path": "www.torrenting.com - Doctor.Who.2005.S11E01.1080p.HEVC.x265-MeGusta/Doctor.Who.2005.S11E01.1080p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000768745,
+                    "path": "www.torrenting.com - Doctor.Who.2005.S11E01.1080p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001163108,
+                    "path": "www.torrenting.com - Doctor.Who.2005.S11E01.1080p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.001167969,
+                    "path": "www.torrenting.com - Doctor.Who.2005.S11E01.1080p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.001734107,
+                    "path": "www.torrenting.com - Doctor.Who.2005.S11E01.1080p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                },
+                {
+                    "number": 7,
+                    "size": 8.6e-8,
+                    "path": "www.torrenting.com - Doctor.Who.2005.S11E01.1080p.HEVC.x265-MeGusta/Torrent Downloaded From www.torrenting.com.txt"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "[limetorrents.info]Doctor.Who.2005.S11E01.480p.x264-mSD",
+            "size_total": 0.22070844,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.22008138,
+                    "path": "www.torrenting.com - Doctor.Who.2005.S11E01.480p.x264-mSD/Doctor.Who.2005.S11E01.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001176,
+                    "path": "www.torrenting.com - Doctor.Who.2005.S11E01.480p.x264-mSD/Doctor.Who.2005.S11E01.480p.x264-mSD.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000064243,
+                    "path": "www.torrenting.com - Doctor.Who.2005.S11E01.480p.x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000156016,
+                    "path": "www.torrenting.com - Doctor.Who.2005.S11E01.480p.x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000170772,
+                    "path": "www.torrenting.com - Doctor.Who.2005.S11E01.480p.x264-mSD/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000234767,
+                    "path": "www.torrenting.com - Doctor.Who.2005.S11E01.480p.x264-mSD/Screens/screen0004.png"
+                },
+                {
+                    "number": 7,
+                    "size": 8.6e-8,
+                    "path": "www.torrenting.com - Doctor.Who.2005.S11E01.480p.x264-mSD/Torrent Downloaded From www.torrenting.com.txt"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "[limetorrents.info]Doctor.Who.2005.S11E01.720p.HDTV.x264-FoV",
+            "size_total": 0.914460519,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.910529885,
+                    "path": "www.scenetime.com - Doctor.Who.2005.S11E01.720p.HDTV.x264-FoV/doctor_who_2005.11x01.720p_hdtv_x264-fov.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000663098,
+                    "path": "www.scenetime.com - Doctor.Who.2005.S11E01.720p.HDTV.x264-FoV/Screens/screen0001.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000900677,
+                    "path": "www.scenetime.com - Doctor.Who.2005.S11E01.720p.HDTV.x264-FoV/Screens/screen0002.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001057871,
+                    "path": "www.scenetime.com - Doctor.Who.2005.S11E01.720p.HDTV.x264-FoV/Screens/screen0003.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.001306843,
+                    "path": "www.scenetime.com - Doctor.Who.2005.S11E01.720p.HDTV.x264-FoV/Screens/screen0004.png"
+                },
+                {
+                    "number": 6,
+                    "size": 1.03e-7,
+                    "path": "www.scenetime.com - Doctor.Who.2005.S11E01.720p.HDTV.x264-FoV/Torrent Downloaded From www.scenetime.com.txt"
+                },
+                {
+                    "number": 7,
+                    "size": 0.000002042,
+                    "path": "www.scenetime.com - Doctor.Who.2005.S11E01.720p.HDTV.x264-FoV/tvmaze.nfo"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "[limetorrents.info]Doctor.Who.2005.S11E01.720p.HDTV.x264-FoV[ettv]",
+            "size_total": 0.91053007,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.85e-7,
+                    "path": "Doctor.Who.2005.S11E01.720p.HDTV.x264-FoV[ettv]/Downloaded from www.ETTV.tv .txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.910529885,
+                    "path": "Doctor.Who.2005.S11E01.720p.HDTV.x264-FoV[ettv]/doctor_who_2005.11x01.720p_hdtv_x264-fov[ettv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "[limetorrents.info]Doctor.Who.2005.S11E01.720p.HDTV.x264-FoV[rarbg]",
+            "size_total": 0.91053939,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Doctor.Who.2005.S11E01.720p.HDTV.x264-FoV[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000009475,
+                    "path": "Doctor.Who.2005.S11E01.720p.HDTV.x264-FoV[rarbg]/doctor.who.2005.s11e01.720p.hdtv.x264-fov.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.910529885,
+                    "path": "Doctor.Who.2005.S11E01.720p.HDTV.x264-FoV[rarbg]/doctor_who_2005.11x01.720p_hdtv_x264-fov.mkv"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "[limetorrents.info]Doctor.Who.2005.S11E01.720p.HDTV.x264-FoV[TGx]",
+            "size_total": 0.914461107,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000663098,
+                    "path": "Doctor.Who.2005.S11E01.720p.HDTV.x264-FoV[TGx]/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000900677,
+                    "path": "Doctor.Who.2005.S11E01.720p.HDTV.x264-FoV[TGx]/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001057871,
+                    "path": "Doctor.Who.2005.S11E01.720p.HDTV.x264-FoV[TGx]/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001306843,
+                    "path": "Doctor.Who.2005.S11E01.720p.HDTV.x264-FoV[TGx]/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 6.91e-7,
+                    "path": "Doctor.Who.2005.S11E01.720p.HDTV.x264-FoV[TGx]/[TGx]Downloaded from torrentgalaxy.org .txt"
+                },
+                {
+                    "number": 6,
+                    "size": 0.910529885,
+                    "path": "Doctor.Who.2005.S11E01.720p.HDTV.x264-FoV[TGx]/doctor_who_2005.11x01.720p_hdtv_x264-fov.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 0.000002042,
+                    "path": "Doctor.Who.2005.S11E01.720p.HDTV.x264-FoV[TGx]/tvmaze.nfo"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "[limetorrents.info]Doctor.Who.2005.S11E01.720p.HEVC.x265-MeGusta",
+            "size_total": 0.301646369,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.297971907,
+                    "path": "www.torrenting.com - Doctor.Who.2005.S11E01.720p.HEVC.x265-MeGusta/Doctor.Who.2005.S11E01.720p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001189,
+                    "path": "www.torrenting.com - Doctor.Who.2005.S11E01.720p.HEVC.x265-MeGusta/Doctor.Who.2005.S11E01.720p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000589824,
+                    "path": "www.torrenting.com - Doctor.Who.2005.S11E01.720p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000786183,
+                    "path": "www.torrenting.com - Doctor.Who.2005.S11E01.720p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.001016201,
+                    "path": "www.torrenting.com - Doctor.Who.2005.S11E01.720p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.001280979,
+                    "path": "www.torrenting.com - Doctor.Who.2005.S11E01.720p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                },
+                {
+                    "number": 7,
+                    "size": 8.6e-8,
+                    "path": "www.torrenting.com - Doctor.Who.2005.S11E01.720p.HEVC.x265-MeGusta/Torrent Downloaded From www.torrenting.com.txt"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "[limetorrents.info]Doctor.Who.2005.S11E01.720p.iP.WEBRip.AAC2.0.H264-BTW.EZTV",
+            "size_total": 2.337513457,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.337513457,
+                    "path": "Doctor.Who.2005.S11E01.720p.iP.WEBRip.AAC2.0.H264-BTW[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "[limetorrents.info]Doctor.Who.2005.S11E01.720p.iP.WEBRip.AAC2.0.H264-BTW[rarbg]",
+            "size_total": 2.337513487,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.337513457,
+                    "path": "Doctor.Who.2005.S11E01.720p.iP.WEBRip.AAC2.0.H264-BTW[rarbg]/Doctor.Who.2005.S11E01.720p.iP.WEB-DL.AAC2.0.H.264-BTW.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Doctor.Who.2005.S11E01.720p.iP.WEBRip.AAC2.0.H264-BTW[rarbg]/RARBG.txt"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "[limetorrents.info]Doctor.Who.2005.S11E01.720p.iP.WEBRip.AAC2.0.H264-BTW[TGx]",
+            "size_total": 2.337514148,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.337513457,
+                    "path": "Doctor.Who.2005.S11E01.720p.iP.WEBRip.AAC2.0.H264-BTW[TGx]/Doctor.Who.2005.S11E01.720p.iP.WEB-DL.AAC2.0.H.264-BTW.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 6.91e-7,
+                    "path": "Doctor.Who.2005.S11E01.720p.iP.WEBRip.AAC2.0.H264-BTW[TGx]/[TGx]Downloaded from torrentgalaxy.org .txt"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "[limetorrents.info]Doctor.Who.2005.S11E01.720p.WEB.x265-MiNX.EZTV",
+            "size_total": 0.293067565,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.293067565,
+                    "path": "Doctor.Who.2005.S11E01.720p.WEB.x265-MiNX[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "[limetorrents.info]Doctor.Who.2005.S11E01.720p.WEB.x265-MiNX[TGx]",
+            "size_total": 0.293068256,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.293067565,
+                    "path": "Doctor.Who.2005.S11E01.720p.WEB.x265-MiNX[TGx]/Doctor.Who.2005.S11E01.720p.WEB.x265-MiNX.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 6.91e-7,
+                    "path": "Doctor.Who.2005.S11E01.720p.WEB.x265-MiNX[TGx]/[TGx]Downloaded from torrentgalaxy.org .txt"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": "[limetorrents.info]Doctor.Who.2005.S11E01.FASTSUB.VOSTFR.HDTV.XviD-ZT.[.www.Torrent9.PH.]",
+            "size_total": 0.577559632,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.577559632,
+                    "path": "Doctor.Who.2005.S11E01.FASTSUB.VOSTFR.HDTV.XviD-ZT [ www.Torrent9.PH ].avi"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "name": "[limetorrents.info]Doctor.Who.2005.S11E01.HDTV.x264-MTB",
+            "size_total": 0.348707645,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.347282419,
+                    "path": "www.torrenting.com - Doctor.Who.2005.S11E01.HDTV.x264-MTB/doctor.who.2005.s11e01.hdtv.x264-mtb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000012741,
+                    "path": "www.torrenting.com - Doctor.Who.2005.S11E01.HDTV.x264-MTB/doctor.who.2005.s11e01.hdtv.x264-mtb.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000282312,
+                    "path": "www.torrenting.com - Doctor.Who.2005.S11E01.HDTV.x264-MTB/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000263322,
+                    "path": "www.torrenting.com - Doctor.Who.2005.S11E01.HDTV.x264-MTB/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000420286,
+                    "path": "www.torrenting.com - Doctor.Who.2005.S11E01.HDTV.x264-MTB/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000446479,
+                    "path": "www.torrenting.com - Doctor.Who.2005.S11E01.HDTV.x264-MTB/Screens/screen0004.png"
+                },
+                {
+                    "number": 7,
+                    "size": 8.6e-8,
+                    "path": "www.torrenting.com - Doctor.Who.2005.S11E01.HDTV.x264-MTB/Torrent Downloaded From www.torrenting.com.txt"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "name": "[limetorrents.info]Doctor.Who.2005.S11E01.HDTV.x264-MTB[TGx]",
+            "size_total": 0.34870825,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000282312,
+                    "path": "Doctor.Who.2005.S11E01.HDTV.x264-MTB[TGx]/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000263322,
+                    "path": "Doctor.Who.2005.S11E01.HDTV.x264-MTB[TGx]/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000420286,
+                    "path": "Doctor.Who.2005.S11E01.HDTV.x264-MTB[TGx]/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000446479,
+                    "path": "Doctor.Who.2005.S11E01.HDTV.x264-MTB[TGx]/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 6.91e-7,
+                    "path": "Doctor.Who.2005.S11E01.HDTV.x264-MTB[TGx]/[TGx]Downloaded from torrentgalaxy.org .txt"
+                },
+                {
+                    "number": 6,
+                    "size": 0.347282419,
+                    "path": "Doctor.Who.2005.S11E01.HDTV.x264-MTB[TGx]/doctor.who.2005.s11e01.hdtv.x264-mtb.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 0.000012741,
+                    "path": "Doctor.Who.2005.S11E01.HDTV.x264-MTB[TGx]/doctor.who.2005.s11e01.hdtv.x264-mtb.nfo"
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "name": "[limetorrents.info]Doctor.Who.2005.S11E01.INTERNAL.1080p.HDTV.x264-FaiLED",
+            "size_total": 3.122803305,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.116060776,
+                    "path": "www.scenetime.com - Doctor.Who.2005.S11E01.INTERNAL.1080p.HDTV.x264-FaiLED/doctor.who.2005.s11e01.internal.1080p.hdtv.x264-failed.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001664,
+                    "path": "www.scenetime.com - Doctor.Who.2005.S11E01.INTERNAL.1080p.HDTV.x264-FaiLED/doctor.who.2005.s11e01.internal.1080p.hdtv.x264-failed.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001136396,
+                    "path": "www.scenetime.com - Doctor.Who.2005.S11E01.INTERNAL.1080p.HDTV.x264-FaiLED/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001314796,
+                    "path": "www.scenetime.com - Doctor.Who.2005.S11E01.INTERNAL.1080p.HDTV.x264-FaiLED/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.002187277,
+                    "path": "www.scenetime.com - Doctor.Who.2005.S11E01.INTERNAL.1080p.HDTV.x264-FaiLED/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.002102293,
+                    "path": "www.scenetime.com - Doctor.Who.2005.S11E01.INTERNAL.1080p.HDTV.x264-FaiLED/Screens/screen0004.png"
+                },
+                {
+                    "number": 7,
+                    "size": 1.03e-7,
+                    "path": "www.scenetime.com - Doctor.Who.2005.S11E01.INTERNAL.1080p.HDTV.x264-FaiLED/Torrent Downloaded From www.scenetime.com.txt"
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "name": "[limetorrents.info]Doctor.Who.2005.S11E01.INTERNAL.1080p.HDTV.x264-FaiLED[rarbg]",
+            "size_total": 3.116062429,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Doctor.Who.2005.S11E01.INTERNAL.1080p.HDTV.x264-FaiLED[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 3.116060776,
+                    "path": "Doctor.Who.2005.S11E01.INTERNAL.1080p.HDTV.x264-FaiLED[rarbg]/doctor.who.2005.s11e01.internal.1080p.hdtv.x264-failed.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000001623,
+                    "path": "Doctor.Who.2005.S11E01.INTERNAL.1080p.HDTV.x264-FaiLED[rarbg]/doctor.who.2005.s11e01.internal.1080p.hdtv.x264-failed.nfo"
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "name": "[limetorrents.info]Doctor.Who.2005.S11E01.INTERNAL.1080p.HDTV.x264-FaiLED[TGx]",
+            "size_total": 3.122803893,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.001136396,
+                    "path": "Doctor.Who.2005.S11E01.INTERNAL.1080p.HDTV.x264-FaiLED[TGx]/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.001314796,
+                    "path": "Doctor.Who.2005.S11E01.INTERNAL.1080p.HDTV.x264-FaiLED[TGx]/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.002187277,
+                    "path": "Doctor.Who.2005.S11E01.INTERNAL.1080p.HDTV.x264-FaiLED[TGx]/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.002102293,
+                    "path": "Doctor.Who.2005.S11E01.INTERNAL.1080p.HDTV.x264-FaiLED[TGx]/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 6.91e-7,
+                    "path": "Doctor.Who.2005.S11E01.INTERNAL.1080p.HDTV.x264-FaiLED[TGx]/[TGx]Downloaded from torrentgalaxy.org .txt"
+                },
+                {
+                    "number": 6,
+                    "size": 3.116060776,
+                    "path": "Doctor.Who.2005.S11E01.INTERNAL.1080p.HDTV.x264-FaiLED[TGx]/doctor.who.2005.s11e01.internal.1080p.hdtv.x264-failed.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 0.000001664,
+                    "path": "Doctor.Who.2005.S11E01.INTERNAL.1080p.HDTV.x264-FaiLED[TGx]/doctor.who.2005.s11e01.internal.1080p.hdtv.x264-failed.nfo"
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "name": "[limetorrents.info]Doctor.Who.2005.S11E01.INTERNAL.1080p.HEVC.x265-MeGusta",
+            "size_total": 0.744253883,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.739679552,
+                    "path": "www.torrenting.com - Doctor.Who.2005.S11E01.INTERNAL.1080p.HEVC.x265-MeGusta/Doctor.Who.2005.S11E01.INTERNAL.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001229,
+                    "path": "www.torrenting.com - Doctor.Who.2005.S11E01.INTERNAL.1080p.HEVC.x265-MeGusta/Doctor.Who.2005.S11E01.INTERNAL.1080p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000715166,
+                    "path": "www.torrenting.com - Doctor.Who.2005.S11E01.INTERNAL.1080p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001012416,
+                    "path": "www.torrenting.com - Doctor.Who.2005.S11E01.INTERNAL.1080p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.001136322,
+                    "path": "www.torrenting.com - Doctor.Who.2005.S11E01.INTERNAL.1080p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.001709112,
+                    "path": "www.torrenting.com - Doctor.Who.2005.S11E01.INTERNAL.1080p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                },
+                {
+                    "number": 7,
+                    "size": 8.6e-8,
+                    "path": "www.torrenting.com - Doctor.Who.2005.S11E01.INTERNAL.1080p.HEVC.x265-MeGusta/Torrent Downloaded From www.torrenting.com.txt"
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "name": "[limetorrents.info]Doctor.Who.2005.S11E01.iP.WEB-DL.AAC2.0.H.264-ViSUM.EZTV",
+            "size_total": 0.882188427,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.882188427,
+                    "path": "Doctor.Who.2005.S11E01.iP.WEB-DL.AAC2.0.H.264-ViSUM[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "name": "[limetorrents.info]Doctor.Who.2005.S11E01.iP.WEB-DL.AAC2.0.H.264-ViSUM[TGx]",
+            "size_total": 0.884571399,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.882188427,
+                    "path": "Doctor.Who.2005.S11E01.iP.WEB-DL.AAC2.0.H.264-ViSUM[TGx]/Doctor.Who.2005.S11E01.iP.WEB-DL.AAC2.0.H.264-ViSUM.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001531,
+                    "path": "Doctor.Who.2005.S11E01.iP.WEB-DL.AAC2.0.H.264-ViSUM[TGx]/Doctor.Who.2005.S11E01.iP.WEB-DL.AAC2.0.H.264-ViSUM.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000413645,
+                    "path": "Doctor.Who.2005.S11E01.iP.WEB-DL.AAC2.0.H.264-ViSUM[TGx]/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000511026,
+                    "path": "Doctor.Who.2005.S11E01.iP.WEB-DL.AAC2.0.H.264-ViSUM[TGx]/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000625457,
+                    "path": "Doctor.Who.2005.S11E01.iP.WEB-DL.AAC2.0.H.264-ViSUM[TGx]/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000830622,
+                    "path": "Doctor.Who.2005.S11E01.iP.WEB-DL.AAC2.0.H.264-ViSUM[TGx]/Screens/screen0004.png"
+                },
+                {
+                    "number": 7,
+                    "size": 6.91e-7,
+                    "path": "Doctor.Who.2005.S11E01.iP.WEB-DL.AAC2.0.H.264-ViSUM[TGx]/[TGx]Downloaded from torrentgalaxy.org .txt"
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "name": "[limetorrents.info]Doctor.Who.2005.S11E01.The.Woman.Who.Fell.to.Earth.1080p.WEBRip.6CH.x265.HEVC-PSA.mkv",
+            "size_total": 0.724947492,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.724947492,
+                    "path": "Doctor.Who.2005.S11E01.The.Woman.Who.Fell.to.Earth.1080p.WEBRip.6CH.x265.HEVC-PSA.mkv"
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "name": "[limetorrents.info]Doctor.Who.2005.S11E01.The.Woman.Who.Fell.to.Earth.720p.AMZN.WEB-DL.MkvCage.ws.mkv",
+            "size_total": 0.523065588,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.523065588,
+                    "path": "Doctor.Who.2005.S11E01.The.Woman.Who.Fell.to.Earth.720p.AMZN.WEB-DL.MkvCage.ws.mkv"
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "name": "[limetorrents.info]Doctor.Who.2005.S11E01.The.Woman.Who.Fell.to.Earth.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]",
+            "size_total": 1.075603748,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.075603718,
+                    "path": "Doctor.Who.2005.S11E01.The.Woman.Who.Fell.to.Earth.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/Doctor.Who.2005.S11E01.The.Woman.Who.Fell.to.Earth.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Doctor.Who.2005.S11E01.The.Woman.Who.Fell.to.Earth.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG.txt"
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "name": "[limetorrents.info]Doctor.Who.2005.S11E01.XviD-AFG.EZTV",
+            "size_total": 0.516986588,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.516986588,
+                    "path": "Doctor.Who.2005.S11E01.XviD-AFG[eztv].avi"
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "name": "[limetorrents.info]Doctor.Who.2005.S11E01.XviD-AFG",
+            "size_total": 0.51762792,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.516986588,
+                    "path": "www.torrenting.com - Doctor.Who.2005.S11E01.XviD-AFG/Doctor.Who.2005.S11E01.XviD-AFG.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001158,
+                    "path": "www.torrenting.com - Doctor.Who.2005.S11E01.XviD-AFG/Doctor.Who.2005.S11E01.XviD-AFG.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000060939,
+                    "path": "www.torrenting.com - Doctor.Who.2005.S11E01.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000160895,
+                    "path": "www.torrenting.com - Doctor.Who.2005.S11E01.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000200591,
+                    "path": "www.torrenting.com - Doctor.Who.2005.S11E01.XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000217663,
+                    "path": "www.torrenting.com - Doctor.Who.2005.S11E01.XviD-AFG/Screens/screen0004.png"
+                },
+                {
+                    "number": 7,
+                    "size": 8.6e-8,
+                    "path": "www.torrenting.com - Doctor.Who.2005.S11E01.XviD-AFG/Torrent Downloaded From www.torrenting.com.txt"
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "name": "[limetorrents.info]Doctor.Who.2005.S11E01.XviD-AFG[TGx]",
+            "size_total": 0.517628525,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.516986588,
+                    "path": "Doctor.Who.2005.S11E01.XviD-AFG[TGx]/Doctor.Who.2005.S11E01.XviD-AFG.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001158,
+                    "path": "Doctor.Who.2005.S11E01.XviD-AFG[TGx]/Doctor.Who.2005.S11E01.XviD-AFG.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000060939,
+                    "path": "Doctor.Who.2005.S11E01.XviD-AFG[TGx]/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000160895,
+                    "path": "Doctor.Who.2005.S11E01.XviD-AFG[TGx]/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000200591,
+                    "path": "Doctor.Who.2005.S11E01.XviD-AFG[TGx]/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000217663,
+                    "path": "Doctor.Who.2005.S11E01.XviD-AFG[TGx]/Screens/screen0004.png"
+                },
+                {
+                    "number": 7,
+                    "size": 6.91e-7,
+                    "path": "Doctor.Who.2005.S11E01.XviD-AFG[TGx]/[TGx]Downloaded from torrentgalaxy.org .txt"
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "name": "[limetorrents.info]Doctor.Who.S10.1080p.AMZN.WEB-DL.Rus.Eng.TeamHD",
+            "size_total": 52.924789584,
+            "files_total": 13,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.217500054,
+                    "path": "Doctor.Who.S10.1080p.AMZN.WEB-DL.Rus.Eng.TeamHD/Doctor.Who.S10E08.The.Lie.of.the.Land.1080p.AMZN.WEB-DL.Rus.Eng.TeamHD.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3.426052907,
+                    "path": "Doctor.Who.S10.1080p.AMZN.WEB-DL.Rus.Eng.TeamHD/Doctor.Who.S10E07.The.Pyramid.at.the.End.of.the.World.1080p.AMZN.WEB-DL.Rus.Eng.TeamHD.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 3.488521301,
+                    "path": "Doctor.Who.S10.1080p.AMZN.WEB-DL.Rus.Eng.TeamHD/Doctor.Who.S10E06.Extremis.1080p.AMZN.WEB-DL.Rus.Eng.TeamHD.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 3.561031117,
+                    "path": "Doctor.Who.S10.1080p.AMZN.WEB-DL.Rus.Eng.TeamHD/Doctor.Who.S10E04.Knock.Knock.1080p.AMZN.WEB-DL.Rus.Eng.TeamHD.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 3.572911555,
+                    "path": "Doctor.Who.S10.1080p.AMZN.WEB-DL.Rus.Eng.TeamHD/Doctor.Who.S10E10.The.Eaters.of.Light.1080p.AMZN.WEB-DL.Rus.Eng.TeamHD.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 3.71583955,
+                    "path": "Doctor.Who.S10.1080p.AMZN.WEB-DL.Rus.Eng.TeamHD/Doctor.Who.S10E11.World.Enough.and.Time.1080p.AMZN.WEB-DL.Rus.Eng.TeamHD.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 3.857891239,
+                    "path": "Doctor.Who.S10.1080p.AMZN.WEB-DL.Rus.Eng.TeamHD/Doctor.Who.S10E05.Oxygen.1080p.AMZN.WEB-DL.Rus.Eng.TeamHD.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 3.889785611,
+                    "path": "Doctor.Who.S10.1080p.AMZN.WEB-DL.Rus.Eng.TeamHD/Doctor.Who.S10E09.Empress.of.Mars.1080p.AMZN.WEB-DL.Rus.Eng.TeamHD.mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 4.042385858,
+                    "path": "Doctor.Who.S10.1080p.AMZN.WEB-DL.Rus.Eng.TeamHD/Doctor.Who.S10E03.Thin.Ice.1080p.AMZN.WEB-DL.Rus.Eng.TeamHD.mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 4.047056354,
+                    "path": "Doctor.Who.S10.1080p.AMZN.WEB-DL.Rus.Eng.TeamHD/Doctor.Who.S10E12.The.Doctor.Falls.1080p.AMZN.WEB-DL.Rus.Eng.TeamHD.mkv"
+                },
+                {
+                    "number": 11,
+                    "size": 4.809187572,
+                    "path": "Doctor.Who.S10.1080p.AMZN.WEB-DL.Rus.Eng.TeamHD/Doctor.Who.S10E02.Smile.1080p.AMZN.WEB-DL.Rus.Eng.TeamHD.mkv"
+                },
+                {
+                    "number": 12,
+                    "size": 4.852653143,
+                    "path": "Doctor.Who.S10.1080p.AMZN.WEB-DL.Rus.Eng.TeamHD/Doctor.Who.S10E01.The.Pilot.1080p.AMZN.WEB-DL.Rus.Eng.TeamHD.mkv"
+                },
+                {
+                    "number": 13,
+                    "size": 6.443973323,
+                    "path": "Doctor.Who.S10.1080p.AMZN.WEB-DL.Rus.Eng.TeamHD/Doctor.Who.S10E00.The.Return.of.Doctor.Mysterio.1080p.AMZN.WEB-DL.Rus.Eng.TeamHD.mkv"
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "name": "[limetorrents.info]Doctor.Who.S11.400p.KosharaSerials",
+            "size_total": 0.818563072,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.818563072,
+                    "path": "Doctor.Who.S11.400p.KosharaSerials/Doctor.Who.S11E01.400p.KosharaSerials.avi"
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "name": "[limetorrents.info]Doctor.Who.S11.AMZN.WEBRip.TeamNotDead.1080p",
+            "size_total": 2.503654689,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.503654689,
+                    "path": "Doctor.Who.S11.AMZN.WEBRip.TeamNotDead.1080p/Doctor.Who.S11E01.AMZN.WEBRip.TeamNotDead.1080p.mkv"
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "name": "[limetorrents.info]Doctor.Who.S11.AMZN.WEBRip.TeamNotDead.720p",
+            "size_total": 1.0757433,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.0757433,
+                    "path": "Doctor.Who.S11.AMZN.WEBRip.TeamNotDead.720p/Doctor.Who.S11E01.AMZN.WEBRip.TeamNotDead.720p.mkv"
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "name": "[limetorrents.info]Doctor.Who.S11.AMZN.WEBRip.TeamNotDead",
+            "size_total": 0.598703752,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.598703752,
+                    "path": "Doctor.Who.S11.AMZN.WEBRip.TeamNotDead/Doctor.Who.S11E01.AMZN.WEBRip.TeamNotDead.mkv"
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "name": "[limetorrents.info]Doctor.Who.S11.WEBRip.1080p",
+            "size_total": 7.20412471,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.510729361,
+                    "path": "Doctor.Who.S11.WEBRip.1080p/Doctor.Who.S11E00.WEBRip.1080p-IdeaFilm.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3.693395349,
+                    "path": "Doctor.Who.S11.WEBRip.1080p/Doctor.Who.S11E01.WEBRip.1080p-IdeaFilm.mkv"
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "name": "[limetorrents.info]Doctor.Who.s11.WEBRip.P.BaibaKo",
+            "size_total": 0.77654016,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.77654016,
+                    "path": "Doctor.Who.s11.WEBRip.P.BaibaKo/Doctor.Who.s11e01.WEBRip.P.BaibaKo.avi"
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "name": "[limetorrents.info]Doctor.Who.s11.WEBRip.XviD.Rus.Eng.BaibaKo.tv",
+            "size_total": 0.911643596,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.004571214,
+                    "path": "Doctor.Who.s11.WEBRip.XviD.Rus.Eng.BaibaKo.tv/Doctor.Who.s11e01++.WEBRip.XviD.Rus.Eng.BaibaKo.tv.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.907072382,
+                    "path": "Doctor.Who.s11.WEBRip.XviD.Rus.Eng.BaibaKo.tv/Doctor.Who.s11e01.WEBRip.XviD.Rus.Eng.BaibaKo.tv.avi"
+                }
+            ]
+        },
+        {
+            "id": 41,
+            "name": "[limetorrents.info]Doctor.Who.S11E01.400p.ColdFilm.avi",
+            "size_total": 0.650452992,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.650452992,
+                    "path": "Doctor.Who.S11E01.400p.ColdFilm.avi"
+                }
+            ]
+        },
+        {
+            "id": 42,
+            "name": "[limetorrents.info]Doctor.Who.S11E01.720p.ColdFilm.mkv",
+            "size_total": 1.485362385,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.485362385,
+                    "path": "Doctor.Who.S11E01.720p.ColdFilm.mkv"
+                }
+            ]
+        },
+        {
+            "id": 43,
+            "name": "[limetorrents.info]Doctor.Who.S11E01.The.Woman.Who.Fell.to.Earth.1080p.AMZN.WEBRIP.x265.5.1.AAC.D0ct0rLew[UTR]",
+            "size_total": 1.192593569,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.192593569,
+                    "path": "Doctor Who S11E01 The Woman Who Fell to Earth 1080p AMZN WEBRIP x265 5.1 AAC D0ct0rLew[UTR].mkv"
+                }
+            ]
+        },
+        {
+            "id": 44,
+            "name": "[limetorrents.info]Doctor.Who.S11E01.WEBRip.x264-ION10",
+            "size_total": 0.646024545,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.646024515,
+                    "path": "Doctor.Who.S11E01.WEBRip.x264-ION10/Doctor.Who.S11E01.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Doctor.Who.S11E01.WEBRip.x264-ION10/RARBG.txt"
+                }
+            ]
+        },
+        {
+            "id": 45,
+            "name": "[limetorrents.info]神秘博士.Doctor.Who.S11E01.中英字幕.HDTVrip.720p-人人影视.mp4",
+            "size_total": 0.771894487,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.771894487,
+                    "path": "神秘博士.Doctor.Who.S11E01.中英字幕.HDTVrip.720p-人人影视.mp4"
+                }
+            ]
+        },
+        {
+            "id": 46,
+            "name": "[rutor.is]Doctor.Who.S11.WEBRip.1080p",
+            "size_total": 7.20412471,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.510729361,
+                    "path": "Doctor.Who.S11.WEBRip.1080p/Doctor.Who.S11E00.WEBRip.1080p-IdeaFilm.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3.693395349,
+                    "path": "Doctor.Who.S11.WEBRip.1080p/Doctor.Who.S11E01.WEBRip.1080p-IdeaFilm.mkv"
+                }
+            ]
+        },
+        {
+            "id": 47,
+            "name": "[rutor.is]Doctor.Who.S11.WEBRip.720p",
+            "size_total": 4.899758722,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.380889244,
+                    "path": "Doctor.Who.S11.WEBRip.720p/Doctor.Who.S11E00.WEBRip.720p-IdeaFilm.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 2.518869478,
+                    "path": "Doctor.Who.S11.WEBRip.720p/Doctor.Who.S11E01.WEBRip.720p-IdeaFilm.mkv"
+                }
+            ]
+        },
+        {
+            "id": 48,
+            "name": "[rutor.is]Doctor.Who.S11.WEBRip",
+            "size_total": 1.768230912,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.861308928,
+                    "path": "Doctor.Who.S11.WEBRip/Doctor.Who.S11E00.WEBRip-IdeaFilm.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.906921984,
+                    "path": "Doctor.Who.S11.WEBRip/Doctor.Who.S11E01.WEBRip-IdeaFilm.avi"
+                }
+            ]
+        },
+        {
+            "id": 49,
+            "name": "[rutor.is]Doctor_Who._Season_11_WEB-DL_l_1080p_l_Jaskier",
+            "size_total": 6.67042578,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 4.106037873,
+                    "path": "Doctor Who. Season 11 (WEB-DL l 1080p l Jaskier)/Doctor.Who.S11E00.1080p.AMZN.WEB-DL.DDP5.1.x264-Jaskier.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 2.564387907,
+                    "path": "Doctor Who. Season 11 (WEB-DL l 1080p l Jaskier)/Doctor.Who.S11E01.1080p.AMZN.WEB-DL.DDP5.1.x264-Jaskier.mkv"
+                }
+            ]
+        },
+        {
+            "id": 50,
+            "name": "[rutor.is]Doctor_Who._Season_11_WEB-DLRip_l_400p_l_Jaskie",
+            "size_total": 1.574326272,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.786976768,
+                    "path": "Doctor Who. Season 11 (WEB-DLRip l 400p l Jaskier)/Doctor.Who.S11E00.WEB-DLRip.Rus.Eng.Jaskier.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.787349504,
+                    "path": "Doctor Who. Season 11 (WEB-DLRip l 400p l Jaskier)/Doctor.Who.S11E01.WEB-DLRip.Rus.Eng.Jaskier.avi"
+                }
+            ]
+        },
+        {
+            "id": 51,
+            "name": "[rutor.is]Doctor_Who._Season_11_WEBRip_l_400p_l_Good_Peop",
+            "size_total": 1.574326272,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.786976768,
+                    "path": "Doctor Who. Season 11 (WEBRip l 400p l Good People)/Doctor.Who.S11E00.WEBRip.Rus.Eng.GoodPeople.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.787349504,
+                    "path": "Doctor Who. Season 11 (WEBRip l 400p l Good People)/Doctor.Who.S11E01.WEBRip.Rus.Eng.GoodPeople.avi"
+                }
+            ]
+        },
+        {
+            "id": 52,
+            "name": "[rutor.is]Doctor_Who._Season_11_WEBRip_l_720p_l_Good_Peop",
+            "size_total": 4.115045851,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.735801533,
+                    "path": "Doctor Who. Season 11 (WEBRip l 720p l Good People)/Doctor.Who.2005.S11E00.Twice.Upon.A.Time.720p.AMZN.WEBRip.DDP5.1.H.264-GoodPeople.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.379244318,
+                    "path": "Doctor Who. Season 11 (WEBRip l 720p l Good People)/Doctor.Who.2005.S11E01.The.Woman.Who.Fell.to.Earth.720p.AMZN.WEB-DL.DDP5.1.H.264-GoodPeople.mkv"
+                }
+            ]
+        },
+        {
+            "id": 53,
+            "name": "[rutor.is]Doctor_Who_S11_2017-2018_720p_WEB-DL_Gears_Medi",
+            "size_total": 4.401845323,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.327150763,
+                    "path": "Doctor Who S11 (2017-2018) 720p WEB-DL [Gears Media]/Doctor Who S11E01 (2017) 720p WEB-DL [Gears Media].mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 2.07469456,
+                    "path": "Doctor Who S11 (2017-2018) 720p WEB-DL [Gears Media]/Doctor Who S11E00 (2017) 720p WEB-DL [Gears Media].mkv"
+                }
+            ]
+        },
+        {
+            "id": 54,
+            "name": "[rutor.is]Doctor_Who_S11_2017-2018_WEB-DL_Gears_Media",
+            "size_total": 1.4835843,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.743742898,
+                    "path": "Doctor Who S11 (2017-2018) WEB-DL [Gears Media]/Doctor Who S11E00 (2017) WEB-DL [Gears Media].avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.739841402,
+                    "path": "Doctor Who S11 (2017-2018) WEB-DL [Gears Media]/Doctor Who S11E01 (2017) WEB-DL [Gears Media].avi"
+                }
+            ]
+        },
+        {
+            "id": 55,
+            "name": "[rutor.is]Doctor_Who_S11E01_400p_ColdFilm_avi_torrent",
+            "size_total": 0.650452992,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.650452992,
+                    "path": "Doctor.Who.S11E01.400p.ColdFilm.avi"
+                }
+            ]
+        },
+        {
+            "id": 56,
+            "name": "[rutor.is]Doctor_Who_S11E01_720p_ColdFilm_mkv_torrent",
+            "size_total": 1.485362385,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.485362385,
+                    "path": "Doctor.Who.S11E01.720p.ColdFilm.mkv"
+                }
+            ]
+        },
+        {
+            "id": 57,
+            "name": "Doctor.Who.2005.S11E01.1080p.HDTV.x264-MTB [IPT]",
+            "size_total": 2.369904573,
+            "files_total": 50,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000012741,
+                    "path": "Doctor.Who.2005.S11E01.1080p.HDTV.x264-MTB/doctor.who.2005.s11e01.1080p.hdtv.x264-mtb.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.05,
+                    "path": "Doctor.Who.2005.S11E01.1080p.HDTV.x264-MTB/doctor.who.2005.s11e01.1080p.hdtv.x264-mtb.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.05,
+                    "path": "Doctor.Who.2005.S11E01.1080p.HDTV.x264-MTB/doctor.who.2005.s11e01.1080p.hdtv.x264-mtb.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.05,
+                    "path": "Doctor.Who.2005.S11E01.1080p.HDTV.x264-MTB/doctor.who.2005.s11e01.1080p.hdtv.x264-mtb.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.05,
+                    "path": "Doctor.Who.2005.S11E01.1080p.HDTV.x264-MTB/doctor.who.2005.s11e01.1080p.hdtv.x264-mtb.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.05,
+                    "path": "Doctor.Who.2005.S11E01.1080p.HDTV.x264-MTB/doctor.who.2005.s11e01.1080p.hdtv.x264-mtb.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.05,
+                    "path": "Doctor.Who.2005.S11E01.1080p.HDTV.x264-MTB/doctor.who.2005.s11e01.1080p.hdtv.x264-mtb.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.05,
+                    "path": "Doctor.Who.2005.S11E01.1080p.HDTV.x264-MTB/doctor.who.2005.s11e01.1080p.hdtv.x264-mtb.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.05,
+                    "path": "Doctor.Who.2005.S11E01.1080p.HDTV.x264-MTB/doctor.who.2005.s11e01.1080p.hdtv.x264-mtb.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.05,
+                    "path": "Doctor.Who.2005.S11E01.1080p.HDTV.x264-MTB/doctor.who.2005.s11e01.1080p.hdtv.x264-mtb.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.05,
+                    "path": "Doctor.Who.2005.S11E01.1080p.HDTV.x264-MTB/doctor.who.2005.s11e01.1080p.hdtv.x264-mtb.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.05,
+                    "path": "Doctor.Who.2005.S11E01.1080p.HDTV.x264-MTB/doctor.who.2005.s11e01.1080p.hdtv.x264-mtb.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.05,
+                    "path": "Doctor.Who.2005.S11E01.1080p.HDTV.x264-MTB/doctor.who.2005.s11e01.1080p.hdtv.x264-mtb.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.05,
+                    "path": "Doctor.Who.2005.S11E01.1080p.HDTV.x264-MTB/doctor.who.2005.s11e01.1080p.hdtv.x264-mtb.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.05,
+                    "path": "Doctor.Who.2005.S11E01.1080p.HDTV.x264-MTB/doctor.who.2005.s11e01.1080p.hdtv.x264-mtb.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.05,
+                    "path": "Doctor.Who.2005.S11E01.1080p.HDTV.x264-MTB/doctor.who.2005.s11e01.1080p.hdtv.x264-mtb.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.05,
+                    "path": "Doctor.Who.2005.S11E01.1080p.HDTV.x264-MTB/doctor.who.2005.s11e01.1080p.hdtv.x264-mtb.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.05,
+                    "path": "Doctor.Who.2005.S11E01.1080p.HDTV.x264-MTB/doctor.who.2005.s11e01.1080p.hdtv.x264-mtb.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.05,
+                    "path": "Doctor.Who.2005.S11E01.1080p.HDTV.x264-MTB/doctor.who.2005.s11e01.1080p.hdtv.x264-mtb.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.05,
+                    "path": "Doctor.Who.2005.S11E01.1080p.HDTV.x264-MTB/doctor.who.2005.s11e01.1080p.hdtv.x264-mtb.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.05,
+                    "path": "Doctor.Who.2005.S11E01.1080p.HDTV.x264-MTB/doctor.who.2005.s11e01.1080p.hdtv.x264-mtb.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.05,
+                    "path": "Doctor.Who.2005.S11E01.1080p.HDTV.x264-MTB/doctor.who.2005.s11e01.1080p.hdtv.x264-mtb.r20"
+                },
+                {
+                    "number": 23,
+                    "size": 0.05,
+                    "path": "Doctor.Who.2005.S11E01.1080p.HDTV.x264-MTB/doctor.who.2005.s11e01.1080p.hdtv.x264-mtb.r21"
+                },
+                {
+                    "number": 24,
+                    "size": 0.05,
+                    "path": "Doctor.Who.2005.S11E01.1080p.HDTV.x264-MTB/doctor.who.2005.s11e01.1080p.hdtv.x264-mtb.r22"
+                },
+                {
+                    "number": 25,
+                    "size": 0.05,
+                    "path": "Doctor.Who.2005.S11E01.1080p.HDTV.x264-MTB/doctor.who.2005.s11e01.1080p.hdtv.x264-mtb.r23"
+                },
+                {
+                    "number": 26,
+                    "size": 0.05,
+                    "path": "Doctor.Who.2005.S11E01.1080p.HDTV.x264-MTB/doctor.who.2005.s11e01.1080p.hdtv.x264-mtb.r24"
+                },
+                {
+                    "number": 27,
+                    "size": 0.05,
+                    "path": "Doctor.Who.2005.S11E01.1080p.HDTV.x264-MTB/doctor.who.2005.s11e01.1080p.hdtv.x264-mtb.r25"
+                },
+                {
+                    "number": 28,
+                    "size": 0.05,
+                    "path": "Doctor.Who.2005.S11E01.1080p.HDTV.x264-MTB/doctor.who.2005.s11e01.1080p.hdtv.x264-mtb.r26"
+                },
+                {
+                    "number": 29,
+                    "size": 0.05,
+                    "path": "Doctor.Who.2005.S11E01.1080p.HDTV.x264-MTB/doctor.who.2005.s11e01.1080p.hdtv.x264-mtb.r27"
+                },
+                {
+                    "number": 30,
+                    "size": 0.05,
+                    "path": "Doctor.Who.2005.S11E01.1080p.HDTV.x264-MTB/doctor.who.2005.s11e01.1080p.hdtv.x264-mtb.r28"
+                },
+                {
+                    "number": 31,
+                    "size": 0.05,
+                    "path": "Doctor.Who.2005.S11E01.1080p.HDTV.x264-MTB/doctor.who.2005.s11e01.1080p.hdtv.x264-mtb.r29"
+                },
+                {
+                    "number": 32,
+                    "size": 0.05,
+                    "path": "Doctor.Who.2005.S11E01.1080p.HDTV.x264-MTB/doctor.who.2005.s11e01.1080p.hdtv.x264-mtb.r30"
+                },
+                {
+                    "number": 33,
+                    "size": 0.05,
+                    "path": "Doctor.Who.2005.S11E01.1080p.HDTV.x264-MTB/doctor.who.2005.s11e01.1080p.hdtv.x264-mtb.r31"
+                },
+                {
+                    "number": 34,
+                    "size": 0.05,
+                    "path": "Doctor.Who.2005.S11E01.1080p.HDTV.x264-MTB/doctor.who.2005.s11e01.1080p.hdtv.x264-mtb.r32"
+                },
+                {
+                    "number": 35,
+                    "size": 0.05,
+                    "path": "Doctor.Who.2005.S11E01.1080p.HDTV.x264-MTB/doctor.who.2005.s11e01.1080p.hdtv.x264-mtb.r33"
+                },
+                {
+                    "number": 36,
+                    "size": 0.05,
+                    "path": "Doctor.Who.2005.S11E01.1080p.HDTV.x264-MTB/doctor.who.2005.s11e01.1080p.hdtv.x264-mtb.r34"
+                },
+                {
+                    "number": 37,
+                    "size": 0.05,
+                    "path": "Doctor.Who.2005.S11E01.1080p.HDTV.x264-MTB/doctor.who.2005.s11e01.1080p.hdtv.x264-mtb.r35"
+                },
+                {
+                    "number": 38,
+                    "size": 0.05,
+                    "path": "Doctor.Who.2005.S11E01.1080p.HDTV.x264-MTB/doctor.who.2005.s11e01.1080p.hdtv.x264-mtb.r36"
+                },
+                {
+                    "number": 39,
+                    "size": 0.05,
+                    "path": "Doctor.Who.2005.S11E01.1080p.HDTV.x264-MTB/doctor.who.2005.s11e01.1080p.hdtv.x264-mtb.r37"
+                },
+                {
+                    "number": 40,
+                    "size": 0.05,
+                    "path": "Doctor.Who.2005.S11E01.1080p.HDTV.x264-MTB/doctor.who.2005.s11e01.1080p.hdtv.x264-mtb.r38"
+                },
+                {
+                    "number": 41,
+                    "size": 0.05,
+                    "path": "Doctor.Who.2005.S11E01.1080p.HDTV.x264-MTB/doctor.who.2005.s11e01.1080p.hdtv.x264-mtb.r39"
+                },
+                {
+                    "number": 42,
+                    "size": 0.05,
+                    "path": "Doctor.Who.2005.S11E01.1080p.HDTV.x264-MTB/doctor.who.2005.s11e01.1080p.hdtv.x264-mtb.r40"
+                },
+                {
+                    "number": 43,
+                    "size": 0.05,
+                    "path": "Doctor.Who.2005.S11E01.1080p.HDTV.x264-MTB/doctor.who.2005.s11e01.1080p.hdtv.x264-mtb.r41"
+                },
+                {
+                    "number": 44,
+                    "size": 0.05,
+                    "path": "Doctor.Who.2005.S11E01.1080p.HDTV.x264-MTB/doctor.who.2005.s11e01.1080p.hdtv.x264-mtb.r42"
+                },
+                {
+                    "number": 45,
+                    "size": 0.05,
+                    "path": "Doctor.Who.2005.S11E01.1080p.HDTV.x264-MTB/doctor.who.2005.s11e01.1080p.hdtv.x264-mtb.r43"
+                },
+                {
+                    "number": 46,
+                    "size": 0.05,
+                    "path": "Doctor.Who.2005.S11E01.1080p.HDTV.x264-MTB/doctor.who.2005.s11e01.1080p.hdtv.x264-mtb.r44"
+                },
+                {
+                    "number": 47,
+                    "size": 0.05,
+                    "path": "Doctor.Who.2005.S11E01.1080p.HDTV.x264-MTB/doctor.who.2005.s11e01.1080p.hdtv.x264-mtb.r45"
+                },
+                {
+                    "number": 48,
+                    "size": 0.019889096,
+                    "path": "Doctor.Who.2005.S11E01.1080p.HDTV.x264-MTB/doctor.who.2005.s11e01.1080p.hdtv.x264-mtb.r46"
+                },
+                {
+                    "number": 49,
+                    "size": 0.05,
+                    "path": "Doctor.Who.2005.S11E01.1080p.HDTV.x264-MTB/doctor.who.2005.s11e01.1080p.hdtv.x264-mtb.rar"
+                },
+                {
+                    "number": 50,
+                    "size": 0.000002736,
+                    "path": "Doctor.Who.2005.S11E01.1080p.HDTV.x264-MTB/doctor.who.2005.s11e01.1080p.hdtv.x264-mtb.sfv"
+                }
+            ]
+        },
+        {
+            "id": 58,
+            "name": "Doctor.Who.2005.S11E01.1080p.HDTV.x264-MTB[rartv]-[rarbg.to]",
+            "size_total": 2.369895723,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Doctor.Who.2005.S11E01.1080p.HDTV.x264-MTB[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 2.369882952,
+                    "path": "Doctor.Who.2005.S11E01.1080p.HDTV.x264-MTB[rarbg]/doctor.who.2005.s11e01.1080p.hdtv.x264-mtb.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000012741,
+                    "path": "Doctor.Who.2005.S11E01.1080p.HDTV.x264-MTB[rarbg]/doctor.who.2005.s11e01.1080p.hdtv.x264-mtb.nfo"
+                }
+            ]
+        },
+        {
+            "id": 59,
+            "name": "Doctor.Who.2005.S11E01.1080p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.690314408,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.68547927,
+                    "path": "Doctor.Who.2005.S11E01.1080p.HEVC.x265-MeGusta/Doctor.Who.2005.S11E01.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001209,
+                    "path": "Doctor.Who.2005.S11E01.1080p.HEVC.x265-MeGusta/Doctor.Who.2005.S11E01.1080p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000768745,
+                    "path": "Doctor.Who.2005.S11E01.1080p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001163108,
+                    "path": "Doctor.Who.2005.S11E01.1080p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.001167969,
+                    "path": "Doctor.Who.2005.S11E01.1080p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.001734107,
+                    "path": "Doctor.Who.2005.S11E01.1080p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 60,
+            "name": "Doctor.Who.2005.S11E01.480p.x264-mSD [IPT]",
+            "size_total": 0.220708354,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.22008138,
+                    "path": "Doctor.Who.2005.S11E01.480p.x264-mSD/Doctor.Who.2005.S11E01.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001176,
+                    "path": "Doctor.Who.2005.S11E01.480p.x264-mSD/Doctor.Who.2005.S11E01.480p.x264-mSD.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000064243,
+                    "path": "Doctor.Who.2005.S11E01.480p.x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000156016,
+                    "path": "Doctor.Who.2005.S11E01.480p.x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000170772,
+                    "path": "Doctor.Who.2005.S11E01.480p.x264-mSD/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000234767,
+                    "path": "Doctor.Who.2005.S11E01.480p.x264-mSD/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 61,
+            "name": "Doctor.Who.2005.S11E01.720p.HDTV.x264-FoV [IPT]",
+            "size_total": 0.910535347,
+            "files_total": 21,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.05,
+                    "path": "Doctor.Who.2005.S11E01.720p.HDTV.x264-FoV/doctor.who.2005.s11e01.720p.hdtv.x264-fov.r00"
+                },
+                {
+                    "number": 2,
+                    "size": 0.05,
+                    "path": "Doctor.Who.2005.S11E01.720p.HDTV.x264-FoV/doctor.who.2005.s11e01.720p.hdtv.x264-fov.r01"
+                },
+                {
+                    "number": 3,
+                    "size": 0.05,
+                    "path": "Doctor.Who.2005.S11E01.720p.HDTV.x264-FoV/doctor.who.2005.s11e01.720p.hdtv.x264-fov.r02"
+                },
+                {
+                    "number": 4,
+                    "size": 0.05,
+                    "path": "Doctor.Who.2005.S11E01.720p.HDTV.x264-FoV/doctor.who.2005.s11e01.720p.hdtv.x264-fov.r03"
+                },
+                {
+                    "number": 5,
+                    "size": 0.05,
+                    "path": "Doctor.Who.2005.S11E01.720p.HDTV.x264-FoV/doctor.who.2005.s11e01.720p.hdtv.x264-fov.r04"
+                },
+                {
+                    "number": 6,
+                    "size": 0.05,
+                    "path": "Doctor.Who.2005.S11E01.720p.HDTV.x264-FoV/doctor.who.2005.s11e01.720p.hdtv.x264-fov.r05"
+                },
+                {
+                    "number": 7,
+                    "size": 0.05,
+                    "path": "Doctor.Who.2005.S11E01.720p.HDTV.x264-FoV/doctor.who.2005.s11e01.720p.hdtv.x264-fov.r06"
+                },
+                {
+                    "number": 8,
+                    "size": 0.05,
+                    "path": "Doctor.Who.2005.S11E01.720p.HDTV.x264-FoV/doctor.who.2005.s11e01.720p.hdtv.x264-fov.r07"
+                },
+                {
+                    "number": 9,
+                    "size": 0.05,
+                    "path": "Doctor.Who.2005.S11E01.720p.HDTV.x264-FoV/doctor.who.2005.s11e01.720p.hdtv.x264-fov.r08"
+                },
+                {
+                    "number": 10,
+                    "size": 0.05,
+                    "path": "Doctor.Who.2005.S11E01.720p.HDTV.x264-FoV/doctor.who.2005.s11e01.720p.hdtv.x264-fov.r09"
+                },
+                {
+                    "number": 11,
+                    "size": 0.05,
+                    "path": "Doctor.Who.2005.S11E01.720p.HDTV.x264-FoV/doctor.who.2005.s11e01.720p.hdtv.x264-fov.r10"
+                },
+                {
+                    "number": 12,
+                    "size": 0.05,
+                    "path": "Doctor.Who.2005.S11E01.720p.HDTV.x264-FoV/doctor.who.2005.s11e01.720p.hdtv.x264-fov.r11"
+                },
+                {
+                    "number": 13,
+                    "size": 0.05,
+                    "path": "Doctor.Who.2005.S11E01.720p.HDTV.x264-FoV/doctor.who.2005.s11e01.720p.hdtv.x264-fov.r12"
+                },
+                {
+                    "number": 14,
+                    "size": 0.05,
+                    "path": "Doctor.Who.2005.S11E01.720p.HDTV.x264-FoV/doctor.who.2005.s11e01.720p.hdtv.x264-fov.r13"
+                },
+                {
+                    "number": 15,
+                    "size": 0.05,
+                    "path": "Doctor.Who.2005.S11E01.720p.HDTV.x264-FoV/doctor.who.2005.s11e01.720p.hdtv.x264-fov.r14"
+                },
+                {
+                    "number": 16,
+                    "size": 0.05,
+                    "path": "Doctor.Who.2005.S11E01.720p.HDTV.x264-FoV/doctor.who.2005.s11e01.720p.hdtv.x264-fov.r15"
+                },
+                {
+                    "number": 17,
+                    "size": 0.05,
+                    "path": "Doctor.Who.2005.S11E01.720p.HDTV.x264-FoV/doctor.who.2005.s11e01.720p.hdtv.x264-fov.r16"
+                },
+                {
+                    "number": 18,
+                    "size": 0.010532241,
+                    "path": "Doctor.Who.2005.S11E01.720p.HDTV.x264-FoV/doctor.who.2005.s11e01.720p.hdtv.x264-fov.r17"
+                },
+                {
+                    "number": 19,
+                    "size": 0.05,
+                    "path": "Doctor.Who.2005.S11E01.720p.HDTV.x264-FoV/doctor.who.2005.s11e01.720p.hdtv.x264-fov.rar"
+                },
+                {
+                    "number": 20,
+                    "size": 0.000001064,
+                    "path": "Doctor.Who.2005.S11E01.720p.HDTV.x264-FoV/doctor.who.2005.s11e01.720p.hdtv.x264-fov.sfv"
+                },
+                {
+                    "number": 21,
+                    "size": 0.000002042,
+                    "path": "Doctor.Who.2005.S11E01.720p.HDTV.x264-FoV/tvmaze.nfo"
+                }
+            ]
+        },
+        {
+            "id": 62,
+            "name": "Doctor.Who.2005.S11E01.720p.HDTV.x264-FoV[rartv]-[rarbg.to]",
+            "size_total": 0.91053939,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Doctor.Who.2005.S11E01.720p.HDTV.x264-FoV[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000009475,
+                    "path": "Doctor.Who.2005.S11E01.720p.HDTV.x264-FoV[rarbg]/doctor.who.2005.s11e01.720p.hdtv.x264-fov.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.910529885,
+                    "path": "Doctor.Who.2005.S11E01.720p.HDTV.x264-FoV[rarbg]/doctor_who_2005.11x01.720p_hdtv_x264-fov.mkv"
+                }
+            ]
+        },
+        {
+            "id": 63,
+            "name": "Doctor.Who.2005.S11E01.720p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.301646283,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.297971907,
+                    "path": "Doctor.Who.2005.S11E01.720p.HEVC.x265-MeGusta/Doctor.Who.2005.S11E01.720p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001189,
+                    "path": "Doctor.Who.2005.S11E01.720p.HEVC.x265-MeGusta/Doctor.Who.2005.S11E01.720p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000589824,
+                    "path": "Doctor.Who.2005.S11E01.720p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000786183,
+                    "path": "Doctor.Who.2005.S11E01.720p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.001016201,
+                    "path": "Doctor.Who.2005.S11E01.720p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.001280979,
+                    "path": "Doctor.Who.2005.S11E01.720p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 64,
+            "name": "Doctor.Who.2005.S11E01.720p.iP.WEBRip.AAC2.0.H264-BTW[eztv].mkv",
+            "size_total": 2.337513457,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.337513457,
+                    "path": "Doctor.Who.2005.S11E01.720p.iP.WEBRip.AAC2.0.H264-BTW[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 65,
+            "name": "Doctor.Who.2005.S11E01.720p.iP.WEBRip.AAC2.0.H264-BTW[rartv]-[rarbg.to]",
+            "size_total": 2.337513487,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.337513457,
+                    "path": "Doctor.Who.2005.S11E01.720p.iP.WEBRip.AAC2.0.H264-BTW[rarbg]/Doctor.Who.2005.S11E01.720p.iP.WEB-DL.AAC2.0.H.264-BTW.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Doctor.Who.2005.S11E01.720p.iP.WEBRip.AAC2.0.H264-BTW[rarbg]/RARBG.txt"
+                }
+            ]
+        },
+        {
+            "id": 66,
+            "name": "Doctor.Who.2005.S11E01.720p.WEB.x265-MiNX[eztv].mkv",
+            "size_total": 0.293067565,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.293067565,
+                    "path": "Doctor.Who.2005.S11E01.720p.WEB.x265-MiNX[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 67,
+            "name": "Doctor.Who.2005.S11E01.AAC.MP4-Mobile [IPT]",
+            "size_total": 0.219555932,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.218907789,
+                    "path": "Doctor.Who.2005.S11E01.AAC.MP4-Mobile/Doctor.Who.2005.S11E01.AAC.MP4-Mobile.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 0.00000128,
+                    "path": "Doctor.Who.2005.S11E01.AAC.MP4-Mobile/Doctor.Who.2005.S11E01.AAC.MP4-Mobile.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000067651,
+                    "path": "Doctor.Who.2005.S11E01.AAC.MP4-Mobile/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000159598,
+                    "path": "Doctor.Who.2005.S11E01.AAC.MP4-Mobile/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000177358,
+                    "path": "Doctor.Who.2005.S11E01.AAC.MP4-Mobile/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000242256,
+                    "path": "Doctor.Who.2005.S11E01.AAC.MP4-Mobile/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 68,
+            "name": "Doctor.Who.2005.S11E01.HDTV.x264-MTB [IPT]",
+            "size_total": 0.347287893,
+            "files_total": 26,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.015,
+                    "path": "Doctor.Who.2005.S11E01.HDTV.x264-MTB/doctor.who.2005.s11e01.hdtv.x264-mtb.r00"
+                },
+                {
+                    "number": 2,
+                    "size": 0.015,
+                    "path": "Doctor.Who.2005.S11E01.HDTV.x264-MTB/doctor.who.2005.s11e01.hdtv.x264-mtb.r01"
+                },
+                {
+                    "number": 3,
+                    "size": 0.015,
+                    "path": "Doctor.Who.2005.S11E01.HDTV.x264-MTB/doctor.who.2005.s11e01.hdtv.x264-mtb.r02"
+                },
+                {
+                    "number": 4,
+                    "size": 0.015,
+                    "path": "Doctor.Who.2005.S11E01.HDTV.x264-MTB/doctor.who.2005.s11e01.hdtv.x264-mtb.r03"
+                },
+                {
+                    "number": 5,
+                    "size": 0.015,
+                    "path": "Doctor.Who.2005.S11E01.HDTV.x264-MTB/doctor.who.2005.s11e01.hdtv.x264-mtb.r04"
+                },
+                {
+                    "number": 6,
+                    "size": 0.015,
+                    "path": "Doctor.Who.2005.S11E01.HDTV.x264-MTB/doctor.who.2005.s11e01.hdtv.x264-mtb.r05"
+                },
+                {
+                    "number": 7,
+                    "size": 0.015,
+                    "path": "Doctor.Who.2005.S11E01.HDTV.x264-MTB/doctor.who.2005.s11e01.hdtv.x264-mtb.r06"
+                },
+                {
+                    "number": 8,
+                    "size": 0.015,
+                    "path": "Doctor.Who.2005.S11E01.HDTV.x264-MTB/doctor.who.2005.s11e01.hdtv.x264-mtb.r07"
+                },
+                {
+                    "number": 9,
+                    "size": 0.015,
+                    "path": "Doctor.Who.2005.S11E01.HDTV.x264-MTB/doctor.who.2005.s11e01.hdtv.x264-mtb.r08"
+                },
+                {
+                    "number": 10,
+                    "size": 0.015,
+                    "path": "Doctor.Who.2005.S11E01.HDTV.x264-MTB/doctor.who.2005.s11e01.hdtv.x264-mtb.r09"
+                },
+                {
+                    "number": 11,
+                    "size": 0.015,
+                    "path": "Doctor.Who.2005.S11E01.HDTV.x264-MTB/doctor.who.2005.s11e01.hdtv.x264-mtb.r10"
+                },
+                {
+                    "number": 12,
+                    "size": 0.015,
+                    "path": "Doctor.Who.2005.S11E01.HDTV.x264-MTB/doctor.who.2005.s11e01.hdtv.x264-mtb.r11"
+                },
+                {
+                    "number": 13,
+                    "size": 0.015,
+                    "path": "Doctor.Who.2005.S11E01.HDTV.x264-MTB/doctor.who.2005.s11e01.hdtv.x264-mtb.r12"
+                },
+                {
+                    "number": 14,
+                    "size": 0.015,
+                    "path": "Doctor.Who.2005.S11E01.HDTV.x264-MTB/doctor.who.2005.s11e01.hdtv.x264-mtb.r13"
+                },
+                {
+                    "number": 15,
+                    "size": 0.015,
+                    "path": "Doctor.Who.2005.S11E01.HDTV.x264-MTB/doctor.who.2005.s11e01.hdtv.x264-mtb.r14"
+                },
+                {
+                    "number": 16,
+                    "size": 0.015,
+                    "path": "Doctor.Who.2005.S11E01.HDTV.x264-MTB/doctor.who.2005.s11e01.hdtv.x264-mtb.r15"
+                },
+                {
+                    "number": 17,
+                    "size": 0.015,
+                    "path": "Doctor.Who.2005.S11E01.HDTV.x264-MTB/doctor.who.2005.s11e01.hdtv.x264-mtb.r16"
+                },
+                {
+                    "number": 18,
+                    "size": 0.015,
+                    "path": "Doctor.Who.2005.S11E01.HDTV.x264-MTB/doctor.who.2005.s11e01.hdtv.x264-mtb.r17"
+                },
+                {
+                    "number": 19,
+                    "size": 0.015,
+                    "path": "Doctor.Who.2005.S11E01.HDTV.x264-MTB/doctor.who.2005.s11e01.hdtv.x264-mtb.r18"
+                },
+                {
+                    "number": 20,
+                    "size": 0.015,
+                    "path": "Doctor.Who.2005.S11E01.HDTV.x264-MTB/doctor.who.2005.s11e01.hdtv.x264-mtb.r19"
+                },
+                {
+                    "number": 21,
+                    "size": 0.015,
+                    "path": "Doctor.Who.2005.S11E01.HDTV.x264-MTB/doctor.who.2005.s11e01.hdtv.x264-mtb.r20"
+                },
+                {
+                    "number": 22,
+                    "size": 0.015,
+                    "path": "Doctor.Who.2005.S11E01.HDTV.x264-MTB/doctor.who.2005.s11e01.hdtv.x264-mtb.r21"
+                },
+                {
+                    "number": 23,
+                    "size": 0.002284627,
+                    "path": "Doctor.Who.2005.S11E01.HDTV.x264-MTB/doctor.who.2005.s11e01.hdtv.x264-mtb.r22"
+                },
+                {
+                    "number": 24,
+                    "size": 0.015,
+                    "path": "Doctor.Who.2005.S11E01.HDTV.x264-MTB/doctor.who.2005.s11e01.hdtv.x264-mtb.rar"
+                },
+                {
+                    "number": 25,
+                    "size": 0.000001224,
+                    "path": "Doctor.Who.2005.S11E01.HDTV.x264-MTB/doctor.who.2005.s11e01.hdtv.x264-mtb.sfv"
+                },
+                {
+                    "number": 26,
+                    "size": 0.000002042,
+                    "path": "Doctor.Who.2005.S11E01.HDTV.x264-MTB/tvmaze.nfo"
+                }
+            ]
+        },
+        {
+            "id": 69,
+            "name": "Doctor.Who.2005.S11E01.HDTV.x264-MTB[eztv].mkv",
+            "size_total": 0.347282419,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.347282419,
+                    "path": "Doctor.Who.2005.S11E01.HDTV.x264-MTB[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 70,
+            "name": "Doctor.Who.2005.S11E01.HDTV.x264-MTB[rartv]-[rarbg.to]",
+            "size_total": 0.34729519,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Doctor.Who.2005.S11E01.HDTV.x264-MTB[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.347282419,
+                    "path": "Doctor.Who.2005.S11E01.HDTV.x264-MTB[rarbg]/doctor.who.2005.s11e01.hdtv.x264-mtb.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000012741,
+                    "path": "Doctor.Who.2005.S11E01.HDTV.x264-MTB[rarbg]/doctor.who.2005.s11e01.hdtv.x264-mtb.nfo"
+                }
+            ]
+        },
+        {
+            "id": 71,
+            "name": "Doctor.Who.2005.S11E01.INTERNAL.1080p.HDTV.x264-FaiLED [IPT]",
+            "size_total": 3.116069224,
+            "files_total": 34,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000001664,
+                    "path": "Doctor.Who.2005.S11E01.INTERNAL.1080p.HDTV.x264-FaiLED/doctor.who.2005.s11e01.internal.1080p.hdtv.x264-failed.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.1,
+                    "path": "Doctor.Who.2005.S11E01.INTERNAL.1080p.HDTV.x264-FaiLED/doctor.who.2005.s11e01.internal.1080p.hdtv.x264-failed.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.1,
+                    "path": "Doctor.Who.2005.S11E01.INTERNAL.1080p.HDTV.x264-FaiLED/doctor.who.2005.s11e01.internal.1080p.hdtv.x264-failed.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.1,
+                    "path": "Doctor.Who.2005.S11E01.INTERNAL.1080p.HDTV.x264-FaiLED/doctor.who.2005.s11e01.internal.1080p.hdtv.x264-failed.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.1,
+                    "path": "Doctor.Who.2005.S11E01.INTERNAL.1080p.HDTV.x264-FaiLED/doctor.who.2005.s11e01.internal.1080p.hdtv.x264-failed.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.1,
+                    "path": "Doctor.Who.2005.S11E01.INTERNAL.1080p.HDTV.x264-FaiLED/doctor.who.2005.s11e01.internal.1080p.hdtv.x264-failed.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.1,
+                    "path": "Doctor.Who.2005.S11E01.INTERNAL.1080p.HDTV.x264-FaiLED/doctor.who.2005.s11e01.internal.1080p.hdtv.x264-failed.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.1,
+                    "path": "Doctor.Who.2005.S11E01.INTERNAL.1080p.HDTV.x264-FaiLED/doctor.who.2005.s11e01.internal.1080p.hdtv.x264-failed.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.1,
+                    "path": "Doctor.Who.2005.S11E01.INTERNAL.1080p.HDTV.x264-FaiLED/doctor.who.2005.s11e01.internal.1080p.hdtv.x264-failed.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.1,
+                    "path": "Doctor.Who.2005.S11E01.INTERNAL.1080p.HDTV.x264-FaiLED/doctor.who.2005.s11e01.internal.1080p.hdtv.x264-failed.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.1,
+                    "path": "Doctor.Who.2005.S11E01.INTERNAL.1080p.HDTV.x264-FaiLED/doctor.who.2005.s11e01.internal.1080p.hdtv.x264-failed.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.1,
+                    "path": "Doctor.Who.2005.S11E01.INTERNAL.1080p.HDTV.x264-FaiLED/doctor.who.2005.s11e01.internal.1080p.hdtv.x264-failed.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.1,
+                    "path": "Doctor.Who.2005.S11E01.INTERNAL.1080p.HDTV.x264-FaiLED/doctor.who.2005.s11e01.internal.1080p.hdtv.x264-failed.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.1,
+                    "path": "Doctor.Who.2005.S11E01.INTERNAL.1080p.HDTV.x264-FaiLED/doctor.who.2005.s11e01.internal.1080p.hdtv.x264-failed.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.1,
+                    "path": "Doctor.Who.2005.S11E01.INTERNAL.1080p.HDTV.x264-FaiLED/doctor.who.2005.s11e01.internal.1080p.hdtv.x264-failed.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.1,
+                    "path": "Doctor.Who.2005.S11E01.INTERNAL.1080p.HDTV.x264-FaiLED/doctor.who.2005.s11e01.internal.1080p.hdtv.x264-failed.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.1,
+                    "path": "Doctor.Who.2005.S11E01.INTERNAL.1080p.HDTV.x264-FaiLED/doctor.who.2005.s11e01.internal.1080p.hdtv.x264-failed.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.1,
+                    "path": "Doctor.Who.2005.S11E01.INTERNAL.1080p.HDTV.x264-FaiLED/doctor.who.2005.s11e01.internal.1080p.hdtv.x264-failed.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.1,
+                    "path": "Doctor.Who.2005.S11E01.INTERNAL.1080p.HDTV.x264-FaiLED/doctor.who.2005.s11e01.internal.1080p.hdtv.x264-failed.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.1,
+                    "path": "Doctor.Who.2005.S11E01.INTERNAL.1080p.HDTV.x264-FaiLED/doctor.who.2005.s11e01.internal.1080p.hdtv.x264-failed.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.1,
+                    "path": "Doctor.Who.2005.S11E01.INTERNAL.1080p.HDTV.x264-FaiLED/doctor.who.2005.s11e01.internal.1080p.hdtv.x264-failed.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.1,
+                    "path": "Doctor.Who.2005.S11E01.INTERNAL.1080p.HDTV.x264-FaiLED/doctor.who.2005.s11e01.internal.1080p.hdtv.x264-failed.r20"
+                },
+                {
+                    "number": 23,
+                    "size": 0.1,
+                    "path": "Doctor.Who.2005.S11E01.INTERNAL.1080p.HDTV.x264-FaiLED/doctor.who.2005.s11e01.internal.1080p.hdtv.x264-failed.r21"
+                },
+                {
+                    "number": 24,
+                    "size": 0.1,
+                    "path": "Doctor.Who.2005.S11E01.INTERNAL.1080p.HDTV.x264-FaiLED/doctor.who.2005.s11e01.internal.1080p.hdtv.x264-failed.r22"
+                },
+                {
+                    "number": 25,
+                    "size": 0.1,
+                    "path": "Doctor.Who.2005.S11E01.INTERNAL.1080p.HDTV.x264-FaiLED/doctor.who.2005.s11e01.internal.1080p.hdtv.x264-failed.r23"
+                },
+                {
+                    "number": 26,
+                    "size": 0.1,
+                    "path": "Doctor.Who.2005.S11E01.INTERNAL.1080p.HDTV.x264-FaiLED/doctor.who.2005.s11e01.internal.1080p.hdtv.x264-failed.r24"
+                },
+                {
+                    "number": 27,
+                    "size": 0.1,
+                    "path": "Doctor.Who.2005.S11E01.INTERNAL.1080p.HDTV.x264-FaiLED/doctor.who.2005.s11e01.internal.1080p.hdtv.x264-failed.r25"
+                },
+                {
+                    "number": 28,
+                    "size": 0.1,
+                    "path": "Doctor.Who.2005.S11E01.INTERNAL.1080p.HDTV.x264-FaiLED/doctor.who.2005.s11e01.internal.1080p.hdtv.x264-failed.r26"
+                },
+                {
+                    "number": 29,
+                    "size": 0.1,
+                    "path": "Doctor.Who.2005.S11E01.INTERNAL.1080p.HDTV.x264-FaiLED/doctor.who.2005.s11e01.internal.1080p.hdtv.x264-failed.r27"
+                },
+                {
+                    "number": 30,
+                    "size": 0.1,
+                    "path": "Doctor.Who.2005.S11E01.INTERNAL.1080p.HDTV.x264-FaiLED/doctor.who.2005.s11e01.internal.1080p.hdtv.x264-failed.r28"
+                },
+                {
+                    "number": 31,
+                    "size": 0.1,
+                    "path": "Doctor.Who.2005.S11E01.INTERNAL.1080p.HDTV.x264-FaiLED/doctor.who.2005.s11e01.internal.1080p.hdtv.x264-failed.r29"
+                },
+                {
+                    "number": 32,
+                    "size": 0.016065352,
+                    "path": "Doctor.Who.2005.S11E01.INTERNAL.1080p.HDTV.x264-FaiLED/doctor.who.2005.s11e01.internal.1080p.hdtv.x264-failed.r30"
+                },
+                {
+                    "number": 33,
+                    "size": 0.1,
+                    "path": "Doctor.Who.2005.S11E01.INTERNAL.1080p.HDTV.x264-FaiLED/doctor.who.2005.s11e01.internal.1080p.hdtv.x264-failed.rar"
+                },
+                {
+                    "number": 34,
+                    "size": 0.000002208,
+                    "path": "Doctor.Who.2005.S11E01.INTERNAL.1080p.HDTV.x264-FaiLED/doctor.who.2005.s11e01.internal.1080p.hdtv.x264-failed.sfv"
+                }
+            ]
+        },
+        {
+            "id": 72,
+            "name": "Doctor.Who.2005.S11E01.INTERNAL.1080p.HDTV.x264-FaiLED[rartv]-[rarbg.to]",
+            "size_total": 3.116062429,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Doctor.Who.2005.S11E01.INTERNAL.1080p.HDTV.x264-FaiLED[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 3.116060776,
+                    "path": "Doctor.Who.2005.S11E01.INTERNAL.1080p.HDTV.x264-FaiLED[rarbg]/doctor.who.2005.s11e01.internal.1080p.hdtv.x264-failed.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000001623,
+                    "path": "Doctor.Who.2005.S11E01.INTERNAL.1080p.HDTV.x264-FaiLED[rarbg]/doctor.who.2005.s11e01.internal.1080p.hdtv.x264-failed.nfo"
+                }
+            ]
+        },
+        {
+            "id": 73,
+            "name": "Doctor.Who.2005.S11E01.INTERNAL.1080p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.744253797,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.739679552,
+                    "path": "Doctor.Who.2005.S11E01.INTERNAL.1080p.HEVC.x265-MeGusta/Doctor.Who.2005.S11E01.INTERNAL.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001229,
+                    "path": "Doctor.Who.2005.S11E01.INTERNAL.1080p.HEVC.x265-MeGusta/Doctor.Who.2005.S11E01.INTERNAL.1080p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000715166,
+                    "path": "Doctor.Who.2005.S11E01.INTERNAL.1080p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001012416,
+                    "path": "Doctor.Who.2005.S11E01.INTERNAL.1080p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.001136322,
+                    "path": "Doctor.Who.2005.S11E01.INTERNAL.1080p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.001709112,
+                    "path": "Doctor.Who.2005.S11E01.INTERNAL.1080p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 74,
+            "name": "Doctor.Who.2005.S11E01.iP.WEB-DL.AAC2.0.H.264-ViSUM [IPT]",
+            "size_total": 0.884570708,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.882188427,
+                    "path": "Doctor.Who.2005.S11E01.iP.WEB-DL.AAC2.0.H.264-ViSUM/Doctor.Who.2005.S11E01.iP.WEB-DL.AAC2.0.H.264-ViSUM.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001531,
+                    "path": "Doctor.Who.2005.S11E01.iP.WEB-DL.AAC2.0.H.264-ViSUM/Doctor.Who.2005.S11E01.iP.WEB-DL.AAC2.0.H.264-ViSUM.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000413645,
+                    "path": "Doctor.Who.2005.S11E01.iP.WEB-DL.AAC2.0.H.264-ViSUM/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000511026,
+                    "path": "Doctor.Who.2005.S11E01.iP.WEB-DL.AAC2.0.H.264-ViSUM/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000625457,
+                    "path": "Doctor.Who.2005.S11E01.iP.WEB-DL.AAC2.0.H.264-ViSUM/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000830622,
+                    "path": "Doctor.Who.2005.S11E01.iP.WEB-DL.AAC2.0.H.264-ViSUM/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 75,
+            "name": "Doctor.Who.2005.S11E01.iP.WEB-DL.AAC2.0.H.264-ViSUM[eztv].mkv",
+            "size_total": 0.882188427,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.882188427,
+                    "path": "Doctor.Who.2005.S11E01.iP.WEB-DL.AAC2.0.H.264-ViSUM[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 76,
+            "name": "Doctor.Who.2005.S11E01.The.Woman.Who.Fell.to.Earth.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb [IPT]",
+            "size_total": 2.51439426,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.503515063,
+                    "path": "Doctor.Who.2005.S11E01.The.Woman.Who.Fell.to.Earth.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb/Doctor.Who.2005.S11E01.The.Woman.Who.Fell.to.Earth.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001603,
+                    "path": "Doctor.Who.2005.S11E01.The.Woman.Who.Fell.to.Earth.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb/Doctor.Who.2005.S11E01.The.Woman.Who.Fell.to.Earth.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001316533,
+                    "path": "Doctor.Who.2005.S11E01.The.Woman.Who.Fell.to.Earth.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.002798149,
+                    "path": "Doctor.Who.2005.S11E01.The.Woman.Who.Fell.to.Earth.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.003530936,
+                    "path": "Doctor.Who.2005.S11E01.The.Woman.Who.Fell.to.Earth.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.003231976,
+                    "path": "Doctor.Who.2005.S11E01.The.Woman.Who.Fell.to.Earth.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 77,
+            "name": "Doctor.Who.2005.S11E01.The.Woman.Who.Fell.to.Earth.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]-[rarbg.to]",
+            "size_total": 2.503515093,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.503515063,
+                    "path": "Doctor.Who.2005.S11E01.The.Woman.Who.Fell.to.Earth.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/Doctor.Who.2005.S11E01.The.Woman.Who.Fell.to.Earth.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Doctor.Who.2005.S11E01.The.Woman.Who.Fell.to.Earth.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG.txt"
+                }
+            ]
+        },
+        {
+            "id": 78,
+            "name": "Doctor.Who.2005.S11E01.The.Woman.Who.Fell.to.Earth.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb [IPT]",
+            "size_total": 1.080783572,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.075603718,
+                    "path": "Doctor.Who.2005.S11E01.The.Woman.Who.Fell.to.Earth.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb/Doctor.Who.2005.S11E01.The.Woman.Who.Fell.to.Earth.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001603,
+                    "path": "Doctor.Who.2005.S11E01.The.Woman.Who.Fell.to.Earth.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb/Doctor.Who.2005.S11E01.The.Woman.Who.Fell.to.Earth.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000677095,
+                    "path": "Doctor.Who.2005.S11E01.The.Woman.Who.Fell.to.Earth.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001276368,
+                    "path": "Doctor.Who.2005.S11E01.The.Woman.Who.Fell.to.Earth.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.001696647,
+                    "path": "Doctor.Who.2005.S11E01.The.Woman.Who.Fell.to.Earth.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.001528141,
+                    "path": "Doctor.Who.2005.S11E01.The.Woman.Who.Fell.to.Earth.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 79,
+            "name": "Doctor.Who.2005.S11E01.The.Woman.Who.Fell.to.Earth.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]-[rarbg.to]",
+            "size_total": 1.075603748,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.075603718,
+                    "path": "Doctor.Who.2005.S11E01.The.Woman.Who.Fell.to.Earth.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/Doctor.Who.2005.S11E01.The.Woman.Who.Fell.to.Earth.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Doctor.Who.2005.S11E01.The.Woman.Who.Fell.to.Earth.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG.txt"
+                }
+            ]
+        },
+        {
+            "id": 80,
+            "name": "Doctor.Who.2005.S11E01.XviD-AFG [IPT]",
+            "size_total": 0.517627834,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.516986588,
+                    "path": "Doctor.Who.2005.S11E01.XviD-AFG/Doctor.Who.2005.S11E01.XviD-AFG.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001158,
+                    "path": "Doctor.Who.2005.S11E01.XviD-AFG/Doctor.Who.2005.S11E01.XviD-AFG.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000060939,
+                    "path": "Doctor.Who.2005.S11E01.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000160895,
+                    "path": "Doctor.Who.2005.S11E01.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000200591,
+                    "path": "Doctor.Who.2005.S11E01.XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000217663,
+                    "path": "Doctor.Who.2005.S11E01.XviD-AFG/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 81,
+            "name": "Doctor.Who.2005.S11E01.XviD-AFG[eztv].avi",
+            "size_total": 0.516986588,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.516986588,
+                    "path": "Doctor.Who.2005.S11E01.XviD-AFG[eztv].avi"
+                }
+            ]
+        },
+        {
+            "id": 82,
+            "name": "Doctor.Who.S11E01.WEBRip.x264-ION10-[rarbg.to]",
+            "size_total": 0.646024545,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.646024515,
+                    "path": "Doctor.Who.S11E01.WEBRip.x264-ION10/Doctor.Who.S11E01.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Doctor.Who.S11E01.WEBRip.x264-ION10/RARBG.txt"
+                }
+            ]
+        },
+        {
+            "id": 83,
+            "name": "doctor_who_2005.11x01.720p_hdtv_x264-fov[eztv].mkv",
+            "size_total": 0.910529885,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.910529885,
+                    "path": "doctor_who_2005.11x01.720p_hdtv_x264-fov[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 84,
+            "name": "Last.Week.Tonight.With.John.Oliver.S05E25.720p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.238848046,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.233656365,
+                    "path": "Last.Week.Tonight.With.John.Oliver.S05E25.720p.HEVC.x265-MeGusta/Last.Week.Tonight.With.John.Oliver.S05E25.720p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001229,
+                    "path": "Last.Week.Tonight.With.John.Oliver.S05E25.720p.HEVC.x265-MeGusta/Last.Week.Tonight.With.John.Oliver.S05E25.720p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001299927,
+                    "path": "Last.Week.Tonight.With.John.Oliver.S05E25.720p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001376683,
+                    "path": "Last.Week.Tonight.With.John.Oliver.S05E25.720p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.001266022,
+                    "path": "Last.Week.Tonight.With.John.Oliver.S05E25.720p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.00124782,
+                    "path": "Last.Week.Tonight.With.John.Oliver.S05E25.720p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 85,
+            "name": "Доктор Кто Doctor Who Сезон 11 Серии 0-1 из 12 (Стивен Моффат) [2017, Великобритания, Приключения, фантастика, комедия, WE [rutracker-5500214]",
+            "size_total": 6.67042578,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 4.106037873,
+                    "path": "Doctor Who. Season 11 (WEB-DL l 1080p l Jaskier)/Doctor.Who.S11E00.1080p.AMZN.WEB-DL.DDP5.1.x264-Jaskier.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 2.564387907,
+                    "path": "Doctor Who. Season 11 (WEB-DL l 1080p l Jaskier)/Doctor.Who.S11E01.1080p.AMZN.WEB-DL.DDP5.1.x264-Jaskier.mkv"
+                }
+            ]
+        },
+        {
+            "id": 86,
+            "name": "Доктор Кто Doctor Who Сезон 11 Серии 0-1 из 12 (Стивен Моффат) [2017, Великобритания, Приключения, фантастика, комедия, WE [rutracker-5500215]",
+            "size_total": 1.574326272,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.786976768,
+                    "path": "Doctor Who. Season 11 (WEB-DLRip l 400p l Jaskier)/Doctor.Who.S11E00.WEB-DLRip.Rus.Eng.Jaskier.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.787349504,
+                    "path": "Doctor Who. Season 11 (WEB-DLRip l 400p l Jaskier)/Doctor.Who.S11E01.WEB-DLRip.Rus.Eng.Jaskier.avi"
+                }
+            ]
+        },
+        {
+            "id": 87,
+            "name": "Доктор Кто Doctor Who Сезон 11 Серии 0-1 из 12 (Стивен Моффат) [2017, Великобритания, Приключения, фантастика, комедия, WE [rutracker-5500219]",
+            "size_total": 1.574326272,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.786976768,
+                    "path": "Doctor Who. Season 11 (WEBRip l 400p l Good People)/Doctor.Who.S11E00.WEBRip.Rus.Eng.GoodPeople.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.787349504,
+                    "path": "Doctor Who. Season 11 (WEBRip l 400p l Good People)/Doctor.Who.S11E01.WEBRip.Rus.Eng.GoodPeople.avi"
+                }
+            ]
+        },
+        {
+            "id": 88,
+            "name": "Доктор Кто Doctor Who Сезон 11 Серии 0-1 из 12 (Стивен Моффат) [2017, Великобритания, Приключения, фантастика, комедия, WE [rutracker-5504458]",
+            "size_total": 1.560641536,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.804612096,
+                    "path": "Doctor.Who.Series.11/Doctor.Who.S11E01.WEBRip.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.75602944,
+                    "path": "Doctor.Who.Series.11/Doctor.Who.S11E00.WEBRip.avi"
+                }
+            ]
+        },
+        {
+            "id": 89,
+            "name": "Доктор Кто Doctor Who Сезон 11 Серии 0-1 из 12 (Стивен Моффат) [2017, Великобритания, приключения, фантастика, комедия, WE [rutracker-5502672]",
+            "size_total": 4.864773881,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.519200794,
+                    "path": "Doctor Who S11 (2017-2018) 720p WEB-DL (Gears Media)/Doctor Who S11E01 (2017) 720p WEB-DL (Gears Media).mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 2.345573087,
+                    "path": "Doctor Who S11 (2017-2018) 720p WEB-DL (Gears Media)/Doctor Who S11E00 (2017) 720p WEB-DL (Gears Media).mkv"
+                }
+            ]
+        },
+        {
+            "id": 90,
+            "name": "Доктор Кто Doctor Who Сезон 11 Серии 0-1 из 12 (Стивен Моффат) [2017, Великобритания, приключения, фантастика, комедия, WE [rutracker-5502679]",
+            "size_total": 1.641508686,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.842750986,
+                    "path": "Doctor Who S11 (2017-2018) WEB-DL (Gears Media)/Doctor Who S11E01 (2017) WEB-DL (Gears Media).avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.7987577,
+                    "path": "Doctor Who S11 (2017-2018) WEB-DL (Gears Media)/Doctor Who S11E00 (2017) WEB-DL (Gears Media).avi"
+                }
+            ]
+        },
+        {
+            "id": 91,
+            "name": "Доктор Кто Doctor Who Сезон 11 Серии 1 из 11 (Джейми Чайлдс, Марк Тондерай) [2018, Великобритания, фантастика, драма, коме [rutracker-56254",
+            "size_total": 0.598703752,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.598703752,
+                    "path": "Doctor.Who.S11.AMZN.WEBRip.TeamNotDead/Doctor.Who.S11E01.AMZN.WEBRip.TeamNotDead.mkv"
+                }
+            ]
+        },
+        {
+            "id": 92,
+            "name": "Доктор Кто Doctor Who Сезон 11 Серии 1 из 11 (Джейми Чайлдс, Марк Тондерай) [2018, Великобритания, фантастика, драма, коме [rutracker-5625403]",
+            "size_total": 0.598703752,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.598703752,
+                    "path": "Doctor.Who.S11.AMZN.WEBRip.TeamNotDead/Doctor.Who.S11E01.AMZN.WEBRip.TeamNotDead.mkv"
+                }
+            ]
+        },
+        {
+            "id": 93,
+            "name": "Доктор Кто Doctor Who Сезон 11 Серии 1 из 11 (Крис Чибнелл) [2018, Великобритания, фантастика, WEBRip 1080p] Original + Ru [rutracker-5625393]",
+            "size_total": 2.503654689,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.503654689,
+                    "path": "Doctor.Who.S11.AMZN.WEBRip.TeamNotDead.1080p/Doctor.Who.S11E01.AMZN.WEBRip.TeamNotDead.1080p.mkv"
+                }
+            ]
+        },
+        {
+            "id": 94,
+            "name": "Доктор Кто Doctor Who Сезон 11 Серии 1 из 11 (Крис Чибнелл) [2018, Великобритания, фантастика, WEBRip 720p] Original + Rus [rutracker-5625387]",
+            "size_total": 1.0757433,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.0757433,
+                    "path": "Doctor.Who.S11.AMZN.WEBRip.TeamNotDead.720p/Doctor.Who.S11E01.AMZN.WEBRip.TeamNotDead.720p.mkv"
+                }
+            ]
+        },
+        {
+            "id": 95,
+            "name": "Доктор Кто Doctor Who Сезон 11 Серии 1 из 11 (Крис Чибнелл) [2018, Великобритания, фантастика, WEBRip] Original + Rus Sub [rutracker-5625403]",
+            "size_total": 0.598703752,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.598703752,
+                    "path": "Doctor.Who.S11.AMZN.WEBRip.TeamNotDead/Doctor.Who.S11E01.AMZN.WEBRip.TeamNotDead.mkv"
+                }
+            ]
+        },
+        {
+            "id": 96,
+            "name": "Доктор Кто Doctor Who Сезон 11 Серия 0-1 из 12 (Грэм Харпер) [2018, Великобритания, фантастика, драма, комедия, приключени [rutracker-5627962]",
+            "size_total": 3.641898627,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.50548585,
+                    "path": "Doctor.Who.s11.720p.WEBRip.BaibaKo/Doctor.Who.s11e00.720p.WEBRip.BaibaKo.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.136412777,
+                    "path": "Doctor.Who.s11.720p.WEBRip.BaibaKo/Doctor.Who.s11e01.720p.WEBRip.BaibaKo.mkv"
+                }
+            ]
+        },
+        {
+            "id": 97,
+            "name": "Доктор Кто Doctor Who Сезон 11 Серия 0-1 из 12 (Стивен Моффат, Джейми Чайлдс) [2017, Великобритания, Фантастика, комедия, [rutracker-5500013]",
+            "size_total": 4.115045851,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.735801533,
+                    "path": "Doctor Who. Season 11 (WEBRip l 720p l Good People)/Doctor.Who.2005.S11E00.Twice.Upon.A.Time.720p.AMZN.WEBRip.DDP5.1.H.264-GoodPeople.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.379244318,
+                    "path": "Doctor Who. Season 11 (WEBRip l 720p l Good People)/Doctor.Who.2005.S11E01.The.Woman.Who.Fell.to.Earth.720p.AMZN.WEB-DL.DDP5.1.H.264-GoodPeople.mkv"
+                }
+            ]
+        }
+    ],
+    "collection_cumulative_by_btiha": [
+        {
+            "id": 83,
+            "name": "doctor_who_2005.11x01.720p_hdtv_x264-fov[eztv].mkv",
+            "btih": "3efc025adf9f2342e6695874a71eddc1ed7a136f",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.910529885,
+            "creation": "2018-10-07T18:51:03.000000000Z,EZTV,Visit us: https://eztv.ag/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 147666,
+            "uuploaders": 50180
+        },
+        {
+            "id": 99,
+            "name": "multi-btih-1-2-x-[limetorrents.info]Doctor.Who.2005.S11E01.720p.HDTV.x264-FoV[rarbg]",
+            "btih": "89ead05fce2b3b6b9d63ed961a70cdbaaa501d0f",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.91053939,
+            "creation": "2018-10-07T18:56:50.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 106221,
+            "uuploaders": 30122
+        },
+        {
+            "id": 77,
+            "name": "Doctor.Who.2005.S11E01.The.Woman.Who.Fell.to.Earth.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]-[rarbg.to]",
+            "btih": "0d418567c5149e1f73fc7873f5850497c0585781",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.503515093,
+            "creation": "2018-10-08T00:25:39.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 105868,
+            "uuploaders": 19431
+        },
+        {
+            "id": 100,
+            "name": "multi-btih-2-2-x-[limetorrents.info]Doctor.Who.2005.S11E01.720p.WEB.x265-MiNX.EZTV",
+            "btih": "04bbd8c454bf4a91fef0ca23d8e9699f72f91e0b",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.293067565,
+            "creation": "2018-10-07T20:45:55.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 101721,
+            "uuploaders": 27241
+        },
+        {
+            "id": 70,
+            "name": "Doctor.Who.2005.S11E01.HDTV.x264-MTB[rartv]-[rarbg.to]",
+            "btih": "3013507697f28012e02e38c6d9625d4a3beaf1a6",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.34729519,
+            "creation": "2018-10-07T18:52:12.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 86050,
+            "uuploaders": 19048
+        },
+        {
+            "id": 69,
+            "name": "Doctor.Who.2005.S11E01.HDTV.x264-MTB[eztv].mkv",
+            "btih": "e57c94c94cf727c462dd362864a08d831190e139",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.347282419,
+            "creation": "2018-10-07T19:03:35.000000000Z,EZTV,Visit us: https://eztv.ag/ - Bitcoin: 1EZTVtpeNttqdDayh3D98nfQYybeZhu5YV",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 84372,
+            "uuploaders": 15561
+        },
+        {
+            "id": 106,
+            "name": "multi-btih-8-2-x-[limetorrents.info]Doctor.Who.2005.S11E01.iP.WEB-DL.AAC2.0.H.264-ViSUM.EZTV",
+            "btih": "faf3eb3c6d6e1d4c6639855b6e6c9026904deb27",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.882188427,
+            "creation": "2018-10-08T01:49:08.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 82093,
+            "uuploaders": 11714
+        },
+        {
+            "id": 113,
+            "name": "multi-btih-15-2-x-[limetorrents.info]Doctor.Who.S11E01.WEBRip.x264-ION10",
+            "btih": "4d202253a2580f036a8bb9c67cadf0d0bfe835d6",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.646024545,
+            "creation": "2018-10-08T08:37:57.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 80839,
+            "uuploaders": 10312
+        },
+        {
+            "id": 107,
+            "name": "multi-btih-9-4-x-[limetorrents.info]Doctor.Who.S11.AMZN.WEBRip.TeamNotDead",
+            "btih": "3a843553a7d1be4d5ecd09e1a3e1869c835162bf",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.598703752,
+            "creation": "2018-10-08T06:06:05.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 79354,
+            "uuploaders": 1721
+        },
+        {
+            "id": 105,
+            "name": "multi-btih-7-2-x-[limetorrents.info]Doctor.Who.2005.S11E01.XviD-AFG.EZTV",
+            "btih": "b80849d3ccb62ca291ea27a2e0a2ab3857d614dc",
+            "resolution": "720",
+            "encoding": "xvid",
+            "gigabytes": 0.516986588,
+            "creation": "2018-10-07T19:27:17.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 78066,
+            "uuploaders": 8209
+        },
+        {
+            "id": 104,
+            "name": "multi-btih-6-2-x-[limetorrents.info]Doctor.Who.2005.S11E01.The.Woman.Who.Fell.to.Earth.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]",
+            "btih": "466ed1d047d7be842ee30bbd3353417b5cdf8424",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.075603748,
+            "creation": "2018-10-08T01:17:26.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 76577,
+            "uuploaders": 9037
+        },
+        {
+            "id": 101,
+            "name": "multi-btih-3-2-x-[limetorrents.info]Doctor.Who.2005.S11E01.720p.iP.WEBRip.AAC2.0.H264-BTW.EZTV",
+            "btih": "656af823e51447a4e3df6d3e9269ed6e6ae9c781",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 2.337513457,
+            "creation": "2018-10-07T19:40:50.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 73165,
+            "uuploaders": 6207
+        },
+        {
+            "id": 102,
+            "name": "multi-btih-4-2-x-[limetorrents.info]Doctor.Who.2005.S11E01.720p.iP.WEBRip.AAC2.0.H264-BTW[rarbg]",
+            "btih": "34cb9b4d5a22ae62bb5212c5c766a955acad5b5a",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 2.337513487,
+            "creation": "2018-10-07T18:59:40.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 72960,
+            "uuploaders": 6520
+        },
+        {
+            "id": 6,
+            "name": "[limetorrents.info]Doctor.Who.2005.S11E01.1080p.HEVC.x265-MeGusta",
+            "btih": "22a10bb0cfcec2e8c48d6189ba7749fa51420d58",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.690314494,
+            "creation": "2018-10-08T05:05:44.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 71866,
+            "uuploaders": 2148
+        },
+        {
+            "id": 21,
+            "name": "[limetorrents.info]Doctor.Who.2005.S11E01.INTERNAL.1080p.HDTV.x264-FaiLED",
+            "btih": "5ef9ecba5d45b27073239a214e3aaea0c474c00d",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 3.122803305,
+            "creation": "2018-10-07T20:00:29.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 69388,
+            "uuploaders": 7587
+        },
+        {
+            "id": 103,
+            "name": "multi-btih-5-2-x-[limetorrents.info]Doctor.Who.2005.S11E01.INTERNAL.1080p.HDTV.x264-FaiLED[rarbg]",
+            "btih": "656fc8b7d0688df9667cbabd78c0222542dc94ef",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 3.116062429,
+            "creation": "2018-10-07T19:49:41.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 68257,
+            "uuploaders": 7565
+        },
+        {
+            "id": 98,
+            "name": "multi-btih-0-2-x-012d-Doctor.Who.2005.S11E01.720p.HDTV.x264-FoV[ettv]",
+            "btih": "3e5cf3f859d951abaa33d8d777112d5281d34427",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.91053007,
+            "creation": "2018-10-07T18:52:08.000000000Z,mktorrent 1.0",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 67035,
+            "uuploaders": 4253
+        },
+        {
+            "id": 109,
+            "name": "multi-btih-11-2-x-[limetorrents.info]Doctor.Who.S11.AMZN.WEBRip.TeamNotDead.720p",
+            "btih": "8336091a81c9970d3acb3c1bd8e788749abcd1d6",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 1.0757433,
+            "creation": "2018-10-08T06:48:37.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 66857,
+            "uuploaders": 2489
+        },
+        {
+            "id": 111,
+            "name": "multi-btih-13-2-x-[limetorrents.info]Doctor.Who.S11E01.400p.ColdFilm.avi",
+            "btih": "c45c5d2f5f45b6bdb6c86b348708b262a6f2998d",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.650452992,
+            "creation": "2018-10-07T21:05:48.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 64311,
+            "uuploaders": 1669
+        },
+        {
+            "id": 115,
+            "name": "multi-btih-17-2-x-[rutor.is]Doctor_Who._Season_11_WEB-DL_l_1080p_l_Jaskier",
+            "btih": "3a21bf20f92285d660138d2040e32f59d8350ba3",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 6.67042578,
+            "creation": "1970-01-01T00:00:00.000000000Z,Сидбоксы Megaseed.kz,http://rutor.is/torrent/604817",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 63270,
+            "uuploaders": 1553
+        },
+        {
+            "id": 18,
+            "name": "[limetorrents.info]Doctor.Who.2005.S11E01.FASTSUB.VOSTFR.HDTV.XviD-ZT.[.www.Torrent9.PH.]",
+            "btih": "4f36412dccb4d30bc1f1198de8ab01c41210f8ff",
+            "resolution": "720",
+            "encoding": "xvid",
+            "gigabytes": 0.577559632,
+            "creation": "2018-10-08T09:03:56.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 62905,
+            "uuploaders": 9116
+        },
+        {
+            "id": 4,
+            "name": "[limetorrents.info]Doctor.Who.-.Four.Doctors..2016...digital...The.Magicians-Empire.",
+            "btih": "0a343cd19685b9fffd9bf2cae6ad45a36c23f0bb",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.262747624,
+            "creation": "2018-10-09T12:30:03.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 62637,
+            "uuploaders": 1535
+        },
+        {
+            "id": 116,
+            "name": "multi-btih-18-2-x-[rutor.is]Doctor_Who._Season_11_WEBRip_l_400p_l_Good_Peop",
+            "btih": "1a906338c533bd7bcc934b07fcc5b1be9b4e2de7",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 1.574326272,
+            "creation": "2018-10-11T11:27:34.000000000Z,uTorrent/2210,http://rutor.is/torrent/604823",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 60736,
+            "uuploaders": 491
+        },
+        {
+            "id": 27,
+            "name": "[limetorrents.info]Doctor.Who.2005.S11E01.The.Woman.Who.Fell.to.Earth.1080p.WEBRip.6CH.x265.HEVC-PSA.mkv",
+            "btih": "c9b9c8f4bfc2a74e55cf741c6d7393e830f6da79",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.724947492,
+            "creation": "2018-10-08T07:54:11.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 60206,
+            "uuploaders": 1570
+        },
+        {
+            "id": 45,
+            "name": "[limetorrents.info]神秘博士.Doctor.Who.S11E01.中英字幕.HDTVrip.720p-人人影视.mp4",
+            "btih": "1449a40437752afaaba9fb6bc225e0b2a2c38fca",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.771894487,
+            "creation": "2018-10-08T12:44:24.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 58757,
+            "uuploaders": 2676
+        },
+        {
+            "id": 5,
+            "name": "[limetorrents.info]Doctor.Who.2005.S11E01.1080p.HDTV.x264-MTB[TGx]",
+            "btih": "3d9844f0b5cc4bae338bb570250949ba3511b706",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.376797083,
+            "creation": "2018-10-07T23:22:44.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 58157,
+            "uuploaders": 1519
+        },
+        {
+            "id": 2,
+            "name": "3442-Doctor.Who.2005.S11E01.HDTV.x264-MTB[ettv]",
+            "btih": "24d7d37292fe14f106cf6bac544ed55ed08d664d",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.347282618,
+            "creation": "2018-10-07T18:56:08.000000000Z,mktorrent 1.0",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 57839,
+            "uuploaders": 6005
+        },
+        {
+            "id": 58,
+            "name": "Doctor.Who.2005.S11E01.1080p.HDTV.x264-MTB[rartv]-[rarbg.to]",
+            "btih": "67e06fd2c5f5f35fc0621dd2fc2c569fa005f37d",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.369895723,
+            "creation": "2018-10-07T22:28:14.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 56759,
+            "uuploaders": 6203
+        },
+        {
+            "id": 15,
+            "name": "[limetorrents.info]Doctor.Who.2005.S11E01.720p.iP.WEBRip.AAC2.0.H264-BTW[TGx]",
+            "btih": "b3e8eb49d28ff16ecf25d3d88ac395cc76f0bd8b",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 2.337514148,
+            "creation": "2018-10-07T19:32:29.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 55756,
+            "uuploaders": 1143
+        },
+        {
+            "id": 117,
+            "name": "multi-btih-19-2-x-[rutor.is]Doctor_Who._Season_11_WEBRip_l_720p_l_Good_Peop",
+            "btih": "3c499a496eb6f71959c24fdc31c77cfa6e0cd38b",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 4.115045851,
+            "creation": "2018-10-12T02:13:48.000000000Z,uTorrent/3130,http://rutor.is/torrent/604741",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 55372,
+            "uuploaders": 465
+        },
+        {
+            "id": 89,
+            "name": "Доктор Кто Doctor Who Сезон 11 Серии 0-1 из 12 (Стивен Моффат) [2017, Великобритания, приключения, фантастика, комедия, WE [rutracker-5502672]",
+            "btih": "e4ceaf762bc580c2dc35d1cc07d612bc2dbaa7bd",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 4.864773881,
+            "creation": "2018-10-11T05:27:10.000000000Z,uTorrent/2210,https://rutracker.org/forum/viewtopic.php?t=5502672",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 54645,
+            "uuploaders": 245
+        },
+        {
+            "id": 40,
+            "name": "[limetorrents.info]Doctor.Who.s11.WEBRip.XviD.Rus.Eng.BaibaKo.tv",
+            "btih": "2bc0cd0861517fa3a0edcad698156ebbdd959513",
+            "resolution": "720",
+            "encoding": "xvid",
+            "gigabytes": 0.911643596,
+            "creation": "2018-10-08T11:06:27.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 54474,
+            "uuploaders": 1177
+        },
+        {
+            "id": 34,
+            "name": "[limetorrents.info]Doctor.Who.S11.400p.KosharaSerials",
+            "btih": "851aa1fed6acdeca00c591c46ec3a1c5b7df5e03",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.818563072,
+            "creation": "2018-10-10T03:29:46.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 54466,
+            "uuploaders": 392
+        },
+        {
+            "id": 17,
+            "name": "[limetorrents.info]Doctor.Who.2005.S11E01.720p.WEB.x265-MiNX[TGx]",
+            "btih": "c0144d379a18f0347407b9cefee4901fbaca092f",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.293068256,
+            "creation": "2018-10-07T20:35:20.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 53868,
+            "uuploaders": 1505
+        },
+        {
+            "id": 108,
+            "name": "multi-btih-10-2-x-[limetorrents.info]Doctor.Who.S11.AMZN.WEBRip.TeamNotDead.1080p",
+            "btih": "6acfbf2d0498aac962db6ae9153b1fe93618668d",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 2.503654689,
+            "creation": "2018-10-08T08:03:58.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 53560,
+            "uuploaders": 2898
+        },
+        {
+            "id": 7,
+            "name": "[limetorrents.info]Doctor.Who.2005.S11E01.480p.x264-mSD",
+            "btih": "3736edab068ecd2d3a1ff6cec8daf4ce6b36e715",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.22070844,
+            "creation": "2018-10-07T19:13:34.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 53137,
+            "uuploaders": 1434
+        },
+        {
+            "id": 47,
+            "name": "[rutor.is]Doctor.Who.S11.WEBRip.720p",
+            "btih": "5018b81bd6169ef6a45000a2404e7abc126dabc7",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 4.899758722,
+            "creation": "2018-10-09T17:41:21.000000000Z,uTorrent/3230,http://rutor.is/torrent/604336",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 51721,
+            "uuploaders": 517
+        },
+        {
+            "id": 3,
+            "name": "[limetorrents.info]Doctor.Who.-.Explicado..Dublado.",
+            "btih": "1fe844b487d0f0e6417ecef29f2425fa47f8a08d",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.828000689,
+            "creation": "2018-10-08T15:13:03.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 51076,
+            "uuploaders": 103
+        },
+        {
+            "id": 110,
+            "name": "multi-btih-12-2-x-[limetorrents.info]Doctor.Who.S11.WEBRip.1080p",
+            "btih": "0045c20e9d700a5ca7f04504896126841f154ede",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 7.20412471,
+            "creation": "2018-10-10T06:26:20.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 50672,
+            "uuploaders": 808
+        },
+        {
+            "id": 39,
+            "name": "[limetorrents.info]Doctor.Who.s11.WEBRip.P.BaibaKo",
+            "btih": "fbcd267b918993a554d601aedd6dcf8878ad77be",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.77654016,
+            "creation": "2018-10-09T04:15:28.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 50483,
+            "uuploaders": 169
+        },
+        {
+            "id": 112,
+            "name": "multi-btih-14-2-x-[limetorrents.info]Doctor.Who.S11E01.720p.ColdFilm.mkv",
+            "btih": "652033c3cc28c5d56d39aa43ab7be68e20ad68bf",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 1.485362385,
+            "creation": "2018-10-07T21:05:41.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 49505,
+            "uuploaders": 2072
+        },
+        {
+            "id": 12,
+            "name": "[limetorrents.info]Doctor.Who.2005.S11E01.720p.HEVC.x265-MeGusta",
+            "btih": "7f922ce5659cf655dab84c6bfb6aa46246703624",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.301646369,
+            "creation": "2018-10-07T21:39:58.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 49151,
+            "uuploaders": 1680
+        },
+        {
+            "id": 114,
+            "name": "multi-btih-16-2-x-[rutor.is]Doctor_Who._Season_11_WEB-DLRip_l_400p_l_Jaskie",
+            "btih": "b1ca7c76a207c449f0321c5fffeb82c57fe909e2",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 1.574326272,
+            "creation": "1970-01-01T00:00:00.000000000Z,Сидбоксы Megaseed.kz,http://rutor.is/torrent/604818",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 48670,
+            "uuploaders": 1265
+        },
+        {
+            "id": 33,
+            "name": "[limetorrents.info]Doctor.Who.S10.1080p.AMZN.WEB-DL.Rus.Eng.TeamHD",
+            "btih": "d479b7c8b6a80413c305d697e06aa0ce75868874",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 52.924789584,
+            "creation": "2018-10-07T23:26:48.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 48369,
+            "uuploaders": 1116
+        },
+        {
+            "id": 28,
+            "name": "[limetorrents.info]Doctor.Who.2005.S11E01.The.Woman.Who.Fell.to.Earth.720p.AMZN.WEB-DL.MkvCage.ws.mkv",
+            "btih": "4a95f178160707762975b05d8e0d8be137c686f4",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.523065588,
+            "creation": "2018-10-08T06:00:40.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 47675,
+            "uuploaders": 1616
+        },
+        {
+            "id": 96,
+            "name": "Доктор Кто Doctor Who Сезон 11 Серия 0-1 из 12 (Грэм Харпер) [2018, Великобритания, фантастика, драма, комедия, приключени [rutracker-5627962]",
+            "btih": "ddeb3a40b925b915f6e6fe3de6cf4e69eab93cce",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 3.641898627,
+            "creation": "2018-10-13T08:57:24.000000000Z,uTorrent/1820,https://rutracker.org/forum/viewtopic.php?t=5627962",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 43574,
+            "uuploaders": 967
+        },
+        {
+            "id": 90,
+            "name": "Доктор Кто Doctor Who Сезон 11 Серии 0-1 из 12 (Стивен Моффат) [2017, Великобритания, приключения, фантастика, комедия, WE [rutracker-5502679]",
+            "btih": "456100b33c9ab3d59d010db09093871b29f9bd0b",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 1.641508686,
+            "creation": "2018-10-11T19:11:40.000000000Z,uTorrent/2210,https://rutracker.org/forum/viewtopic.php?t=5502679",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 43375,
+            "uuploaders": 182
+        },
+        {
+            "id": 32,
+            "name": "[limetorrents.info]Doctor.Who.2005.S11E01.XviD-AFG[TGx]",
+            "btih": "00977275588b7af9b87135f912a0345f1f4a0fb0",
+            "resolution": "720",
+            "encoding": "xvid",
+            "gigabytes": 0.517628525,
+            "creation": "2018-10-07T19:20:11.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 43312,
+            "uuploaders": 1420
+        },
+        {
+            "id": 19,
+            "name": "[limetorrents.info]Doctor.Who.2005.S11E01.HDTV.x264-MTB",
+            "btih": "92dfba2709d72bc6a663e29d996d30455354bdfb",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.348707645,
+            "creation": "2018-10-07T19:01:25.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 42211,
+            "uuploaders": 1112
+        },
+        {
+            "id": 24,
+            "name": "[limetorrents.info]Doctor.Who.2005.S11E01.INTERNAL.1080p.HEVC.x265-MeGusta",
+            "btih": "b63751551dd0fd67b5a671bd447883c6af15cd24",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.744253883,
+            "creation": "2018-10-08T00:14:00.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 42050,
+            "uuploaders": 1600
+        },
+        {
+            "id": 8,
+            "name": "[limetorrents.info]Doctor.Who.2005.S11E01.720p.HDTV.x264-FoV",
+            "btih": "c4c30f4d02555d40a8d2cce061d9f8757bd59109",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.914460519,
+            "creation": "2018-10-07T19:04:40.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 41868,
+            "uuploaders": 1324
+        },
+        {
+            "id": 23,
+            "name": "[limetorrents.info]Doctor.Who.2005.S11E01.INTERNAL.1080p.HDTV.x264-FaiLED[TGx]",
+            "btih": "facd961d939f7c115236541a7c8f66db80024bd3",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 3.122803893,
+            "creation": "2018-10-07T20:12:37.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 41061,
+            "uuploaders": 1681
+        },
+        {
+            "id": 20,
+            "name": "[limetorrents.info]Doctor.Who.2005.S11E01.HDTV.x264-MTB[TGx]",
+            "btih": "1fe0bfa5d413dd589495df949a1e5fc153b134ca",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.34870825,
+            "creation": "2018-10-07T19:01:39.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 39147,
+            "uuploaders": 1477
+        },
+        {
+            "id": 88,
+            "name": "Доктор Кто Doctor Who Сезон 11 Серии 0-1 из 12 (Стивен Моффат) [2017, Великобритания, Приключения, фантастика, комедия, WE [rutracker-5504458]",
+            "btih": "26f67049b6cb8b1dd322bccdbf1ec9e014a5ce1d",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 1.560641536,
+            "creation": "2018-10-14T04:10:49.000000000Z,uTorrent/3.4.2,https://rutracker.org/forum/viewtopic.php?t=5504458",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 38412,
+            "uuploaders": 783
+        },
+        {
+            "id": 53,
+            "name": "[rutor.is]Doctor_Who_S11_2017-2018_720p_WEB-DL_Gears_Medi",
+            "btih": "da31dc87abea2e44625595827d9ffa4035fbec67",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 4.401845323,
+            "creation": "2018-10-11T05:27:10.000000000Z,uTorrent/2210,http://rutor.is/torrent/605713",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 38340,
+            "uuploaders": 100
+        },
+        {
+            "id": 54,
+            "name": "[rutor.is]Doctor_Who_S11_2017-2018_WEB-DL_Gears_Media",
+            "btih": "a074b83feb412ed13e6ab36a546af6cc80b395ea",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 1.4835843,
+            "creation": "2018-10-11T19:11:46.000000000Z,uTorrent/2210,http://rutor.is/torrent/605716",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 37122,
+            "uuploaders": 202
+        },
+        {
+            "id": 31,
+            "name": "[limetorrents.info]Doctor.Who.2005.S11E01.XviD-AFG",
+            "btih": "1a91811d211edc1edbef55320fb93dd5acd7ec06",
+            "resolution": "720",
+            "encoding": "xvid",
+            "gigabytes": 0.51762792,
+            "creation": "2018-10-07T19:20:08.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 36977,
+            "uuploaders": 1753
+        },
+        {
+            "id": 11,
+            "name": "[limetorrents.info]Doctor.Who.2005.S11E01.720p.HDTV.x264-FoV[TGx]",
+            "btih": "a575704f8325ab8633c7de4fc1f2128137574e15",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.914461107,
+            "creation": "2018-10-07T19:06:07.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 36303,
+            "uuploaders": 1500
+        },
+        {
+            "id": 26,
+            "name": "[limetorrents.info]Doctor.Who.2005.S11E01.iP.WEB-DL.AAC2.0.H.264-ViSUM[TGx]",
+            "btih": "9f89fbce75a3c7821ec0a09d60f4896a963ab1e4",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.884571399,
+            "creation": "2018-10-08T01:00:03.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 34100,
+            "uuploaders": 1200
+        },
+        {
+            "id": 43,
+            "name": "[limetorrents.info]Doctor.Who.S11E01.The.Woman.Who.Fell.to.Earth.1080p.AMZN.WEBRIP.x265.5.1.AAC.D0ct0rLew[UTR]",
+            "btih": "ac5a31ac80c5239a9c6194f4f69c497ad787889b",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 1.192593569,
+            "creation": "2018-10-09T05:29:48.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 33575,
+            "uuploaders": 2547
+        },
+        {
+            "id": 48,
+            "name": "[rutor.is]Doctor.Who.S11.WEBRip",
+            "btih": "621b4baeacfe0f59d5759e6ee7c45a1628be70e5",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 1.768230912,
+            "creation": "2018-10-09T17:47:13.000000000Z,uTorrent/3230,http://rutor.is/torrent/604334",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 27068,
+            "uuploaders": 616
+        },
+        {
+            "id": 61,
+            "name": "Doctor.Who.2005.S11E01.720p.HDTV.x264-FoV [IPT]",
+            "btih": "15295f59a27c3392bf9e38f40a340255a94fff94",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.910535347,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 5455,
+            "uuploaders": 2973
+        },
+        {
+            "id": 84,
+            "name": "Last.Week.Tonight.With.John.Oliver.S05E25.720p.HEVC.x265-MeGusta [IPT]",
+            "btih": "038c8bb3ba9507e733cefd69245df58685525b74",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.238848046,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 2495,
+            "uuploaders": 836
+        },
+        {
+            "id": 80,
+            "name": "Doctor.Who.2005.S11E01.XviD-AFG [IPT]",
+            "btih": "c4f06018f40809d4514eddf8d00bc0fc2c16fb1a",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.517627834,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 2402,
+            "uuploaders": 1079
+        },
+        {
+            "id": 76,
+            "name": "Doctor.Who.2005.S11E01.The.Woman.Who.Fell.to.Earth.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb [IPT]",
+            "btih": "61e40719dc137b5dbe668fa9ef4a2dcebd6c19f9",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.51439426,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 2319,
+            "uuploaders": 947
+        },
+        {
+            "id": 71,
+            "name": "Doctor.Who.2005.S11E01.INTERNAL.1080p.HDTV.x264-FaiLED [IPT]",
+            "btih": "261e2ba5e58c39268748693809b372296ecc8b91",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 3.116069224,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 1979,
+            "uuploaders": 993
+        },
+        {
+            "id": 63,
+            "name": "Doctor.Who.2005.S11E01.720p.HEVC.x265-MeGusta [IPT]",
+            "btih": "5acd7c0439702ce7f0e19b8fda2c93da61b1c979",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.301646283,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 1716,
+            "uuploaders": 699
+        },
+        {
+            "id": 59,
+            "name": "Doctor.Who.2005.S11E01.1080p.HEVC.x265-MeGusta [IPT]",
+            "btih": "b2486938cc00f6c3dff326856c0345f46f29c492",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.690314408,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 1551,
+            "uuploaders": 716
+        },
+        {
+            "id": 78,
+            "name": "Doctor.Who.2005.S11E01.The.Woman.Who.Fell.to.Earth.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb [IPT]",
+            "btih": "f076667c9ffd3d07487dcb48a87df1ea6ff818db",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.080783572,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 1106,
+            "uuploaders": 527
+        },
+        {
+            "id": 73,
+            "name": "Doctor.Who.2005.S11E01.INTERNAL.1080p.HEVC.x265-MeGusta [IPT]",
+            "btih": "8cc63e81d891be868a3fc698e75bea9253023b4b",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.744253797,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 744,
+            "uuploaders": 375
+        },
+        {
+            "id": 68,
+            "name": "Doctor.Who.2005.S11E01.HDTV.x264-MTB [IPT]",
+            "btih": "e1721ef8315be7abd4da39bb19f4a9fd532b4f7a",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.347287893,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 721,
+            "uuploaders": 338
+        },
+        {
+            "id": 60,
+            "name": "Doctor.Who.2005.S11E01.480p.x264-mSD [IPT]",
+            "btih": "5d17b203d5fd8c506e9836b75cad539dddf42f2e",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.220708354,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 642,
+            "uuploaders": 407
+        },
+        {
+            "id": 57,
+            "name": "Doctor.Who.2005.S11E01.1080p.HDTV.x264-MTB [IPT]",
+            "btih": "3433ec462027b7111edcbe5a0b3b4ddc034e48b1",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.369904573,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 612,
+            "uuploaders": 375
+        },
+        {
+            "id": 67,
+            "name": "Doctor.Who.2005.S11E01.AAC.MP4-Mobile [IPT]",
+            "btih": "c8bf5ed8a0c10d11977a0996223ab16911c29e57",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.219555932,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 495,
+            "uuploaders": 346
+        },
+        {
+            "id": 74,
+            "name": "Doctor.Who.2005.S11E01.iP.WEB-DL.AAC2.0.H.264-ViSUM [IPT]",
+            "btih": "729614ab6f6bed106efcf7be61d835b211ca3478",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.884570708,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 154,
+            "uuploaders": 112
+        }
+    ]
+}

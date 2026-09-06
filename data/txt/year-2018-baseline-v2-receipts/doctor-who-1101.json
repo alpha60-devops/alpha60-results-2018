@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt0436992",
+    "imdb_id": "tt0436992",
+    "revision": "5daa2bb0f58fe6b678ea0a572049b3311de52618",
+    "wikidata_id": "Q30752890",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Doctor_Who_(series_11)"
+  },
+  "coverage_sha256": "d77ce4b08553aeb2be640d5a429e0df9dcbbbe34e5de62252259a0c0a3d81c7f",
+  "generated_at": "2026-09-06T18:16:16.134675+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2018-archives/doctor-who-1101.cache/cache.20181103.tar.xz",
+      "sha256": "0978deac739e7b7b0fa7154a3f43cca8ce8acfe4aaeb5e30192cbc8ace6ff3dc",
+      "size": 217991072
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2018/data/txt/year-2018-coverage-evidence/doctor-who-1101.md",
+      "sha256": "24506d9b5313cd3d4b6c8edbdde4e92910c750ad69b5ba154ac4d6e9754cba39",
+      "size": 593
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2018/data/txt/year-2018-day-cache-stream-receipts/doctor-who-1101.json",
+      "sha256": "761659d25592d3b73fa834783bbd08f7aa40e1217fbcd49a878090fa99ee5ed3",
+      "size": 2117
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2018/data/txt/year-2018-day-product-receipts/doctor-who-1101.json",
+      "sha256": "5991d8bad8b92dbbc29a36f25bb4a9f7421ac9b308e03cd447f2b8441f727a7d",
+      "size": 367
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2018-control/worker-map.json",
+      "sha256": "0f0151a9d86552ffa4d2bdec8cc0b2a7ce1ff4f549d25d26b400c16672f3f222",
+      "size": 55881
+    }
+  },
+  "media_object": "doctor-who-1101",
+  "published_files": {
+    "data/csv/bytes/doctor-who-1101-cumulative-detail.2018-btiha-itemized-by-bytes.csv": "4af7f7ccc8a64689fc1043e66b93a4a36afaa85ac9a5450d0cca5d6ee947ef09",
+    "docs/itemized/doctor-who-1101-sample-cache-audit.md": "8f2373c68824d30d4205672b92b15750c88774fe31649561406bc9ee85c996cb",
+    "docs/itemized/figures/doctor-who-1101-carto-4k.webp": "635340680d53fe50070651d6ad49f70df7be630d48da7d23c94fb364945c6072",
+    "docs/itemized/figures/doctor-who-1101-carto.png": "632548518b6e03ab5eebff42b09137660342da6992cbc5e606c16c6cc031ce7f",
+    "docs/itemized/figures/doctor-who-1101-cumulative-detail-btiha-itemized-by-bytes.svg": "93036c2014b5d923e76f50425858f9380282ff281222bf5199bfb5112d6714d9",
+    "docs/itemized/figures/doctor-who-1101-data-ge-1080p-4k.webp": "1b3e4a53437e7924a91d52beba8feb7bf8608d7f9eb6a4e1ae91e506c18e121c",
+    "docs/itemized/figures/doctor-who-1101-data-ge-1080p.webp": "eeddf7cae68c95fe3865ab0e64fb0aa24faf28705697574c454d8566609139ed",
+    "docs/itemized/figures/doctor-who-1101-data-lt-1080p-4k.webp": "7965306128a2c2443403efb707f4eba6c1a3feb42db2a211c65441c23de85f1a",
+    "docs/itemized/figures/doctor-who-1101-data-lt-1080p.webp": "bfc3e483eb970501030a44ed954b4c3bc56b1c33ccc906c3ff1241a50fd7f775",
+    "docs/itemized/figures/doctor-who-1101-downloads-by-day-day.svg": "1eaebc431c029f288f490b356d513abe2cb7a9bc42309f0adaeebf0c1ab0a85f",
+    "docs/itemized/figures/doctor-who-1101-downloads-by-week-doctor-who-1101-week.svg": "4f90bc381f04c6fc61b529902ee0b91e7aef0b1946fd9bb4687d4e619165a5a8",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "27af472f439958c53f0aab30b89cddaa411eedaf",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2018/doctor-who-1101/tmp/doctor-who-1101-cumulative-btiha.geojson",
+        "sha256": "dd1664777fb37afca956ab766c2eed69608f1b791c97df5cf965d77a39177f4d",
+        "size": 57676852
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2018/doctor-who-1101/tmp/doctor-who-1101-cumulative-btiha-media-objects.json",
+        "sha256": "fb503a2af08b671f3d273c743c420bf6599c238f76079a51bac2e507586bffde",
+        "size": 169191
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2018-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "doctor-who-1101",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "3e6a87ec7490ec3b39db0dba09ab6311a015621eb704ac975c05f399296c8393",
+      "size": 8759376
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2018-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          71.0,
+          52.0,
+          50.0,
+          49.0,
+          43.0,
+          41.0,
+          40.0,
+          34.0,
+          27.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Columbus",
+          "Ashburn",
+          "Seattle",
+          "London",
+          "New York City",
+          "Seoul",
+          "Tokyo",
+          "Independence",
+          "Shanghai",
+          "Beijing"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          68.0,
+          57.0,
+          52.0,
+          51.0,
+          44.0,
+          42.0,
+          40.0,
+          35.0,
+          28.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Columbus",
+          "Ashburn",
+          "London",
+          "New York City",
+          "Seattle",
+          "Tokyo",
+          "Seoul",
+          "Independence",
+          "Shanghai",
+          "Beijing"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 28,
+        "y_tick_labels": 20
+      },
+      "histogram": {
+        "bars": 11,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 4,
+        "x_tick_marks": 4,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 4,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "27af472f439958c53f0aab30b89cddaa411eedaf",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "980e731bb2e99b13ecc9d15c75480125d514e26c",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "5daa2bb0f58fe6b678ea0a572049b3311de52618"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2018"
+}
