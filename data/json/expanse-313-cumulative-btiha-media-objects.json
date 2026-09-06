@@ -1,0 +1,4289 @@
+{
+    "collection_name": "The Expanse",
+    "collection_id": "313",
+    "collection_key": "expanse-313",
+    "collection_notes": "",
+    "data_version": "2026-08-05",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "6:1777968300",
+    "collection_btiha_duplicates": [
+        {
+            "duplicate_id": 0,
+            "duplicate_btih": "d2f35ae899087d3ed2ae785b7bf842ea4c7929f1",
+            "duplicate_0_0": "[limetorrents.cc]The.Expanse.S03E12-E13.PROPER.720p.HDTV.x264-KILLERS[ettv]",
+            "duplicate_0_1": "ae7f-The.Expanse.S03E12-E13.PROPER.720p.HDTV.x264-KILLERS[ettv]"
+        },
+        {
+            "duplicate_id": 1,
+            "duplicate_btih": "ad96db3744468176ed073d97b784854422667cde",
+            "duplicate_1_0": "[limetorrents.cc]The.Expanse.S03E12-E13.PROPER.HDTV.x264-KILLERS",
+            "duplicate_1_1": "The.Expanse.S03E12-E13.PROPER.HDTV.x264-KILLERS[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 2,
+            "duplicate_btih": "ea0e7e410d702f21cffa2af3b1ff08595fc9921a",
+            "duplicate_2_0": "[limetorrents.cc]The.Expanse.S03E12-E13.PROPER.HDTV.x264-KILLERS[ettv]",
+            "duplicate_2_1": "ff7c-The.Expanse.S03E12-E13.PROPER.HDTV.x264-KILLERS[ettv]"
+        }
+    ],
+    "collection_btiha_metadata": [
+        {
+            "id": 1,
+            "name": "[limetorrents.cc]The.Expanse.3x12.13..720p-HDTV-x264-LucidTV.[VTV]",
+            "size_total": 1.788960713,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.788960713,
+                    "path": "The.Expanse.S03E12-E13.720p.HDTV.x264-LucidTV.[VTV].mkv"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "[limetorrents.cc]The.Expanse.3x12.13..PROPER-720p-HDTV-x264-KILLERS.[VTV]",
+            "size_total": 1.624328896,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.624328896,
+                    "path": "The.Expanse.S03E12-E13.PROPER.720p.HDTV.x264-KILLERS.[VTV].mkv"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "[limetorrents.cc]The.Expanse.S03.720p.AMZN.WEBRip.DDP5.1.x264-NTG[TGx]",
+            "size_total": 12.51900883,
+            "files_total": 14,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.926103855,
+                    "path": "The.Expanse.S03.720p.AMZN.WEBRip.DDP5.1.x264-NTG[TGx]/The.Expanse.S03E01.Fight.or.Flight.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.955234552,
+                    "path": "The.Expanse.S03.720p.AMZN.WEBRip.DDP5.1.x264-NTG[TGx]/The.Expanse.S03E02.REPACK.IFF.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.934080254,
+                    "path": "The.Expanse.S03.720p.AMZN.WEBRip.DDP5.1.x264-NTG[TGx]/The.Expanse.S03E03.Assured.Destruction.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 0.895964994,
+                    "path": "The.Expanse.S03.720p.AMZN.WEBRip.DDP5.1.x264-NTG[TGx]/The.Expanse.S03E04.Reload.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.834062066,
+                    "path": "The.Expanse.S03.720p.AMZN.WEBRip.DDP5.1.x264-NTG[TGx]/The.Expanse.S03E05.Triple.Point.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.927572609,
+                    "path": "The.Expanse.S03.720p.AMZN.WEBRip.DDP5.1.x264-NTG[TGx]/The.Expanse.S03E06.Immolation.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 0.971902079,
+                    "path": "The.Expanse.S03.720p.AMZN.WEBRip.DDP5.1.x264-NTG[TGx]/The.Expanse.S03E07.Delta-V.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 0.964524972,
+                    "path": "The.Expanse.S03.720p.AMZN.WEBRip.DDP5.1.x264-NTG[TGx]/The.Expanse.S03E08.It.Reaches.Out.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 0.967019672,
+                    "path": "The.Expanse.S03.720p.AMZN.WEBRip.DDP5.1.x264-NTG[TGx]/The.Expanse.S03E09.Intransigence.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 0.982835519,
+                    "path": "The.Expanse.S03.720p.AMZN.WEBRip.DDP5.1.x264-NTG[TGx]/The.Expanse.S03E10.Dandelion.Sky.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                },
+                {
+                    "number": 11,
+                    "size": 1.068034394,
+                    "path": "The.Expanse.S03.720p.AMZN.WEBRip.DDP5.1.x264-NTG[TGx]/The.Expanse.S03E11.Fallen.World.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                },
+                {
+                    "number": 12,
+                    "size": 0.951008504,
+                    "path": "The.Expanse.S03.720p.AMZN.WEBRip.DDP5.1.x264-NTG[TGx]/The.Expanse.S03E12.Congregation.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                },
+                {
+                    "number": 13,
+                    "size": 1.140664836,
+                    "path": "The.Expanse.S03.720p.AMZN.WEBRip.DDP5.1.x264-NTG[TGx]/The.Expanse.S03E13.Abaddons.Gate.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                },
+                {
+                    "number": 14,
+                    "size": 5.24e-7,
+                    "path": "The.Expanse.S03.720p.AMZN.WEBRip.DDP5.1.x264-NTG[TGx]/[TGx]Downloaded from torrentgalaxy.org .txt"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "[limetorrents.cc]The.Expanse.S03.COMPLETE.WEBRip.x264-ION10[TGx]",
+            "size_total": 5.6553492930000004,
+            "files_total": 14,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.440948385,
+                    "path": "The.Expanse.S03.COMPLETE.WEBRip.x264-ION10[TGx]/The.Expanse.S03E01.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 0.427126567,
+                    "path": "The.Expanse.S03.COMPLETE.WEBRip.x264-ION10[TGx]/The.Expanse.S03E02.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 3,
+                    "size": 0.442327254,
+                    "path": "The.Expanse.S03.COMPLETE.WEBRip.x264-ION10[TGx]/The.Expanse.S03E03.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 4,
+                    "size": 0.445220988,
+                    "path": "The.Expanse.S03.COMPLETE.WEBRip.x264-ION10[TGx]/The.Expanse.S03E04.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 5,
+                    "size": 0.434190763,
+                    "path": "The.Expanse.S03.COMPLETE.WEBRip.x264-ION10[TGx]/The.Expanse.S03E05.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 6,
+                    "size": 0.437873882,
+                    "path": "The.Expanse.S03.COMPLETE.WEBRip.x264-ION10[TGx]/The.Expanse.S03E06.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 7,
+                    "size": 0.446754214,
+                    "path": "The.Expanse.S03.COMPLETE.WEBRip.x264-ION10[TGx]/The.Expanse.S03E07.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 8,
+                    "size": 0.434342106,
+                    "path": "The.Expanse.S03.COMPLETE.WEBRip.x264-ION10[TGx]/The.Expanse.S03E08.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 9,
+                    "size": 0.432943536,
+                    "path": "The.Expanse.S03.COMPLETE.WEBRip.x264-ION10[TGx]/The.Expanse.S03E09.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 10,
+                    "size": 0.430291461,
+                    "path": "The.Expanse.S03.COMPLETE.WEBRip.x264-ION10[TGx]/The.Expanse.S03E10.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 11,
+                    "size": 0.444661541,
+                    "path": "The.Expanse.S03.COMPLETE.WEBRip.x264-ION10[TGx]/The.Expanse.S03E11.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 12,
+                    "size": 0.423112022,
+                    "path": "The.Expanse.S03.COMPLETE.WEBRip.x264-ION10[TGx]/The.Expanse.S03E12.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 13,
+                    "size": 0.41555605,
+                    "path": "The.Expanse.S03.COMPLETE.WEBRip.x264-ION10[TGx]/The.Expanse.S03E13.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 14,
+                    "size": 5.24e-7,
+                    "path": "The.Expanse.S03.COMPLETE.WEBRip.x264-ION10[TGx]/[TGx]Downloaded from torrentgalaxy.org .txt"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "[limetorrents.cc]The.Expanse.S03E12-E13.720p.HDTV.x264-LucidTV",
+            "size_total": 1.791848526,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000871231,
+                    "path": "www.scenetime.com - The.Expanse.S03E12-E13.720p.HDTV.x264-LucidTV/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000753496,
+                    "path": "www.scenetime.com - The.Expanse.S03E12-E13.720p.HDTV.x264-LucidTV/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000624006,
+                    "path": "www.scenetime.com - The.Expanse.S03E12-E13.720p.HDTV.x264-LucidTV/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000638732,
+                    "path": "www.scenetime.com - The.Expanse.S03E12-E13.720p.HDTV.x264-LucidTV/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 1.788960713,
+                    "path": "www.scenetime.com - The.Expanse.S03E12-E13.720p.HDTV.x264-LucidTV/the.expanse.s03e12-e13.720p.hdtv.x264-lucidtv.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 2.45e-7,
+                    "path": "www.scenetime.com - The.Expanse.S03E12-E13.720p.HDTV.x264-LucidTV/the.expanse.s03e12-e13.720p.hdtv.x264-lucidtv.nfo"
+                },
+                {
+                    "number": 7,
+                    "size": 1.03e-7,
+                    "path": "www.scenetime.com - The.Expanse.S03E12-E13.720p.HDTV.x264-LucidTV/Torrent Downloaded From www.scenetime.com.txt"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "[limetorrents.cc]The.Expanse.S03E12-E13.720p.HDTV.x264-LucidTV[ettv]",
+            "size_total": 1.788960892,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.79e-7,
+                    "path": "The.Expanse.S03E12-E13.720p.HDTV.x264-LucidTV[ettv]/Downloaded from www.ETTV.tv .txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.788960713,
+                    "path": "The.Expanse.S03E12-E13.720p.HDTV.x264-LucidTV[ettv]/the.expanse.s03e12-e13.720p.hdtv.x264-lucidtv[ettv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "[limetorrents.cc]The.Expanse.S03E12-E13.720p.HDTV.x264-LucidTV[eztv]",
+            "size_total": 1.788960713,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.788960713,
+                    "path": "The.Expanse.S03E12-E13.720p.HDTV.x264-LucidTV[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "[limetorrents.cc]The.Expanse.S03E12-E13.720p.HDTV.x264-LucidTV[TGx]",
+            "size_total": 1.788961237,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 5.24e-7,
+                    "path": "The.Expanse.S03E12-E13.720p.HDTV.x264-LucidTV[TGx]/[TGx]Downloaded from torrentgalaxy.org .txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.788960713,
+                    "path": "The.Expanse.S03E12-E13.720p.HDTV.x264-LucidTV[TGx]/the.expanse.s03e12-e13.720p.hdtv.x264-lucidtv.mkv"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "[limetorrents.cc]The.Expanse.S03E12-E13.720p.HEVC.x265-MeGusta",
+            "size_total": 0.555201045,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000676023,
+                    "path": "www.Torrenting.com - The.Expanse.S03E12-E13.720p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.00051988,
+                    "path": "www.Torrenting.com - The.Expanse.S03E12-E13.720p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000586418,
+                    "path": "www.Torrenting.com - The.Expanse.S03E12-E13.720p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000534268,
+                    "path": "www.Torrenting.com - The.Expanse.S03E12-E13.720p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.552883177,
+                    "path": "www.Torrenting.com - The.Expanse.S03E12-E13.720p.HEVC.x265-MeGusta/The.Expanse.S03E12-E13.720p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001195,
+                    "path": "www.Torrenting.com - The.Expanse.S03E12-E13.720p.HEVC.x265-MeGusta/The.Expanse.S03E12-E13.720p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 7,
+                    "size": 8.4e-8,
+                    "path": "www.Torrenting.com - The.Expanse.S03E12-E13.720p.HEVC.x265-MeGusta/Torrent Downloaded From WWW.TORRENTING.COM.txt"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "[limetorrents.cc]The.Expanse.S03E12-E13.Congregation-Abaddons.Gate.PROPER.HDTV.XviD-AVID[TGx]",
+            "size_total": 0.896307244,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.89630672,
+                    "path": "The.Expanse.S03E12-E13.Congregation-Abaddons.Gate.PROPER.HDTV.XviD-AVID[TGx]/The.Expanse.S03E12-E13.Congregation-Abaddons.Gate.PROPER.HDTV.XviD-AVID.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 5.24e-7,
+                    "path": "The.Expanse.S03E12-E13.Congregation-Abaddons.Gate.PROPER.HDTV.XviD-AVID[TGx]/[TGx]Downloaded from torrentgalaxy.org .txt"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "[limetorrents.cc]The.Expanse.S03E12-E13.HDTV.x264-LucidTV.EZTV",
+            "size_total": 0.546695834,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.546695834,
+                    "path": "The.Expanse.S03E12-E13.HDTV.x264-LucidTV[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "[limetorrents.cc]The.Expanse.S03E12-E13.HDTV.x264-LucidTV[TGx]",
+            "size_total": 0.546696358,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 5.24e-7,
+                    "path": "The.Expanse.S03E12-E13.HDTV.x264-LucidTV[TGx]/[TGx]Downloaded from torrentgalaxy.org .txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.546695834,
+                    "path": "The.Expanse.S03E12-E13.HDTV.x264-LucidTV[TGx]/the.expanse.s03e12-e13.hdtv.x264-lucidtv.mkv"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "[limetorrents.cc]The.Expanse.S03E12-E13.PROPER.720p.HDTV.x264-KILLERS.EZTV",
+            "size_total": 1.624328896,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.624328896,
+                    "path": "The.Expanse.S03E12-E13.PROPER.720p.HDTV.x264-KILLERS[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "[limetorrents.cc]The.Expanse.S03E12-E13.PROPER.720p.HDTV.x264-KILLERS",
+            "size_total": 1.624340118,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Expanse.S03E12-E13.PROPER.720p.HDTV.x264-KILLERS[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.624328896,
+                    "path": "The.Expanse.S03E12-E13.PROPER.720p.HDTV.x264-KILLERS[rarbg]/The.Expanse.S03E12-E13.PROPER.720p.HDTV.x264-KILLERS.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000011192,
+                    "path": "The.Expanse.S03E12-E13.PROPER.720p.HDTV.x264-KILLERS[rarbg]/the.expanse.s03e12-e13.proper.720p.hdtv.x264-killers.nfo"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "[limetorrents.cc]The.Expanse.S03E12-E13.PROPER.720p.HDTV.x264-KILLERS[ettv]",
+            "size_total": 1.624329075,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.79e-7,
+                    "path": "The.Expanse.S03E12-E13.PROPER.720p.HDTV.x264-KILLERS[ettv]/Downloaded from www.ETTV.tv .txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.624328896,
+                    "path": "The.Expanse.S03E12-E13.PROPER.720p.HDTV.x264-KILLERS[ettv]/The.Expanse.S03E12-E13.PROPER.720p.HDTV.x264-KILLERS[ettv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "[limetorrents.cc]The.Expanse.S03E12-E13.PROPER.720p.HDTV.x264-KILLERS[TGx]",
+            "size_total": 1.62432942,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.624328896,
+                    "path": "The.Expanse.S03E12-E13.PROPER.720p.HDTV.x264-KILLERS[TGx]/The.Expanse.S03E12-E13.PROPER.720p.HDTV.x264-KILLERS.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 5.24e-7,
+                    "path": "The.Expanse.S03E12-E13.PROPER.720p.HDTV.x264-KILLERS[TGx]/[TGx]Downloaded from torrentgalaxy.org .txt"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "[limetorrents.cc]The.Expanse.S03E12-E13.PROPER.HDTV.x264-KILLERS.EZTV",
+            "size_total": 0.514839249,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.514839249,
+                    "path": "The.Expanse.S03E12-E13.PROPER.HDTV.x264-KILLERS[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": "[limetorrents.cc]The.Expanse.S03E12-E13.PROPER.HDTV.x264-KILLERS",
+            "size_total": 0.514850462,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Expanse.S03E12-E13.PROPER.HDTV.x264-KILLERS[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.514839249,
+                    "path": "The.Expanse.S03E12-E13.PROPER.HDTV.x264-KILLERS[rarbg]/The.Expanse.S03E12-E13.PROPER.HDTV.x264-KILLERS.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000011183,
+                    "path": "The.Expanse.S03E12-E13.PROPER.HDTV.x264-KILLERS[rarbg]/the.expanse.s03e12-e13.proper.hdtv.x264-killers.nfo"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "name": "[limetorrents.cc]The.Expanse.S03E12-E13.PROPER.HDTV.x264-KILLERS[ettv]",
+            "size_total": 0.514839442,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.93e-7,
+                    "path": "The.Expanse.S03E12-E13.PROPER.HDTV.x264-KILLERS[ettv]/Downloaded from www.ETTV.tv .txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.514839249,
+                    "path": "The.Expanse.S03E12-E13.PROPER.HDTV.x264-KILLERS[ettv]/The.Expanse.S03E12-E13.PROPER.HDTV.x264-KILLERS[ettv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "name": "[limetorrents.cc]The.Expanse.S03E12-E13.PROPER.HDTV.x264-KILLERS[TGx]",
+            "size_total": 0.514839773,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.514839249,
+                    "path": "The.Expanse.S03E12-E13.PROPER.HDTV.x264-KILLERS[TGx]/The.Expanse.S03E12-E13.PROPER.HDTV.x264-KILLERS.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 5.24e-7,
+                    "path": "The.Expanse.S03E12-E13.PROPER.HDTV.x264-KILLERS[TGx]/[TGx]Downloaded from torrentgalaxy.org .txt"
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "name": "[limetorrents.cc]The.Expanse.S03E12-E13.XviD-AFG",
+            "size_total": 0.824913733,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.00021665,
+                    "path": "www.Torrenting.com - The.Expanse.S03E12-E13.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000399095,
+                    "path": "www.Torrenting.com - The.Expanse.S03E12-E13.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000111679,
+                    "path": "www.Torrenting.com - The.Expanse.S03E12-E13.XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000383346,
+                    "path": "www.Torrenting.com - The.Expanse.S03E12-E13.XviD-AFG/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.823801714,
+                    "path": "www.Torrenting.com - The.Expanse.S03E12-E13.XviD-AFG/The.Expanse.S03E12-E13.XviD-AFG.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001165,
+                    "path": "www.Torrenting.com - The.Expanse.S03E12-E13.XviD-AFG/The.Expanse.S03E12-E13.XviD-AFG.nfo"
+                },
+                {
+                    "number": 7,
+                    "size": 8.4e-8,
+                    "path": "www.Torrenting.com - The.Expanse.S03E12-E13.XviD-AFG/Torrent Downloaded From WWW.TORRENTING.COM.txt"
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "name": "[limetorrents.cc]The.Expanse.S03E12.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA-redux",
+            "size_total": 0.553905695,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.553905695,
+                    "path": "The.Expanse.S03E12.Abaddon's.Gate.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv"
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "name": "[limetorrents.cc]The.Expanse.S03E12.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA",
+            "size_total": 0.553905693,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.553905693,
+                    "path": "The.Expanse.S03E12.Congregation.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv"
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "name": "[limetorrents.cc]The.Expanse.S03E12.1080p.WEB.H264-DEFLATE",
+            "size_total": 2.353718976,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.002378378,
+                    "path": "www.scenetime.com - The.Expanse.S03E12.1080p.WEB.H264-DEFLATE/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.001597023,
+                    "path": "www.scenetime.com - The.Expanse.S03E12.1080p.WEB.H264-DEFLATE/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001641862,
+                    "path": "www.scenetime.com - The.Expanse.S03E12.1080p.WEB.H264-DEFLATE/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.00169747,
+                    "path": "www.scenetime.com - The.Expanse.S03E12.1080p.WEB.H264-DEFLATE/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 2.34640369,
+                    "path": "www.scenetime.com - The.Expanse.S03E12.1080p.WEB.H264-DEFLATE/The.Expanse.S03E12.1080p.WEB.H264-DEFLATE.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 4.5e-7,
+                    "path": "www.scenetime.com - The.Expanse.S03E12.1080p.WEB.H264-DEFLATE/the.expanse.s03e12.1080p.web.h264-deflate.nfo"
+                },
+                {
+                    "number": 7,
+                    "size": 1.03e-7,
+                    "path": "www.scenetime.com - The.Expanse.S03E12.1080p.WEB.H264-DEFLATE/Torrent Downloaded From www.scenetime.com.txt"
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "name": "[limetorrents.cc]The.Expanse.S03E12.1080p.WEB.H264-DEFLATE[TGx]",
+            "size_total": 2.353719397,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.002378378,
+                    "path": "The.Expanse.S03E12.1080p.WEB.H264-DEFLATE[TGx]/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.001597023,
+                    "path": "The.Expanse.S03E12.1080p.WEB.H264-DEFLATE[TGx]/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001641862,
+                    "path": "The.Expanse.S03E12.1080p.WEB.H264-DEFLATE[TGx]/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.00169747,
+                    "path": "The.Expanse.S03E12.1080p.WEB.H264-DEFLATE[TGx]/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 2.34640369,
+                    "path": "The.Expanse.S03E12.1080p.WEB.H264-DEFLATE[TGx]/The.Expanse.S03E12.1080p.WEB.H264-DEFLATE.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 5.24e-7,
+                    "path": "The.Expanse.S03E12.1080p.WEB.H264-DEFLATE[TGx]/[TGx]Downloaded from torrentgalaxy.org .txt"
+                },
+                {
+                    "number": 7,
+                    "size": 4.5e-7,
+                    "path": "The.Expanse.S03E12.1080p.WEB.H264-DEFLATE[TGx]/the.expanse.s03e12.1080p.web.h264-deflate.nfo"
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "name": "[limetorrents.cc]The.Expanse.S03E12.480p.159mb.HDwebrip.x264-][.Congregation.]mp4",
+            "size_total": 0.167074509,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.167074509,
+                    "path": "The.Expanse.S03E12.480p.159mb.HDwebrip.x264-][ Congregation ][ 28-Jun-2018 ].mp4"
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "name": "[limetorrents.cc]The.Expanse.S03E12.720p.10bit.WEBRip.2CH.x265.HEVC-PSA",
+            "size_total": 0.233538335,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.233538335,
+                    "path": "The.Expanse.S03E12.Congregation.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv"
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "name": "[limetorrents.cc]The.Expanse.S03E12.720p.WEB.x264-worldmkv",
+            "size_total": 0.323802182,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.323802182,
+                    "path": "The.Expanse.S03E12.720p.WEB.x264-worldmkv.mkv"
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "name": "[limetorrents.cc]The.Expanse.S03E12.iNTERNAL.720p.WEB.x264-BAMBOOZLE",
+            "size_total": 0.82143,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.00114749,
+                    "path": "www.scenetime.com - The.Expanse.S03E12.iNTERNAL.720p.WEB.x264-BAMBOOZLE/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000662892,
+                    "path": "www.scenetime.com - The.Expanse.S03E12.iNTERNAL.720p.WEB.x264-BAMBOOZLE/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000587067,
+                    "path": "www.scenetime.com - The.Expanse.S03E12.iNTERNAL.720p.WEB.x264-BAMBOOZLE/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001099569,
+                    "path": "www.scenetime.com - The.Expanse.S03E12.iNTERNAL.720p.WEB.x264-BAMBOOZLE/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.817932816,
+                    "path": "www.scenetime.com - The.Expanse.S03E12.iNTERNAL.720p.WEB.x264-BAMBOOZLE/the.expanse.s03e12.internal.720p.web.x264-bamboozle.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 6.3e-8,
+                    "path": "www.scenetime.com - The.Expanse.S03E12.iNTERNAL.720p.WEB.x264-BAMBOOZLE/the.expanse.s03e12.internal.720p.web.x264-bamboozle.nfo"
+                },
+                {
+                    "number": 7,
+                    "size": 1.03e-7,
+                    "path": "www.scenetime.com - The.Expanse.S03E12.iNTERNAL.720p.WEB.x264-BAMBOOZLE/Torrent Downloaded From www.scenetime.com.txt"
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "name": "[limetorrents.cc]The.Expanse.S03E12.WEBRip.x264-ION10[TGx]",
+            "size_total": 0.423211017,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000047373,
+                    "path": "The.Expanse.S03E12.WEBRip.x264-ION10[TGx]/Subs/2_Eng.srt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000051098,
+                    "path": "The.Expanse.S03E12.WEBRip.x264-ION10[TGx]/Subs/3_Eng.srt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.423112022,
+                    "path": "The.Expanse.S03E12.WEBRip.x264-ION10[TGx]/The.Expanse.S03E12.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 4,
+                    "size": 5.24e-7,
+                    "path": "The.Expanse.S03E12.WEBRip.x264-ION10[TGx]/[TGx]Downloaded from torrentgalaxy.org .txt"
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "name": "[limetorrents.cc]The.Expanse.S03E13.1080p.WEB.H264-DEFLATE",
+            "size_total": 2.780538205,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.001923759,
+                    "path": "www.scenetime.com - The.Expanse.S03E13.1080p.WEB.H264-DEFLATE/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.002151027,
+                    "path": "www.scenetime.com - The.Expanse.S03E13.1080p.WEB.H264-DEFLATE/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00300769,
+                    "path": "www.scenetime.com - The.Expanse.S03E13.1080p.WEB.H264-DEFLATE/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.002731198,
+                    "path": "www.scenetime.com - The.Expanse.S03E13.1080p.WEB.H264-DEFLATE/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 2.770723978,
+                    "path": "www.scenetime.com - The.Expanse.S03E13.1080p.WEB.H264-DEFLATE/The.Expanse.S03E13.1080p.WEB.H264-DEFLATE.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 4.5e-7,
+                    "path": "www.scenetime.com - The.Expanse.S03E13.1080p.WEB.H264-DEFLATE/the.expanse.s03e13.1080p.web.h264-deflate.nfo"
+                },
+                {
+                    "number": 7,
+                    "size": 1.03e-7,
+                    "path": "www.scenetime.com - The.Expanse.S03E13.1080p.WEB.H264-DEFLATE/Torrent Downloaded From www.scenetime.com.txt"
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "name": "[limetorrents.cc]The.Expanse.S03E13.1080p.WEB.H264-DEFLATE[TGx]",
+            "size_total": 2.780538626,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.001923759,
+                    "path": "The.Expanse.S03E13.1080p.WEB.H264-DEFLATE[TGx]/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.002151027,
+                    "path": "The.Expanse.S03E13.1080p.WEB.H264-DEFLATE[TGx]/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00300769,
+                    "path": "The.Expanse.S03E13.1080p.WEB.H264-DEFLATE[TGx]/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.002731198,
+                    "path": "The.Expanse.S03E13.1080p.WEB.H264-DEFLATE[TGx]/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 2.770723978,
+                    "path": "The.Expanse.S03E13.1080p.WEB.H264-DEFLATE[TGx]/The.Expanse.S03E13.1080p.WEB.H264-DEFLATE.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 5.24e-7,
+                    "path": "The.Expanse.S03E13.1080p.WEB.H264-DEFLATE[TGx]/[TGx]Downloaded from torrentgalaxy.org .txt"
+                },
+                {
+                    "number": 7,
+                    "size": 4.5e-7,
+                    "path": "The.Expanse.S03E13.1080p.WEB.H264-DEFLATE[TGx]/the.expanse.s03e13.1080p.web.h264-deflate.nfo"
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "name": "[limetorrents.cc]The.Expanse.S03E13.480p.193mb.HDwebrip.x264-][.Abaddon's.Ga.mp4",
+            "size_total": 0.202666557,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.202666557,
+                    "path": "The.Expanse.S03E13.480p.193mb.HDwebrip.x264-][ Abaddon's Gate (Season Finale) ][ 28-Jun-2018 ].mp4"
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "name": "[limetorrents.cc]The.Expanse.S03E13.720p.WEB.x264-worldmkv",
+            "size_total": 0.319460169,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.319460169,
+                    "path": "The.Expanse.S03E13.720p.WEB.x264-worldmkv.mkv"
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "name": "[limetorrents.cc]The.Expanse.S03E13.iNTERNAL.720p.WEB.x264-BAMBOOZLE",
+            "size_total": 0.824625122,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000780097,
+                    "path": "www.scenetime.com - The.Expanse.S03E13.iNTERNAL.720p.WEB.x264-BAMBOOZLE/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.001232365,
+                    "path": "www.scenetime.com - The.Expanse.S03E13.iNTERNAL.720p.WEB.x264-BAMBOOZLE/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001076074,
+                    "path": "www.scenetime.com - The.Expanse.S03E13.iNTERNAL.720p.WEB.x264-BAMBOOZLE/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000688181,
+                    "path": "www.scenetime.com - The.Expanse.S03E13.iNTERNAL.720p.WEB.x264-BAMBOOZLE/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.820848239,
+                    "path": "www.scenetime.com - The.Expanse.S03E13.iNTERNAL.720p.WEB.x264-BAMBOOZLE/the.expanse.s03e13.internal.720p.web.x264-bamboozle.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 6.3e-8,
+                    "path": "www.scenetime.com - The.Expanse.S03E13.iNTERNAL.720p.WEB.x264-BAMBOOZLE/the.expanse.s03e13.internal.720p.web.x264-bamboozle.nfo"
+                },
+                {
+                    "number": 7,
+                    "size": 1.03e-7,
+                    "path": "www.scenetime.com - The.Expanse.S03E13.iNTERNAL.720p.WEB.x264-BAMBOOZLE/Torrent Downloaded From www.scenetime.com.txt"
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "name": "[limetorrents.cc]The.Expanse.Season.3..revittony",
+            "size_total": 3.335599756,
+            "files_total": 14,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000001896,
+                    "path": "The Expanse Season 3/Media Info.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 6.32e-7,
+                    "path": "The Expanse Season 3/Original File Names.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.263794926,
+                    "path": "The Expanse Season 3/S03E01 Fight Or Flight.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 0.29772452,
+                    "path": "The Expanse Season 3/S03E02 IFF.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.279770036,
+                    "path": "The Expanse Season 3/S03E03 Assured Destruction.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.252081626,
+                    "path": "The Expanse Season 3/S03E04 Reload.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 0.225359403,
+                    "path": "The Expanse Season 3/S03E05 Triple Point.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 0.246628515,
+                    "path": "The Expanse Season 3/S03E06 Immolation.mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 0.253779886,
+                    "path": "The Expanse Season 3/S03E07 Delta-V.mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 0.241392339,
+                    "path": "The Expanse Season 3/S03E08 It Reaches Out.mkv"
+                },
+                {
+                    "number": 11,
+                    "size": 0.230077234,
+                    "path": "The Expanse Season 3/S03E09 Intransigence.mkv"
+                },
+                {
+                    "number": 12,
+                    "size": 0.246211194,
+                    "path": "The Expanse Season 3/S03E10 Dandelion Sky.mkv"
+                },
+                {
+                    "number": 13,
+                    "size": 0.2839383,
+                    "path": "The Expanse Season 3/S03E11 Fallen World.mkv"
+                },
+                {
+                    "number": 14,
+                    "size": 0.514839249,
+                    "path": "The Expanse Season 3/S03E12-E13 Congregation & Abaddon's Gate.mkv"
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "name": "ae7f-The.Expanse.S03E12-E13.PROPER.720p.HDTV.x264-KILLERS[ettv]",
+            "size_total": 1.624329075,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.79e-7,
+                    "path": "The.Expanse.S03E12-E13.PROPER.720p.HDTV.x264-KILLERS[ettv]/Downloaded from www.ETTV.tv .txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.624328896,
+                    "path": "The.Expanse.S03E12-E13.PROPER.720p.HDTV.x264-KILLERS[ettv]/The.Expanse.S03E12-E13.PROPER.720p.HDTV.x264-KILLERS[ettv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "name": "ff7c-The.Expanse.S03E12-E13.PROPER.HDTV.x264-KILLERS[ettv]",
+            "size_total": 0.514839442,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.93e-7,
+                    "path": "The.Expanse.S03E12-E13.PROPER.HDTV.x264-KILLERS[ettv]/Downloaded from www.ETTV.tv .txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.514839249,
+                    "path": "The.Expanse.S03E12-E13.PROPER.HDTV.x264-KILLERS[ettv]/The.Expanse.S03E12-E13.PROPER.HDTV.x264-KILLERS[ettv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "name": "The.Expanse.S03.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG [IPT]",
+            "size_total": 29.423864858,
+            "files_total": 13,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.183921268,
+                    "path": "The.Expanse.S03.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG/The.Expanse.S03E01.Fight.or.Flight.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 2.237176923,
+                    "path": "The.Expanse.S03.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG/The.Expanse.S03E02.REPACK.IFF.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 2.121739346,
+                    "path": "The.Expanse.S03.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG/The.Expanse.S03E03.Assured.Destruction.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.971499852,
+                    "path": "The.Expanse.S03.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG/The.Expanse.S03E04.Reload.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 1.897863218,
+                    "path": "The.Expanse.S03.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG/The.Expanse.S03E05.Triple.Point.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 2.158318856,
+                    "path": "The.Expanse.S03.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG/The.Expanse.S03E06.Immolation.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 2.21047928,
+                    "path": "The.Expanse.S03.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG/The.Expanse.S03E07.Delta-V.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 2.253066663,
+                    "path": "The.Expanse.S03.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG/The.Expanse.S03E08.It.Reaches.Out.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 2.436181984,
+                    "path": "The.Expanse.S03.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG/The.Expanse.S03E09.Intransigence.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 2.368503232,
+                    "path": "The.Expanse.S03.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG/The.Expanse.S03E10.Dandelion.Sky.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                },
+                {
+                    "number": 11,
+                    "size": 2.468076548,
+                    "path": "The.Expanse.S03.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG/The.Expanse.S03E11.Fallen.World.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                },
+                {
+                    "number": 12,
+                    "size": 2.346355263,
+                    "path": "The.Expanse.S03.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG/The.Expanse.S03E12.Congregation.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                },
+                {
+                    "number": 13,
+                    "size": 2.770682425,
+                    "path": "The.Expanse.S03.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG/The.Expanse.S03E13.Abaddons.Gate.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "name": "The.Expanse.S03.1080p.AMZN.WEBRip.DDP5.1.x264-NTG[rartv]-[rarbg.to]",
+            "size_total": 29.423864889,
+            "files_total": 14,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.1e-8,
+                    "path": "The.Expanse.S03.1080p.AMZN.WEBRip.DDP5.1.x264-NTG[rartv]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 2.183921268,
+                    "path": "The.Expanse.S03.1080p.AMZN.WEBRip.DDP5.1.x264-NTG[rartv]/The.Expanse.S03E01.Fight.or.Flight.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 2.237176923,
+                    "path": "The.Expanse.S03.1080p.AMZN.WEBRip.DDP5.1.x264-NTG[rartv]/The.Expanse.S03E02.REPACK.IFF.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 2.121739346,
+                    "path": "The.Expanse.S03.1080p.AMZN.WEBRip.DDP5.1.x264-NTG[rartv]/The.Expanse.S03E03.Assured.Destruction.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 1.971499852,
+                    "path": "The.Expanse.S03.1080p.AMZN.WEBRip.DDP5.1.x264-NTG[rartv]/The.Expanse.S03E04.Reload.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 1.897863218,
+                    "path": "The.Expanse.S03.1080p.AMZN.WEBRip.DDP5.1.x264-NTG[rartv]/The.Expanse.S03E05.Triple.Point.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 2.158318856,
+                    "path": "The.Expanse.S03.1080p.AMZN.WEBRip.DDP5.1.x264-NTG[rartv]/The.Expanse.S03E06.Immolation.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 2.21047928,
+                    "path": "The.Expanse.S03.1080p.AMZN.WEBRip.DDP5.1.x264-NTG[rartv]/The.Expanse.S03E07.Delta-V.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 2.253066663,
+                    "path": "The.Expanse.S03.1080p.AMZN.WEBRip.DDP5.1.x264-NTG[rartv]/The.Expanse.S03E08.It.Reaches.Out.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 2.436181984,
+                    "path": "The.Expanse.S03.1080p.AMZN.WEBRip.DDP5.1.x264-NTG[rartv]/The.Expanse.S03E09.Intransigence.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                },
+                {
+                    "number": 11,
+                    "size": 2.368503232,
+                    "path": "The.Expanse.S03.1080p.AMZN.WEBRip.DDP5.1.x264-NTG[rartv]/The.Expanse.S03E10.Dandelion.Sky.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                },
+                {
+                    "number": 12,
+                    "size": 2.468076548,
+                    "path": "The.Expanse.S03.1080p.AMZN.WEBRip.DDP5.1.x264-NTG[rartv]/The.Expanse.S03E11.Fallen.World.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                },
+                {
+                    "number": 13,
+                    "size": 2.346355263,
+                    "path": "The.Expanse.S03.1080p.AMZN.WEBRip.DDP5.1.x264-NTG[rartv]/The.Expanse.S03E12.Congregation.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                },
+                {
+                    "number": 14,
+                    "size": 2.770682425,
+                    "path": "The.Expanse.S03.1080p.AMZN.WEBRip.DDP5.1.x264-NTG[rartv]/The.Expanse.S03E13.Abaddons.Gate.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                }
+            ]
+        },
+        {
+            "id": 41,
+            "name": "The.Expanse.S03.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG [IPT]",
+            "size_total": 12.519008306,
+            "files_total": 13,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.926103855,
+                    "path": "The.Expanse.S03.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG/The.Expanse.S03E01.Fight.or.Flight.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.955234552,
+                    "path": "The.Expanse.S03.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG/The.Expanse.S03E02.REPACK.IFF.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.934080254,
+                    "path": "The.Expanse.S03.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG/The.Expanse.S03E03.Assured.Destruction.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 0.895964994,
+                    "path": "The.Expanse.S03.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG/The.Expanse.S03E04.Reload.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.834062066,
+                    "path": "The.Expanse.S03.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG/The.Expanse.S03E05.Triple.Point.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.927572609,
+                    "path": "The.Expanse.S03.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG/The.Expanse.S03E06.Immolation.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 0.971902079,
+                    "path": "The.Expanse.S03.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG/The.Expanse.S03E07.Delta-V.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 0.964524972,
+                    "path": "The.Expanse.S03.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG/The.Expanse.S03E08.It.Reaches.Out.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 0.967019672,
+                    "path": "The.Expanse.S03.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG/The.Expanse.S03E09.Intransigence.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 0.982835519,
+                    "path": "The.Expanse.S03.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG/The.Expanse.S03E10.Dandelion.Sky.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                },
+                {
+                    "number": 11,
+                    "size": 1.068034394,
+                    "path": "The.Expanse.S03.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG/The.Expanse.S03E11.Fallen.World.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                },
+                {
+                    "number": 12,
+                    "size": 0.951008504,
+                    "path": "The.Expanse.S03.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG/The.Expanse.S03E12.Congregation.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                },
+                {
+                    "number": 13,
+                    "size": 1.140664836,
+                    "path": "The.Expanse.S03.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG/The.Expanse.S03E13.Abaddons.Gate.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                }
+            ]
+        },
+        {
+            "id": 42,
+            "name": "The.Expanse.S03.720p.AMZN.WEBRip.DDP5.1.x264-NTG[rartv]-[rarbg.to]",
+            "size_total": 12.519008337,
+            "files_total": 14,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.1e-8,
+                    "path": "The.Expanse.S03.720p.AMZN.WEBRip.DDP5.1.x264-NTG[rartv]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.926103855,
+                    "path": "The.Expanse.S03.720p.AMZN.WEBRip.DDP5.1.x264-NTG[rartv]/The.Expanse.S03E01.Fight.or.Flight.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.955234552,
+                    "path": "The.Expanse.S03.720p.AMZN.WEBRip.DDP5.1.x264-NTG[rartv]/The.Expanse.S03E02.REPACK.IFF.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 0.934080254,
+                    "path": "The.Expanse.S03.720p.AMZN.WEBRip.DDP5.1.x264-NTG[rartv]/The.Expanse.S03E03.Assured.Destruction.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.895964994,
+                    "path": "The.Expanse.S03.720p.AMZN.WEBRip.DDP5.1.x264-NTG[rartv]/The.Expanse.S03E04.Reload.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.834062066,
+                    "path": "The.Expanse.S03.720p.AMZN.WEBRip.DDP5.1.x264-NTG[rartv]/The.Expanse.S03E05.Triple.Point.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 0.927572609,
+                    "path": "The.Expanse.S03.720p.AMZN.WEBRip.DDP5.1.x264-NTG[rartv]/The.Expanse.S03E06.Immolation.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 0.971902079,
+                    "path": "The.Expanse.S03.720p.AMZN.WEBRip.DDP5.1.x264-NTG[rartv]/The.Expanse.S03E07.Delta-V.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 0.964524972,
+                    "path": "The.Expanse.S03.720p.AMZN.WEBRip.DDP5.1.x264-NTG[rartv]/The.Expanse.S03E08.It.Reaches.Out.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 0.967019672,
+                    "path": "The.Expanse.S03.720p.AMZN.WEBRip.DDP5.1.x264-NTG[rartv]/The.Expanse.S03E09.Intransigence.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                },
+                {
+                    "number": 11,
+                    "size": 0.982835519,
+                    "path": "The.Expanse.S03.720p.AMZN.WEBRip.DDP5.1.x264-NTG[rartv]/The.Expanse.S03E10.Dandelion.Sky.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                },
+                {
+                    "number": 12,
+                    "size": 1.068034394,
+                    "path": "The.Expanse.S03.720p.AMZN.WEBRip.DDP5.1.x264-NTG[rartv]/The.Expanse.S03E11.Fallen.World.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                },
+                {
+                    "number": 13,
+                    "size": 0.951008504,
+                    "path": "The.Expanse.S03.720p.AMZN.WEBRip.DDP5.1.x264-NTG[rartv]/The.Expanse.S03E12.Congregation.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                },
+                {
+                    "number": 14,
+                    "size": 1.140664836,
+                    "path": "The.Expanse.S03.720p.AMZN.WEBRip.DDP5.1.x264-NTG[rartv]/The.Expanse.S03E13.Abaddons.Gate.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                }
+            ]
+        },
+        {
+            "id": 43,
+            "name": "The.Expanse.S03E12-E13.480p.x264-mSD [IPT]",
+            "size_total": 0.311182957,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000215759,
+                    "path": "The.Expanse.S03E12-E13.480p.x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000344327,
+                    "path": "The.Expanse.S03E12-E13.480p.x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000099402,
+                    "path": "The.Expanse.S03E12-E13.480p.x264-mSD/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000330436,
+                    "path": "The.Expanse.S03E12-E13.480p.x264-mSD/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.310191849,
+                    "path": "The.Expanse.S03E12-E13.480p.x264-mSD/The.Expanse.S03E12-E13.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001184,
+                    "path": "The.Expanse.S03E12-E13.480p.x264-mSD/The.Expanse.S03E12-E13.480p.x264-mSD.nfo"
+                }
+            ]
+        },
+        {
+            "id": 44,
+            "name": "The.Expanse.S03E12-E13.720p.HDTV.x264-LucidTV[rartv]-[rarbg.to]",
+            "size_total": 1.788960988,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Expanse.S03E12-E13.720p.HDTV.x264-LucidTV[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.788960713,
+                    "path": "The.Expanse.S03E12-E13.720p.HDTV.x264-LucidTV[rarbg]/the.expanse.s03e12-e13.720p.hdtv.x264-lucidtv.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 2.45e-7,
+                    "path": "The.Expanse.S03E12-E13.720p.HDTV.x264-LucidTV[rarbg]/the.expanse.s03e12-e13.720p.hdtv.x264-lucidtv.nfo"
+                }
+            ]
+        },
+        {
+            "id": 45,
+            "name": "The.Expanse.S03E12-E13.HDTV.x264-LucidTV[rartv]-[rarbg.to]",
+            "size_total": 0.546696104,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Expanse.S03E12-E13.HDTV.x264-LucidTV[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.546695834,
+                    "path": "The.Expanse.S03E12-E13.HDTV.x264-LucidTV[rarbg]/the.expanse.s03e12-e13.hdtv.x264-lucidtv.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 2.4e-7,
+                    "path": "The.Expanse.S03E12-E13.HDTV.x264-LucidTV[rarbg]/the.expanse.s03e12-e13.hdtv.x264-lucidtv.nfo"
+                }
+            ]
+        },
+        {
+            "id": 46,
+            "name": "The.Expanse.S03E12-E13.PROPER.480p.x264-mSD [IPT]",
+            "size_total": 0.304573433,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000178485,
+                    "path": "The.Expanse.S03E12-E13.PROPER.480p.x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000173342,
+                    "path": "The.Expanse.S03E12-E13.PROPER.480p.x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000315624,
+                    "path": "The.Expanse.S03E12-E13.PROPER.480p.x264-mSD/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000313288,
+                    "path": "The.Expanse.S03E12-E13.PROPER.480p.x264-mSD/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.303591497,
+                    "path": "The.Expanse.S03E12-E13.PROPER.480p.x264-mSD/The.Expanse.S03E12-E13.PROPER.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001197,
+                    "path": "The.Expanse.S03E12-E13.PROPER.480p.x264-mSD/The.Expanse.S03E12-E13.PROPER.480p.x264-mSD.nfo"
+                }
+            ]
+        },
+        {
+            "id": 47,
+            "name": "The.Expanse.S03E12-E13.PROPER.720p.HDTV.x264-KILLERS [IPT]",
+            "size_total": 1.624346523,
+            "files_total": 35,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000011192,
+                    "path": "The.Expanse.S03E12-E13.PROPER.720p.HDTV.x264-KILLERS/the.expanse.s03e12-e13.proper.720p.hdtv.x264-killers.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12-E13.PROPER.720p.HDTV.x264-KILLERS/the.expanse.s03e12-e13.proper.720p.hdtv.x264-killers.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12-E13.PROPER.720p.HDTV.x264-KILLERS/the.expanse.s03e12-e13.proper.720p.hdtv.x264-killers.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12-E13.PROPER.720p.HDTV.x264-KILLERS/the.expanse.s03e12-e13.proper.720p.hdtv.x264-killers.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12-E13.PROPER.720p.HDTV.x264-KILLERS/the.expanse.s03e12-e13.proper.720p.hdtv.x264-killers.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12-E13.PROPER.720p.HDTV.x264-KILLERS/the.expanse.s03e12-e13.proper.720p.hdtv.x264-killers.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12-E13.PROPER.720p.HDTV.x264-KILLERS/the.expanse.s03e12-e13.proper.720p.hdtv.x264-killers.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12-E13.PROPER.720p.HDTV.x264-KILLERS/the.expanse.s03e12-e13.proper.720p.hdtv.x264-killers.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12-E13.PROPER.720p.HDTV.x264-KILLERS/the.expanse.s03e12-e13.proper.720p.hdtv.x264-killers.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12-E13.PROPER.720p.HDTV.x264-KILLERS/the.expanse.s03e12-e13.proper.720p.hdtv.x264-killers.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12-E13.PROPER.720p.HDTV.x264-KILLERS/the.expanse.s03e12-e13.proper.720p.hdtv.x264-killers.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12-E13.PROPER.720p.HDTV.x264-KILLERS/the.expanse.s03e12-e13.proper.720p.hdtv.x264-killers.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12-E13.PROPER.720p.HDTV.x264-KILLERS/the.expanse.s03e12-e13.proper.720p.hdtv.x264-killers.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12-E13.PROPER.720p.HDTV.x264-KILLERS/the.expanse.s03e12-e13.proper.720p.hdtv.x264-killers.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12-E13.PROPER.720p.HDTV.x264-KILLERS/the.expanse.s03e12-e13.proper.720p.hdtv.x264-killers.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12-E13.PROPER.720p.HDTV.x264-KILLERS/the.expanse.s03e12-e13.proper.720p.hdtv.x264-killers.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12-E13.PROPER.720p.HDTV.x264-KILLERS/the.expanse.s03e12-e13.proper.720p.hdtv.x264-killers.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12-E13.PROPER.720p.HDTV.x264-KILLERS/the.expanse.s03e12-e13.proper.720p.hdtv.x264-killers.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12-E13.PROPER.720p.HDTV.x264-KILLERS/the.expanse.s03e12-e13.proper.720p.hdtv.x264-killers.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12-E13.PROPER.720p.HDTV.x264-KILLERS/the.expanse.s03e12-e13.proper.720p.hdtv.x264-killers.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12-E13.PROPER.720p.HDTV.x264-KILLERS/the.expanse.s03e12-e13.proper.720p.hdtv.x264-killers.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12-E13.PROPER.720p.HDTV.x264-KILLERS/the.expanse.s03e12-e13.proper.720p.hdtv.x264-killers.r20"
+                },
+                {
+                    "number": 23,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12-E13.PROPER.720p.HDTV.x264-KILLERS/the.expanse.s03e12-e13.proper.720p.hdtv.x264-killers.r21"
+                },
+                {
+                    "number": 24,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12-E13.PROPER.720p.HDTV.x264-KILLERS/the.expanse.s03e12-e13.proper.720p.hdtv.x264-killers.r22"
+                },
+                {
+                    "number": 25,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12-E13.PROPER.720p.HDTV.x264-KILLERS/the.expanse.s03e12-e13.proper.720p.hdtv.x264-killers.r23"
+                },
+                {
+                    "number": 26,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12-E13.PROPER.720p.HDTV.x264-KILLERS/the.expanse.s03e12-e13.proper.720p.hdtv.x264-killers.r24"
+                },
+                {
+                    "number": 27,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12-E13.PROPER.720p.HDTV.x264-KILLERS/the.expanse.s03e12-e13.proper.720p.hdtv.x264-killers.r25"
+                },
+                {
+                    "number": 28,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12-E13.PROPER.720p.HDTV.x264-KILLERS/the.expanse.s03e12-e13.proper.720p.hdtv.x264-killers.r26"
+                },
+                {
+                    "number": 29,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12-E13.PROPER.720p.HDTV.x264-KILLERS/the.expanse.s03e12-e13.proper.720p.hdtv.x264-killers.r27"
+                },
+                {
+                    "number": 30,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12-E13.PROPER.720p.HDTV.x264-KILLERS/the.expanse.s03e12-e13.proper.720p.hdtv.x264-killers.r28"
+                },
+                {
+                    "number": 31,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12-E13.PROPER.720p.HDTV.x264-KILLERS/the.expanse.s03e12-e13.proper.720p.hdtv.x264-killers.r29"
+                },
+                {
+                    "number": 32,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12-E13.PROPER.720p.HDTV.x264-KILLERS/the.expanse.s03e12-e13.proper.720p.hdtv.x264-killers.r30"
+                },
+                {
+                    "number": 33,
+                    "size": 0.02433312,
+                    "path": "The.Expanse.S03E12-E13.PROPER.720p.HDTV.x264-KILLERS/the.expanse.s03e12-e13.proper.720p.hdtv.x264-killers.r31"
+                },
+                {
+                    "number": 34,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12-E13.PROPER.720p.HDTV.x264-KILLERS/the.expanse.s03e12-e13.proper.720p.hdtv.x264-killers.rar"
+                },
+                {
+                    "number": 35,
+                    "size": 0.000002211,
+                    "path": "The.Expanse.S03E12-E13.PROPER.720p.HDTV.x264-KILLERS/the.expanse.s03e12-e13.proper.720p.hdtv.x264-killers.sfv"
+                }
+            ]
+        },
+        {
+            "id": 48,
+            "name": "The.Expanse.S03E12-E13.PROPER.720p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.51484849,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000616194,
+                    "path": "The.Expanse.S03E12-E13.PROPER.720p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000524998,
+                    "path": "The.Expanse.S03E12-E13.PROPER.720p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000579818,
+                    "path": "The.Expanse.S03E12-E13.PROPER.720p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000494122,
+                    "path": "The.Expanse.S03E12-E13.PROPER.720p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.512632149,
+                    "path": "The.Expanse.S03E12-E13.PROPER.720p.HEVC.x265-MeGusta/The.Expanse.S03E12-E13.PROPER.720p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001209,
+                    "path": "The.Expanse.S03E12-E13.PROPER.720p.HEVC.x265-MeGusta/The.Expanse.S03E12-E13.PROPER.720p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 49,
+            "name": "The.Expanse.S03E12-E13.PROPER.HDTV.x264-KILLERS [IPT]",
+            "size_total": 0.514856907,
+            "files_total": 37,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000011183,
+                    "path": "The.Expanse.S03E12-E13.PROPER.HDTV.x264-KILLERS/the.expanse.s03e12-e13.proper.hdtv.x264-killers.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.015,
+                    "path": "The.Expanse.S03E12-E13.PROPER.HDTV.x264-KILLERS/the.expanse.s03e12-e13.proper.hdtv.x264-killers.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.015,
+                    "path": "The.Expanse.S03E12-E13.PROPER.HDTV.x264-KILLERS/the.expanse.s03e12-e13.proper.hdtv.x264-killers.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.015,
+                    "path": "The.Expanse.S03E12-E13.PROPER.HDTV.x264-KILLERS/the.expanse.s03e12-e13.proper.hdtv.x264-killers.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.015,
+                    "path": "The.Expanse.S03E12-E13.PROPER.HDTV.x264-KILLERS/the.expanse.s03e12-e13.proper.hdtv.x264-killers.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.015,
+                    "path": "The.Expanse.S03E12-E13.PROPER.HDTV.x264-KILLERS/the.expanse.s03e12-e13.proper.hdtv.x264-killers.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.015,
+                    "path": "The.Expanse.S03E12-E13.PROPER.HDTV.x264-KILLERS/the.expanse.s03e12-e13.proper.hdtv.x264-killers.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.015,
+                    "path": "The.Expanse.S03E12-E13.PROPER.HDTV.x264-KILLERS/the.expanse.s03e12-e13.proper.hdtv.x264-killers.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.015,
+                    "path": "The.Expanse.S03E12-E13.PROPER.HDTV.x264-KILLERS/the.expanse.s03e12-e13.proper.hdtv.x264-killers.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.015,
+                    "path": "The.Expanse.S03E12-E13.PROPER.HDTV.x264-KILLERS/the.expanse.s03e12-e13.proper.hdtv.x264-killers.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.015,
+                    "path": "The.Expanse.S03E12-E13.PROPER.HDTV.x264-KILLERS/the.expanse.s03e12-e13.proper.hdtv.x264-killers.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.015,
+                    "path": "The.Expanse.S03E12-E13.PROPER.HDTV.x264-KILLERS/the.expanse.s03e12-e13.proper.hdtv.x264-killers.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.015,
+                    "path": "The.Expanse.S03E12-E13.PROPER.HDTV.x264-KILLERS/the.expanse.s03e12-e13.proper.hdtv.x264-killers.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.015,
+                    "path": "The.Expanse.S03E12-E13.PROPER.HDTV.x264-KILLERS/the.expanse.s03e12-e13.proper.hdtv.x264-killers.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.015,
+                    "path": "The.Expanse.S03E12-E13.PROPER.HDTV.x264-KILLERS/the.expanse.s03e12-e13.proper.hdtv.x264-killers.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.015,
+                    "path": "The.Expanse.S03E12-E13.PROPER.HDTV.x264-KILLERS/the.expanse.s03e12-e13.proper.hdtv.x264-killers.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.015,
+                    "path": "The.Expanse.S03E12-E13.PROPER.HDTV.x264-KILLERS/the.expanse.s03e12-e13.proper.hdtv.x264-killers.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.015,
+                    "path": "The.Expanse.S03E12-E13.PROPER.HDTV.x264-KILLERS/the.expanse.s03e12-e13.proper.hdtv.x264-killers.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.015,
+                    "path": "The.Expanse.S03E12-E13.PROPER.HDTV.x264-KILLERS/the.expanse.s03e12-e13.proper.hdtv.x264-killers.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.015,
+                    "path": "The.Expanse.S03E12-E13.PROPER.HDTV.x264-KILLERS/the.expanse.s03e12-e13.proper.hdtv.x264-killers.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.015,
+                    "path": "The.Expanse.S03E12-E13.PROPER.HDTV.x264-KILLERS/the.expanse.s03e12-e13.proper.hdtv.x264-killers.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.015,
+                    "path": "The.Expanse.S03E12-E13.PROPER.HDTV.x264-KILLERS/the.expanse.s03e12-e13.proper.hdtv.x264-killers.r20"
+                },
+                {
+                    "number": 23,
+                    "size": 0.015,
+                    "path": "The.Expanse.S03E12-E13.PROPER.HDTV.x264-KILLERS/the.expanse.s03e12-e13.proper.hdtv.x264-killers.r21"
+                },
+                {
+                    "number": 24,
+                    "size": 0.015,
+                    "path": "The.Expanse.S03E12-E13.PROPER.HDTV.x264-KILLERS/the.expanse.s03e12-e13.proper.hdtv.x264-killers.r22"
+                },
+                {
+                    "number": 25,
+                    "size": 0.015,
+                    "path": "The.Expanse.S03E12-E13.PROPER.HDTV.x264-KILLERS/the.expanse.s03e12-e13.proper.hdtv.x264-killers.r23"
+                },
+                {
+                    "number": 26,
+                    "size": 0.015,
+                    "path": "The.Expanse.S03E12-E13.PROPER.HDTV.x264-KILLERS/the.expanse.s03e12-e13.proper.hdtv.x264-killers.r24"
+                },
+                {
+                    "number": 27,
+                    "size": 0.015,
+                    "path": "The.Expanse.S03E12-E13.PROPER.HDTV.x264-KILLERS/the.expanse.s03e12-e13.proper.hdtv.x264-killers.r25"
+                },
+                {
+                    "number": 28,
+                    "size": 0.015,
+                    "path": "The.Expanse.S03E12-E13.PROPER.HDTV.x264-KILLERS/the.expanse.s03e12-e13.proper.hdtv.x264-killers.r26"
+                },
+                {
+                    "number": 29,
+                    "size": 0.015,
+                    "path": "The.Expanse.S03E12-E13.PROPER.HDTV.x264-KILLERS/the.expanse.s03e12-e13.proper.hdtv.x264-killers.r27"
+                },
+                {
+                    "number": 30,
+                    "size": 0.015,
+                    "path": "The.Expanse.S03E12-E13.PROPER.HDTV.x264-KILLERS/the.expanse.s03e12-e13.proper.hdtv.x264-killers.r28"
+                },
+                {
+                    "number": 31,
+                    "size": 0.015,
+                    "path": "The.Expanse.S03E12-E13.PROPER.HDTV.x264-KILLERS/the.expanse.s03e12-e13.proper.hdtv.x264-killers.r29"
+                },
+                {
+                    "number": 32,
+                    "size": 0.015,
+                    "path": "The.Expanse.S03E12-E13.PROPER.HDTV.x264-KILLERS/the.expanse.s03e12-e13.proper.hdtv.x264-killers.r30"
+                },
+                {
+                    "number": 33,
+                    "size": 0.015,
+                    "path": "The.Expanse.S03E12-E13.PROPER.HDTV.x264-KILLERS/the.expanse.s03e12-e13.proper.hdtv.x264-killers.r31"
+                },
+                {
+                    "number": 34,
+                    "size": 0.015,
+                    "path": "The.Expanse.S03E12-E13.PROPER.HDTV.x264-KILLERS/the.expanse.s03e12-e13.proper.hdtv.x264-killers.r32"
+                },
+                {
+                    "number": 35,
+                    "size": 0.004843554,
+                    "path": "The.Expanse.S03E12-E13.PROPER.HDTV.x264-KILLERS/the.expanse.s03e12-e13.proper.hdtv.x264-killers.r33"
+                },
+                {
+                    "number": 36,
+                    "size": 0.015,
+                    "path": "The.Expanse.S03E12-E13.PROPER.HDTV.x264-KILLERS/the.expanse.s03e12-e13.proper.hdtv.x264-killers.rar"
+                },
+                {
+                    "number": 37,
+                    "size": 0.00000217,
+                    "path": "The.Expanse.S03E12-E13.PROPER.HDTV.x264-KILLERS/the.expanse.s03e12-e13.proper.hdtv.x264-killers.sfv"
+                }
+            ]
+        },
+        {
+            "id": 50,
+            "name": "The.Expanse.S03E12-E13.PROPER.HDTV.x264-KILLERS[rartv]-[rarbg.to]",
+            "size_total": 0.514850462,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Expanse.S03E12-E13.PROPER.HDTV.x264-KILLERS[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.514839249,
+                    "path": "The.Expanse.S03E12-E13.PROPER.HDTV.x264-KILLERS[rarbg]/The.Expanse.S03E12-E13.PROPER.HDTV.x264-KILLERS.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000011183,
+                    "path": "The.Expanse.S03E12-E13.PROPER.HDTV.x264-KILLERS[rarbg]/the.expanse.s03e12-e13.proper.hdtv.x264-killers.nfo"
+                }
+            ]
+        },
+        {
+            "id": 51,
+            "name": "The.Expanse.S03E12-E13.PROPER.XviD-AFG [IPT]",
+            "size_total": 0.809473084,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000203716,
+                    "path": "The.Expanse.S03E12-E13.PROPER.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000179743,
+                    "path": "The.Expanse.S03E12-E13.PROPER.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000377344,
+                    "path": "The.Expanse.S03E12-E13.PROPER.XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000387166,
+                    "path": "The.Expanse.S03E12-E13.PROPER.XviD-AFG/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.808323932,
+                    "path": "The.Expanse.S03E12-E13.PROPER.XviD-AFG/The.Expanse.S03E12-E13.PROPER.XviD-AFG.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001183,
+                    "path": "The.Expanse.S03E12-E13.PROPER.XviD-AFG/The.Expanse.S03E12-E13.PROPER.XviD-AFG.nfo"
+                }
+            ]
+        },
+        {
+            "id": 52,
+            "name": "The.Expanse.S03E12-E13.XviD-AFG [IPT]",
+            "size_total": 0.824913649,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.00021665,
+                    "path": "The.Expanse.S03E12-E13.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000399095,
+                    "path": "The.Expanse.S03E12-E13.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000111679,
+                    "path": "The.Expanse.S03E12-E13.XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000383346,
+                    "path": "The.Expanse.S03E12-E13.XviD-AFG/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.823801714,
+                    "path": "The.Expanse.S03E12-E13.XviD-AFG/The.Expanse.S03E12-E13.XviD-AFG.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001165,
+                    "path": "The.Expanse.S03E12-E13.XviD-AFG/The.Expanse.S03E12-E13.XviD-AFG.nfo"
+                }
+            ]
+        },
+        {
+            "id": 53,
+            "name": "The.Expanse.S03E12.1080p.WEB.H264-DEFLATE [IPT]",
+            "size_total": 2.346412882,
+            "files_total": 49,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 4.5e-7,
+                    "path": "The.Expanse.S03E12.1080p.WEB.H264-DEFLATE/the.expanse.s03e12.1080p.web.h264-deflate.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12.1080p.WEB.H264-DEFLATE/the.expanse.s03e12.1080p.web.h264-deflate.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12.1080p.WEB.H264-DEFLATE/the.expanse.s03e12.1080p.web.h264-deflate.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12.1080p.WEB.H264-DEFLATE/the.expanse.s03e12.1080p.web.h264-deflate.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12.1080p.WEB.H264-DEFLATE/the.expanse.s03e12.1080p.web.h264-deflate.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12.1080p.WEB.H264-DEFLATE/the.expanse.s03e12.1080p.web.h264-deflate.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12.1080p.WEB.H264-DEFLATE/the.expanse.s03e12.1080p.web.h264-deflate.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12.1080p.WEB.H264-DEFLATE/the.expanse.s03e12.1080p.web.h264-deflate.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12.1080p.WEB.H264-DEFLATE/the.expanse.s03e12.1080p.web.h264-deflate.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12.1080p.WEB.H264-DEFLATE/the.expanse.s03e12.1080p.web.h264-deflate.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12.1080p.WEB.H264-DEFLATE/the.expanse.s03e12.1080p.web.h264-deflate.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12.1080p.WEB.H264-DEFLATE/the.expanse.s03e12.1080p.web.h264-deflate.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12.1080p.WEB.H264-DEFLATE/the.expanse.s03e12.1080p.web.h264-deflate.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12.1080p.WEB.H264-DEFLATE/the.expanse.s03e12.1080p.web.h264-deflate.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12.1080p.WEB.H264-DEFLATE/the.expanse.s03e12.1080p.web.h264-deflate.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12.1080p.WEB.H264-DEFLATE/the.expanse.s03e12.1080p.web.h264-deflate.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12.1080p.WEB.H264-DEFLATE/the.expanse.s03e12.1080p.web.h264-deflate.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12.1080p.WEB.H264-DEFLATE/the.expanse.s03e12.1080p.web.h264-deflate.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12.1080p.WEB.H264-DEFLATE/the.expanse.s03e12.1080p.web.h264-deflate.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12.1080p.WEB.H264-DEFLATE/the.expanse.s03e12.1080p.web.h264-deflate.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12.1080p.WEB.H264-DEFLATE/the.expanse.s03e12.1080p.web.h264-deflate.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12.1080p.WEB.H264-DEFLATE/the.expanse.s03e12.1080p.web.h264-deflate.r20"
+                },
+                {
+                    "number": 23,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12.1080p.WEB.H264-DEFLATE/the.expanse.s03e12.1080p.web.h264-deflate.r21"
+                },
+                {
+                    "number": 24,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12.1080p.WEB.H264-DEFLATE/the.expanse.s03e12.1080p.web.h264-deflate.r22"
+                },
+                {
+                    "number": 25,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12.1080p.WEB.H264-DEFLATE/the.expanse.s03e12.1080p.web.h264-deflate.r23"
+                },
+                {
+                    "number": 26,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12.1080p.WEB.H264-DEFLATE/the.expanse.s03e12.1080p.web.h264-deflate.r24"
+                },
+                {
+                    "number": 27,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12.1080p.WEB.H264-DEFLATE/the.expanse.s03e12.1080p.web.h264-deflate.r25"
+                },
+                {
+                    "number": 28,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12.1080p.WEB.H264-DEFLATE/the.expanse.s03e12.1080p.web.h264-deflate.r26"
+                },
+                {
+                    "number": 29,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12.1080p.WEB.H264-DEFLATE/the.expanse.s03e12.1080p.web.h264-deflate.r27"
+                },
+                {
+                    "number": 30,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12.1080p.WEB.H264-DEFLATE/the.expanse.s03e12.1080p.web.h264-deflate.r28"
+                },
+                {
+                    "number": 31,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12.1080p.WEB.H264-DEFLATE/the.expanse.s03e12.1080p.web.h264-deflate.r29"
+                },
+                {
+                    "number": 32,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12.1080p.WEB.H264-DEFLATE/the.expanse.s03e12.1080p.web.h264-deflate.r30"
+                },
+                {
+                    "number": 33,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12.1080p.WEB.H264-DEFLATE/the.expanse.s03e12.1080p.web.h264-deflate.r31"
+                },
+                {
+                    "number": 34,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12.1080p.WEB.H264-DEFLATE/the.expanse.s03e12.1080p.web.h264-deflate.r32"
+                },
+                {
+                    "number": 35,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12.1080p.WEB.H264-DEFLATE/the.expanse.s03e12.1080p.web.h264-deflate.r33"
+                },
+                {
+                    "number": 36,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12.1080p.WEB.H264-DEFLATE/the.expanse.s03e12.1080p.web.h264-deflate.r34"
+                },
+                {
+                    "number": 37,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12.1080p.WEB.H264-DEFLATE/the.expanse.s03e12.1080p.web.h264-deflate.r35"
+                },
+                {
+                    "number": 38,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12.1080p.WEB.H264-DEFLATE/the.expanse.s03e12.1080p.web.h264-deflate.r36"
+                },
+                {
+                    "number": 39,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12.1080p.WEB.H264-DEFLATE/the.expanse.s03e12.1080p.web.h264-deflate.r37"
+                },
+                {
+                    "number": 40,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12.1080p.WEB.H264-DEFLATE/the.expanse.s03e12.1080p.web.h264-deflate.r38"
+                },
+                {
+                    "number": 41,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12.1080p.WEB.H264-DEFLATE/the.expanse.s03e12.1080p.web.h264-deflate.r39"
+                },
+                {
+                    "number": 42,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12.1080p.WEB.H264-DEFLATE/the.expanse.s03e12.1080p.web.h264-deflate.r40"
+                },
+                {
+                    "number": 43,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12.1080p.WEB.H264-DEFLATE/the.expanse.s03e12.1080p.web.h264-deflate.r41"
+                },
+                {
+                    "number": 44,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12.1080p.WEB.H264-DEFLATE/the.expanse.s03e12.1080p.web.h264-deflate.r42"
+                },
+                {
+                    "number": 45,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12.1080p.WEB.H264-DEFLATE/the.expanse.s03e12.1080p.web.h264-deflate.r43"
+                },
+                {
+                    "number": 46,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12.1080p.WEB.H264-DEFLATE/the.expanse.s03e12.1080p.web.h264-deflate.r44"
+                },
+                {
+                    "number": 47,
+                    "size": 0.0464098,
+                    "path": "The.Expanse.S03E12.1080p.WEB.H264-DEFLATE/the.expanse.s03e12.1080p.web.h264-deflate.r45"
+                },
+                {
+                    "number": 48,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12.1080p.WEB.H264-DEFLATE/the.expanse.s03e12.1080p.web.h264-deflate.rar"
+                },
+                {
+                    "number": 49,
+                    "size": 0.000002632,
+                    "path": "The.Expanse.S03E12.1080p.WEB.H264-DEFLATE/the.expanse.s03e12.1080p.web.h264-deflate.sfv"
+                }
+            ]
+        },
+        {
+            "id": 54,
+            "name": "The.Expanse.S03E12.1080p.WEB.H264-DEFLATE[rartv]-[rarbg.to]",
+            "size_total": 2.34640417,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Expanse.S03E12.1080p.WEB.H264-DEFLATE[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 2.34640369,
+                    "path": "The.Expanse.S03E12.1080p.WEB.H264-DEFLATE[rarbg]/The.Expanse.S03E12.1080p.WEB.H264-DEFLATE.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 4.5e-7,
+                    "path": "The.Expanse.S03E12.1080p.WEB.H264-DEFLATE[rarbg]/the.expanse.s03e12.1080p.web.h264-deflate.nfo"
+                }
+            ]
+        },
+        {
+            "id": 55,
+            "name": "The.Expanse.S03E12.Congregation.1080p.AMZN.WEBRip.DDP5.1.x264-NTG[rartv]-[rarbg.to]",
+            "size_total": 2.346355293,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Expanse.S03E12.Congregation.1080p.AMZN.WEBRip.DDP5.1.x264-NTG[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 2.346355263,
+                    "path": "The.Expanse.S03E12.Congregation.1080p.AMZN.WEBRip.DDP5.1.x264-NTG[rarbg]/The.Expanse.S03E12.Congregation.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                }
+            ]
+        },
+        {
+            "id": 56,
+            "name": "The.Expanse.S03E12.Congregation.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG [IPT]",
+            "size_total": 0.954337853,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.00109735,
+                    "path": "The.Expanse.S03E12.Congregation.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000702177,
+                    "path": "The.Expanse.S03E12.Congregation.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000734781,
+                    "path": "The.Expanse.S03E12.Congregation.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000793452,
+                    "path": "The.Expanse.S03E12.Congregation.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.951008504,
+                    "path": "The.Expanse.S03E12.Congregation.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG/The.Expanse.S03E12.Congregation.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001589,
+                    "path": "The.Expanse.S03E12.Congregation.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG/The.Expanse.S03E12.Congregation.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG.nfo"
+                }
+            ]
+        },
+        {
+            "id": 57,
+            "name": "The.Expanse.S03E12.Congregation.720p.AMZN.WEBRip.DDP5.1.x264-NTG[rartv]-[rarbg.to]",
+            "size_total": 0.951008534,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Expanse.S03E12.Congregation.720p.AMZN.WEBRip.DDP5.1.x264-NTG[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.951008504,
+                    "path": "The.Expanse.S03E12.Congregation.720p.AMZN.WEBRip.DDP5.1.x264-NTG[rarbg]/The.Expanse.S03E12.Congregation.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                }
+            ]
+        },
+        {
+            "id": 58,
+            "name": "The.Expanse.S03E12.iNTERNAL.480p.x264-mSD [IPT]",
+            "size_total": 0.146798819,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000219194,
+                    "path": "The.Expanse.S03E12.iNTERNAL.480p.x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000042062,
+                    "path": "The.Expanse.S03E12.iNTERNAL.480p.x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00017134,
+                    "path": "The.Expanse.S03E12.iNTERNAL.480p.x264-mSD/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000132411,
+                    "path": "The.Expanse.S03E12.iNTERNAL.480p.x264-mSD/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.14623262,
+                    "path": "The.Expanse.S03E12.iNTERNAL.480p.x264-mSD/The.Expanse.S03E12.iNTERNAL.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001192,
+                    "path": "The.Expanse.S03E12.iNTERNAL.480p.x264-mSD/The.Expanse.S03E12.iNTERNAL.480p.x264-mSD.nfo"
+                }
+            ]
+        },
+        {
+            "id": 59,
+            "name": "The.Expanse.S03E12.iNTERNAL.720p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.254546142,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.00106514,
+                    "path": "The.Expanse.S03E12.iNTERNAL.720p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000559129,
+                    "path": "The.Expanse.S03E12.iNTERNAL.720p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000669837,
+                    "path": "The.Expanse.S03E12.iNTERNAL.720p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001039803,
+                    "path": "The.Expanse.S03E12.iNTERNAL.720p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.251211032,
+                    "path": "The.Expanse.S03E12.iNTERNAL.720p.HEVC.x265-MeGusta/The.Expanse.S03E12.iNTERNAL.720p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001201,
+                    "path": "The.Expanse.S03E12.iNTERNAL.720p.HEVC.x265-MeGusta/The.Expanse.S03E12.iNTERNAL.720p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 60,
+            "name": "The.Expanse.S03E12.iNTERNAL.720p.WEB.x264-BAMBOOZLE [IPT]",
+            "size_total": 0.817936194,
+            "files_total": 19,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 6.3e-8,
+                    "path": "The.Expanse.S03E12.iNTERNAL.720p.WEB.x264-BAMBOOZLE/the.expanse.s03e12.internal.720p.web.x264-bamboozle.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12.iNTERNAL.720p.WEB.x264-BAMBOOZLE/the.expanse.s03e12.internal.720p.web.x264-bamboozle.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12.iNTERNAL.720p.WEB.x264-BAMBOOZLE/the.expanse.s03e12.internal.720p.web.x264-bamboozle.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12.iNTERNAL.720p.WEB.x264-BAMBOOZLE/the.expanse.s03e12.internal.720p.web.x264-bamboozle.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12.iNTERNAL.720p.WEB.x264-BAMBOOZLE/the.expanse.s03e12.internal.720p.web.x264-bamboozle.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12.iNTERNAL.720p.WEB.x264-BAMBOOZLE/the.expanse.s03e12.internal.720p.web.x264-bamboozle.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12.iNTERNAL.720p.WEB.x264-BAMBOOZLE/the.expanse.s03e12.internal.720p.web.x264-bamboozle.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12.iNTERNAL.720p.WEB.x264-BAMBOOZLE/the.expanse.s03e12.internal.720p.web.x264-bamboozle.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12.iNTERNAL.720p.WEB.x264-BAMBOOZLE/the.expanse.s03e12.internal.720p.web.x264-bamboozle.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12.iNTERNAL.720p.WEB.x264-BAMBOOZLE/the.expanse.s03e12.internal.720p.web.x264-bamboozle.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12.iNTERNAL.720p.WEB.x264-BAMBOOZLE/the.expanse.s03e12.internal.720p.web.x264-bamboozle.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12.iNTERNAL.720p.WEB.x264-BAMBOOZLE/the.expanse.s03e12.internal.720p.web.x264-bamboozle.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12.iNTERNAL.720p.WEB.x264-BAMBOOZLE/the.expanse.s03e12.internal.720p.web.x264-bamboozle.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12.iNTERNAL.720p.WEB.x264-BAMBOOZLE/the.expanse.s03e12.internal.720p.web.x264-bamboozle.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12.iNTERNAL.720p.WEB.x264-BAMBOOZLE/the.expanse.s03e12.internal.720p.web.x264-bamboozle.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12.iNTERNAL.720p.WEB.x264-BAMBOOZLE/the.expanse.s03e12.internal.720p.web.x264-bamboozle.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.017935009,
+                    "path": "The.Expanse.S03E12.iNTERNAL.720p.WEB.x264-BAMBOOZLE/the.expanse.s03e12.internal.720p.web.x264-bamboozle.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E12.iNTERNAL.720p.WEB.x264-BAMBOOZLE/the.expanse.s03e12.internal.720p.web.x264-bamboozle.rar"
+                },
+                {
+                    "number": 19,
+                    "size": 0.000001122,
+                    "path": "The.Expanse.S03E12.iNTERNAL.720p.WEB.x264-BAMBOOZLE/the.expanse.s03e12.internal.720p.web.x264-bamboozle.sfv"
+                }
+            ]
+        },
+        {
+            "id": 61,
+            "name": "The.Expanse.S03E12.iNTERNAL.720p.WEB.x264-BAMBOOZLE[rartv]-[rarbg.to]",
+            "size_total": 0.817932909,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Expanse.S03E12.iNTERNAL.720p.WEB.x264-BAMBOOZLE[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.817932816,
+                    "path": "The.Expanse.S03E12.iNTERNAL.720p.WEB.x264-BAMBOOZLE[rarbg]/the.expanse.s03e12.internal.720p.web.x264-bamboozle.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 6.3e-8,
+                    "path": "The.Expanse.S03E12.iNTERNAL.720p.WEB.x264-BAMBOOZLE[rarbg]/the.expanse.s03e12.internal.720p.web.x264-bamboozle.nfo"
+                }
+            ]
+        },
+        {
+            "id": 62,
+            "name": "The.Expanse.S03E12.iNTERNAL.XviD-AFG [IPT]",
+            "size_total": 0.374058488,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000281355,
+                    "path": "The.Expanse.S03E12.iNTERNAL.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000052971,
+                    "path": "The.Expanse.S03E12.iNTERNAL.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000170018,
+                    "path": "The.Expanse.S03E12.iNTERNAL.XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000151233,
+                    "path": "The.Expanse.S03E12.iNTERNAL.XviD-AFG/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.373401736,
+                    "path": "The.Expanse.S03E12.iNTERNAL.XviD-AFG/The.Expanse.S03E12.iNTERNAL.XviD-AFG.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001175,
+                    "path": "The.Expanse.S03E12.iNTERNAL.XviD-AFG/The.Expanse.S03E12.iNTERNAL.XviD-AFG.nfo"
+                }
+            ]
+        },
+        {
+            "id": 63,
+            "name": "The.Expanse.S03E12.WEBRip.x264-ION10-[rarbg.to]",
+            "size_total": 0.423210523,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Expanse.S03E12.WEBRip.x264-ION10/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000047373,
+                    "path": "The.Expanse.S03E12.WEBRip.x264-ION10/Subs/2_Eng.srt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000051098,
+                    "path": "The.Expanse.S03E12.WEBRip.x264-ION10/Subs/3_Eng.srt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.423112022,
+                    "path": "The.Expanse.S03E12.WEBRip.x264-ION10/The.Expanse.S03E12.WEBRip.x264-ION10.mp4"
+                }
+            ]
+        },
+        {
+            "id": 64,
+            "name": "The.Expanse.S03E13.1080p.WEB.H264-DEFLATE [IPT]",
+            "size_total": 2.770734844,
+            "files_total": 58,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 4.5e-7,
+                    "path": "The.Expanse.S03E13.1080p.WEB.H264-DEFLATE/the.expanse.s03e13.1080p.web.h264-deflate.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E13.1080p.WEB.H264-DEFLATE/the.expanse.s03e13.1080p.web.h264-deflate.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E13.1080p.WEB.H264-DEFLATE/the.expanse.s03e13.1080p.web.h264-deflate.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E13.1080p.WEB.H264-DEFLATE/the.expanse.s03e13.1080p.web.h264-deflate.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E13.1080p.WEB.H264-DEFLATE/the.expanse.s03e13.1080p.web.h264-deflate.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E13.1080p.WEB.H264-DEFLATE/the.expanse.s03e13.1080p.web.h264-deflate.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E13.1080p.WEB.H264-DEFLATE/the.expanse.s03e13.1080p.web.h264-deflate.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E13.1080p.WEB.H264-DEFLATE/the.expanse.s03e13.1080p.web.h264-deflate.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E13.1080p.WEB.H264-DEFLATE/the.expanse.s03e13.1080p.web.h264-deflate.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E13.1080p.WEB.H264-DEFLATE/the.expanse.s03e13.1080p.web.h264-deflate.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E13.1080p.WEB.H264-DEFLATE/the.expanse.s03e13.1080p.web.h264-deflate.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E13.1080p.WEB.H264-DEFLATE/the.expanse.s03e13.1080p.web.h264-deflate.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E13.1080p.WEB.H264-DEFLATE/the.expanse.s03e13.1080p.web.h264-deflate.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E13.1080p.WEB.H264-DEFLATE/the.expanse.s03e13.1080p.web.h264-deflate.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E13.1080p.WEB.H264-DEFLATE/the.expanse.s03e13.1080p.web.h264-deflate.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E13.1080p.WEB.H264-DEFLATE/the.expanse.s03e13.1080p.web.h264-deflate.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E13.1080p.WEB.H264-DEFLATE/the.expanse.s03e13.1080p.web.h264-deflate.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E13.1080p.WEB.H264-DEFLATE/the.expanse.s03e13.1080p.web.h264-deflate.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E13.1080p.WEB.H264-DEFLATE/the.expanse.s03e13.1080p.web.h264-deflate.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E13.1080p.WEB.H264-DEFLATE/the.expanse.s03e13.1080p.web.h264-deflate.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E13.1080p.WEB.H264-DEFLATE/the.expanse.s03e13.1080p.web.h264-deflate.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E13.1080p.WEB.H264-DEFLATE/the.expanse.s03e13.1080p.web.h264-deflate.r20"
+                },
+                {
+                    "number": 23,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E13.1080p.WEB.H264-DEFLATE/the.expanse.s03e13.1080p.web.h264-deflate.r21"
+                },
+                {
+                    "number": 24,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E13.1080p.WEB.H264-DEFLATE/the.expanse.s03e13.1080p.web.h264-deflate.r22"
+                },
+                {
+                    "number": 25,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E13.1080p.WEB.H264-DEFLATE/the.expanse.s03e13.1080p.web.h264-deflate.r23"
+                },
+                {
+                    "number": 26,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E13.1080p.WEB.H264-DEFLATE/the.expanse.s03e13.1080p.web.h264-deflate.r24"
+                },
+                {
+                    "number": 27,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E13.1080p.WEB.H264-DEFLATE/the.expanse.s03e13.1080p.web.h264-deflate.r25"
+                },
+                {
+                    "number": 28,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E13.1080p.WEB.H264-DEFLATE/the.expanse.s03e13.1080p.web.h264-deflate.r26"
+                },
+                {
+                    "number": 29,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E13.1080p.WEB.H264-DEFLATE/the.expanse.s03e13.1080p.web.h264-deflate.r27"
+                },
+                {
+                    "number": 30,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E13.1080p.WEB.H264-DEFLATE/the.expanse.s03e13.1080p.web.h264-deflate.r28"
+                },
+                {
+                    "number": 31,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E13.1080p.WEB.H264-DEFLATE/the.expanse.s03e13.1080p.web.h264-deflate.r29"
+                },
+                {
+                    "number": 32,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E13.1080p.WEB.H264-DEFLATE/the.expanse.s03e13.1080p.web.h264-deflate.r30"
+                },
+                {
+                    "number": 33,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E13.1080p.WEB.H264-DEFLATE/the.expanse.s03e13.1080p.web.h264-deflate.r31"
+                },
+                {
+                    "number": 34,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E13.1080p.WEB.H264-DEFLATE/the.expanse.s03e13.1080p.web.h264-deflate.r32"
+                },
+                {
+                    "number": 35,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E13.1080p.WEB.H264-DEFLATE/the.expanse.s03e13.1080p.web.h264-deflate.r33"
+                },
+                {
+                    "number": 36,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E13.1080p.WEB.H264-DEFLATE/the.expanse.s03e13.1080p.web.h264-deflate.r34"
+                },
+                {
+                    "number": 37,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E13.1080p.WEB.H264-DEFLATE/the.expanse.s03e13.1080p.web.h264-deflate.r35"
+                },
+                {
+                    "number": 38,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E13.1080p.WEB.H264-DEFLATE/the.expanse.s03e13.1080p.web.h264-deflate.r36"
+                },
+                {
+                    "number": 39,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E13.1080p.WEB.H264-DEFLATE/the.expanse.s03e13.1080p.web.h264-deflate.r37"
+                },
+                {
+                    "number": 40,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E13.1080p.WEB.H264-DEFLATE/the.expanse.s03e13.1080p.web.h264-deflate.r38"
+                },
+                {
+                    "number": 41,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E13.1080p.WEB.H264-DEFLATE/the.expanse.s03e13.1080p.web.h264-deflate.r39"
+                },
+                {
+                    "number": 42,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E13.1080p.WEB.H264-DEFLATE/the.expanse.s03e13.1080p.web.h264-deflate.r40"
+                },
+                {
+                    "number": 43,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E13.1080p.WEB.H264-DEFLATE/the.expanse.s03e13.1080p.web.h264-deflate.r41"
+                },
+                {
+                    "number": 44,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E13.1080p.WEB.H264-DEFLATE/the.expanse.s03e13.1080p.web.h264-deflate.r42"
+                },
+                {
+                    "number": 45,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E13.1080p.WEB.H264-DEFLATE/the.expanse.s03e13.1080p.web.h264-deflate.r43"
+                },
+                {
+                    "number": 46,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E13.1080p.WEB.H264-DEFLATE/the.expanse.s03e13.1080p.web.h264-deflate.r44"
+                },
+                {
+                    "number": 47,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E13.1080p.WEB.H264-DEFLATE/the.expanse.s03e13.1080p.web.h264-deflate.r45"
+                },
+                {
+                    "number": 48,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E13.1080p.WEB.H264-DEFLATE/the.expanse.s03e13.1080p.web.h264-deflate.r46"
+                },
+                {
+                    "number": 49,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E13.1080p.WEB.H264-DEFLATE/the.expanse.s03e13.1080p.web.h264-deflate.r47"
+                },
+                {
+                    "number": 50,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E13.1080p.WEB.H264-DEFLATE/the.expanse.s03e13.1080p.web.h264-deflate.r48"
+                },
+                {
+                    "number": 51,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E13.1080p.WEB.H264-DEFLATE/the.expanse.s03e13.1080p.web.h264-deflate.r49"
+                },
+                {
+                    "number": 52,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E13.1080p.WEB.H264-DEFLATE/the.expanse.s03e13.1080p.web.h264-deflate.r50"
+                },
+                {
+                    "number": 53,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E13.1080p.WEB.H264-DEFLATE/the.expanse.s03e13.1080p.web.h264-deflate.r51"
+                },
+                {
+                    "number": 54,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E13.1080p.WEB.H264-DEFLATE/the.expanse.s03e13.1080p.web.h264-deflate.r52"
+                },
+                {
+                    "number": 55,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E13.1080p.WEB.H264-DEFLATE/the.expanse.s03e13.1080p.web.h264-deflate.r53"
+                },
+                {
+                    "number": 56,
+                    "size": 0.020731258,
+                    "path": "The.Expanse.S03E13.1080p.WEB.H264-DEFLATE/the.expanse.s03e13.1080p.web.h264-deflate.r54"
+                },
+                {
+                    "number": 57,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E13.1080p.WEB.H264-DEFLATE/the.expanse.s03e13.1080p.web.h264-deflate.rar"
+                },
+                {
+                    "number": 58,
+                    "size": 0.000003136,
+                    "path": "The.Expanse.S03E13.1080p.WEB.H264-DEFLATE/the.expanse.s03e13.1080p.web.h264-deflate.sfv"
+                }
+            ]
+        },
+        {
+            "id": 65,
+            "name": "The.Expanse.S03E13.1080p.WEB.H264-DEFLATE[rartv]-[rarbg.to]",
+            "size_total": 2.770724458,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Expanse.S03E13.1080p.WEB.H264-DEFLATE[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 2.770723978,
+                    "path": "The.Expanse.S03E13.1080p.WEB.H264-DEFLATE[rarbg]/The.Expanse.S03E13.1080p.WEB.H264-DEFLATE.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 4.5e-7,
+                    "path": "The.Expanse.S03E13.1080p.WEB.H264-DEFLATE[rarbg]/the.expanse.s03e13.1080p.web.h264-deflate.nfo"
+                }
+            ]
+        },
+        {
+            "id": 66,
+            "name": "The.Expanse.S03E13.Abaddons.Gate.1080p.AMZN.WEBRip.DDP5.1.x264-NTG[rartv]-[rarbg.to]",
+            "size_total": 2.770682455,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Expanse.S03E13.Abaddons.Gate.1080p.AMZN.WEBRip.DDP5.1.x264-NTG[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 2.770682425,
+                    "path": "The.Expanse.S03E13.Abaddons.Gate.1080p.AMZN.WEBRip.DDP5.1.x264-NTG[rarbg]/The.Expanse.S03E13.Abaddons.Gate.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                }
+            ]
+        },
+        {
+            "id": 67,
+            "name": "The.Expanse.S03E13.Abaddons.Gate.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG [IPT]",
+            "size_total": 1.144914622,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000883776,
+                    "path": "The.Expanse.S03E13.Abaddons.Gate.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000957137,
+                    "path": "The.Expanse.S03E13.Abaddons.Gate.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00123846,
+                    "path": "The.Expanse.S03E13.Abaddons.Gate.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001168824,
+                    "path": "The.Expanse.S03E13.Abaddons.Gate.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 1.140664836,
+                    "path": "The.Expanse.S03E13.Abaddons.Gate.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG/The.Expanse.S03E13.Abaddons.Gate.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001589,
+                    "path": "The.Expanse.S03E13.Abaddons.Gate.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG/The.Expanse.S03E13.Abaddons.Gate.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG.nfo"
+                }
+            ]
+        },
+        {
+            "id": 68,
+            "name": "The.Expanse.S03E13.Abaddons.Gate.720p.AMZN.WEBRip.DDP5.1.x264-NTG[rartv]-[rarbg.to]",
+            "size_total": 1.140664866,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Expanse.S03E13.Abaddons.Gate.720p.AMZN.WEBRip.DDP5.1.x264-NTG[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.140664836,
+                    "path": "The.Expanse.S03E13.Abaddons.Gate.720p.AMZN.WEBRip.DDP5.1.x264-NTG[rarbg]/The.Expanse.S03E13.Abaddons.Gate.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                }
+            ]
+        },
+        {
+            "id": 69,
+            "name": "The.Expanse.S03E13.iNTERNAL.480p.x264-mSD [IPT]",
+            "size_total": 0.184467684,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000210034,
+                    "path": "The.Expanse.S03E13.iNTERNAL.480p.x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000205375,
+                    "path": "The.Expanse.S03E13.iNTERNAL.480p.x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000190288,
+                    "path": "The.Expanse.S03E13.iNTERNAL.480p.x264-mSD/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.00023893,
+                    "path": "The.Expanse.S03E13.iNTERNAL.480p.x264-mSD/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.183621865,
+                    "path": "The.Expanse.S03E13.iNTERNAL.480p.x264-mSD/The.Expanse.S03E13.iNTERNAL.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001192,
+                    "path": "The.Expanse.S03E13.iNTERNAL.480p.x264-mSD/The.Expanse.S03E13.iNTERNAL.480p.x264-mSD.nfo"
+                }
+            ]
+        },
+        {
+            "id": 70,
+            "name": "The.Expanse.S03E13.iNTERNAL.720p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.326841664,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000720777,
+                    "path": "The.Expanse.S03E13.iNTERNAL.720p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.001185901,
+                    "path": "The.Expanse.S03E13.iNTERNAL.720p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001114598,
+                    "path": "The.Expanse.S03E13.iNTERNAL.720p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.00056073,
+                    "path": "The.Expanse.S03E13.iNTERNAL.720p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.323258457,
+                    "path": "The.Expanse.S03E13.iNTERNAL.720p.HEVC.x265-MeGusta/The.Expanse.S03E13.iNTERNAL.720p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001201,
+                    "path": "The.Expanse.S03E13.iNTERNAL.720p.HEVC.x265-MeGusta/The.Expanse.S03E13.iNTERNAL.720p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 71,
+            "name": "The.Expanse.S03E13.iNTERNAL.720p.WEB.x264-BAMBOOZLE [IPT]",
+            "size_total": 0.820851583,
+            "files_total": 19,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 6.3e-8,
+                    "path": "The.Expanse.S03E13.iNTERNAL.720p.WEB.x264-BAMBOOZLE/the.expanse.s03e13.internal.720p.web.x264-bamboozle.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E13.iNTERNAL.720p.WEB.x264-BAMBOOZLE/the.expanse.s03e13.internal.720p.web.x264-bamboozle.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E13.iNTERNAL.720p.WEB.x264-BAMBOOZLE/the.expanse.s03e13.internal.720p.web.x264-bamboozle.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E13.iNTERNAL.720p.WEB.x264-BAMBOOZLE/the.expanse.s03e13.internal.720p.web.x264-bamboozle.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E13.iNTERNAL.720p.WEB.x264-BAMBOOZLE/the.expanse.s03e13.internal.720p.web.x264-bamboozle.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E13.iNTERNAL.720p.WEB.x264-BAMBOOZLE/the.expanse.s03e13.internal.720p.web.x264-bamboozle.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E13.iNTERNAL.720p.WEB.x264-BAMBOOZLE/the.expanse.s03e13.internal.720p.web.x264-bamboozle.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E13.iNTERNAL.720p.WEB.x264-BAMBOOZLE/the.expanse.s03e13.internal.720p.web.x264-bamboozle.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E13.iNTERNAL.720p.WEB.x264-BAMBOOZLE/the.expanse.s03e13.internal.720p.web.x264-bamboozle.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E13.iNTERNAL.720p.WEB.x264-BAMBOOZLE/the.expanse.s03e13.internal.720p.web.x264-bamboozle.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E13.iNTERNAL.720p.WEB.x264-BAMBOOZLE/the.expanse.s03e13.internal.720p.web.x264-bamboozle.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E13.iNTERNAL.720p.WEB.x264-BAMBOOZLE/the.expanse.s03e13.internal.720p.web.x264-bamboozle.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E13.iNTERNAL.720p.WEB.x264-BAMBOOZLE/the.expanse.s03e13.internal.720p.web.x264-bamboozle.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E13.iNTERNAL.720p.WEB.x264-BAMBOOZLE/the.expanse.s03e13.internal.720p.web.x264-bamboozle.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E13.iNTERNAL.720p.WEB.x264-BAMBOOZLE/the.expanse.s03e13.internal.720p.web.x264-bamboozle.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E13.iNTERNAL.720p.WEB.x264-BAMBOOZLE/the.expanse.s03e13.internal.720p.web.x264-bamboozle.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.020850398,
+                    "path": "The.Expanse.S03E13.iNTERNAL.720p.WEB.x264-BAMBOOZLE/the.expanse.s03e13.internal.720p.web.x264-bamboozle.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.05,
+                    "path": "The.Expanse.S03E13.iNTERNAL.720p.WEB.x264-BAMBOOZLE/the.expanse.s03e13.internal.720p.web.x264-bamboozle.rar"
+                },
+                {
+                    "number": 19,
+                    "size": 0.000001122,
+                    "path": "The.Expanse.S03E13.iNTERNAL.720p.WEB.x264-BAMBOOZLE/the.expanse.s03e13.internal.720p.web.x264-bamboozle.sfv"
+                }
+            ]
+        },
+        {
+            "id": 72,
+            "name": "The.Expanse.S03E13.iNTERNAL.720p.WEB.x264-BAMBOOZLE[rartv]-[rarbg.to]",
+            "size_total": 0.820848332,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Expanse.S03E13.iNTERNAL.720p.WEB.x264-BAMBOOZLE[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.820848239,
+                    "path": "The.Expanse.S03E13.iNTERNAL.720p.WEB.x264-BAMBOOZLE[rarbg]/the.expanse.s03e13.internal.720p.web.x264-bamboozle.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 6.3e-8,
+                    "path": "The.Expanse.S03E13.iNTERNAL.720p.WEB.x264-BAMBOOZLE[rarbg]/the.expanse.s03e13.internal.720p.web.x264-bamboozle.nfo"
+                }
+            ]
+        },
+        {
+            "id": 73,
+            "name": "The.Expanse.S03E13.iNTERNAL.XviD-AFG [IPT]",
+            "size_total": 0.491597006,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000241647,
+                    "path": "The.Expanse.S03E13.iNTERNAL.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000228301,
+                    "path": "The.Expanse.S03E13.iNTERNAL.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000213908,
+                    "path": "The.Expanse.S03E13.iNTERNAL.XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000264981,
+                    "path": "The.Expanse.S03E13.iNTERNAL.XviD-AFG/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.490646994,
+                    "path": "The.Expanse.S03E13.iNTERNAL.XviD-AFG/The.Expanse.S03E13.iNTERNAL.XviD-AFG.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001175,
+                    "path": "The.Expanse.S03E13.iNTERNAL.XviD-AFG/The.Expanse.S03E13.iNTERNAL.XviD-AFG.nfo"
+                }
+            ]
+        },
+        {
+            "id": 74,
+            "name": "The.Expanse.S03E13.WEBRip.x264-ION10-[rarbg.to]",
+            "size_total": 0.415642705,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Expanse.S03E13.WEBRip.x264-ION10/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000040705,
+                    "path": "The.Expanse.S03E13.WEBRip.x264-ION10/Subs/2_Eng.srt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00004592,
+                    "path": "The.Expanse.S03E13.WEBRip.x264-ION10/Subs/3_Eng.srt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.41555605,
+                    "path": "The.Expanse.S03E13.WEBRip.x264-ION10/The.Expanse.S03E13.WEBRip.x264-ION10.mp4"
+                }
+            ]
+        }
+    ],
+    "collection_cumulative_by_btiha": [
+        {
+            "id": 13,
+            "name": "[limetorrents.cc]The.Expanse.S03E12-E13.PROPER.720p.HDTV.x264-KILLERS.EZTV",
+            "btih": "99381ccae35db9ed026755a586faa4df6c70c8d5",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.624328896,
+            "creation": "2018-06-28T06:30:36.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 26670,
+            "uuploaders": 5898
+        },
+        {
+            "id": 17,
+            "name": "[limetorrents.cc]The.Expanse.S03E12-E13.PROPER.HDTV.x264-KILLERS.EZTV",
+            "btih": "d6b4ef8f1ad2a07af095a1351f51415929ba5106",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.514839249,
+            "creation": "2018-06-28T06:30:35.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 19667,
+            "uuploaders": 3883
+        },
+        {
+            "id": 14,
+            "name": "[limetorrents.cc]The.Expanse.S03E12-E13.PROPER.720p.HDTV.x264-KILLERS",
+            "btih": "780258350b2c315d9f4b7839a81ec6f105945b9e",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.624340118,
+            "creation": "2018-06-28T06:35:03.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 14637,
+            "uuploaders": 2897
+        },
+        {
+            "id": 66,
+            "name": "The.Expanse.S03E13.Abaddons.Gate.1080p.AMZN.WEBRip.DDP5.1.x264-NTG[rartv]-[rarbg.to]",
+            "btih": "35879b192f09c4263776cecfad9629faddeec55c",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.770682455,
+            "creation": "2018-06-28T07:33:53.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 10793,
+            "uuploaders": 2410
+        },
+        {
+            "id": 55,
+            "name": "The.Expanse.S03E12.Congregation.1080p.AMZN.WEBRip.DDP5.1.x264-NTG[rartv]-[rarbg.to]",
+            "btih": "83c922bba26f49384ce4ddc121b5cc7fe9100ffb",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.346355293,
+            "creation": "2018-06-28T07:31:41.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 10330,
+            "uuploaders": 3219
+        },
+        {
+            "id": 76,
+            "name": "multi-btih-1-2-x-[limetorrents.cc]The.Expanse.S03E12-E13.PROPER.HDTV.x264-KILLERS",
+            "btih": "ad96db3744468176ed073d97b784854422667cde",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.514850462,
+            "creation": "2018-06-28T07:41:00.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 9275,
+            "uuploaders": 3848
+        },
+        {
+            "id": 77,
+            "name": "multi-btih-2-2-x-[limetorrents.cc]The.Expanse.S03E12-E13.PROPER.HDTV.x264-KILLERS[ettv]",
+            "btih": "ea0e7e410d702f21cffa2af3b1ff08595fc9921a",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.514839442,
+            "creation": "2018-06-28T06:30:00.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 9145,
+            "uuploaders": 3027
+        },
+        {
+            "id": 63,
+            "name": "The.Expanse.S03E12.WEBRip.x264-ION10-[rarbg.to]",
+            "btih": "6a84e657e004e91cfb6f8488a2f254e0d4aba62a",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.423210523,
+            "creation": "2018-06-28T07:29:43.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 8772,
+            "uuploaders": 2112
+        },
+        {
+            "id": 65,
+            "name": "The.Expanse.S03E13.1080p.WEB.H264-DEFLATE[rartv]-[rarbg.to]",
+            "btih": "c8d98a9069d06b4f718f6d1dccc95de8a55a6c15",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.770724458,
+            "creation": "2018-06-28T07:17:23.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 7751,
+            "uuploaders": 2575
+        },
+        {
+            "id": 11,
+            "name": "[limetorrents.cc]The.Expanse.S03E12-E13.HDTV.x264-LucidTV.EZTV",
+            "btih": "e0d94ffba6b4deaef4e200c435ef9a40592bc420",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.546695834,
+            "creation": "2018-06-28T06:31:27.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 7453,
+            "uuploaders": 2244
+        },
+        {
+            "id": 74,
+            "name": "The.Expanse.S03E13.WEBRip.x264-ION10-[rarbg.to]",
+            "btih": "153f897e70918a12cb2566d8349a2e5aaa5e9506",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.415642705,
+            "creation": "2018-06-28T07:33:08.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 7215,
+            "uuploaders": 2614
+        },
+        {
+            "id": 54,
+            "name": "The.Expanse.S03E12.1080p.WEB.H264-DEFLATE[rartv]-[rarbg.to]",
+            "btih": "5756398f678103c48265a5f029447793096b8474",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.34640417,
+            "creation": "2018-06-28T07:14:56.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 7039,
+            "uuploaders": 2125
+        },
+        {
+            "id": 44,
+            "name": "The.Expanse.S03E12-E13.720p.HDTV.x264-LucidTV[rartv]-[rarbg.to]",
+            "btih": "e781fc059ba48e40e64c8801d0551b6cb2f7edd1",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.788960988,
+            "creation": "2018-06-28T03:03:29.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 6568,
+            "uuploaders": 1568
+        },
+        {
+            "id": 68,
+            "name": "The.Expanse.S03E13.Abaddons.Gate.720p.AMZN.WEBRip.DDP5.1.x264-NTG[rartv]-[rarbg.to]",
+            "btih": "c61517cfe77d47157bc64523ee380c11d95467f8",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.140664866,
+            "creation": "2018-06-28T07:37:35.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 5903,
+            "uuploaders": 1822
+        },
+        {
+            "id": 57,
+            "name": "The.Expanse.S03E12.Congregation.720p.AMZN.WEBRip.DDP5.1.x264-NTG[rartv]-[rarbg.to]",
+            "btih": "cff3b0f3cda6931ae149b820c4d427ca35d23cec",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.951008534,
+            "creation": "2018-06-28T07:36:33.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4904,
+            "uuploaders": 1816
+        },
+        {
+            "id": 7,
+            "name": "[limetorrents.cc]The.Expanse.S03E12-E13.720p.HDTV.x264-LucidTV[eztv]",
+            "btih": "51aa0d5bd59fb9ff97111eac93cd7e18d047e270",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.788960713,
+            "creation": "2018-06-28T06:31:17.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4543,
+            "uuploaders": 2092
+        },
+        {
+            "id": 72,
+            "name": "The.Expanse.S03E13.iNTERNAL.720p.WEB.x264-BAMBOOZLE[rartv]-[rarbg.to]",
+            "btih": "f308f4c8ad4f271290cfa5e2b75918420ed5d413",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.820848332,
+            "creation": "2018-06-28T12:12:46.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4314,
+            "uuploaders": 1191
+        },
+        {
+            "id": 75,
+            "name": "multi-btih-0-2-x-[limetorrents.cc]The.Expanse.S03E12-E13.PROPER.720p.HDTV.x264-KILLERS[ettv]",
+            "btih": "d2f35ae899087d3ed2ae785b7bf842ea4c7929f1",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.624329075,
+            "creation": "2018-06-28T06:31:33.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 3606,
+            "uuploaders": 2111
+        },
+        {
+            "id": 61,
+            "name": "The.Expanse.S03E12.iNTERNAL.720p.WEB.x264-BAMBOOZLE[rartv]-[rarbg.to]",
+            "btih": "a8288ef6831685f2a2a140b1bf7e50f7e99a6309",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.817932909,
+            "creation": "2018-06-28T13:14:05.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 3260,
+            "uuploaders": 1257
+        },
+        {
+            "id": 40,
+            "name": "The.Expanse.S03.1080p.AMZN.WEBRip.DDP5.1.x264-NTG[rartv]-[rarbg.to]",
+            "btih": "c31478dbeb12710aa4c79e3373a11b896679a56e",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 29.423864889,
+            "creation": "2018-06-28T09:44:24.000000000Z,mktorrent 1.0,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 3188,
+            "uuploaders": 614
+        },
+        {
+            "id": 45,
+            "name": "The.Expanse.S03E12-E13.HDTV.x264-LucidTV[rartv]-[rarbg.to]",
+            "btih": "5865491abbbdb0896affac7339013c3f1803db30",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.546696104,
+            "creation": "2018-06-28T03:03:04.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2970,
+            "uuploaders": 1201
+        },
+        {
+            "id": 47,
+            "name": "The.Expanse.S03E12-E13.PROPER.720p.HDTV.x264-KILLERS [IPT]",
+            "btih": "e876e61715089616f97778d24ad61cc5c4dd708e",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.624346523,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 2694,
+            "uuploaders": 1715
+        },
+        {
+            "id": 25,
+            "name": "[limetorrents.cc]The.Expanse.S03E12.1080p.WEB.H264-DEFLATE[TGx]",
+            "btih": "502921968f386eff06c370b0eca16eaa7ffdfa1f",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.353719397,
+            "creation": "2018-06-28T07:43:24.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2549,
+            "uuploaders": 1077
+        },
+        {
+            "id": 32,
+            "name": "[limetorrents.cc]The.Expanse.S03E13.1080p.WEB.H264-DEFLATE[TGx]",
+            "btih": "76826f317b193250e266afc7e0c6464ea757299e",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.780538626,
+            "creation": "2018-06-28T07:41:25.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2425,
+            "uuploaders": 1144
+        },
+        {
+            "id": 31,
+            "name": "[limetorrents.cc]The.Expanse.S03E13.1080p.WEB.H264-DEFLATE",
+            "btih": "6e3a24de8af0a7efa32ad1f51b602fb30b359b94",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.780538205,
+            "creation": "2018-06-28T07:42:13.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2281,
+            "uuploaders": 953
+        },
+        {
+            "id": 24,
+            "name": "[limetorrents.cc]The.Expanse.S03E12.1080p.WEB.H264-DEFLATE",
+            "btih": "da13361a982e3a30efa3771f1596c336eb6a4b34",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.353718976,
+            "creation": "2018-06-28T07:30:22.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2084,
+            "uuploaders": 969
+        },
+        {
+            "id": 23,
+            "name": "[limetorrents.cc]The.Expanse.S03E12.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA",
+            "btih": "04fd01c277fc0b2dbc36e5ce573c17d5e2772f97",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.553905693,
+            "creation": "2018-06-28T13:00:05.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1944,
+            "uuploaders": 733
+        },
+        {
+            "id": 27,
+            "name": "[limetorrents.cc]The.Expanse.S03E12.720p.10bit.WEBRip.2CH.x265.HEVC-PSA",
+            "btih": "9e5f8fe55d61799dc0321044e5ecdf97cb8adddf",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.233538335,
+            "creation": "2018-06-28T13:00:04.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1443,
+            "uuploaders": 325
+        },
+        {
+            "id": 35,
+            "name": "[limetorrents.cc]The.Expanse.S03E13.iNTERNAL.720p.WEB.x264-BAMBOOZLE",
+            "btih": "9a4e0dfdaae97f6cb47471dd572929eaf79788e7",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.824625122,
+            "creation": "2018-06-28T12:45:16.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1390,
+            "uuploaders": 184
+        },
+        {
+            "id": 9,
+            "name": "[limetorrents.cc]The.Expanse.S03E12-E13.720p.HEVC.x265-MeGusta",
+            "btih": "3a5e7ee11c5fec87f94d0db5bd7bf10efc3714e5",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.555201045,
+            "creation": "2018-06-28T06:30:03.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1353,
+            "uuploaders": 221
+        },
+        {
+            "id": 4,
+            "name": "[limetorrents.cc]The.Expanse.S03.COMPLETE.WEBRip.x264-ION10[TGx]",
+            "btih": "df5bef742c6a608e3fed2aed887e3ac409dd38e3",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 5.6553492930000004,
+            "creation": "2018-06-28T11:38:39.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1343,
+            "uuploaders": 262
+        },
+        {
+            "id": 5,
+            "name": "[limetorrents.cc]The.Expanse.S03E12-E13.720p.HDTV.x264-LucidTV",
+            "btih": "c55a71df3b4374cd5fb6fd142f45f7fa719a80fd",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.791848526,
+            "creation": "2018-06-28T06:20:10.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1100,
+            "uuploaders": 54
+        },
+        {
+            "id": 42,
+            "name": "The.Expanse.S03.720p.AMZN.WEBRip.DDP5.1.x264-NTG[rartv]-[rarbg.to]",
+            "btih": "bed2f61b56fdc14e9ad6c124420594e0b329a064",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 12.519008337,
+            "creation": "2018-06-28T09:47:35.000000000Z,mktorrent 1.0,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1077,
+            "uuploaders": 309
+        },
+        {
+            "id": 30,
+            "name": "[limetorrents.cc]The.Expanse.S03E12.WEBRip.x264-ION10[TGx]",
+            "btih": "de534aa90108fd7a53cbe1da3bb709f2c1c15fa3",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.423211017,
+            "creation": "2018-06-28T11:42:54.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 980,
+            "uuploaders": 250
+        },
+        {
+            "id": 22,
+            "name": "[limetorrents.cc]The.Expanse.S03E12.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA-redux",
+            "btih": "5fb96115cb27603ce725c39b34ccc655f10193b6",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.553905695,
+            "creation": "2018-06-28T12:25:58.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 951,
+            "uuploaders": 222
+        },
+        {
+            "id": 53,
+            "name": "The.Expanse.S03E12.1080p.WEB.H264-DEFLATE [IPT]",
+            "btih": "31181a6d2e2bbdcefd1d0b71b7f7623a07d720e6",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.346412882,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 926,
+            "uuploaders": 562
+        },
+        {
+            "id": 6,
+            "name": "[limetorrents.cc]The.Expanse.S03E12-E13.720p.HDTV.x264-LucidTV[ettv]",
+            "btih": "c2842c993ed7561b3182d3ee464e82997c455319",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.788960892,
+            "creation": "2018-06-28T06:32:45.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 864,
+            "uuploaders": 243
+        },
+        {
+            "id": 64,
+            "name": "The.Expanse.S03E13.1080p.WEB.H264-DEFLATE [IPT]",
+            "btih": "9c88c7778c151908668594da71d26b35e2c96e8c",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.770734844,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 825,
+            "uuploaders": 494
+        },
+        {
+            "id": 36,
+            "name": "[limetorrents.cc]The.Expanse.Season.3..revittony",
+            "btih": "bd44fdc7c15574c064051e66618d3530f0a9b53e",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 3.335599756,
+            "creation": "2018-06-28T09:20:05.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 824,
+            "uuploaders": 253
+        },
+        {
+            "id": 21,
+            "name": "[limetorrents.cc]The.Expanse.S03E12-E13.XviD-AFG",
+            "btih": "f3c8d3ad519365744f4ccecd5044c42563b9c0a4",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.824913733,
+            "creation": "2018-06-28T12:50:05.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 819,
+            "uuploaders": 244
+        },
+        {
+            "id": 8,
+            "name": "[limetorrents.cc]The.Expanse.S03E12-E13.720p.HDTV.x264-LucidTV[TGx]",
+            "btih": "1232b51e7df3d40059d0c046bf3faecc95ef9294",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.788961237,
+            "creation": "2018-06-28T06:35:03.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 804,
+            "uuploaders": 115
+        },
+        {
+            "id": 33,
+            "name": "[limetorrents.cc]The.Expanse.S03E13.480p.193mb.HDwebrip.x264-][.Abaddon's.Ga.mp4",
+            "btih": "7a2e154f244b80ab8e68115f36b7ad85f4a8c5c4",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.202666557,
+            "creation": "2018-06-28T13:31:00.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 611,
+            "uuploaders": 146
+        },
+        {
+            "id": 2,
+            "name": "[limetorrents.cc]The.Expanse.3x12.13..PROPER-720p-HDTV-x264-KILLERS.[VTV]",
+            "btih": "ce58f5e407d9553de8359be25f95e06e4bd28c1b",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.624328896,
+            "creation": "2018-06-28T12:47:27.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 557,
+            "uuploaders": 215
+        },
+        {
+            "id": 28,
+            "name": "[limetorrents.cc]The.Expanse.S03E12.720p.WEB.x264-worldmkv",
+            "btih": "61c82609cb7c73c01a0e10402fb1e9f3f4af980c",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.323802182,
+            "creation": "2018-06-28T10:40:04.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 521,
+            "uuploaders": 181
+        },
+        {
+            "id": 29,
+            "name": "[limetorrents.cc]The.Expanse.S03E12.iNTERNAL.720p.WEB.x264-BAMBOOZLE",
+            "btih": "0c1ea58cb4dfac3042bfa303d2ffc9962d0aa171",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.82143,
+            "creation": "2018-06-28T13:30:04.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 508,
+            "uuploaders": 101
+        },
+        {
+            "id": 48,
+            "name": "The.Expanse.S03E12-E13.PROPER.720p.HEVC.x265-MeGusta [IPT]",
+            "btih": "33ce10164b6ae4046ff5f0f8f6b2bf8d654e242c",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.51484849,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 507,
+            "uuploaders": 93
+        },
+        {
+            "id": 34,
+            "name": "[limetorrents.cc]The.Expanse.S03E13.720p.WEB.x264-worldmkv",
+            "btih": "455741cf352b52caa8e9c0709a2d0daf0b24cc4e",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.319460169,
+            "creation": "2018-06-28T11:53:22.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 470,
+            "uuploaders": 163
+        },
+        {
+            "id": 3,
+            "name": "[limetorrents.cc]The.Expanse.S03.720p.AMZN.WEBRip.DDP5.1.x264-NTG[TGx]",
+            "btih": "12105d0fc080878dc8c110fd7e81feaddc9f64a4",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 12.51900883,
+            "creation": "2018-06-28T12:39:08.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 458,
+            "uuploaders": 152
+        },
+        {
+            "id": 20,
+            "name": "[limetorrents.cc]The.Expanse.S03E12-E13.PROPER.HDTV.x264-KILLERS[TGx]",
+            "btih": "27a9e1a35b600d667d23623037623723c1e6723c",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.514839773,
+            "creation": "2018-06-28T07:11:11.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 445,
+            "uuploaders": 102
+        },
+        {
+            "id": 16,
+            "name": "[limetorrents.cc]The.Expanse.S03E12-E13.PROPER.720p.HDTV.x264-KILLERS[TGx]",
+            "btih": "bbc42ad8e70babd6273e34bbbcd4d4bb548b9d04",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.62432942,
+            "creation": "2018-06-28T06:31:33.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 429,
+            "uuploaders": 119
+        },
+        {
+            "id": 12,
+            "name": "[limetorrents.cc]The.Expanse.S03E12-E13.HDTV.x264-LucidTV[TGx]",
+            "btih": "34f01c478b5e44f757c7727d9f6451aa205c4cac",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.546696358,
+            "creation": "2018-06-28T03:10:59.000000000Z,mktorrent 1.0,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 392,
+            "uuploaders": 134
+        },
+        {
+            "id": 49,
+            "name": "The.Expanse.S03E12-E13.PROPER.HDTV.x264-KILLERS [IPT]",
+            "btih": "e965433759740434810e186f9c3d6d2f2c193872",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.514856907,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 389,
+            "uuploaders": 111
+        },
+        {
+            "id": 10,
+            "name": "[limetorrents.cc]The.Expanse.S03E12-E13.Congregation-Abaddons.Gate.PROPER.HDTV.XviD-AVID[TGx]",
+            "btih": "9fbc9cb2ab668a879a6c4f4d9784f205aa0ffaec",
+            "resolution": "720",
+            "encoding": "xvid",
+            "gigabytes": 0.896307244,
+            "creation": "2018-06-28T06:51:10.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 357,
+            "uuploaders": 130
+        },
+        {
+            "id": 1,
+            "name": "[limetorrents.cc]The.Expanse.3x12.13..720p-HDTV-x264-LucidTV.[VTV]",
+            "btih": "8bf5eba49cb6848f37dc6cccea2a8083e56b8458",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.788960713,
+            "creation": "2018-06-28T06:34:47.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 343,
+            "uuploaders": 62
+        },
+        {
+            "id": 26,
+            "name": "[limetorrents.cc]The.Expanse.S03E12.480p.159mb.HDwebrip.x264-][.Congregation.]mp4",
+            "btih": "afdb0447ace7b25dc39cfbada451824d87aaec0b",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.167074509,
+            "creation": "2018-06-28T13:30:19.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 343,
+            "uuploaders": 101
+        },
+        {
+            "id": 39,
+            "name": "The.Expanse.S03.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG [IPT]",
+            "btih": "686cdd4111c39d27f99474d07e4fd90d0e727def",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 29.423864858,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 281,
+            "uuploaders": 173
+        },
+        {
+            "id": 52,
+            "name": "The.Expanse.S03E12-E13.XviD-AFG [IPT]",
+            "btih": "f9c12d360405aaac62a99005818f2c0ae241202d",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.824913649,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 269,
+            "uuploaders": 151
+        },
+        {
+            "id": 70,
+            "name": "The.Expanse.S03E13.iNTERNAL.720p.HEVC.x265-MeGusta [IPT]",
+            "btih": "0e54a6dbf60580b8539f5a2f3a3520bad57f7a32",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.326841664,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 209,
+            "uuploaders": 134
+        },
+        {
+            "id": 56,
+            "name": "The.Expanse.S03E12.Congregation.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG [IPT]",
+            "btih": "5d36eacaebaa1b5d8fa2df231bd079b350dd184d",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.954337853,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 204,
+            "uuploaders": 154
+        },
+        {
+            "id": 59,
+            "name": "The.Expanse.S03E12.iNTERNAL.720p.HEVC.x265-MeGusta [IPT]",
+            "btih": "9d7e6afb605b81536427f8b3cf2c0efdda63b55a",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.254546142,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 194,
+            "uuploaders": 134
+        },
+        {
+            "id": 41,
+            "name": "The.Expanse.S03.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG [IPT]",
+            "btih": "d69c00460f6fe8049da2adc5210cafde29df71d1",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 12.519008306,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 179,
+            "uuploaders": 137
+        },
+        {
+            "id": 67,
+            "name": "The.Expanse.S03E13.Abaddons.Gate.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG [IPT]",
+            "btih": "fe2488184386631034e5bff840b366138870858c",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.144914622,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 178,
+            "uuploaders": 142
+        },
+        {
+            "id": 62,
+            "name": "The.Expanse.S03E12.iNTERNAL.XviD-AFG [IPT]",
+            "btih": "309270c091f3c3f6fe273c89eafd2faa2dcf29c4",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.374058488,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 176,
+            "uuploaders": 111
+        },
+        {
+            "id": 73,
+            "name": "The.Expanse.S03E13.iNTERNAL.XviD-AFG [IPT]",
+            "btih": "ab6a50540a6b52259b89059ee567feff4d7c2cc9",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.491597006,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 157,
+            "uuploaders": 103
+        },
+        {
+            "id": 71,
+            "name": "The.Expanse.S03E13.iNTERNAL.720p.WEB.x264-BAMBOOZLE [IPT]",
+            "btih": "a9b642399984f5ff3250c6fc69b88e80e97601a4",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.820851583,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 147,
+            "uuploaders": 115
+        },
+        {
+            "id": 60,
+            "name": "The.Expanse.S03E12.iNTERNAL.720p.WEB.x264-BAMBOOZLE [IPT]",
+            "btih": "486b842525bde92855519ee6a530a21065d2023a",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.817936194,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 144,
+            "uuploaders": 120
+        },
+        {
+            "id": 51,
+            "name": "The.Expanse.S03E12-E13.PROPER.XviD-AFG [IPT]",
+            "btih": "8ffa1e6c69c20bca165fc94280d61289486017ef",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.809473084,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 131,
+            "uuploaders": 101
+        },
+        {
+            "id": 46,
+            "name": "The.Expanse.S03E12-E13.PROPER.480p.x264-mSD [IPT]",
+            "btih": "5889be608925900b0c0da6eb75ee7190fbb139ad",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.304573433,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 86,
+            "uuploaders": 60
+        },
+        {
+            "id": 58,
+            "name": "The.Expanse.S03E12.iNTERNAL.480p.x264-mSD [IPT]",
+            "btih": "7c4083fecc97f6d6c27f94894db08a12e9279943",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.146798819,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 79,
+            "uuploaders": 49
+        },
+        {
+            "id": 69,
+            "name": "The.Expanse.S03E13.iNTERNAL.480p.x264-mSD [IPT]",
+            "btih": "6e7619487284d80537e78a7948a13addfa81b36d",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.184467684,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 75,
+            "uuploaders": 49
+        },
+        {
+            "id": 43,
+            "name": "The.Expanse.S03E12-E13.480p.x264-mSD [IPT]",
+            "btih": "d2d92b714d248dab728cd2d59574f18fafb619ed",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.311182957,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 42,
+            "uuploaders": 29
+        }
+    ]
+}
