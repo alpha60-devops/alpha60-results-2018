@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt7569592",
+    "imdb_id": "tt7569592",
+    "revision": "5daa2bb0f58fe6b678ea0a572049b3311de52618",
+    "wikidata_id": "Q50809037",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chilling_Adventures_of_Sabrina_(TV_series)"
+  },
+  "coverage_sha256": "f098a01e8b2a0dd45d021718eac7bde4362ad2fc54ea136b2e2bfa8c22d2dd94",
+  "generated_at": "2026-09-06T19:56:30.368415+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2018-archives/chilling-adventures-of-sabrina-01.cache/cache.20181101.tar.xz",
+      "sha256": "4eb1519bf7b21fb8f50e0115a7e8e5eac7b4ae7c2341c546d92134286b2470c3",
+      "size": 55801648
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2018/data/txt/year-2018-coverage-evidence/chilling-adventures-of-sabrina-01.md",
+      "sha256": "8f6e112094ef3de89f4983972098b6e316f4cbf25288f1bb2fd22992b0608120",
+      "size": 609
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2018/data/txt/year-2018-day-cache-stream-receipts/chilling-adventures-of-sabrina-01.json",
+      "sha256": "1c87b34202da1664e47b1cf62886a17d7f3d193afead1993496d290ae34025a3",
+      "size": 2001
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2018/data/txt/year-2018-day-product-receipts/chilling-adventures-of-sabrina-01.json",
+      "sha256": "8f9d5b4182681efbe56a56d12973b8471e0d7776617b43c53b85c2cfef4c071c",
+      "size": 383
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2018-control/worker-map.json",
+      "sha256": "0f0151a9d86552ffa4d2bdec8cc0b2a7ce1ff4f549d25d26b400c16672f3f222",
+      "size": 55881
+    }
+  },
+  "media_object": "chilling-adventures-of-sabrina-01",
+  "published_files": {
+    "data/csv/bytes/chilling-adventures-of-sabrina-01-cumulative-detail.2018-btiha-itemized-by-bytes.csv": "cc158b0126fcde8cc3b80d69d0c3c4d4a73c68e3995525872f437a353081176d",
+    "docs/itemized/chilling-adventures-of-sabrina-01-sample-cache-audit.md": "acc3b2f77d2a473d3cab4deddbf5509513837a35cdae23042ae9ccb6bb6a57d6",
+    "docs/itemized/figures/chilling-adventures-of-sabrina-01-carto-4k.webp": "426dfde924789db69df015a7ed104b98a5b94acb42e3475cfcc577c1daf2fd5a",
+    "docs/itemized/figures/chilling-adventures-of-sabrina-01-carto.png": "c331d366eba85af881950051631d019fdac1b99585d69a64e12e6c5d4e1dee79",
+    "docs/itemized/figures/chilling-adventures-of-sabrina-01-cumulative-detail-btiha-itemized-by-bytes.svg": "2d3f91716d9733d570998144e786132937b956edb1ced04711985a10e944957a",
+    "docs/itemized/figures/chilling-adventures-of-sabrina-01-data-ge-1080p-4k.webp": "1ce7a6ea05abdde3c2a962a1685113af1784bea67ceeb57f256c0220a2c83249",
+    "docs/itemized/figures/chilling-adventures-of-sabrina-01-data-ge-1080p.webp": "2fb861ad7cde46697358b903a193fe04f175e81d9d4416e1e65646dcacb6c21d",
+    "docs/itemized/figures/chilling-adventures-of-sabrina-01-data-lt-1080p-4k.webp": "93534f22b6ad550d8acc8974172446f64ccda9cee3e090b47542eb02aaed22e2",
+    "docs/itemized/figures/chilling-adventures-of-sabrina-01-data-lt-1080p.webp": "46a1672953b8dcfa6def331770e37a88f70b3ed045ff79c149e5f50d0cee2043",
+    "docs/itemized/figures/chilling-adventures-of-sabrina-01-downloads-by-day-day.svg": "66cf8dd6eac525fa7fb3ad0422d6891983e52f6a605316527da5956a9bd0ce08",
+    "docs/itemized/figures/chilling-adventures-of-sabrina-01-downloads-by-week-chilling-adventures-of-sabrina-01-week.svg": "c6d047b89fe1d14f45525984a18fd39550a320a00a3235e0fecc630f0755d503",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "977ac71404a574bcfe8b0bbdf839c61c95ff0f68",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "e9557435d4436b955e35ce9d77d77bbef2c8da903222fb2c6f42877078ae0776",
+      "size": 37133552
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2018/chilling-adventures-of-sabrina-01/tmp/chilling-adventures-of-sabrina-01-cumulative-btiha.geojson",
+        "sha256": "199293b60325cffc5c2c27af9c7abe188f5a355c11f926cecaf42965bac2e737",
+        "size": 17024411
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2018/chilling-adventures-of-sabrina-01/tmp/chilling-adventures-of-sabrina-01-cumulative-btiha-media-objects.json",
+        "sha256": "baba5733833b66945597c6f5b5d9bef1db6f96b57ed6cc2c2b14f4e4d312f2af",
+        "size": 675753
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2018-toolchain/izzi",
+      "revision": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+      "untracked": false
+    },
+    "media_object": "chilling-adventures-of-sabrina-01",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "c8123c331bb382b004482f68c6d9d9a10011f7e2b0b16b642fbaad46bcf6c1ab",
+      "size": 8759488
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2018-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "ac0b8fe4ecd11aa639a37a9b3df83dba08cf103723eb6004aea76989f1a5b09e",
+      "size": 3694176
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          73.0,
+          61.0,
+          45.0,
+          45.0,
+          44.0,
+          43.0,
+          42.0,
+          36.0,
+          30.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "London",
+          "Lelystad",
+          "Breda",
+          "Mumbai",
+          "Amsterdam",
+          "Moscow",
+          "Rome",
+          "Quezon City",
+          "Milan",
+          "Sint Willebrord"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          75.0,
+          71.0,
+          37.0,
+          37.0,
+          35.0,
+          32.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "London",
+          "Mumbai",
+          "Quezon City",
+          "Cape Town",
+          "Shanghai",
+          "Sydney",
+          "Breda",
+          "Moscow",
+          "Johannesburg",
+          "Melbourne"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 7,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 34,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 1,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "977ac71404a574bcfe8b0bbdf839c61c95ff0f68",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "980e731bb2e99b13ecc9d15c75480125d514e26c",
+    "izzi": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+    "metadata": "5daa2bb0f58fe6b678ea0a572049b3311de52618"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2018"
+}
