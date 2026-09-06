@@ -1,0 +1,2752 @@
+{
+    "collection_name": "The Walking Dead",
+    "collection_id": "811",
+    "collection_key": "walking-dead-811",
+    "collection_notes": "",
+    "data_version": "2026-08-05",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "6:1777968300",
+    "collection_btiha_duplicates": [
+        {
+            "duplicate_id": 0,
+            "duplicate_btih": "bdb6fe60d5fa4a7a61da1cac03685dd6e3cbc3e0",
+            "duplicate_0_0": "[limetorrents.cc]The.Walking.Dead.S08E11.1080p.WEB.H264-DEFLATE",
+            "duplicate_0_1": "The.Walking.Dead.S08E11.1080p.WEB.H264-DEFLATE[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 1,
+            "duplicate_btih": "60e8e1db787abaf4ecd63099c2f2b0685aa1ea2b",
+            "duplicate_1_0": "[limetorrents.cc]The.Walking.Dead.S08E11.720p.HDTV.x264-AVS.EZTV",
+            "duplicate_1_1": "The.Walking.Dead.S08E11.720p.HDTV.x264-AVS[eztv].mkv"
+        },
+        {
+            "duplicate_id": 2,
+            "duplicate_btih": "dd3976ccaf1a65c7df53e7a213114629949830e4",
+            "duplicate_2_0": "[limetorrents.cc]The.Walking.Dead.S08E11.CONVERT.1080p.WEB.h264-TBS",
+            "duplicate_2_1": "The.Walking.Dead.S08E11.CONVERT.1080p.WEB.h264-TBS[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 3,
+            "duplicate_btih": "5ec51d9e9e5797e97d265d962600592248680c58",
+            "duplicate_3_0": "[limetorrents.cc]The.Walking.Dead.S08E11.HDTV.x264-SVA.EZTV",
+            "duplicate_3_1": "The.Walking.Dead.S08E11.HDTV.x264-SVA[eztv].mkv"
+        }
+    ],
+    "collection_btiha_metadata": [
+        {
+            "id": 1,
+            "name": "[limetorrents.cc]The.Walking.Dead.8x11..720p-HDTV-x264-AVS.[VTV]",
+            "size_total": 1.840239934,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.840239934,
+                    "path": "The.Walking.Dead.S08E11.720p.HDTV.x264-AVS.[VTV].mkv"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "[limetorrents.cc]The.Walking.Dead.S08E11.1080p.WEB.H264-DEFLATE",
+            "size_total": 5.187214385,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Walking.Dead.S08E11.1080p.WEB.H264-DEFLATE[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 5.187213897,
+                    "path": "The.Walking.Dead.S08E11.1080p.WEB.H264-DEFLATE[rarbg]/The.Walking.Dead.S08E11.1080p.WEB.H264-DEFLATE.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 4.58e-7,
+                    "path": "The.Walking.Dead.S08E11.1080p.WEB.H264-DEFLATE[rarbg]/the.walking.dead.s08e11.1080p.web.h264-deflate.nfo"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "[limetorrents.cc]The.Walking.Dead.S08E11.1080p.WEBRip.x264.ESubs",
+            "size_total": 1.336285112,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.9e-7,
+                    "path": "[TorrentCouch.com].The.Walking.Dead.S08E11.1080p.WEBRip.x264.ESubs/Download Daily Updated TV Shows for Free from TorrentCouch.com.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 2.01e-7,
+                    "path": "[TorrentCouch.com].The.Walking.Dead.S08E11.1080p.WEBRip.x264.ESubs/Download HD & BluRay Movies from TorrentCounter.to .txt"
+                },
+                {
+                    "number": 3,
+                    "size": 1.336284721,
+                    "path": "[TorrentCouch.com].The.Walking.Dead.S08E11.1080p.WEBRip.x264.ESubs/[TorrentCouch.com].The.Walking.Dead.S08E11.1080p.WEBRip.x264.ESubs.mkv"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "[limetorrents.cc]The.Walking.Dead.S08E11.480p.x264-mSD",
+            "size_total": 0.188855477,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000327117,
+                    "path": "www.Torrenting.com - The.Walking.Dead.S08E11.480p.x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000216997,
+                    "path": "www.Torrenting.com - The.Walking.Dead.S08E11.480p.x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000273605,
+                    "path": "www.Torrenting.com - The.Walking.Dead.S08E11.480p.x264-mSD/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000095568,
+                    "path": "www.Torrenting.com - The.Walking.Dead.S08E11.480p.x264-mSD/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.187940916,
+                    "path": "www.Torrenting.com - The.Walking.Dead.S08E11.480p.x264-mSD/The.Walking.Dead.S08E11.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.00000119,
+                    "path": "www.Torrenting.com - The.Walking.Dead.S08E11.480p.x264-mSD/The.Walking.Dead.S08E11.480p.x264-mSD.nfo"
+                },
+                {
+                    "number": 7,
+                    "size": 8.4e-8,
+                    "path": "www.Torrenting.com - The.Walking.Dead.S08E11.480p.x264-mSD/Torrent Downloaded From WWW.TORRENTING.COM.txt"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "[limetorrents.cc]The.Walking.Dead.S08E11.720p.HDTV",
+            "size_total": 0.368084761,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.368084761,
+                    "path": "The.Walking.Dead.S08E11.720p.HDTV.MkvCage.com.mkv"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "[limetorrents.cc]The.Walking.Dead.S08E11.720p.HDTV.x264-AVS.EZTV",
+            "size_total": 1.840239934,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.840239934,
+                    "path": "The.Walking.Dead.S08E11.720p.HDTV.x264-AVS[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "[limetorrents.cc]The.Walking.Dead.S08E11.720p.HDTV.x264-AVS",
+            "size_total": 1.846711663,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.001616164,
+                    "path": "www.SceneTime.com - The.Walking.Dead.S08E11.720p.HDTV.x264-AVS/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.001364773,
+                    "path": "www.SceneTime.com - The.Walking.Dead.S08E11.720p.HDTV.x264-AVS/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001590064,
+                    "path": "www.SceneTime.com - The.Walking.Dead.S08E11.720p.HDTV.x264-AVS/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001900551,
+                    "path": "www.SceneTime.com - The.Walking.Dead.S08E11.720p.HDTV.x264-AVS/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 1.840239934,
+                    "path": "www.SceneTime.com - The.Walking.Dead.S08E11.720p.HDTV.x264-AVS/The.Walking.Dead.S08E11.720p.HDTV.x264-AVS.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 6.4e-8,
+                    "path": "www.SceneTime.com - The.Walking.Dead.S08E11.720p.HDTV.x264-AVS/the.walking.dead.s08e11.720p.hdtv.x264-avs.nfo"
+                },
+                {
+                    "number": 7,
+                    "size": 1.13e-7,
+                    "path": "www.SceneTime.com - The.Walking.Dead.S08E11.720p.HDTV.x264-AVS/Torrent Downloaded From www.SceneTime.com.txt"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "[limetorrents.cc]The.Walking.Dead.S08E11.720p.HDTV.x264-AVS[ettv]",
+            "size_total": 1.840240113,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.79e-7,
+                    "path": "The.Walking.Dead.S08E11.720p.HDTV.x264-AVS[ettv]/Downloaded from www.ETTV.tv .txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.840239934,
+                    "path": "The.Walking.Dead.S08E11.720p.HDTV.x264-AVS[ettv]/The.Walking.Dead.S08E11.720p.HDTV.x264-AVS[ettv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "[limetorrents.cc]The.Walking.Dead.S08E11.720p.HDTV.x264-AVS[N1C]",
+            "size_total": 1.840239998,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.840239934,
+                    "path": "The.Walking.Dead.S08E11.720p.HDTV.x264-AVS[N1C]/The.Walking.Dead.S08E11.720p.HDTV.x264-AVS[N1C].mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 6.4e-8,
+                    "path": "The.Walking.Dead.S08E11.720p.HDTV.x264-AVS[N1C]/the.walking.dead.s08e11.720p.hdtv.x264-avs.nfo"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "[limetorrents.cc]The.Walking.Dead.S08E11.720p.HDTV.x264",
+            "size_total": 1.840240325,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.9e-7,
+                    "path": "[TorrentCouch.com].The.Walking.Dead.S08E11.720p.HDTV.x264/Download Daily Updated TV Shows for Free from TorrentCouch.com.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 2.01e-7,
+                    "path": "[TorrentCouch.com].The.Walking.Dead.S08E11.720p.HDTV.x264/Download HD & BluRay Movies from TorrentCounter.to .txt"
+                },
+                {
+                    "number": 3,
+                    "size": 1.840239934,
+                    "path": "[TorrentCouch.com].The.Walking.Dead.S08E11.720p.HDTV.x264/[TorrentCouch.com].The.Walking.Dead.S08E11.720p.HDTV.x264.mkv"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "[limetorrents.cc]The.Walking.Dead.S08E11.CONVERT.1080p.WEB.h264-TBS",
+            "size_total": 2.822842574,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Walking.Dead.S08E11.CONVERT.1080p.WEB.h264-TBS[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 2.82284206,
+                    "path": "The.Walking.Dead.S08E11.CONVERT.1080p.WEB.h264-TBS[rarbg]/the.walking.dead.s08e11.convert.1080p.web.h264-tbs.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 4.84e-7,
+                    "path": "The.Walking.Dead.S08E11.CONVERT.1080p.WEB.h264-TBS[rarbg]/the.walking.dead.s08e11.convert.1080p.web.x264-tbs.nfo"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "[limetorrents.cc]The.Walking.Dead.S08E11.Dead.or.Alive.Or.1080p.AMZN.WEBRip.x265.HEVC.6CH",
+            "size_total": 0.657258736,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 6.4e-8,
+                    "path": "The.Walking.Dead.S08E11.Dead.or.Alive.Or.1080p.AMZN.WEBRip.x265.HEVC.6CH-MRN/Readme.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.657258672,
+                    "path": "The.Walking.Dead.S08E11.Dead.or.Alive.Or.1080p.AMZN.WEBRip.x265.HEVC.6CH-MRN/The.Walking.Dead.S08E11.Dead.or.Alive.Or.1080p.AMZN.WEBRip.x265.HEVC.6CH-MRN.mkv"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "[limetorrents.cc]The.Walking.Dead.S08E11.Dead.or.Alive.Or.720p.AMZN.WEB-DL.MkvCage",
+            "size_total": 0.399944726,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.399944726,
+                    "path": "The.Walking.Dead.S08E11.Dead.or.Alive.Or.720p.AMZN.WEB-DL.MkvCage.mkv"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "[limetorrents.cc]The.Walking.Dead.S08E11.HDTV.x264-SVA.EZTV",
+            "size_total": 0.440461722,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.440461722,
+                    "path": "The.Walking.Dead.S08E11.HDTV.x264-SVA[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "[limetorrents.cc]The.Walking.Dead.S08E11.HDTV.x264-SVA",
+            "size_total": 0.442717214,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000560724,
+                    "path": "www.Torrenting.com - The.Walking.Dead.S08E11.HDTV.x264-SVA/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.00049941,
+                    "path": "www.Torrenting.com - The.Walking.Dead.S08E11.HDTV.x264-SVA/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000558735,
+                    "path": "www.Torrenting.com - The.Walking.Dead.S08E11.HDTV.x264-SVA/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000636479,
+                    "path": "www.Torrenting.com - The.Walking.Dead.S08E11.HDTV.x264-SVA/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.440461722,
+                    "path": "www.Torrenting.com - The.Walking.Dead.S08E11.HDTV.x264-SVA/The.Walking.Dead.S08E11.HDTV.x264-SVA.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 6e-8,
+                    "path": "www.Torrenting.com - The.Walking.Dead.S08E11.HDTV.x264-SVA/the.walking.dead.s08e11.hdtv.x264-sva.nfo"
+                },
+                {
+                    "number": 7,
+                    "size": 8.4e-8,
+                    "path": "www.Torrenting.com - The.Walking.Dead.S08E11.HDTV.x264-SVA/Torrent Downloaded From WWW.TORRENTING.COM.txt"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "[limetorrents.cc]The.Walking.Dead.S08E11.HDTV.x264-SVA[ettv]",
+            "size_total": 0.440461915,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.93e-7,
+                    "path": "The.Walking.Dead.S08E11.HDTV.x264-SVA[ettv]/Downloaded from www.ETTV.tv .txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.440461722,
+                    "path": "The.Walking.Dead.S08E11.HDTV.x264-SVA[ettv]/The.Walking.Dead.S08E11.HDTV.x264-SVA[ettv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "[limetorrents.cc]The.Walking.Dead.S08E11.HDTV.x264-SVA[N1C]",
+            "size_total": 0.440461782,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.440461722,
+                    "path": "The.Walking.Dead.S08E11.HDTV.x264-SVA[N1C]/The.Walking.Dead.S08E11.HDTV.x264-SVA[N1C].mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 6e-8,
+                    "path": "The.Walking.Dead.S08E11.HDTV.x264-SVA[N1C]/the.walking.dead.s08e11.hdtv.x264-sva.nfo"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": "[limetorrents.cc]The.Walking.Dead.S08E11.HDTV.x264",
+            "size_total": 0.440462113,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.9e-7,
+                    "path": "[TorrentCouch.com].The.Walking.Dead.S08E11.HDTV.x264/Download Daily Updated TV Shows for Free from TorrentCouch.com.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 2.01e-7,
+                    "path": "[TorrentCouch.com].The.Walking.Dead.S08E11.HDTV.x264/Download HD & BluRay Movies from TorrentCounter.to .txt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.440461722,
+                    "path": "[TorrentCouch.com].The.Walking.Dead.S08E11.HDTV.x264/[TorrentCouch.com].The.Walking.Dead.S08E11.HDTV.x264.mkv"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "name": "[limetorrents.cc]The.Walking.Dead.S08E11.SUBFRENCH.720p.HDTV.x264-SH0W",
+            "size_total": 1.890178961,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 4.97e-7,
+                    "path": "[ Torrent9.red ] The.Walking.Dead.S08E11.SUBFRENCH.720p.HDTV.x264-SH0W/Musique MP3.html"
+                },
+                {
+                    "number": 2,
+                    "size": 4.95e-7,
+                    "path": "[ Torrent9.red ] The.Walking.Dead.S08E11.SUBFRENCH.720p.HDTV.x264-SH0W/Series TV.html"
+                },
+                {
+                    "number": 3,
+                    "size": 4.81e-7,
+                    "path": "[ Torrent9.red ] The.Walking.Dead.S08E11.SUBFRENCH.720p.HDTV.x264-SH0W/Torrent9.html"
+                },
+                {
+                    "number": 4,
+                    "size": 1.890177488,
+                    "path": "[ Torrent9.red ] The.Walking.Dead.S08E11.SUBFRENCH.720p.HDTV.x264-SH0W/the.walking.dead.s08e11.subfrench.720p.hdtv.x264-sh0w.mkv"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "name": "[limetorrents.cc]The.Walking.Dead.S08E11.SUBFRENCH.HDTV.XviD-EXTREME",
+            "size_total": 0.400265959,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 4.89e-7,
+                    "path": "[ Torrent9.red ] The.Walking.Dead.S08E11.SUBFRENCH.HDTV.XviD-EXTREME/EXCLUS Torrent.html"
+                },
+                {
+                    "number": 2,
+                    "size": 4.93e-7,
+                    "path": "[ Torrent9.red ] The.Walking.Dead.S08E11.SUBFRENCH.HDTV.XviD-EXTREME/Films TORRENT.html"
+                },
+                {
+                    "number": 3,
+                    "size": 0.40026447,
+                    "path": "[ Torrent9.red ] The.Walking.Dead.S08E11.SUBFRENCH.HDTV.XviD-EXTREME/The.Walking.Dead.S08E11.SUBFRENCH.HDTV.XviD-EXTREME.avi"
+                },
+                {
+                    "number": 4,
+                    "size": 5.07e-7,
+                    "path": "[ Torrent9.red ] The.Walking.Dead.S08E11.SUBFRENCH.HDTV.XviD-EXTREME/Torrent9 - 2018.html"
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "name": "[limetorrents.cc]The.Walking.Dead.S08E11.VOSTFR.1080p.AMZN.WEB-DL.DDP5.1.H264-ARK01",
+            "size_total": 5.18719971,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 5.01e-7,
+                    "path": "[ Torrent9.red ] The.Walking.Dead.S08E11.VOSTFR.1080p.AMZN.WEB-DL.DDP5.1.H264-ARK01/Logiciels Torrent.html"
+                },
+                {
+                    "number": 2,
+                    "size": 4.97e-7,
+                    "path": "[ Torrent9.red ] The.Walking.Dead.S08E11.VOSTFR.1080p.AMZN.WEB-DL.DDP5.1.H264-ARK01/Musique MP3.html"
+                },
+                {
+                    "number": 3,
+                    "size": 5.187198205,
+                    "path": "[ Torrent9.red ] The.Walking.Dead.S08E11.VOSTFR.1080p.AMZN.WEB-DL.DDP5.1.H264-ARK01/The.Walking.Dead.S08E11.VOSTFR.1080p.AMZN.WEB-DL.DDP5.1.H264-ARK01.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 5.07e-7,
+                    "path": "[ Torrent9.red ] The.Walking.Dead.S08E11.VOSTFR.1080p.AMZN.WEB-DL.DDP5.1.H264-ARK01/Torrent9 - 2018.html"
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "name": "[limetorrents.cc]The.Walking.Dead.S08E11.XviD-AFG",
+            "size_total": 0.511021202,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000365612,
+                    "path": "www.Torrenting.com - The.Walking.Dead.S08E11.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000249336,
+                    "path": "www.Torrenting.com - The.Walking.Dead.S08E11.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000331498,
+                    "path": "www.Torrenting.com - The.Walking.Dead.S08E11.XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000077079,
+                    "path": "www.Torrenting.com - The.Walking.Dead.S08E11.XviD-AFG/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.509996426,
+                    "path": "www.Torrenting.com - The.Walking.Dead.S08E11.XviD-AFG/The.Walking.Dead.S08E11.XviD-AFG.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001167,
+                    "path": "www.Torrenting.com - The.Walking.Dead.S08E11.XviD-AFG/The.Walking.Dead.S08E11.XviD-AFG.nfo"
+                },
+                {
+                    "number": 7,
+                    "size": 8.4e-8,
+                    "path": "www.Torrenting.com - The.Walking.Dead.S08E11.XviD-AFG/Torrent Downloaded From WWW.TORRENTING.COM.txt"
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "name": "[limetorrents.cc]行尸走肉.第八季第11集.The.Walking.Dead.S08E11.HD-720p.X264.AAC-99Mp4",
+            "size_total": 0.562099889,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.562099889,
+                    "path": "行尸走肉.第八季第11集.The.Walking.Dead.S08E11.HD-720p.X264.AAC-99Mp4.mp4"
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "name": "[rutor.is]The.Walking.Dead.S08.400p",
+            "size_total": 5.901938688,
+            "files_total": 11,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.598587392,
+                    "path": "The.Walking.Dead.S08.400p/The.Walking.Dead.S08E01.400p.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.59746304,
+                    "path": "The.Walking.Dead.S08.400p/The.Walking.Dead.S08E11.400p.ColdFilm.avi"
+                },
+                {
+                    "number": 3,
+                    "size": 0.59211776,
+                    "path": "The.Walking.Dead.S08.400p/The.Walking.Dead.S08E10.400p.avi"
+                },
+                {
+                    "number": 4,
+                    "size": 0.551069696,
+                    "path": "The.Walking.Dead.S08.400p/The.Walking.Dead.S08E02.400p.avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.55073792,
+                    "path": "The.Walking.Dead.S08.400p/The.Walking.Dead.S08E07.400p.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.546066432,
+                    "path": "The.Walking.Dead.S08.400p/The.Walking.Dead.S08E03.400p.avi"
+                },
+                {
+                    "number": 7,
+                    "size": 0.536932352,
+                    "path": "The.Walking.Dead.S08.400p/The.Walking.Dead.S08E06.400p.avi"
+                },
+                {
+                    "number": 8,
+                    "size": 0.534642688,
+                    "path": "The.Walking.Dead.S08.400p/The.Walking.Dead.S08E04.400p.avi"
+                },
+                {
+                    "number": 9,
+                    "size": 0.524275712,
+                    "path": "The.Walking.Dead.S08.400p/The.Walking.Dead.S08E09.400p.avi"
+                },
+                {
+                    "number": 10,
+                    "size": 0.445063168,
+                    "path": "The.Walking.Dead.S08.400p/The.Walking.Dead.S08E05.400p.avi"
+                },
+                {
+                    "number": 11,
+                    "size": 0.424982528,
+                    "path": "The.Walking.Dead.S08.400p/The.Walking.Dead.S08E08.400p.avi"
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "name": "[rutor.is]The.Walking.Dead.S08.720p.SunshineStudio_1",
+            "size_total": 19.641423617,
+            "files_total": 12,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.163386902,
+                    "path": "The.Walking.Dead.S08.720p.SunshineStudio/The.Walking.Dead.S08E11.720p.SunshineStudio.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.894165949,
+                    "path": "The.Walking.Dead.S08.720p.SunshineStudio/The.Walking.Dead.S08E06.720p.SunshineStudio.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.86944183,
+                    "path": "The.Walking.Dead.S08.720p.SunshineStudio/The.Walking.Dead.S08E07.720p.SunshineStudio.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.81013895,
+                    "path": "The.Walking.Dead.S08.720p.SunshineStudio/The.Walking.Dead.S08E09.720p.SunshineStudio.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 1.80991287,
+                    "path": "The.Walking.Dead.S08.720p.SunshineStudio/The.Walking.Dead.S08E04.720p.SunshineStudio.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 1.699724813,
+                    "path": "The.Walking.Dead.S08.720p.SunshineStudio/The.Walking.Dead.S08E10.720p.SunshineStudio.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 1.649744789,
+                    "path": "The.Walking.Dead.S08.720p.SunshineStudio/The.Walking.Dead.S08E03.720p.SunshineStudio.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 1.621488121,
+                    "path": "The.Walking.Dead.S08.720p.SunshineStudio/The.Walking.Dead.S08E02.720p.SunshineStudio.mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 1.373407141,
+                    "path": "The.Walking.Dead.S08.720p.SunshineStudio/The.Walking.Dead.S08E01.720p.SunshineStudio.mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 1.366220981,
+                    "path": "The.Walking.Dead.S08.720p.SunshineStudio/The.Walking.Dead.S08E00.720p.SunshineStudio.mkv"
+                },
+                {
+                    "number": 11,
+                    "size": 1.218444545,
+                    "path": "The.Walking.Dead.S08.720p.SunshineStudio/The.Walking.Dead.S08E08.720p.SunshineStudio.mkv"
+                },
+                {
+                    "number": 12,
+                    "size": 1.165346726,
+                    "path": "The.Walking.Dead.S08.720p.SunshineStudio/The.Walking.Dead.S08E05.720p.SunshineStudio.mkv"
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "name": "[rutor.is]The.Walking.Dead.S08.720p",
+            "size_total": 16.798487525,
+            "files_total": 11,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.977794654,
+                    "path": "The.Walking.Dead.S08.720p/The.Walking.Dead.S08E08.720p.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.856907895,
+                    "path": "The.Walking.Dead.S08.720p/The.Walking.Dead.S08E09.720p.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.636390892,
+                    "path": "The.Walking.Dead.S08.720p/The.Walking.Dead.S08E05.720p.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.489277229,
+                    "path": "The.Walking.Dead.S08.720p/The.Walking.Dead.S08E11.720p.ColdFilm.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 1.478930464,
+                    "path": "The.Walking.Dead.S08.720p/The.Walking.Dead.S08E01.720p.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 1.460096293,
+                    "path": "The.Walking.Dead.S08.720p/The.Walking.Dead.S08E10.720p.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 1.443763917,
+                    "path": "The.Walking.Dead.S08.720p/The.Walking.Dead.S08E07.720p.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 1.427367112,
+                    "path": "The.Walking.Dead.S08.720p/The.Walking.Dead.S08E06.720p.mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 1.366556606,
+                    "path": "The.Walking.Dead.S08.720p/The.Walking.Dead.S08E02.720p.mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 1.346465834,
+                    "path": "The.Walking.Dead.S08.720p/The.Walking.Dead.S08E03.720p.mkv"
+                },
+                {
+                    "number": 11,
+                    "size": 1.314936629,
+                    "path": "The.Walking.Dead.S08.720p/The.Walking.Dead.S08E04.720p.mkv"
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "name": "[rutor.is]TWD_Season_08_FOX",
+            "size_total": 6.527444992,
+            "files_total": 11,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.58990592,
+                    "path": "TWD (Season 08) FOX/TWD.S08E01.XviD.FOX.(qqss44).avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.521398272,
+                    "path": "TWD (Season 08) FOX/TWD.S08E02.XviD.FOX.(qqss44).avi"
+                },
+                {
+                    "number": 3,
+                    "size": 0.512544768,
+                    "path": "TWD (Season 08) FOX/TWD.S08E03.XviD.FOX.(qqss44).avi"
+                },
+                {
+                    "number": 4,
+                    "size": 0.521353216,
+                    "path": "TWD (Season 08) FOX/TWD.S08E04.XviD.FOX.(qqss44).avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.648935424,
+                    "path": "TWD (Season 08) FOX/TWD.S08E05.XviD.FOX.(qqss44).avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.566577152,
+                    "path": "TWD (Season 08) FOX/TWD.S08E06.XviD.FOX.(qqss44).avi"
+                },
+                {
+                    "number": 7,
+                    "size": 0.550887424,
+                    "path": "TWD (Season 08) FOX/TWD.S08E07.XviD.FOX.(qqss44).avi"
+                },
+                {
+                    "number": 8,
+                    "size": 0.779843584,
+                    "path": "TWD (Season 08) FOX/TWD.S08E08.XviD.FOX.(qqss44).avi"
+                },
+                {
+                    "number": 9,
+                    "size": 0.707551232,
+                    "path": "TWD (Season 08) FOX/TWD.S08E09.XviD.FOX.(qqss44).avi"
+                },
+                {
+                    "number": 10,
+                    "size": 0.558311424,
+                    "path": "TWD (Season 08) FOX/TWD.S08E10.XviD.FOX.(qqss44).avi"
+                },
+                {
+                    "number": 11,
+                    "size": 0.570136576,
+                    "path": "TWD (Season 08) FOX/TWD.S08E11.XviD.FOX.(qqss44).avi"
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "name": "[rutor.is]TWD_Season_08_FOX_1080",
+            "size_total": 22.620313487,
+            "files_total": 11,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.064202709,
+                    "path": "TWD (Season 08) FOX 1080/TWD.S08E01.HD1080p.FOX.(qqss44).mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.827405497,
+                    "path": "TWD (Season 08) FOX 1080/TWD.S08E02.HD1080p.FOX.(qqss44).mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.790174147,
+                    "path": "TWD (Season 08) FOX 1080/TWD.S08E03.HD1080p.FOX.(qqss44).mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.819353787,
+                    "path": "TWD (Season 08) FOX 1080/TWD.S08E04.HD1080p.FOX.(qqss44).mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 2.249410078,
+                    "path": "TWD (Season 08) FOX 1080/TWD.S08E05.HD1080p.FOX.(qqss44).mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 1.972782895,
+                    "path": "TWD (Season 08) FOX 1080/TWD.S08E06.HD1080p.FOX.(qqss44).mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 1.927516342,
+                    "path": "TWD (Season 08) FOX 1080/TWD.S08E07.HD1080p.FOX.(qqss44).mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 2.631800498,
+                    "path": "TWD (Season 08) FOX 1080/TWD.S08E08.HD1080p.FOX.(qqss44).mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 2.404090399,
+                    "path": "TWD (Season 08) FOX 1080/TWD.S08E09.HD1080p.FOX.(qqss44).mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 1.945904071,
+                    "path": "TWD (Season 08) FOX 1080/TWD.S08E10.HD1080p.FOX.(qqss44).mkv"
+                },
+                {
+                    "number": 11,
+                    "size": 1.987673064,
+                    "path": "TWD (Season 08) FOX 1080/TWD.S08E11.HD1080p.FOX.(qqss44).mkv"
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "name": "The.Walking.Dead.S08E11.1080p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 1.719551679,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.003003537,
+                    "path": "The.Walking.Dead.S08E11.1080p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.001747658,
+                    "path": "The.Walking.Dead.S08E11.1080p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.003514145,
+                    "path": "The.Walking.Dead.S08E11.1080p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.00165833,
+                    "path": "The.Walking.Dead.S08E11.1080p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 1.709626786,
+                    "path": "The.Walking.Dead.S08E11.1080p.HEVC.x265-MeGusta/The.Walking.Dead.S08E11.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001223,
+                    "path": "The.Walking.Dead.S08E11.1080p.HEVC.x265-MeGusta/The.Walking.Dead.S08E11.1080p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "name": "The.Walking.Dead.S08E11.1080p.WEB-DL.DD5.1.H264-ION10-[rarbg.to]",
+            "size_total": 1.932060255,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.1e-8,
+                    "path": "The.Walking.Dead.S08E11.1080p.WEB-DL.DD5.1.H264-ION10/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000052842,
+                    "path": "The.Walking.Dead.S08E11.1080p.WEB-DL.DD5.1.H264-ION10/The.Walking.Dead.S08E11.1080p.WEB-DL.DD5.1.H264-ION10-SDH.srt"
+                },
+                {
+                    "number": 3,
+                    "size": 1.931968771,
+                    "path": "The.Walking.Dead.S08E11.1080p.WEB-DL.DD5.1.H264-ION10/The.Walking.Dead.S08E11.1080p.WEB-DL.DD5.1.H264-ION10.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000038611,
+                    "path": "The.Walking.Dead.S08E11.1080p.WEB-DL.DD5.1.H264-ION10/The.Walking.Dead.S08E11.1080p.WEB-DL.DD5.1.H264-ION10.srt"
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "name": "The.Walking.Dead.S08E11.1080p.WEB.H264-DEFLATE [IPT]",
+            "size_total": 5.187224547,
+            "files_total": 54,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 4.58e-7,
+                    "path": "The.Walking.Dead.S08E11.1080p.WEB.H264-DEFLATE/the.walking.dead.s08e11.1080p.web.h264-deflate.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S08E11.1080p.WEB.H264-DEFLATE/the.walking.dead.s08e11.1080p.web.h264-deflate.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S08E11.1080p.WEB.H264-DEFLATE/the.walking.dead.s08e11.1080p.web.h264-deflate.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S08E11.1080p.WEB.H264-DEFLATE/the.walking.dead.s08e11.1080p.web.h264-deflate.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S08E11.1080p.WEB.H264-DEFLATE/the.walking.dead.s08e11.1080p.web.h264-deflate.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S08E11.1080p.WEB.H264-DEFLATE/the.walking.dead.s08e11.1080p.web.h264-deflate.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S08E11.1080p.WEB.H264-DEFLATE/the.walking.dead.s08e11.1080p.web.h264-deflate.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S08E11.1080p.WEB.H264-DEFLATE/the.walking.dead.s08e11.1080p.web.h264-deflate.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S08E11.1080p.WEB.H264-DEFLATE/the.walking.dead.s08e11.1080p.web.h264-deflate.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S08E11.1080p.WEB.H264-DEFLATE/the.walking.dead.s08e11.1080p.web.h264-deflate.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S08E11.1080p.WEB.H264-DEFLATE/the.walking.dead.s08e11.1080p.web.h264-deflate.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S08E11.1080p.WEB.H264-DEFLATE/the.walking.dead.s08e11.1080p.web.h264-deflate.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S08E11.1080p.WEB.H264-DEFLATE/the.walking.dead.s08e11.1080p.web.h264-deflate.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S08E11.1080p.WEB.H264-DEFLATE/the.walking.dead.s08e11.1080p.web.h264-deflate.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S08E11.1080p.WEB.H264-DEFLATE/the.walking.dead.s08e11.1080p.web.h264-deflate.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S08E11.1080p.WEB.H264-DEFLATE/the.walking.dead.s08e11.1080p.web.h264-deflate.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S08E11.1080p.WEB.H264-DEFLATE/the.walking.dead.s08e11.1080p.web.h264-deflate.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S08E11.1080p.WEB.H264-DEFLATE/the.walking.dead.s08e11.1080p.web.h264-deflate.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S08E11.1080p.WEB.H264-DEFLATE/the.walking.dead.s08e11.1080p.web.h264-deflate.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S08E11.1080p.WEB.H264-DEFLATE/the.walking.dead.s08e11.1080p.web.h264-deflate.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S08E11.1080p.WEB.H264-DEFLATE/the.walking.dead.s08e11.1080p.web.h264-deflate.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S08E11.1080p.WEB.H264-DEFLATE/the.walking.dead.s08e11.1080p.web.h264-deflate.r20"
+                },
+                {
+                    "number": 23,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S08E11.1080p.WEB.H264-DEFLATE/the.walking.dead.s08e11.1080p.web.h264-deflate.r21"
+                },
+                {
+                    "number": 24,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S08E11.1080p.WEB.H264-DEFLATE/the.walking.dead.s08e11.1080p.web.h264-deflate.r22"
+                },
+                {
+                    "number": 25,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S08E11.1080p.WEB.H264-DEFLATE/the.walking.dead.s08e11.1080p.web.h264-deflate.r23"
+                },
+                {
+                    "number": 26,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S08E11.1080p.WEB.H264-DEFLATE/the.walking.dead.s08e11.1080p.web.h264-deflate.r24"
+                },
+                {
+                    "number": 27,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S08E11.1080p.WEB.H264-DEFLATE/the.walking.dead.s08e11.1080p.web.h264-deflate.r25"
+                },
+                {
+                    "number": 28,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S08E11.1080p.WEB.H264-DEFLATE/the.walking.dead.s08e11.1080p.web.h264-deflate.r26"
+                },
+                {
+                    "number": 29,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S08E11.1080p.WEB.H264-DEFLATE/the.walking.dead.s08e11.1080p.web.h264-deflate.r27"
+                },
+                {
+                    "number": 30,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S08E11.1080p.WEB.H264-DEFLATE/the.walking.dead.s08e11.1080p.web.h264-deflate.r28"
+                },
+                {
+                    "number": 31,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S08E11.1080p.WEB.H264-DEFLATE/the.walking.dead.s08e11.1080p.web.h264-deflate.r29"
+                },
+                {
+                    "number": 32,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S08E11.1080p.WEB.H264-DEFLATE/the.walking.dead.s08e11.1080p.web.h264-deflate.r30"
+                },
+                {
+                    "number": 33,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S08E11.1080p.WEB.H264-DEFLATE/the.walking.dead.s08e11.1080p.web.h264-deflate.r31"
+                },
+                {
+                    "number": 34,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S08E11.1080p.WEB.H264-DEFLATE/the.walking.dead.s08e11.1080p.web.h264-deflate.r32"
+                },
+                {
+                    "number": 35,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S08E11.1080p.WEB.H264-DEFLATE/the.walking.dead.s08e11.1080p.web.h264-deflate.r33"
+                },
+                {
+                    "number": 36,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S08E11.1080p.WEB.H264-DEFLATE/the.walking.dead.s08e11.1080p.web.h264-deflate.r34"
+                },
+                {
+                    "number": 37,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S08E11.1080p.WEB.H264-DEFLATE/the.walking.dead.s08e11.1080p.web.h264-deflate.r35"
+                },
+                {
+                    "number": 38,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S08E11.1080p.WEB.H264-DEFLATE/the.walking.dead.s08e11.1080p.web.h264-deflate.r36"
+                },
+                {
+                    "number": 39,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S08E11.1080p.WEB.H264-DEFLATE/the.walking.dead.s08e11.1080p.web.h264-deflate.r37"
+                },
+                {
+                    "number": 40,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S08E11.1080p.WEB.H264-DEFLATE/the.walking.dead.s08e11.1080p.web.h264-deflate.r38"
+                },
+                {
+                    "number": 41,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S08E11.1080p.WEB.H264-DEFLATE/the.walking.dead.s08e11.1080p.web.h264-deflate.r39"
+                },
+                {
+                    "number": 42,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S08E11.1080p.WEB.H264-DEFLATE/the.walking.dead.s08e11.1080p.web.h264-deflate.r40"
+                },
+                {
+                    "number": 43,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S08E11.1080p.WEB.H264-DEFLATE/the.walking.dead.s08e11.1080p.web.h264-deflate.r41"
+                },
+                {
+                    "number": 44,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S08E11.1080p.WEB.H264-DEFLATE/the.walking.dead.s08e11.1080p.web.h264-deflate.r42"
+                },
+                {
+                    "number": 45,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S08E11.1080p.WEB.H264-DEFLATE/the.walking.dead.s08e11.1080p.web.h264-deflate.r43"
+                },
+                {
+                    "number": 46,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S08E11.1080p.WEB.H264-DEFLATE/the.walking.dead.s08e11.1080p.web.h264-deflate.r44"
+                },
+                {
+                    "number": 47,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S08E11.1080p.WEB.H264-DEFLATE/the.walking.dead.s08e11.1080p.web.h264-deflate.r45"
+                },
+                {
+                    "number": 48,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S08E11.1080p.WEB.H264-DEFLATE/the.walking.dead.s08e11.1080p.web.h264-deflate.r46"
+                },
+                {
+                    "number": 49,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S08E11.1080p.WEB.H264-DEFLATE/the.walking.dead.s08e11.1080p.web.h264-deflate.r47"
+                },
+                {
+                    "number": 50,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S08E11.1080p.WEB.H264-DEFLATE/the.walking.dead.s08e11.1080p.web.h264-deflate.r48"
+                },
+                {
+                    "number": 51,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S08E11.1080p.WEB.H264-DEFLATE/the.walking.dead.s08e11.1080p.web.h264-deflate.r49"
+                },
+                {
+                    "number": 52,
+                    "size": 0.087220917,
+                    "path": "The.Walking.Dead.S08E11.1080p.WEB.H264-DEFLATE/the.walking.dead.s08e11.1080p.web.h264-deflate.r50"
+                },
+                {
+                    "number": 53,
+                    "size": 0.1,
+                    "path": "The.Walking.Dead.S08E11.1080p.WEB.H264-DEFLATE/the.walking.dead.s08e11.1080p.web.h264-deflate.rar"
+                },
+                {
+                    "number": 54,
+                    "size": 0.000003172,
+                    "path": "The.Walking.Dead.S08E11.1080p.WEB.H264-DEFLATE/the.walking.dead.s08e11.1080p.web.h264-deflate.sfv"
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "name": "The.Walking.Dead.S08E11.1080p.WEB.H264-DEFLATE[rartv]-[rarbg.to]",
+            "size_total": 5.187214385,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Walking.Dead.S08E11.1080p.WEB.H264-DEFLATE[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 5.187213897,
+                    "path": "The.Walking.Dead.S08E11.1080p.WEB.H264-DEFLATE[rarbg]/The.Walking.Dead.S08E11.1080p.WEB.H264-DEFLATE.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 4.58e-7,
+                    "path": "The.Walking.Dead.S08E11.1080p.WEB.H264-DEFLATE[rarbg]/the.walking.dead.s08e11.1080p.web.h264-deflate.nfo"
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "name": "The.Walking.Dead.S08E11.480p.x264-mSD [IPT]",
+            "size_total": 0.188855393,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000327117,
+                    "path": "The.Walking.Dead.S08E11.480p.x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000216997,
+                    "path": "The.Walking.Dead.S08E11.480p.x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000273605,
+                    "path": "The.Walking.Dead.S08E11.480p.x264-mSD/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000095568,
+                    "path": "The.Walking.Dead.S08E11.480p.x264-mSD/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.187940916,
+                    "path": "The.Walking.Dead.S08E11.480p.x264-mSD/The.Walking.Dead.S08E11.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.00000119,
+                    "path": "The.Walking.Dead.S08E11.480p.x264-mSD/The.Walking.Dead.S08E11.480p.x264-mSD.nfo"
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "name": "The.Walking.Dead.S08E11.720p.HDTV.x264-AVS [IPT]",
+            "size_total": 1.840245733,
+            "files_total": 39,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 6.4e-8,
+                    "path": "The.Walking.Dead.S08E11.720p.HDTV.x264-AVS/the.walking.dead.s08e11.720p.hdtv.x264-avs.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S08E11.720p.HDTV.x264-AVS/the.walking.dead.s08e11.720p.hdtv.x264-avs.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S08E11.720p.HDTV.x264-AVS/the.walking.dead.s08e11.720p.hdtv.x264-avs.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S08E11.720p.HDTV.x264-AVS/the.walking.dead.s08e11.720p.hdtv.x264-avs.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S08E11.720p.HDTV.x264-AVS/the.walking.dead.s08e11.720p.hdtv.x264-avs.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S08E11.720p.HDTV.x264-AVS/the.walking.dead.s08e11.720p.hdtv.x264-avs.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S08E11.720p.HDTV.x264-AVS/the.walking.dead.s08e11.720p.hdtv.x264-avs.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S08E11.720p.HDTV.x264-AVS/the.walking.dead.s08e11.720p.hdtv.x264-avs.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S08E11.720p.HDTV.x264-AVS/the.walking.dead.s08e11.720p.hdtv.x264-avs.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S08E11.720p.HDTV.x264-AVS/the.walking.dead.s08e11.720p.hdtv.x264-avs.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S08E11.720p.HDTV.x264-AVS/the.walking.dead.s08e11.720p.hdtv.x264-avs.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S08E11.720p.HDTV.x264-AVS/the.walking.dead.s08e11.720p.hdtv.x264-avs.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S08E11.720p.HDTV.x264-AVS/the.walking.dead.s08e11.720p.hdtv.x264-avs.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S08E11.720p.HDTV.x264-AVS/the.walking.dead.s08e11.720p.hdtv.x264-avs.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S08E11.720p.HDTV.x264-AVS/the.walking.dead.s08e11.720p.hdtv.x264-avs.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S08E11.720p.HDTV.x264-AVS/the.walking.dead.s08e11.720p.hdtv.x264-avs.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S08E11.720p.HDTV.x264-AVS/the.walking.dead.s08e11.720p.hdtv.x264-avs.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S08E11.720p.HDTV.x264-AVS/the.walking.dead.s08e11.720p.hdtv.x264-avs.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S08E11.720p.HDTV.x264-AVS/the.walking.dead.s08e11.720p.hdtv.x264-avs.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S08E11.720p.HDTV.x264-AVS/the.walking.dead.s08e11.720p.hdtv.x264-avs.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S08E11.720p.HDTV.x264-AVS/the.walking.dead.s08e11.720p.hdtv.x264-avs.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S08E11.720p.HDTV.x264-AVS/the.walking.dead.s08e11.720p.hdtv.x264-avs.r20"
+                },
+                {
+                    "number": 23,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S08E11.720p.HDTV.x264-AVS/the.walking.dead.s08e11.720p.hdtv.x264-avs.r21"
+                },
+                {
+                    "number": 24,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S08E11.720p.HDTV.x264-AVS/the.walking.dead.s08e11.720p.hdtv.x264-avs.r22"
+                },
+                {
+                    "number": 25,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S08E11.720p.HDTV.x264-AVS/the.walking.dead.s08e11.720p.hdtv.x264-avs.r23"
+                },
+                {
+                    "number": 26,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S08E11.720p.HDTV.x264-AVS/the.walking.dead.s08e11.720p.hdtv.x264-avs.r24"
+                },
+                {
+                    "number": 27,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S08E11.720p.HDTV.x264-AVS/the.walking.dead.s08e11.720p.hdtv.x264-avs.r25"
+                },
+                {
+                    "number": 28,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S08E11.720p.HDTV.x264-AVS/the.walking.dead.s08e11.720p.hdtv.x264-avs.r26"
+                },
+                {
+                    "number": 29,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S08E11.720p.HDTV.x264-AVS/the.walking.dead.s08e11.720p.hdtv.x264-avs.r27"
+                },
+                {
+                    "number": 30,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S08E11.720p.HDTV.x264-AVS/the.walking.dead.s08e11.720p.hdtv.x264-avs.r28"
+                },
+                {
+                    "number": 31,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S08E11.720p.HDTV.x264-AVS/the.walking.dead.s08e11.720p.hdtv.x264-avs.r29"
+                },
+                {
+                    "number": 32,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S08E11.720p.HDTV.x264-AVS/the.walking.dead.s08e11.720p.hdtv.x264-avs.r30"
+                },
+                {
+                    "number": 33,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S08E11.720p.HDTV.x264-AVS/the.walking.dead.s08e11.720p.hdtv.x264-avs.r31"
+                },
+                {
+                    "number": 34,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S08E11.720p.HDTV.x264-AVS/the.walking.dead.s08e11.720p.hdtv.x264-avs.r32"
+                },
+                {
+                    "number": 35,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S08E11.720p.HDTV.x264-AVS/the.walking.dead.s08e11.720p.hdtv.x264-avs.r33"
+                },
+                {
+                    "number": 36,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S08E11.720p.HDTV.x264-AVS/the.walking.dead.s08e11.720p.hdtv.x264-avs.r34"
+                },
+                {
+                    "number": 37,
+                    "size": 0.04024356,
+                    "path": "The.Walking.Dead.S08E11.720p.HDTV.x264-AVS/the.walking.dead.s08e11.720p.hdtv.x264-avs.r35"
+                },
+                {
+                    "number": 38,
+                    "size": 0.05,
+                    "path": "The.Walking.Dead.S08E11.720p.HDTV.x264-AVS/the.walking.dead.s08e11.720p.hdtv.x264-avs.rar"
+                },
+                {
+                    "number": 39,
+                    "size": 0.000002109,
+                    "path": "The.Walking.Dead.S08E11.720p.HDTV.x264-AVS/the.walking.dead.s08e11.720p.hdtv.x264-avs.sfv"
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "name": "The.Walking.Dead.S08E11.720p.HDTV.x264-AVS[eztv].mkv",
+            "size_total": 1.840239934,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.840239934,
+                    "path": "The.Walking.Dead.S08E11.720p.HDTV.x264-AVS[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "name": "The.Walking.Dead.S08E11.720p.HDTV.x264-AVS[rartv]-[rarbg.to]",
+            "size_total": 1.840240028,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Walking.Dead.S08E11.720p.HDTV.x264-AVS[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.840239934,
+                    "path": "The.Walking.Dead.S08E11.720p.HDTV.x264-AVS[rarbg]/The.Walking.Dead.S08E11.720p.HDTV.x264-AVS.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 6.4e-8,
+                    "path": "The.Walking.Dead.S08E11.720p.HDTV.x264-AVS[rarbg]/the.walking.dead.s08e11.720p.hdtv.x264-avs.nfo"
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "name": "The.Walking.Dead.S08E11.720p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.405741491,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.001657893,
+                    "path": "The.Walking.Dead.S08E11.720p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.001344393,
+                    "path": "The.Walking.Dead.S08E11.720p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001598195,
+                    "path": "The.Walking.Dead.S08E11.720p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001830758,
+                    "path": "The.Walking.Dead.S08E11.720p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.399309059,
+                    "path": "The.Walking.Dead.S08E11.720p.HEVC.x265-MeGusta/The.Walking.Dead.S08E11.720p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001193,
+                    "path": "The.Walking.Dead.S08E11.720p.HEVC.x265-MeGusta/The.Walking.Dead.S08E11.720p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "name": "The.Walking.Dead.S08E11.720p.WEB-DL.DD5.1.H264-ION10-[rarbg.to]",
+            "size_total": 1.537827851,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.1e-8,
+                    "path": "The.Walking.Dead.S08E11.720p.WEB-DL.DD5.1.H264-ION10/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000052842,
+                    "path": "The.Walking.Dead.S08E11.720p.WEB-DL.DD5.1.H264-ION10/The.Walking.Dead.S08E11.720p.WEB-DL.DD5.1.H264-ION10-SDH.srt"
+                },
+                {
+                    "number": 3,
+                    "size": 1.537736367,
+                    "path": "The.Walking.Dead.S08E11.720p.WEB-DL.DD5.1.H264-ION10/The.Walking.Dead.S08E11.720p.WEB-DL.DD5.1.H264-ION10.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000038611,
+                    "path": "The.Walking.Dead.S08E11.720p.WEB-DL.DD5.1.H264-ION10/The.Walking.Dead.S08E11.720p.WEB-DL.DD5.1.H264-ION10.srt"
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "name": "The.Walking.Dead.S08E11.AAC.MP4-Mobile [IPT]",
+            "size_total": 0.214723538,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000378564,
+                    "path": "The.Walking.Dead.S08E11.AAC.MP4-Mobile/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000252557,
+                    "path": "The.Walking.Dead.S08E11.AAC.MP4-Mobile/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000315086,
+                    "path": "The.Walking.Dead.S08E11.AAC.MP4-Mobile/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000118068,
+                    "path": "The.Walking.Dead.S08E11.AAC.MP4-Mobile/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.213657975,
+                    "path": "The.Walking.Dead.S08E11.AAC.MP4-Mobile/The.Walking.Dead.S08E11.AAC.MP4-Mobile.mp4"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001288,
+                    "path": "The.Walking.Dead.S08E11.AAC.MP4-Mobile/The.Walking.Dead.S08E11.AAC.MP4-Mobile.nfo"
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "name": "The.Walking.Dead.S08E11.CONVERT.1080p.WEB.h264-TBS[rartv]-[rarbg.to]",
+            "size_total": 2.822842574,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Walking.Dead.S08E11.CONVERT.1080p.WEB.h264-TBS[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 2.82284206,
+                    "path": "The.Walking.Dead.S08E11.CONVERT.1080p.WEB.h264-TBS[rarbg]/the.walking.dead.s08e11.convert.1080p.web.h264-tbs.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 4.84e-7,
+                    "path": "The.Walking.Dead.S08E11.CONVERT.1080p.WEB.h264-TBS[rarbg]/the.walking.dead.s08e11.convert.1080p.web.x264-tbs.nfo"
+                }
+            ]
+        },
+        {
+            "id": 41,
+            "name": "The.Walking.Dead.S08E11.Dead.or.Alive.Or.1080p.AMZN.WEBRip.DDP5.1.x264 [IPT]",
+            "size_total": 5.187168294,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 5.187168294,
+                    "path": "The.Walking.Dead.S08E11.Dead.or.Alive.Or.1080p.AMZN.WEBRip.DDP5.1.x264/The.Walking.Dead.S08E11.Dead.or.Alive.Or.1080p.AMZN.WEB-DL.DD+5.1.H.264.mkv"
+                }
+            ]
+        },
+        {
+            "id": 42,
+            "name": "The.Walking.Dead.S08E11.Dead.or.Alive.Or.1080p.AMZN.WEBRip.DDP5.1.x264-CasStudio[rartv]-[rarbg.to]",
+            "size_total": 5.187168324,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Walking.Dead.S08E11.Dead.or.Alive.Or.1080p.AMZN.WEBRip.DDP5.1.x264-CasStudio[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 5.187168294,
+                    "path": "The.Walking.Dead.S08E11.Dead.or.Alive.Or.1080p.AMZN.WEBRip.DDP5.1.x264-CasStudio[rarbg]/The.Walking.Dead.S08E11.Dead.or.Alive.Or.1080p.AMZN.WEB-DL.DD+5.1.H.264-CasStudio.mkv"
+                }
+            ]
+        },
+        {
+            "id": 43,
+            "name": "The.Walking.Dead.S08E11.Dead.or.Alive.Or.720p.AMZN.WEB-DL.DD+5.1.H.264 [IPT]",
+            "size_total": 1.72757748,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.001408854,
+                    "path": "The.Walking.Dead.S08E11.Dead.or.Alive.Or.720p.AMZN.WEB-DL.DD+5.1.H.264/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.001644985,
+                    "path": "The.Walking.Dead.S08E11.Dead.or.Alive.Or.720p.AMZN.WEB-DL.DD+5.1.H.264/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001515761,
+                    "path": "The.Walking.Dead.S08E11.Dead.or.Alive.Or.720p.AMZN.WEB-DL.DD+5.1.H.264/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001654473,
+                    "path": "The.Walking.Dead.S08E11.Dead.or.Alive.Or.720p.AMZN.WEB-DL.DD+5.1.H.264/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 1.721352014,
+                    "path": "The.Walking.Dead.S08E11.Dead.or.Alive.Or.720p.AMZN.WEB-DL.DD+5.1.H.264/The.Walking.Dead.S08E11.Dead.or.Alive.Or.720p.AMZN.WEB-DL.DD+5.1.H.264.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001393,
+                    "path": "The.Walking.Dead.S08E11.Dead.or.Alive.Or.720p.AMZN.WEB-DL.DD+5.1.H.264/The.Walking.Dead.S08E11.Dead.or.Alive.Or.720p.AMZN.WEB-DL.DD+5.1.H.264.nfo"
+                }
+            ]
+        },
+        {
+            "id": 44,
+            "name": "The.Walking.Dead.S08E11.Dead.or.Alive.Or.720p.AMZN.WEBRip.DDP5.1.x264-CasStudio[rartv]-[rarbg.to]",
+            "size_total": 1.721352044,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Walking.Dead.S08E11.Dead.or.Alive.Or.720p.AMZN.WEBRip.DDP5.1.x264-CasStudio[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.721352014,
+                    "path": "The.Walking.Dead.S08E11.Dead.or.Alive.Or.720p.AMZN.WEBRip.DDP5.1.x264-CasStudio[rarbg]/The.Walking.Dead.S08E11.Dead.or.Alive.Or.720p.AMZN.WEB-DL.DD+5.1.H.264-CasStudio.mkv"
+                }
+            ]
+        },
+        {
+            "id": 45,
+            "name": "The.Walking.Dead.S08E11.HDTV.x264-SVA [IPT]",
+            "size_total": 0.440466132,
+            "files_total": 32,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 6e-8,
+                    "path": "The.Walking.Dead.S08E11.HDTV.x264-SVA/the.walking.dead.s08e11.hdtv.x264-sva.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S08E11.HDTV.x264-SVA/the.walking.dead.s08e11.hdtv.x264-sva.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S08E11.HDTV.x264-SVA/the.walking.dead.s08e11.hdtv.x264-sva.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S08E11.HDTV.x264-SVA/the.walking.dead.s08e11.hdtv.x264-sva.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S08E11.HDTV.x264-SVA/the.walking.dead.s08e11.hdtv.x264-sva.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S08E11.HDTV.x264-SVA/the.walking.dead.s08e11.hdtv.x264-sva.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S08E11.HDTV.x264-SVA/the.walking.dead.s08e11.hdtv.x264-sva.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S08E11.HDTV.x264-SVA/the.walking.dead.s08e11.hdtv.x264-sva.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S08E11.HDTV.x264-SVA/the.walking.dead.s08e11.hdtv.x264-sva.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S08E11.HDTV.x264-SVA/the.walking.dead.s08e11.hdtv.x264-sva.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S08E11.HDTV.x264-SVA/the.walking.dead.s08e11.hdtv.x264-sva.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S08E11.HDTV.x264-SVA/the.walking.dead.s08e11.hdtv.x264-sva.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S08E11.HDTV.x264-SVA/the.walking.dead.s08e11.hdtv.x264-sva.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S08E11.HDTV.x264-SVA/the.walking.dead.s08e11.hdtv.x264-sva.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S08E11.HDTV.x264-SVA/the.walking.dead.s08e11.hdtv.x264-sva.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S08E11.HDTV.x264-SVA/the.walking.dead.s08e11.hdtv.x264-sva.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S08E11.HDTV.x264-SVA/the.walking.dead.s08e11.hdtv.x264-sva.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S08E11.HDTV.x264-SVA/the.walking.dead.s08e11.hdtv.x264-sva.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S08E11.HDTV.x264-SVA/the.walking.dead.s08e11.hdtv.x264-sva.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S08E11.HDTV.x264-SVA/the.walking.dead.s08e11.hdtv.x264-sva.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S08E11.HDTV.x264-SVA/the.walking.dead.s08e11.hdtv.x264-sva.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S08E11.HDTV.x264-SVA/the.walking.dead.s08e11.hdtv.x264-sva.r20"
+                },
+                {
+                    "number": 23,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S08E11.HDTV.x264-SVA/the.walking.dead.s08e11.hdtv.x264-sva.r21"
+                },
+                {
+                    "number": 24,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S08E11.HDTV.x264-SVA/the.walking.dead.s08e11.hdtv.x264-sva.r22"
+                },
+                {
+                    "number": 25,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S08E11.HDTV.x264-SVA/the.walking.dead.s08e11.hdtv.x264-sva.r23"
+                },
+                {
+                    "number": 26,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S08E11.HDTV.x264-SVA/the.walking.dead.s08e11.hdtv.x264-sva.r24"
+                },
+                {
+                    "number": 27,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S08E11.HDTV.x264-SVA/the.walking.dead.s08e11.hdtv.x264-sva.r25"
+                },
+                {
+                    "number": 28,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S08E11.HDTV.x264-SVA/the.walking.dead.s08e11.hdtv.x264-sva.r26"
+                },
+                {
+                    "number": 29,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S08E11.HDTV.x264-SVA/the.walking.dead.s08e11.hdtv.x264-sva.r27"
+                },
+                {
+                    "number": 30,
+                    "size": 0.005464512,
+                    "path": "The.Walking.Dead.S08E11.HDTV.x264-SVA/the.walking.dead.s08e11.hdtv.x264-sva.r28"
+                },
+                {
+                    "number": 31,
+                    "size": 0.015,
+                    "path": "The.Walking.Dead.S08E11.HDTV.x264-SVA/the.walking.dead.s08e11.hdtv.x264-sva.rar"
+                },
+                {
+                    "number": 32,
+                    "size": 0.00000156,
+                    "path": "The.Walking.Dead.S08E11.HDTV.x264-SVA/the.walking.dead.s08e11.hdtv.x264-sva.sfv"
+                }
+            ]
+        },
+        {
+            "id": 46,
+            "name": "The.Walking.Dead.S08E11.HDTV.x264-SVA[eztv].mkv",
+            "size_total": 0.440461722,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.440461722,
+                    "path": "The.Walking.Dead.S08E11.HDTV.x264-SVA[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 47,
+            "name": "The.Walking.Dead.S08E11.HDTV.x264-SVA[rartv]-[rarbg.to]",
+            "size_total": 0.440461812,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Walking.Dead.S08E11.HDTV.x264-SVA[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.440461722,
+                    "path": "The.Walking.Dead.S08E11.HDTV.x264-SVA[rarbg]/The.Walking.Dead.S08E11.HDTV.x264-SVA.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 6e-8,
+                    "path": "The.Walking.Dead.S08E11.HDTV.x264-SVA[rarbg]/the.walking.dead.s08e11.hdtv.x264-sva.nfo"
+                }
+            ]
+        },
+        {
+            "id": 48,
+            "name": "The.Walking.Dead.S08E11.WEB-DL.x264-ION10-[rarbg.to]",
+            "size_total": 0.805360488,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Walking.Dead.S08E11.WEB-DL.x264-ION10/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000035897,
+                    "path": "The.Walking.Dead.S08E11.WEB-DL.x264-ION10/Subs/2_Eng.srt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000049268,
+                    "path": "The.Walking.Dead.S08E11.WEB-DL.x264-ION10/Subs/3_Eng.srt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.805275293,
+                    "path": "The.Walking.Dead.S08E11.WEB-DL.x264-ION10/The.Walking.Dead.S08E11.WEB-DL.x264-ION10.mp4"
+                }
+            ]
+        },
+        {
+            "id": 49,
+            "name": "The.Walking.Dead.S08E11.WEBRip.x264-ION10-[rarbg.to]",
+            "size_total": 0.463567958,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Walking.Dead.S08E11.WEBRip.x264-ION10/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000035671,
+                    "path": "The.Walking.Dead.S08E11.WEBRip.x264-ION10/Subs/2_Eng.srt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000048936,
+                    "path": "The.Walking.Dead.S08E11.WEBRip.x264-ION10/Subs/3_Eng.srt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.463483321,
+                    "path": "The.Walking.Dead.S08E11.WEBRip.x264-ION10/The.Walking.Dead.S08E11.WEBRip.x264-ION10.mp4"
+                }
+            ]
+        },
+        {
+            "id": 50,
+            "name": "The.Walking.Dead.S08E11.XviD-AFG [IPT]",
+            "size_total": 0.511021118,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000365612,
+                    "path": "The.Walking.Dead.S08E11.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000249336,
+                    "path": "The.Walking.Dead.S08E11.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000331498,
+                    "path": "The.Walking.Dead.S08E11.XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000077079,
+                    "path": "The.Walking.Dead.S08E11.XviD-AFG/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.509996426,
+                    "path": "The.Walking.Dead.S08E11.XviD-AFG/The.Walking.Dead.S08E11.XviD-AFG.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001167,
+                    "path": "The.Walking.Dead.S08E11.XviD-AFG/The.Walking.Dead.S08E11.XviD-AFG.nfo"
+                }
+            ]
+        },
+        {
+            "id": 51,
+            "name": "行尸走肉.The.Walking.Dead.S08E11.720p-天天美剧字幕组-ns.mp4.28ea34229f7825ef",
+            "size_total": 0.706222082,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.706222082,
+                    "path": "行尸走肉.The.Walking.Dead.S08E11.720p-天天美剧字幕组-ns.mp4"
+                }
+            ]
+        },
+        {
+            "id": 52,
+            "name": "行尸走肉.The.Walking.Dead.S08E11.720p.中英双语字幕.深影字幕组.mp4.1c0091e19c27512b",
+            "size_total": 0.810810341,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.810810341,
+                    "path": "行尸走肉.The.Walking.Dead.S08E11.720p.中英双语字幕.深影字幕组.mp4"
+                }
+            ]
+        }
+    ],
+    "collection_cumulative_by_btiha": [
+        {
+            "id": 16,
+            "name": "[limetorrents.cc]The.Walking.Dead.S08E11.HDTV.x264-SVA[ettv]",
+            "btih": "422cb406b0631cfbef4b282ad3b090b09d41e8e8",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.440461915,
+            "creation": "2018-03-12T02:12:08.000000000Z,mktorrent 1.0,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 392333,
+            "uuploaders": 93318
+        },
+        {
+            "id": 56,
+            "name": "multi-btih-3-2-x-[limetorrents.cc]The.Walking.Dead.S08E11.HDTV.x264-SVA.EZTV",
+            "btih": "5ec51d9e9e5797e97d265d962600592248680c58",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.440461722,
+            "creation": "2018-03-12T02:15:09.000000000Z,EZTV,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 277937,
+            "uuploaders": 96809
+        },
+        {
+            "id": 54,
+            "name": "multi-btih-1-2-x-[limetorrents.cc]The.Walking.Dead.S08E11.720p.HDTV.x264-AVS.EZTV",
+            "btih": "60e8e1db787abaf4ecd63099c2f2b0685aa1ea2b",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.840239934,
+            "creation": "2018-03-12T02:15:29.000000000Z,EZTV,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 190543,
+            "uuploaders": 84421
+        },
+        {
+            "id": 36,
+            "name": "The.Walking.Dead.S08E11.720p.HDTV.x264-AVS[rartv]-[rarbg.to]",
+            "btih": "e3d779972ab3bd9014cf60b6b9c2aecf88dfc70a",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.840240028,
+            "creation": "2018-03-12T02:09:22.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 120319,
+            "uuploaders": 27729
+        },
+        {
+            "id": 20,
+            "name": "[limetorrents.cc]The.Walking.Dead.S08E11.SUBFRENCH.HDTV.XviD-EXTREME",
+            "btih": "5b64ef7187af2cc2aa95c8005683e07af0999e2c",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.400265959,
+            "creation": "2018-03-12T22:55:29.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 112262,
+            "uuploaders": 39964
+        },
+        {
+            "id": 47,
+            "name": "The.Walking.Dead.S08E11.HDTV.x264-SVA[rartv]-[rarbg.to]",
+            "btih": "4756521b3482565d5116c0142f9036994be1cefe",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.440461812,
+            "creation": "2018-03-12T02:10:15.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 108894,
+            "uuploaders": 27766
+        },
+        {
+            "id": 55,
+            "name": "multi-btih-2-2-x-[limetorrents.cc]The.Walking.Dead.S08E11.CONVERT.1080p.WEB.h264-TBS",
+            "btih": "dd3976ccaf1a65c7df53e7a213114629949830e4",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.822842574,
+            "creation": "2018-03-12T02:25:07.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 56077,
+            "uuploaders": 25745
+        },
+        {
+            "id": 27,
+            "name": "[rutor.is]TWD_Season_08_FOX",
+            "btih": "fd292291f9865d5e6e9481f7126accee17725fbb",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 6.527444992,
+            "creation": "2018-03-12T16:13:51.000000000Z,uTorrent/2210,http://rutor.is/torrent/592932",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 42271,
+            "uuploaders": 18138
+        },
+        {
+            "id": 28,
+            "name": "[rutor.is]TWD_Season_08_FOX_1080",
+            "btih": "e26a881ac2c97f7fc687890024494552c3bb9be5",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 22.620313487,
+            "creation": "2018-03-12T16:16:47.000000000Z,uTorrent/2210,http://rutor.is/torrent/592927",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 36968,
+            "uuploaders": 15936
+        },
+        {
+            "id": 19,
+            "name": "[limetorrents.cc]The.Walking.Dead.S08E11.SUBFRENCH.720p.HDTV.x264-SH0W",
+            "btih": "c7db66408cd40e24d1e1e352dbcc4f598c7f3b2e",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.890178961,
+            "creation": "2018-03-12T12:28:10.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 27894,
+            "uuploaders": 18792
+        },
+        {
+            "id": 30,
+            "name": "The.Walking.Dead.S08E11.1080p.WEB-DL.DD5.1.H264-ION10-[rarbg.to]",
+            "btih": "623317154c6f6095130d4dac69c3c5c371f6a05a",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.932060255,
+            "creation": "2018-03-12T08:26:16.000000000Z,mktorrent 1.0,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 26557,
+            "uuploaders": 12152
+        },
+        {
+            "id": 42,
+            "name": "The.Walking.Dead.S08E11.Dead.or.Alive.Or.1080p.AMZN.WEBRip.DDP5.1.x264-CasStudio[rartv]-[rarbg.to]",
+            "btih": "0537965a09aef5e23124c9fd14d28177182ddf7a",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 5.187168324,
+            "creation": "2018-03-12T08:39:06.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 23158,
+            "uuploaders": 10333
+        },
+        {
+            "id": 49,
+            "name": "The.Walking.Dead.S08E11.WEBRip.x264-ION10-[rarbg.to]",
+            "btih": "46c3feec4fd79d9b1dd0842f57145b9e1a65463f",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.463567958,
+            "creation": "2018-03-12T08:07:23.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 22948,
+            "uuploaders": 10107
+        },
+        {
+            "id": 48,
+            "name": "The.Walking.Dead.S08E11.WEB-DL.x264-ION10-[rarbg.to]",
+            "btih": "647a448b23716b57fc746d256c75cecc982e5517",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.805360488,
+            "creation": "2018-03-12T08:39:11.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 18620,
+            "uuploaders": 8258
+        },
+        {
+            "id": 44,
+            "name": "The.Walking.Dead.S08E11.Dead.or.Alive.Or.720p.AMZN.WEBRip.DDP5.1.x264-CasStudio[rartv]-[rarbg.to]",
+            "btih": "0ce61cb004cc5570c4264b8ef4bf29791919bdc3",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.721352044,
+            "creation": "2018-03-12T08:41:35.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 16978,
+            "uuploaders": 7702
+        },
+        {
+            "id": 34,
+            "name": "The.Walking.Dead.S08E11.720p.HDTV.x264-AVS [IPT]",
+            "btih": "1cf1e7066dcc0f5b63644706d18bd50bf97a4349",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.840245733,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 14894,
+            "uuploaders": 8955
+        },
+        {
+            "id": 5,
+            "name": "[limetorrents.cc]The.Walking.Dead.S08E11.720p.HDTV",
+            "btih": "f7b5f5a5501917386b94fe216dd4293d57ef8cc7",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.368084761,
+            "creation": "2018-04-30T20:44:19.000000000Z,uTorrent/2210,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 13822,
+            "uuploaders": 5302
+        },
+        {
+            "id": 8,
+            "name": "[limetorrents.cc]The.Walking.Dead.S08E11.720p.HDTV.x264-AVS[ettv]",
+            "btih": "d821406e573585db1b4e6df6482600541131382d",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.840240113,
+            "creation": "2018-03-12T02:12:12.000000000Z,mktorrent 1.0,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 12756,
+            "uuploaders": 6535
+        },
+        {
+            "id": 38,
+            "name": "The.Walking.Dead.S08E11.720p.WEB-DL.DD5.1.H264-ION10-[rarbg.to]",
+            "btih": "1866a47d1c6e2465bb9988dfe0348b049c964ce8",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.537827851,
+            "creation": "2018-03-12T08:21:52.000000000Z,mktorrent 1.0,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 11189,
+            "uuploaders": 6111
+        },
+        {
+            "id": 51,
+            "name": "行尸走肉.The.Walking.Dead.S08E11.720p-天天美剧字幕组-ns.mp4.28ea34229f7825ef",
+            "btih": "28ea34229f7825ef4689558117522fbc4f0ffcdc",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.706222082,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 10450,
+            "uuploaders": 4037
+        },
+        {
+            "id": 18,
+            "name": "[limetorrents.cc]The.Walking.Dead.S08E11.HDTV.x264",
+            "btih": "f538656ab38d5fcc80530c9c219efc57f2c354ab",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.440462113,
+            "creation": "2018-03-12T02:14:49.000000000Z,ruTorrent (PHP Class - Adrien Gibrat),Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 10154,
+            "uuploaders": 4253
+        },
+        {
+            "id": 53,
+            "name": "multi-btih-0-2-x-[limetorrents.cc]The.Walking.Dead.S08E11.1080p.WEB.H264-DEFLATE",
+            "btih": "bdb6fe60d5fa4a7a61da1cac03685dd6e3cbc3e0",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 5.187214385,
+            "creation": "2018-03-12T07:50:44.000000000Z,RARBG,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 9621,
+            "uuploaders": 5059
+        },
+        {
+            "id": 26,
+            "name": "[rutor.is]The.Walking.Dead.S08.720p",
+            "btih": "f1ab0096d619e5a1b8f43e2278d72a9c4469bfec",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 16.798487525,
+            "creation": "2018-03-12T09:43:33.000000000Z,uTorrent/2210,http://rutor.is/torrent/618790",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 8889,
+            "uuploaders": 4023
+        },
+        {
+            "id": 22,
+            "name": "[limetorrents.cc]The.Walking.Dead.S08E11.XviD-AFG",
+            "btih": "698f702b55b0cdf4a7ff7bd37e233fb280aa4e93",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.511021202,
+            "creation": "2018-03-12T02:20:05.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 8572,
+            "uuploaders": 3936
+        },
+        {
+            "id": 13,
+            "name": "[limetorrents.cc]The.Walking.Dead.S08E11.Dead.or.Alive.Or.720p.AMZN.WEB-DL.MkvCage",
+            "btih": "8a22bf6c0b2e30c24041361580fb50f604561f09",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.399944726,
+            "creation": "2018-05-01T05:26:27.000000000Z,uTorrent/2210,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 8306,
+            "uuploaders": 3750
+        },
+        {
+            "id": 21,
+            "name": "[limetorrents.cc]The.Walking.Dead.S08E11.VOSTFR.1080p.AMZN.WEB-DL.DDP5.1.H264-ARK01",
+            "btih": "f7a0c746c11ab070dbd77ab4fd8fc27449a9cfdc",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 5.18719971,
+            "creation": "2018-03-13T00:44:28.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 7986,
+            "uuploaders": 5164
+        },
+        {
+            "id": 50,
+            "name": "The.Walking.Dead.S08E11.XviD-AFG [IPT]",
+            "btih": "d024bb07f13443e2cdb2b0ea1e82a3647c8cfcae",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.511021118,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 7339,
+            "uuploaders": 4001
+        },
+        {
+            "id": 24,
+            "name": "[rutor.is]The.Walking.Dead.S08.400p",
+            "btih": "0c9b12f72ac8ecc51851736b056c770599d7d4c0",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 5.901938688,
+            "creation": "2018-03-12T09:34:27.000000000Z,uTorrent/2210,http://rutor.is/torrent/618788",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 7076,
+            "uuploaders": 3036
+        },
+        {
+            "id": 10,
+            "name": "[limetorrents.cc]The.Walking.Dead.S08E11.720p.HDTV.x264",
+            "btih": "80e9200ee67fa1821bcdff16832a96d5884799bb",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.840240325,
+            "creation": "2018-03-12T02:16:33.000000000Z,ruTorrent (PHP Class - Adrien Gibrat),Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 6570,
+            "uuploaders": 3330
+        },
+        {
+            "id": 17,
+            "name": "[limetorrents.cc]The.Walking.Dead.S08E11.HDTV.x264-SVA[N1C]",
+            "btih": "6bc9f2c3c93aaa8d3f0e342a8ca44a6ed3098aab",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.440461782,
+            "creation": "2018-03-12T02:19:02.000000000Z,mktorrent 1.0,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 6259,
+            "uuploaders": 2717
+        },
+        {
+            "id": 3,
+            "name": "[limetorrents.cc]The.Walking.Dead.S08E11.1080p.WEBRip.x264.ESubs",
+            "btih": "1288bf0af97809da5d1bf076005890321114f296",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.336285112,
+            "creation": "2018-03-12T15:28:48.000000000Z,ruTorrent (PHP Class - Adrien Gibrat),Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 6095,
+            "uuploaders": 2871
+        },
+        {
+            "id": 12,
+            "name": "[limetorrents.cc]The.Walking.Dead.S08E11.Dead.or.Alive.Or.1080p.AMZN.WEBRip.x265.HEVC.6CH",
+            "btih": "6f5d44e66c7d53971bf8216848603c889f6ce820",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.657258736,
+            "creation": "2018-03-12T14:20:36.000000000Z,ruTorrent (PHP Class - Adrien Gibrat),Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 5009,
+            "uuploaders": 2421
+        },
+        {
+            "id": 37,
+            "name": "The.Walking.Dead.S08E11.720p.HEVC.x265-MeGusta [IPT]",
+            "btih": "201bdb4c4296b080bf282f52058afe45682f875d",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.405741491,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 4571,
+            "uuploaders": 2139
+        },
+        {
+            "id": 9,
+            "name": "[limetorrents.cc]The.Walking.Dead.S08E11.720p.HDTV.x264-AVS[N1C]",
+            "btih": "3ec56c9c9bf3df2842965c88482df71aadf736fc",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.840239998,
+            "creation": "2018-03-12T02:20:34.000000000Z,mktorrent 1.0,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4414,
+            "uuploaders": 1826
+        },
+        {
+            "id": 4,
+            "name": "[limetorrents.cc]The.Walking.Dead.S08E11.480p.x264-mSD",
+            "btih": "cb60a67bcfcb6028752af06c7a874fd9ae5f6e02",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.188855477,
+            "creation": "2018-03-12T02:25:23.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4405,
+            "uuploaders": 1641
+        },
+        {
+            "id": 25,
+            "name": "[rutor.is]The.Walking.Dead.S08.720p.SunshineStudio_1",
+            "btih": "1abfa0395711e246d9479f398eda907618d78cf1",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 19.641423617,
+            "creation": "2018-03-12T14:04:55.000000000Z,Nedulow (koshara.co),http://rutor.is/torrent/618820",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4400,
+            "uuploaders": 2045
+        },
+        {
+            "id": 1,
+            "name": "[limetorrents.cc]The.Walking.Dead.8x11..720p-HDTV-x264-AVS.[VTV]",
+            "btih": "6c93850ad4f8c25818c4306582d30bc5f1f1c4d5",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.840239934,
+            "creation": "2018-03-12T02:19:14.000000000Z,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4139,
+            "uuploaders": 2080
+        },
+        {
+            "id": 52,
+            "name": "行尸走肉.The.Walking.Dead.S08E11.720p.中英双语字幕.深影字幕组.mp4.1c0091e19c27512b",
+            "btih": "1c0091e19c27512b1fea5ad8f751cb0d65c68681",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.810810341,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 3573,
+            "uuploaders": 876
+        },
+        {
+            "id": 15,
+            "name": "[limetorrents.cc]The.Walking.Dead.S08E11.HDTV.x264-SVA",
+            "btih": "6263402e2f3d01a8536ccda191dc06d9144c9eae",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.442717214,
+            "creation": "2018-03-12T02:15:19.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2830,
+            "uuploaders": 1365
+        },
+        {
+            "id": 45,
+            "name": "The.Walking.Dead.S08E11.HDTV.x264-SVA [IPT]",
+            "btih": "36803e63af597ff1699c77bd2d5a8673768fb530",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.440466132,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 2548,
+            "uuploaders": 1293
+        },
+        {
+            "id": 7,
+            "name": "[limetorrents.cc]The.Walking.Dead.S08E11.720p.HDTV.x264-AVS",
+            "btih": "7e8820ad7a278d026e94d33dd978e4ff24d2762e",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.846711663,
+            "creation": "2018-03-12T02:37:10.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2430,
+            "uuploaders": 825
+        },
+        {
+            "id": 33,
+            "name": "The.Walking.Dead.S08E11.480p.x264-mSD [IPT]",
+            "btih": "5dd2c6f05085f746a7c072169dc1189bde404452",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.188855393,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 2072,
+            "uuploaders": 785
+        },
+        {
+            "id": 43,
+            "name": "The.Walking.Dead.S08E11.Dead.or.Alive.Or.720p.AMZN.WEB-DL.DD+5.1.H.264 [IPT]",
+            "btih": "d24d0ea791a0f130f2882daf66c55f6ed019ad9b",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.72757748,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 1949,
+            "uuploaders": 709
+        },
+        {
+            "id": 31,
+            "name": "The.Walking.Dead.S08E11.1080p.WEB.H264-DEFLATE [IPT]",
+            "btih": "1c7d900fb93a22832b159cdd6e7707d99f7a53c8",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 5.187224547,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 1865,
+            "uuploaders": 802
+        },
+        {
+            "id": 39,
+            "name": "The.Walking.Dead.S08E11.AAC.MP4-Mobile [IPT]",
+            "btih": "9b749fa93e35c0d445095752ac692a2f8590066b",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.214723538,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 1855,
+            "uuploaders": 669
+        },
+        {
+            "id": 41,
+            "name": "The.Walking.Dead.S08E11.Dead.or.Alive.Or.1080p.AMZN.WEBRip.DDP5.1.x264 [IPT]",
+            "btih": "67f2e4e86151ef686ca999136bdbcc2d36a34f01",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 5.187168294,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 1599,
+            "uuploaders": 689
+        },
+        {
+            "id": 23,
+            "name": "[limetorrents.cc]行尸走肉.第八季第11集.The.Walking.Dead.S08E11.HD-720p.X264.AAC-99Mp4",
+            "btih": "8461f3918f0a85dda82f191d529b6ed3a7c3dc58",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.562099889,
+            "creation": "2018-03-14T01:20:11.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1497,
+            "uuploaders": 620
+        },
+        {
+            "id": 29,
+            "name": "The.Walking.Dead.S08E11.1080p.HEVC.x265-MeGusta [IPT]",
+            "btih": "a5a227c6d81d811290ddec90cd4f43c2972c456a",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 1.719551679,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 1460,
+            "uuploaders": 660
+        }
+    ]
+}
