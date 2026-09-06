@@ -1,0 +1,2402 @@
+{
+    "collection_name": "The Good Fight",
+    "collection_id": "202",
+    "collection_key": "good-fight-202",
+    "collection_notes": "",
+    "data_version": "2026-08-05",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "6:1777968300",
+    "collection_btiha_duplicates": [
+        {
+            "duplicate_id": 0,
+            "duplicate_btih": "b880ea0e767b60ed97b132ff6fe88bc470c8c48c",
+            "duplicate_0_0": "[limetorrents.cc]The.Good.Fight.S02E02.INTERNAL.720p.WEB.H264-DEFLATE",
+            "duplicate_0_1": "the-good-fight-s02e02-internal-720p-web-h264-deflate",
+            "duplicate_0_2": "The.Good.Fight.S02E02.INTERNAL.720p.WEB.H264-DEFLATE[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 1,
+            "duplicate_btih": "828337dc44ec7e9f5a504316a883c0741a9992ae",
+            "duplicate_1_0": "[limetorrents.cc]The.Good.Fight.S02E02.INTERNAL.720p.WEB.H264-DEFLATE.EZTV",
+            "duplicate_1_1": "The.Good.Fight.S02E02.INTERNAL.720p.WEB.H264-DEFLATE[eztv].mkv"
+        },
+        {
+            "duplicate_id": 2,
+            "duplicate_btih": "8db3d04f53a71fad51ea7065f0f9cb95aff79d51",
+            "duplicate_2_0": "[limetorrents.cc]The.Good.Fight.S02E02.INTERNAL.WEB.H264-DEFLATE.EZTV",
+            "duplicate_2_1": "The.Good.Fight.S02E02.INTERNAL.WEB.H264-DEFLATE[eztv].mkv"
+        },
+        {
+            "duplicate_id": 3,
+            "duplicate_btih": "80b3ff65401a7e7c45cd7e9b469c6ee0b969b136",
+            "duplicate_3_0": "the-good-fight-s02e02-internal-1080p-web-h264-deflate",
+            "duplicate_3_1": "The.Good.Fight.S02E02.INTERNAL.1080p.WEB.H264-DEFLATE[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 4,
+            "duplicate_btih": "983a7d2a2484efe52de9a0e9b921182a668f9b93",
+            "duplicate_4_0": "the-good-fight-s02e02-internal-web-h264-deflate",
+            "duplicate_4_1": "The.Good.Fight.S02E02.INTERNAL.WEB.H264-DEFLATE[rartv]-[rarbg.to]"
+        }
+    ],
+    "collection_btiha_metadata": [
+        {
+            "id": 1,
+            "name": "[limetorrents.cc]The.Good.Fight.s02.HD720p.WEBRip.Rus.Eng.BaibaKo.tv",
+            "size_total": 1.422892321,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.422892321,
+                    "path": "The.Good.Fight.s02.HD720p.WEBRip.Rus.Eng.BaibaKo.tv/The.Good.Fight.s02e01.HD720p.WEBRip.Rus.Eng.BaibaKo.tv.mkv"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "[limetorrents.cc]The.Good.Fight.S02E02.Day.415.720p.WEBRip.2CH.x265.HEVC-PSA",
+            "size_total": 0.206932555,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.206932555,
+                    "path": "The.Good.Fight.S02E02.Day.415.720p.WEBRip.2CH.x265.HEVC-PSA.mkv"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "[limetorrents.cc]The.Good.Fight.S02E02.INTERNAL.1080p.HEVC.x265-MeGusta",
+            "size_total": 0.579017712,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.001831273,
+                    "path": "www.Torrenting.com - The.Good.Fight.S02E02.INTERNAL.1080p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.002102722,
+                    "path": "www.Torrenting.com - The.Good.Fight.S02E02.INTERNAL.1080p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.002315582,
+                    "path": "www.Torrenting.com - The.Good.Fight.S02E02.INTERNAL.1080p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.00180705,
+                    "path": "www.Torrenting.com - The.Good.Fight.S02E02.INTERNAL.1080p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.570959766,
+                    "path": "www.Torrenting.com - The.Good.Fight.S02E02.INTERNAL.1080p.HEVC.x265-MeGusta/The.Good.Fight.S02E02.INTERNAL.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001235,
+                    "path": "www.Torrenting.com - The.Good.Fight.S02E02.INTERNAL.1080p.HEVC.x265-MeGusta/The.Good.Fight.S02E02.INTERNAL.1080p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 7,
+                    "size": 8.4e-8,
+                    "path": "www.Torrenting.com - The.Good.Fight.S02E02.INTERNAL.1080p.HEVC.x265-MeGusta/Torrent Downloaded From WWW.TORRENTING.COM.txt"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "[limetorrents.cc]The.Good.Fight.S02E02.INTERNAL.1080p.WEB.x264-worldmkv",
+            "size_total": 0.660626746,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.660626746,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.1080p.WEB.x264-worldmkv.mkv"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "[limetorrents.cc]The.Good.Fight.S02E02.INTERNAL.720p.WEB.H264-DEFLATE.EZTV",
+            "size_total": 1.052227291,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.052227291,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.720p.WEB.H264-DEFLATE[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "[limetorrents.cc]The.Good.Fight.S02E02.INTERNAL.720p.WEB.H264-DEFLATE",
+            "size_total": 1.052227852,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.720p.WEB.H264-DEFLATE[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.052227291,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.720p.WEB.H264-DEFLATE[rarbg]/The.Good.Fight.S02E02.INTERNAL.720p.WEB.H264-DEFLATE.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 5.31e-7,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.720p.WEB.H264-DEFLATE[rarbg]/the.good.fight.s02e02.internal.720p.web.h264-deflate.nfo"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "[limetorrents.cc]The.Good.Fight.S02E02.INTERNAL.720p.WEB.H264-DEFLATE[ettv]",
+            "size_total": 1.05222747,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.79e-7,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.720p.WEB.H264-DEFLATE[ettv]/Downloaded from www.ETTV.tv .txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.052227291,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.720p.WEB.H264-DEFLATE[ettv]/The.Good.Fight.S02E02.INTERNAL.720p.WEB.H264-DEFLATE[ettv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "[limetorrents.cc]The.Good.Fight.S02E02.INTERNAL.720p.WEB.x264-worldmkv",
+            "size_total": 0.387123151,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.387123151,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.720p.WEB.x264-worldmkv.mkv"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "[limetorrents.cc]The.Good.Fight.S02E02.INTERNAL.WEB.H264-DEFLATE.EZTV",
+            "size_total": 0.235629287,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.235629287,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.WEB.H264-DEFLATE[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "[limetorrents.cc]The.Good.Fight.S02E02.INTERNAL.WEB.H264-DEFLATE[ettv]",
+            "size_total": 0.23562948,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.93e-7,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.WEB.H264-DEFLATE[ettv]/Downloaded from www.ETTV.tv .txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.235629287,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.WEB.H264-DEFLATE[ettv]/The.Good.Fight.S02E02.INTERNAL.WEB.H264-DEFLATE[ettv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "[limetorrents.cc]The.Good.Fight.S02E02.WEBRip.x264-TBS[ettv]",
+            "size_total": 0.273468817,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.93e-7,
+                    "path": "The.Good.Fight.S02E02.WEBRip.x264-TBS[ettv]/Downloaded from www.ETTV.tv .txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.273468624,
+                    "path": "The.Good.Fight.S02E02.WEBRip.x264-TBS[ettv]/the.good.fight.s02e02.webrip.x264-tbs[ettv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "[limetorrents.cc]The.Good.Wife.S02E02.720p.HDTV.x264-DIMENSION",
+            "size_total": 1.172746152,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.172746152,
+                    "path": "The.Good.Wife.S02E02.720p.HDTV.X264-DIMENSION.mkv"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "[rutor.is]The.Good.Fight.S02.WEBRip.1080p",
+            "size_total": 2.938816985,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.938816985,
+                    "path": "The.Good.Fight.S02.WEBRip.1080p/The.Good.Fight.S02E01.WEBRip.1080p-IdeaFilm.mkv"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "[rutor.is]The.Good.Fight.S02.WEBRip.720p",
+            "size_total": 1.987743307,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.987743307,
+                    "path": "The.Good.Fight.S02.WEBRip.720p/The.Good.Fight.S02E01.WEBRip.720p-IdeaFilm.mkv"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "[rutor.is]The.Good.Fight.S02.WEBRip",
+            "size_total": 0.7303168,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.7303168,
+                    "path": "The.Good.Fight.S02.WEBRip/The.Good.Fight.S02E01.WEBRip-IdeaFilm.avi"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "[rutor.is]The_Good_Fight_S02_2018_720p_WEBRip_Gears_Media",
+            "size_total": 1.101269792,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.101269792,
+                    "path": "The Good Fight S02 (2018) 720p WEBRip [Gears Media]/The Good Fight S02E01 (2018) 720p WEBRip [Gears Media].mkv"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "[rutor.is]The_Good_Fight_S02_2018_WEBRip_Gears_Media",
+            "size_total": 0.612688888,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.612688888,
+                    "path": "The Good Fight S02 (2018) WEBRip [Gears Media]/The Good Fight S02E01 (2018) WEBRip [Gears Media].avi"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": "[rutor.is]The_Good_Fight_S02E01_1080p_ColdFilm_mkv_torren",
+            "size_total": 2.137296669,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.137296669,
+                    "path": "The.Good.Fight.S02E01.1080p.ColdFilm.mkv"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "name": "[rutor.is]The_Good_Fight_S02E01_400p_ColdFilm_avi_torrent",
+            "size_total": 0.65835638,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.65835638,
+                    "path": "The.Good.Fight.S02E01.400p.ColdFilm.avi"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "name": "[rutor.is]The_Good_Fight_S02E01_720p_ColdFilm_mkv_torrent",
+            "size_total": 1.602689432,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.602689432,
+                    "path": "The.Good.Fight.S02E01.720p.ColdFilm.mkv"
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "name": "the-good-fight-s02e02-internal-1080p-web-h264-deflate",
+            "size_total": 3.283934248,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.1080p.WEB.H264-DEFLATE[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 3.283933754,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.1080p.WEB.H264-DEFLATE[rarbg]/The.Good.Fight.S02E02.INTERNAL.1080p.WEB.H264-DEFLATE.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 4.64e-7,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.1080p.WEB.H264-DEFLATE[rarbg]/the.good.fight.s02e02.internal.1080p.web.h264-deflate.nfo"
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "name": "the-good-fight-s02e02-internal-720p-web-h264-deflate",
+            "size_total": 1.052227852,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.720p.WEB.H264-DEFLATE[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.052227291,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.720p.WEB.H264-DEFLATE[rarbg]/The.Good.Fight.S02E02.INTERNAL.720p.WEB.H264-DEFLATE.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 5.31e-7,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.720p.WEB.H264-DEFLATE[rarbg]/the.good.fight.s02e02.internal.720p.web.h264-deflate.nfo"
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "name": "the-good-fight-s02e02-internal-web-h264-deflate",
+            "size_total": 0.235629765,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.WEB.H264-DEFLATE[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.235629287,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.WEB.H264-DEFLATE[rarbg]/The.Good.Fight.S02E02.INTERNAL.WEB.H264-DEFLATE.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 4.48e-7,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.WEB.H264-DEFLATE[rarbg]/the.good.fight.s02e02.internal.web.h264-deflate.nfo"
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "name": "The.Good.Fight.S02E01.720p.AMZN.WEBRip.DDP5.1.x264-RTFM[rartv]-[rarbg.to]",
+            "size_total": 1.850814097,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Good.Fight.S02E01.720p.AMZN.WEBRip.DDP5.1.x264-RTFM[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.850814067,
+                    "path": "The.Good.Fight.S02E01.720p.AMZN.WEBRip.DDP5.1.x264-RTFM[rarbg]/The Good Fight S02E01 720p WEBRip x264-RTFM.mkv"
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "name": "The.Good.Fight.S02E02.480p.x264-mSD [IPT]",
+            "size_total": 0.154413357,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000218223,
+                    "path": "The.Good.Fight.S02E02.480p.x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000235971,
+                    "path": "The.Good.Fight.S02E02.480p.x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000290575,
+                    "path": "The.Good.Fight.S02E02.480p.x264-mSD/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000194705,
+                    "path": "The.Good.Fight.S02E02.480p.x264-mSD/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.153472693,
+                    "path": "The.Good.Fight.S02E02.480p.x264-mSD/The.Good.Fight.S02E02.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.00000119,
+                    "path": "The.Good.Fight.S02E02.480p.x264-mSD/The.Good.Fight.S02E02.480p.x264-mSD.nfo"
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "name": "The.Good.Fight.S02E02.720p.AMZN.WEBRip.DDP5.1.x264-RTFM[rartv]-[rarbg.to]",
+            "size_total": 1.910149622,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Good.Fight.S02E02.720p.AMZN.WEBRip.DDP5.1.x264-RTFM[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.910149592,
+                    "path": "The.Good.Fight.S02E02.720p.AMZN.WEBRip.DDP5.1.x264-RTFM[rarbg]/The Good Fight S02E02 720p WEBRip x264-RTFM.mkv"
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "name": "The.Good.Fight.S02E02.720p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.263961134,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000512476,
+                    "path": "The.Good.Fight.S02E02.720p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.001007975,
+                    "path": "The.Good.Fight.S02E02.720p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001155373,
+                    "path": "The.Good.Fight.S02E02.720p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000845013,
+                    "path": "The.Good.Fight.S02E02.720p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.260439105,
+                    "path": "The.Good.Fight.S02E02.720p.HEVC.x265-MeGusta/The.Good.Fight.S02E02.720p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001192,
+                    "path": "The.Good.Fight.S02E02.720p.HEVC.x265-MeGusta/The.Good.Fight.S02E02.720p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "name": "The.Good.Fight.S02E02.720p.WEBRip.x264-TBS [IPT]",
+            "size_total": 0.893846598,
+            "files_total": 20,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 7e-8,
+                    "path": "The.Good.Fight.S02E02.720p.WEBRip.x264-TBS/the.good.fight.s02e02.720p.webrip.x264-tbs.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.720p.WEBRip.x264-TBS/the.good.fight.s02e02.720p.webrip.x264-tbs.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.720p.WEBRip.x264-TBS/the.good.fight.s02e02.720p.webrip.x264-tbs.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.720p.WEBRip.x264-TBS/the.good.fight.s02e02.720p.webrip.x264-tbs.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.720p.WEBRip.x264-TBS/the.good.fight.s02e02.720p.webrip.x264-tbs.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.720p.WEBRip.x264-TBS/the.good.fight.s02e02.720p.webrip.x264-tbs.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.720p.WEBRip.x264-TBS/the.good.fight.s02e02.720p.webrip.x264-tbs.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.720p.WEBRip.x264-TBS/the.good.fight.s02e02.720p.webrip.x264-tbs.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.720p.WEBRip.x264-TBS/the.good.fight.s02e02.720p.webrip.x264-tbs.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.720p.WEBRip.x264-TBS/the.good.fight.s02e02.720p.webrip.x264-tbs.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.720p.WEBRip.x264-TBS/the.good.fight.s02e02.720p.webrip.x264-tbs.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.720p.WEBRip.x264-TBS/the.good.fight.s02e02.720p.webrip.x264-tbs.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.720p.WEBRip.x264-TBS/the.good.fight.s02e02.720p.webrip.x264-tbs.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.720p.WEBRip.x264-TBS/the.good.fight.s02e02.720p.webrip.x264-tbs.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.720p.WEBRip.x264-TBS/the.good.fight.s02e02.720p.webrip.x264-tbs.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.720p.WEBRip.x264-TBS/the.good.fight.s02e02.720p.webrip.x264-tbs.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.720p.WEBRip.x264-TBS/the.good.fight.s02e02.720p.webrip.x264-tbs.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.043845502,
+                    "path": "The.Good.Fight.S02E02.720p.WEBRip.x264-TBS/the.good.fight.s02e02.720p.webrip.x264-tbs.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.720p.WEBRip.x264-TBS/the.good.fight.s02e02.720p.webrip.x264-tbs.rar"
+                },
+                {
+                    "number": 20,
+                    "size": 0.000001026,
+                    "path": "The.Good.Fight.S02E02.720p.WEBRip.x264-TBS/the.good.fight.s02e02.720p.webrip.x264-tbs.sfv"
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "name": "The.Good.Fight.S02E02.720p.WEBRip.x264-TBS[rartv]-[rarbg.to]",
+            "size_total": 0.893843442,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Good.Fight.S02E02.720p.WEBRip.x264-TBS[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.893843342,
+                    "path": "The.Good.Fight.S02E02.720p.WEBRip.x264-TBS[rarbg]/the.good.fight.s02e02.720p.webrip.x264-tbs.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 7e-8,
+                    "path": "The.Good.Fight.S02E02.720p.WEBRip.x264-TBS[rarbg]/the.good.fight.s02e02.720p.webrip.x264-tbs.nfo"
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "name": "The.Good.Fight.S02E02.AAC.MP4-Mobile [IPT]",
+            "size_total": 0.155975766,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.00022986,
+                    "path": "The.Good.Fight.S02E02.AAC.MP4-Mobile/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.00024251,
+                    "path": "The.Good.Fight.S02E02.AAC.MP4-Mobile/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000302409,
+                    "path": "The.Good.Fight.S02E02.AAC.MP4-Mobile/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000201351,
+                    "path": "The.Good.Fight.S02E02.AAC.MP4-Mobile/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.154998352,
+                    "path": "The.Good.Fight.S02E02.AAC.MP4-Mobile/The.Good.Fight.S02E02.AAC.MP4-Mobile.mp4"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001284,
+                    "path": "The.Good.Fight.S02E02.AAC.MP4-Mobile/The.Good.Fight.S02E02.AAC.MP4-Mobile.nfo"
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "name": "The.Good.Fight.S02E02.INTERNAL.1080p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.579017628,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.001831273,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.1080p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.002102722,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.1080p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.002315582,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.1080p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.00180705,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.1080p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.570959766,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.1080p.HEVC.x265-MeGusta/The.Good.Fight.S02E02.INTERNAL.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001235,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.1080p.HEVC.x265-MeGusta/The.Good.Fight.S02E02.INTERNAL.1080p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "name": "The.Good.Fight.S02E02.INTERNAL.1080p.WEB.H264-DEFLATE [IPT]",
+            "size_total": 3.283948078,
+            "files_total": 68,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 4.64e-7,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.1080p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.1080p.web.h264-deflate.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.1080p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.1080p.web.h264-deflate.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.1080p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.1080p.web.h264-deflate.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.1080p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.1080p.web.h264-deflate.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.1080p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.1080p.web.h264-deflate.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.1080p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.1080p.web.h264-deflate.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.1080p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.1080p.web.h264-deflate.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.1080p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.1080p.web.h264-deflate.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.1080p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.1080p.web.h264-deflate.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.1080p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.1080p.web.h264-deflate.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.1080p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.1080p.web.h264-deflate.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.1080p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.1080p.web.h264-deflate.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.1080p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.1080p.web.h264-deflate.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.1080p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.1080p.web.h264-deflate.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.1080p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.1080p.web.h264-deflate.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.1080p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.1080p.web.h264-deflate.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.1080p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.1080p.web.h264-deflate.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.1080p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.1080p.web.h264-deflate.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.1080p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.1080p.web.h264-deflate.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.1080p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.1080p.web.h264-deflate.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.1080p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.1080p.web.h264-deflate.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.1080p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.1080p.web.h264-deflate.r20"
+                },
+                {
+                    "number": 23,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.1080p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.1080p.web.h264-deflate.r21"
+                },
+                {
+                    "number": 24,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.1080p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.1080p.web.h264-deflate.r22"
+                },
+                {
+                    "number": 25,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.1080p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.1080p.web.h264-deflate.r23"
+                },
+                {
+                    "number": 26,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.1080p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.1080p.web.h264-deflate.r24"
+                },
+                {
+                    "number": 27,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.1080p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.1080p.web.h264-deflate.r25"
+                },
+                {
+                    "number": 28,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.1080p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.1080p.web.h264-deflate.r26"
+                },
+                {
+                    "number": 29,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.1080p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.1080p.web.h264-deflate.r27"
+                },
+                {
+                    "number": 30,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.1080p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.1080p.web.h264-deflate.r28"
+                },
+                {
+                    "number": 31,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.1080p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.1080p.web.h264-deflate.r29"
+                },
+                {
+                    "number": 32,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.1080p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.1080p.web.h264-deflate.r30"
+                },
+                {
+                    "number": 33,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.1080p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.1080p.web.h264-deflate.r31"
+                },
+                {
+                    "number": 34,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.1080p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.1080p.web.h264-deflate.r32"
+                },
+                {
+                    "number": 35,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.1080p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.1080p.web.h264-deflate.r33"
+                },
+                {
+                    "number": 36,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.1080p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.1080p.web.h264-deflate.r34"
+                },
+                {
+                    "number": 37,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.1080p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.1080p.web.h264-deflate.r35"
+                },
+                {
+                    "number": 38,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.1080p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.1080p.web.h264-deflate.r36"
+                },
+                {
+                    "number": 39,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.1080p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.1080p.web.h264-deflate.r37"
+                },
+                {
+                    "number": 40,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.1080p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.1080p.web.h264-deflate.r38"
+                },
+                {
+                    "number": 41,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.1080p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.1080p.web.h264-deflate.r39"
+                },
+                {
+                    "number": 42,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.1080p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.1080p.web.h264-deflate.r40"
+                },
+                {
+                    "number": 43,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.1080p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.1080p.web.h264-deflate.r41"
+                },
+                {
+                    "number": 44,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.1080p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.1080p.web.h264-deflate.r42"
+                },
+                {
+                    "number": 45,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.1080p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.1080p.web.h264-deflate.r43"
+                },
+                {
+                    "number": 46,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.1080p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.1080p.web.h264-deflate.r44"
+                },
+                {
+                    "number": 47,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.1080p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.1080p.web.h264-deflate.r45"
+                },
+                {
+                    "number": 48,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.1080p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.1080p.web.h264-deflate.r46"
+                },
+                {
+                    "number": 49,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.1080p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.1080p.web.h264-deflate.r47"
+                },
+                {
+                    "number": 50,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.1080p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.1080p.web.h264-deflate.r48"
+                },
+                {
+                    "number": 51,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.1080p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.1080p.web.h264-deflate.r49"
+                },
+                {
+                    "number": 52,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.1080p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.1080p.web.h264-deflate.r50"
+                },
+                {
+                    "number": 53,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.1080p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.1080p.web.h264-deflate.r51"
+                },
+                {
+                    "number": 54,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.1080p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.1080p.web.h264-deflate.r52"
+                },
+                {
+                    "number": 55,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.1080p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.1080p.web.h264-deflate.r53"
+                },
+                {
+                    "number": 56,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.1080p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.1080p.web.h264-deflate.r54"
+                },
+                {
+                    "number": 57,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.1080p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.1080p.web.h264-deflate.r55"
+                },
+                {
+                    "number": 58,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.1080p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.1080p.web.h264-deflate.r56"
+                },
+                {
+                    "number": 59,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.1080p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.1080p.web.h264-deflate.r57"
+                },
+                {
+                    "number": 60,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.1080p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.1080p.web.h264-deflate.r58"
+                },
+                {
+                    "number": 61,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.1080p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.1080p.web.h264-deflate.r59"
+                },
+                {
+                    "number": 62,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.1080p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.1080p.web.h264-deflate.r60"
+                },
+                {
+                    "number": 63,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.1080p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.1080p.web.h264-deflate.r61"
+                },
+                {
+                    "number": 64,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.1080p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.1080p.web.h264-deflate.r62"
+                },
+                {
+                    "number": 65,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.1080p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.1080p.web.h264-deflate.r63"
+                },
+                {
+                    "number": 66,
+                    "size": 0.033943126,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.1080p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.1080p.web.h264-deflate.r64"
+                },
+                {
+                    "number": 67,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.1080p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.1080p.web.h264-deflate.rar"
+                },
+                {
+                    "number": 68,
+                    "size": 0.000004488,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.1080p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.1080p.web.h264-deflate.sfv"
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "name": "The.Good.Fight.S02E02.INTERNAL.1080p.WEB.H264-DEFLATE[rartv]-[rarbg.to]",
+            "size_total": 3.283934248,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.1080p.WEB.H264-DEFLATE[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 3.283933754,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.1080p.WEB.H264-DEFLATE[rarbg]/The.Good.Fight.S02E02.INTERNAL.1080p.WEB.H264-DEFLATE.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 4.64e-7,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.1080p.WEB.H264-DEFLATE[rarbg]/the.good.fight.s02e02.internal.1080p.web.h264-deflate.nfo"
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "name": "The.Good.Fight.S02E02.INTERNAL.480p.x264-mSD [IPT]",
+            "size_total": 0.144684825,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000194472,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.480p.x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000212269,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.480p.x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000265009,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.480p.x264-mSD/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000177452,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.480p.x264-mSD/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.143834416,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.480p.x264-mSD/The.Good.Fight.S02E02.INTERNAL.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001207,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.480p.x264-mSD/The.Good.Fight.S02E02.INTERNAL.480p.x264-mSD.nfo"
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "name": "The.Good.Fight.S02E02.INTERNAL.720p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.251611823,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000514394,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.720p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000985425,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.720p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001086433,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.720p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000894842,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.720p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.248129518,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.720p.HEVC.x265-MeGusta/The.Good.Fight.S02E02.INTERNAL.720p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001211,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.720p.HEVC.x265-MeGusta/The.Good.Fight.S02E02.INTERNAL.720p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "name": "The.Good.Fight.S02E02.INTERNAL.720p.WEB.H264-DEFLATE [IPT]",
+            "size_total": 1.052232222,
+            "files_total": 24,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 5.31e-7,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.720p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.720p.web.h264-deflate.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.720p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.720p.web.h264-deflate.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.720p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.720p.web.h264-deflate.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.720p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.720p.web.h264-deflate.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.720p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.720p.web.h264-deflate.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.720p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.720p.web.h264-deflate.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.720p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.720p.web.h264-deflate.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.720p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.720p.web.h264-deflate.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.720p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.720p.web.h264-deflate.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.720p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.720p.web.h264-deflate.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.720p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.720p.web.h264-deflate.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.720p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.720p.web.h264-deflate.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.720p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.720p.web.h264-deflate.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.720p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.720p.web.h264-deflate.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.720p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.720p.web.h264-deflate.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.720p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.720p.web.h264-deflate.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.720p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.720p.web.h264-deflate.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.720p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.720p.web.h264-deflate.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.720p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.720p.web.h264-deflate.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.720p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.720p.web.h264-deflate.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.720p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.720p.web.h264-deflate.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.002230217,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.720p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.720p.web.h264-deflate.r20"
+                },
+                {
+                    "number": 23,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.720p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.720p.web.h264-deflate.rar"
+                },
+                {
+                    "number": 24,
+                    "size": 0.000001474,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.720p.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.720p.web.h264-deflate.sfv"
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "name": "The.Good.Fight.S02E02.INTERNAL.720p.WEB.H264-DEFLATE[eztv].mkv",
+            "size_total": 1.052227291,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.052227291,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.720p.WEB.H264-DEFLATE[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "name": "The.Good.Fight.S02E02.INTERNAL.720p.WEB.H264-DEFLATE[rartv]-[rarbg.to]",
+            "size_total": 1.052227852,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.720p.WEB.H264-DEFLATE[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.052227291,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.720p.WEB.H264-DEFLATE[rarbg]/The.Good.Fight.S02E02.INTERNAL.720p.WEB.H264-DEFLATE.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 5.31e-7,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.720p.WEB.H264-DEFLATE[rarbg]/the.good.fight.s02e02.internal.720p.web.h264-deflate.nfo"
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "name": "The.Good.Fight.S02E02.INTERNAL.AAC.MP4-Mobile [IPT]",
+            "size_total": 0.154417357,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000222605,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.AAC.MP4-Mobile/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000242582,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.AAC.MP4-Mobile/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000307437,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.AAC.MP4-Mobile/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000203389,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.AAC.MP4-Mobile/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.153440042,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.AAC.MP4-Mobile/The.Good.Fight.S02E02.INTERNAL.AAC.MP4-Mobile.mp4"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001302,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.AAC.MP4-Mobile/The.Good.Fight.S02E02.INTERNAL.AAC.MP4-Mobile.nfo"
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "name": "The.Good.Fight.S02E02.INTERNAL.WEB.H264-DEFLATE [IPT]",
+            "size_total": 0.235632787,
+            "files_total": 18,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 4.6e-7,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.web.h264-deflate.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.015,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.web.h264-deflate.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.015,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.web.h264-deflate.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.015,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.web.h264-deflate.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.015,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.web.h264-deflate.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.015,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.web.h264-deflate.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.015,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.web.h264-deflate.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.015,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.web.h264-deflate.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.015,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.web.h264-deflate.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.015,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.web.h264-deflate.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.015,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.web.h264-deflate.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.015,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.web.h264-deflate.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.015,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.web.h264-deflate.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.015,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.web.h264-deflate.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.015,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.web.h264-deflate.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.010631335,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.web.h264-deflate.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.015,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.web.h264-deflate.rar"
+                },
+                {
+                    "number": 18,
+                    "size": 9.92e-7,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.WEB.H264-DEFLATE/the.good.fight.s02e02.internal.web.h264-deflate.sfv"
+                }
+            ]
+        },
+        {
+            "id": 41,
+            "name": "The.Good.Fight.S02E02.INTERNAL.WEB.H264-DEFLATE[eztv].mkv",
+            "size_total": 0.235629287,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.235629287,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.WEB.H264-DEFLATE[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 42,
+            "name": "The.Good.Fight.S02E02.INTERNAL.WEB.H264-DEFLATE[rartv]-[rarbg.to]",
+            "size_total": 0.235629765,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.WEB.H264-DEFLATE[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.235629287,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.WEB.H264-DEFLATE[rarbg]/The.Good.Fight.S02E02.INTERNAL.WEB.H264-DEFLATE.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 4.48e-7,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.WEB.H264-DEFLATE[rarbg]/the.good.fight.s02e02.internal.web.h264-deflate.nfo"
+                }
+            ]
+        },
+        {
+            "id": 43,
+            "name": "The.Good.Fight.S02E02.INTERNAL.XviD-AFG [IPT]",
+            "size_total": 0.393485767,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000186188,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000244409,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000296855,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000202385,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.XviD-AFG/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.39255475,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.XviD-AFG/The.Good.Fight.S02E02.INTERNAL.XviD-AFG.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.00000118,
+                    "path": "The.Good.Fight.S02E02.INTERNAL.XviD-AFG/The.Good.Fight.S02E02.INTERNAL.XviD-AFG.nfo"
+                }
+            ]
+        },
+        {
+            "id": 44,
+            "name": "The.Good.Fight.S02E02.WEBRip.x264-ION10-[rarbg.to]",
+            "size_total": 0.512775367,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Good.Fight.S02E02.WEBRip.x264-ION10/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000066667,
+                    "path": "The.Good.Fight.S02E02.WEBRip.x264-ION10/Subs/2_Eng.srt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000070014,
+                    "path": "The.Good.Fight.S02E02.WEBRip.x264-ION10/Subs/3_Eng.srt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.512638656,
+                    "path": "The.Good.Fight.S02E02.WEBRip.x264-ION10/The.Good.Fight.S02E02.WEBRip.x264-ION10.mp4"
+                }
+            ]
+        },
+        {
+            "id": 45,
+            "name": "The.Good.Fight.S02E02.WEBRip.x264-TBS [IPT]",
+            "size_total": 0.273470999,
+            "files_total": 16,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 6.5e-8,
+                    "path": "The.Good.Fight.S02E02.WEBRip.x264-TBS/the.good.fight.s02e02.webrip.x264-tbs.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.02,
+                    "path": "The.Good.Fight.S02E02.WEBRip.x264-TBS/the.good.fight.s02e02.webrip.x264-tbs.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.02,
+                    "path": "The.Good.Fight.S02E02.WEBRip.x264-TBS/the.good.fight.s02e02.webrip.x264-tbs.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.02,
+                    "path": "The.Good.Fight.S02E02.WEBRip.x264-TBS/the.good.fight.s02e02.webrip.x264-tbs.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.02,
+                    "path": "The.Good.Fight.S02E02.WEBRip.x264-TBS/the.good.fight.s02e02.webrip.x264-tbs.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.02,
+                    "path": "The.Good.Fight.S02E02.WEBRip.x264-TBS/the.good.fight.s02e02.webrip.x264-tbs.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.02,
+                    "path": "The.Good.Fight.S02E02.WEBRip.x264-TBS/the.good.fight.s02e02.webrip.x264-tbs.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.02,
+                    "path": "The.Good.Fight.S02E02.WEBRip.x264-TBS/the.good.fight.s02e02.webrip.x264-tbs.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.02,
+                    "path": "The.Good.Fight.S02E02.WEBRip.x264-TBS/the.good.fight.s02e02.webrip.x264-tbs.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.02,
+                    "path": "The.Good.Fight.S02E02.WEBRip.x264-TBS/the.good.fight.s02e02.webrip.x264-tbs.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.02,
+                    "path": "The.Good.Fight.S02E02.WEBRip.x264-TBS/the.good.fight.s02e02.webrip.x264-tbs.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.02,
+                    "path": "The.Good.Fight.S02E02.WEBRip.x264-TBS/the.good.fight.s02e02.webrip.x264-tbs.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.02,
+                    "path": "The.Good.Fight.S02E02.WEBRip.x264-TBS/the.good.fight.s02e02.webrip.x264-tbs.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.013470206,
+                    "path": "The.Good.Fight.S02E02.WEBRip.x264-TBS/the.good.fight.s02e02.webrip.x264-tbs.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.02,
+                    "path": "The.Good.Fight.S02E02.WEBRip.x264-TBS/the.good.fight.s02e02.webrip.x264-tbs.rar"
+                },
+                {
+                    "number": 16,
+                    "size": 7.28e-7,
+                    "path": "The.Good.Fight.S02E02.WEBRip.x264-TBS/the.good.fight.s02e02.webrip.x264-tbs.sfv"
+                }
+            ]
+        },
+        {
+            "id": 46,
+            "name": "The.Good.Fight.S02E02.WEBRip.x264-TBS[rartv]-[rarbg.to]",
+            "size_total": 0.273468719,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Good.Fight.S02E02.WEBRip.x264-TBS[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.273468624,
+                    "path": "The.Good.Fight.S02E02.WEBRip.x264-TBS[rarbg]/the.good.fight.s02e02.webrip.x264-tbs.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 6.5e-8,
+                    "path": "The.Good.Fight.S02E02.WEBRip.x264-TBS[rarbg]/the.good.fight.s02e02.webrip.x264-tbs.nfo"
+                }
+            ]
+        },
+        {
+            "id": 47,
+            "name": "The.Good.Fight.S02E02.XviD-AFG [IPT]",
+            "size_total": 0.42848742,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000229563,
+                    "path": "The.Good.Fight.S02E02.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000260218,
+                    "path": "The.Good.Fight.S02E02.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000323379,
+                    "path": "The.Good.Fight.S02E02.XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000214782,
+                    "path": "The.Good.Fight.S02E02.XviD-AFG/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.427458316,
+                    "path": "The.Good.Fight.S02E02.XviD-AFG/The.Good.Fight.S02E02.XviD-AFG.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001162,
+                    "path": "The.Good.Fight.S02E02.XviD-AFG/The.Good.Fight.S02E02.XviD-AFG.nfo"
+                }
+            ]
+        },
+        {
+            "id": 48,
+            "name": "Хорошая борьба The Good Fight Сезон 2 Серии 1 из 13 (Брук Кеннеди) [2018, США, Драма, WEBRip 720p] DVO (Gears Media) + Ori [rutracker-5532044]",
+            "size_total": 1.096778404,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.096778404,
+                    "path": "The Good Fight S02 (2018) 720p WEBRip (Gears Media)/The Good Fight S02E01 (2018) 720p WEBRip (Gears Media).mkv"
+                }
+            ]
+        },
+        {
+            "id": 49,
+            "name": "Хорошая борьба The Good Fight Сезон 2 Серии 1 из 13 (Брук Кеннеди) [2018, США, Драма, WEBRip] DVO (Gears Media) + Original [rutracker-5532068]",
+            "size_total": 0.657951538,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.657951538,
+                    "path": "The Good Fight S02 (2018) WEBRip (Gears Media)/The Good Fight S02E01 (2018) WEBRip (Gears Media).avi"
+                }
+            ]
+        },
+        {
+            "id": 50,
+            "name": "傲骨之战.The.Good.Fight.S02E02.720p.WEB.x264.双语字幕精校版-深影字幕组.mp4.feb9b6d844c4c3f8",
+            "size_total": 0.502180967,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.502180967,
+                    "path": "傲骨之战.The.Good.Fight.S02E02.720p.WEB.x264.双语字幕精校版-深影字幕组.mp4"
+                }
+            ]
+        }
+    ],
+    "collection_cumulative_by_btiha": [
+        {
+            "id": 53,
+            "name": "multi-btih-2-2-x-[limetorrents.cc]The.Good.Fight.S02E02.INTERNAL.WEB.H264-DEFLATE.EZTV",
+            "btih": "8db3d04f53a71fad51ea7065f0f9cb95aff79d51",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.235629287,
+            "creation": "2018-03-11T07:10:07.000000000Z,EZTV,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 85719,
+            "uuploaders": 49708
+        },
+        {
+            "id": 52,
+            "name": "multi-btih-1-2-x-[limetorrents.cc]The.Good.Fight.S02E02.INTERNAL.720p.WEB.H264-DEFLATE.EZTV",
+            "btih": "828337dc44ec7e9f5a504316a883c0741a9992ae",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.052227291,
+            "creation": "2018-03-11T07:14:13.000000000Z,EZTV,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 23814,
+            "uuploaders": 15246
+        },
+        {
+            "id": 55,
+            "name": "multi-btih-4-2-x-the-good-fight-s02e02-internal-web-h264-deflate",
+            "btih": "983a7d2a2484efe52de9a0e9b921182a668f9b93",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.235629765,
+            "creation": "2018-03-11T07:08:27.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 20994,
+            "uuploaders": 10419
+        },
+        {
+            "id": 51,
+            "name": "multi-btih-0-3-x-[limetorrents.cc]The.Good.Fight.S02E02.INTERNAL.720p.WEB.H264-DEFLATE",
+            "btih": "b880ea0e767b60ed97b132ff6fe88bc470c8c48c",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.052227852,
+            "creation": "2018-03-11T07:09:55.000000000Z,RARBG,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 13122,
+            "uuploaders": 8630
+        },
+        {
+            "id": 46,
+            "name": "The.Good.Fight.S02E02.WEBRip.x264-TBS[rartv]-[rarbg.to]",
+            "btih": "6717d4ecc7e7cd18fc10f81062c23a9d7be412fc",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.273468719,
+            "creation": "2018-03-11T10:14:36.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 12487,
+            "uuploaders": 7208
+        },
+        {
+            "id": 54,
+            "name": "multi-btih-3-2-x-the-good-fight-s02e02-internal-1080p-web-h264-deflate",
+            "btih": "80b3ff65401a7e7c45cd7e9b469c6ee0b969b136",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 3.283934248,
+            "creation": "2018-03-11T07:14:48.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 10853,
+            "uuploaders": 6056
+        },
+        {
+            "id": 44,
+            "name": "The.Good.Fight.S02E02.WEBRip.x264-ION10-[rarbg.to]",
+            "btih": "1cdbdc5e37ae8c38142de8eb852fda734bc9f706",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.512775367,
+            "creation": "2018-03-11T07:21:08.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 7798,
+            "uuploaders": 4536
+        },
+        {
+            "id": 10,
+            "name": "[limetorrents.cc]The.Good.Fight.S02E02.INTERNAL.WEB.H264-DEFLATE[ettv]",
+            "btih": "32dfb979805070d0cfe32c65f2f73fddcfa9d46c",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.23562948,
+            "creation": "2018-03-11T07:10:08.000000000Z,mktorrent 1.0,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 7389,
+            "uuploaders": 3501
+        },
+        {
+            "id": 29,
+            "name": "The.Good.Fight.S02E02.720p.WEBRip.x264-TBS[rartv]-[rarbg.to]",
+            "btih": "13a6f921de1bb8dd14ea9b3483decf3a9bbbd399",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.893843442,
+            "creation": "2018-03-11T10:00:37.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 6568,
+            "uuploaders": 3411
+        },
+        {
+            "id": 11,
+            "name": "[limetorrents.cc]The.Good.Fight.S02E02.WEBRip.x264-TBS[ettv]",
+            "btih": "0f9f017be46dccaa2a5e5266daa9b5e5980eda6f",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.273468817,
+            "creation": "2018-03-11T10:18:08.000000000Z,mktorrent 1.0,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 5627,
+            "uuploaders": 2672
+        },
+        {
+            "id": 7,
+            "name": "[limetorrents.cc]The.Good.Fight.S02E02.INTERNAL.720p.WEB.H264-DEFLATE[ettv]",
+            "btih": "bbb95994177fd784cbe8a422487dc45d388abb17",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.05222747,
+            "creation": "2018-03-11T07:12:09.000000000Z,mktorrent 1.0,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 3284,
+            "uuploaders": 1855
+        },
+        {
+            "id": 26,
+            "name": "The.Good.Fight.S02E02.720p.AMZN.WEBRip.DDP5.1.x264-RTFM[rartv]-[rarbg.to]",
+            "btih": "f8a7abfaa4cc0747c50a7b12e0f29e33ae6717b4",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.910149622,
+            "creation": "2018-03-12T06:51:42.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2718,
+            "uuploaders": 1481
+        },
+        {
+            "id": 2,
+            "name": "[limetorrents.cc]The.Good.Fight.S02E02.Day.415.720p.WEBRip.2CH.x265.HEVC-PSA",
+            "btih": "e36421237e5cd1afe0a9dd6d030b4d0f6be45b8a",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.206932555,
+            "creation": "2018-03-11T09:41:48.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2666,
+            "uuploaders": 1390
+        },
+        {
+            "id": 24,
+            "name": "The.Good.Fight.S02E01.720p.AMZN.WEBRip.DDP5.1.x264-RTFM[rartv]-[rarbg.to]",
+            "btih": "05bb25d50cec89919208ce8047583f13ba1fef8b",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.850814097,
+            "creation": "2018-03-12T06:45:13.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2196,
+            "uuploaders": 1225
+        },
+        {
+            "id": 20,
+            "name": "[rutor.is]The_Good_Fight_S02E01_720p_ColdFilm_mkv_torrent",
+            "btih": "ae771ef349638734395231c7e15a2dcd2f5268a0",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 1.602689432,
+            "creation": "2018-03-04T14:47:58.000000000Z,uTorrent/3.5.3,http://rutor.is/torrent/617071",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1978,
+            "uuploaders": 1409
+        },
+        {
+            "id": 15,
+            "name": "[rutor.is]The.Good.Fight.S02.WEBRip",
+            "btih": "db6f0b307ed5f51b2cb66547baca7a1d36398f40",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.7303168,
+            "creation": "2018-03-07T17:31:25.000000000Z,uTorrent/2040,http://rutor.is/torrent/617742",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1892,
+            "uuploaders": 1211
+        },
+        {
+            "id": 19,
+            "name": "[rutor.is]The_Good_Fight_S02E01_400p_ColdFilm_avi_torrent",
+            "btih": "1f2625aefa75d2a7b9018fd325155b675a4650dd",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.65835638,
+            "creation": "2018-03-04T14:50:17.000000000Z,uTorrent/3.5.3,http://rutor.is/torrent/617070",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1745,
+            "uuploaders": 1230
+        },
+        {
+            "id": 3,
+            "name": "[limetorrents.cc]The.Good.Fight.S02E02.INTERNAL.1080p.HEVC.x265-MeGusta",
+            "btih": "55bfaf4cd72a9e33a49f70791cfe5ca977a6daa0",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.579017712,
+            "creation": "2018-03-12T02:10:12.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1694,
+            "uuploaders": 1067
+        },
+        {
+            "id": 1,
+            "name": "[limetorrents.cc]The.Good.Fight.s02.HD720p.WEBRip.Rus.Eng.BaibaKo.tv",
+            "btih": "48fd17da7c68f2df46bc64c08b2e8036ee68ab6a",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 1.422892321,
+            "creation": "2018-03-05T10:10:04.000000000Z,torrent,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1569,
+            "uuploaders": 1013
+        },
+        {
+            "id": 18,
+            "name": "[rutor.is]The_Good_Fight_S02E01_1080p_ColdFilm_mkv_torren",
+            "btih": "1648131578a66107dd75218feb94f50acf108eac",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 2.137296669,
+            "creation": "2018-03-04T14:46:57.000000000Z,uTorrent/3.5.3,http://rutor.is/torrent/617073",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1547,
+            "uuploaders": 910
+        },
+        {
+            "id": 8,
+            "name": "[limetorrents.cc]The.Good.Fight.S02E02.INTERNAL.720p.WEB.x264-worldmkv",
+            "btih": "727a3a579b9582d4ccbe19b59be8cd21a195e11a",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.387123151,
+            "creation": "2018-03-12T09:02:30.000000000Z,ruTorrent (PHP Class - Adrien Gibrat),Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1500,
+            "uuploaders": 989
+        },
+        {
+            "id": 17,
+            "name": "[rutor.is]The_Good_Fight_S02_2018_WEBRip_Gears_Media",
+            "btih": "dfae15b649c08716228e3887996ac219ad50072c",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.612688888,
+            "creation": "2018-03-10T12:31:47.000000000Z,BitTorrent/7.10.3,http://rutor.is/torrent/618425",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1356,
+            "uuploaders": 986
+        },
+        {
+            "id": 4,
+            "name": "[limetorrents.cc]The.Good.Fight.S02E02.INTERNAL.1080p.WEB.x264-worldmkv",
+            "btih": "efa8b404edfc0815e602d2ead4e5df306c86e0f3",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 0.660626746,
+            "creation": "2018-03-12T09:02:19.000000000Z,ruTorrent (PHP Class - Adrien Gibrat),Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1271,
+            "uuploaders": 853
+        },
+        {
+            "id": 16,
+            "name": "[rutor.is]The_Good_Fight_S02_2018_720p_WEBRip_Gears_Media",
+            "btih": "bb0a2182ce40388f93dbf3effd7cbc4bbe486080",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 1.101269792,
+            "creation": "2018-03-10T11:19:22.000000000Z,BitTorrent/7.10.3,http://rutor.is/torrent/618407",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1268,
+            "uuploaders": 931
+        },
+        {
+            "id": 14,
+            "name": "[rutor.is]The.Good.Fight.S02.WEBRip.720p",
+            "btih": "350ba40e85285b384740451598f4023022d99d80",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 1.987743307,
+            "creation": "2018-03-07T17:28:07.000000000Z,uTorrent/2040,http://rutor.is/torrent/617744",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1228,
+            "uuploaders": 801
+        },
+        {
+            "id": 13,
+            "name": "[rutor.is]The.Good.Fight.S02.WEBRip.1080p",
+            "btih": "0e9e0069f5bcb4baeb66b27eb7a76cc67a23dcaa",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 2.938816985,
+            "creation": "2018-03-07T17:27:54.000000000Z,uTorrent/2040,http://rutor.is/torrent/617745",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1079,
+            "uuploaders": 623
+        },
+        {
+            "id": 48,
+            "name": "Хорошая борьба The Good Fight Сезон 2 Серии 1 из 13 (Брук Кеннеди) [2018, США, Драма, WEBRip 720p] DVO (Gears Media) + Ori [rutracker-5532044]",
+            "btih": "1ff3c053dfb8272aa269a137d1eeec7f07b514d8",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 1.096778404,
+            "creation": "2018-03-10T11:17:24.000000000Z,BitTorrent/7.10.3,https://rutracker.org/forum/viewtopic.php?t=5532044",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1057,
+            "uuploaders": 543
+        },
+        {
+            "id": 50,
+            "name": "傲骨之战.The.Good.Fight.S02E02.720p.WEB.x264.双语字幕精校版-深影字幕组.mp4.feb9b6d844c4c3f8",
+            "btih": "feb9b6d844c4c3f8142fa4de0dbff098c9982aa9",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.502180967,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1046,
+            "uuploaders": 431
+        },
+        {
+            "id": 49,
+            "name": "Хорошая борьба The Good Fight Сезон 2 Серии 1 из 13 (Брук Кеннеди) [2018, США, Драма, WEBRip] DVO (Gears Media) + Original [rutracker-5532068]",
+            "btih": "b35376127611c5dde5ca390507d2d9fe19a25221",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.657951538,
+            "creation": "2018-03-10T12:29:20.000000000Z,BitTorrent/7.10.3,https://rutracker.org/forum/viewtopic.php?t=5532068",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1041,
+            "uuploaders": 578
+        },
+        {
+            "id": 36,
+            "name": "The.Good.Fight.S02E02.INTERNAL.720p.WEB.H264-DEFLATE [IPT]",
+            "btih": "11eed0f960fca5a562e32329a55a169b95974600",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.052232222,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 884,
+            "uuploaders": 578
+        },
+        {
+            "id": 32,
+            "name": "The.Good.Fight.S02E02.INTERNAL.1080p.WEB.H264-DEFLATE [IPT]",
+            "btih": "38f090bf4146b163e28ecd31bc75a8341bdc2c7d",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 3.283948078,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 589,
+            "uuploaders": 388
+        },
+        {
+            "id": 47,
+            "name": "The.Good.Fight.S02E02.XviD-AFG [IPT]",
+            "btih": "1d529ab5e675912a3fd5955c96171c38d75c40d9",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.42848742,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 504,
+            "uuploaders": 359
+        },
+        {
+            "id": 27,
+            "name": "The.Good.Fight.S02E02.720p.HEVC.x265-MeGusta [IPT]",
+            "btih": "5dc33e6250b3b60b298b85c0a785e5b6671e6909",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.263961134,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 484,
+            "uuploaders": 243
+        },
+        {
+            "id": 28,
+            "name": "The.Good.Fight.S02E02.720p.WEBRip.x264-TBS [IPT]",
+            "btih": "a5c0ba588c345d5835f7d7a149fcd307f3a9c5a9",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.893846598,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 383,
+            "uuploaders": 204
+        },
+        {
+            "id": 12,
+            "name": "[limetorrents.cc]The.Good.Wife.S02E02.720p.HDTV.x264-DIMENSION",
+            "btih": "5726191bcb66e41488d9b637a2fee67c90869f03",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.172746152,
+            "creation": "2010-10-10T16:10:10.000000000Z,thepiratebay.org/user/-jonny-  |  hd.hexagon.cc  |  thepiratebay.org/user/GoodFilms,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 320,
+            "uuploaders": 50
+        },
+        {
+            "id": 43,
+            "name": "The.Good.Fight.S02E02.INTERNAL.XviD-AFG [IPT]",
+            "btih": "da0fec3992f60342e4b15ec0cbb62e2ba51ca75e",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.393485767,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 212,
+            "uuploaders": 173
+        },
+        {
+            "id": 40,
+            "name": "The.Good.Fight.S02E02.INTERNAL.WEB.H264-DEFLATE [IPT]",
+            "btih": "9636da3518b27a20c0c367e75b42df00c515f85a",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.235632787,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 188,
+            "uuploaders": 154
+        },
+        {
+            "id": 31,
+            "name": "The.Good.Fight.S02E02.INTERNAL.1080p.HEVC.x265-MeGusta [IPT]",
+            "btih": "c917b4b34d9bb307e15824327e1fec53e36a650b",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.579017628,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 165,
+            "uuploaders": 126
+        },
+        {
+            "id": 30,
+            "name": "The.Good.Fight.S02E02.AAC.MP4-Mobile [IPT]",
+            "btih": "4d1e9ed04269158707839076111f8dda1985be81",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.155975766,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 142,
+            "uuploaders": 107
+        },
+        {
+            "id": 35,
+            "name": "The.Good.Fight.S02E02.INTERNAL.720p.HEVC.x265-MeGusta [IPT]",
+            "btih": "745c2f2765650e533ba139ded1bbc428c29b6cdb",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.251611823,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 139,
+            "uuploaders": 106
+        },
+        {
+            "id": 34,
+            "name": "The.Good.Fight.S02E02.INTERNAL.480p.x264-mSD [IPT]",
+            "btih": "c81a0271f39f0b4e337dfa89893f44eacacd35d8",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.144684825,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 136,
+            "uuploaders": 116
+        },
+        {
+            "id": 25,
+            "name": "The.Good.Fight.S02E02.480p.x264-mSD [IPT]",
+            "btih": "a66c9217ec835c3f223f18800fdeaf65e7a0be46",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.154413357,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 128,
+            "uuploaders": 95
+        },
+        {
+            "id": 45,
+            "name": "The.Good.Fight.S02E02.WEBRip.x264-TBS [IPT]",
+            "btih": "7f7af1aa88806820643587a5ea2d4f79a5d9b606",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.273470999,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 108,
+            "uuploaders": 88
+        },
+        {
+            "id": 39,
+            "name": "The.Good.Fight.S02E02.INTERNAL.AAC.MP4-Mobile [IPT]",
+            "btih": "4163ee0cf52d47902b4cf54cb49e81f405b37b2f",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.154417357,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 101,
+            "uuploaders": 51
+        }
+    ]
+}
