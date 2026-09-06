@@ -1,0 +1,14 @@
+{
+  "collection_key": "maniac-01",
+  "day_products": 109,
+  "first_date": "2018-09-21",
+  "first_index": 1,
+  "geojson_data_version": "20260701",
+  "ip_geolocation_version": "6:1777968300",
+  "json_data_version": "2026-08-05",
+  "last_date": "2019-01-10",
+  "last_index": 112,
+  "schema": "alpha60-day-product-contract/1",
+  "sparse": true,
+  "status": "pass"
+}
