@@ -1,0 +1,4393 @@
+{
+    "collection_name": "The Handmaid's Tale",
+    "collection_id": "201, 202",
+    "collection_key": "handmaids-tale-201",
+    "collection_notes": "",
+    "data_version": "2026-08-05",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "6:1777968300",
+    "collection_btiha_duplicates": [
+        {
+            "duplicate_id": 0,
+            "duplicate_btih": "4a51621af463f85baa05de3f1de654ca7c730430",
+            "duplicate_0_0": "[limetorrents.cc]The.Handmaids.Tale.S02E01.June.1080p.HULU.WEBRip.AAC2.0.H264-NTb",
+            "duplicate_0_1": "The.Handmaids.Tale.S02E01.June.1080p.HULU.WEBRip.AAC2.0.H264-NTb[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 1,
+            "duplicate_btih": "45028f841fa80856d953f4eb9e31287ff26cf028",
+            "duplicate_1_0": "[limetorrents.cc]The.Handmaids.Tale.S02E01.June.720p.HULU.WEBRip.AAC2.0.H264-NTb",
+            "duplicate_1_1": "The.Handmaids.Tale.S02E01.June.720p.HULU.WEBRip.AAC2.0.H264-NTb[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 2,
+            "duplicate_btih": "083133fcc54d5b2e89e696ab0203b3fdba65ba84",
+            "duplicate_2_0": "[limetorrents.cc]The.Handmaids.Tale.S02E01.WEBRip.x264-ION10",
+            "duplicate_2_1": "The.Handmaids.Tale.S02E01.WEBRip.x264-ION10-[rarbg.to]",
+            "duplicate_2_2": "The.Handmaids.Tale.S02E01.WEBRip.x264-ION10.083133fcc54d5b2e"
+        },
+        {
+            "duplicate_id": 3,
+            "duplicate_btih": "1ddcfd94da456c5161698234855b1bf9e9c47b68",
+            "duplicate_3_0": "[limetorrents.cc]The.Handmaids.Tale.S02E02.720p.WEBRip.x264-TBS.EZTV",
+            "duplicate_3_1": "The.Handmaids.Tale.S02E02.720p.WEBRip.x264-TBS[eztv].mkv"
+        },
+        {
+            "duplicate_id": 4,
+            "duplicate_btih": "fafdc21b087e106e6760754d53877eea096ae6e2",
+            "duplicate_4_0": "[limetorrents.cc]The.Handmaids.Tale.S02E02.Unwomen.1080p.HULU.WEBRip.AAC2.0.H264-",
+            "duplicate_4_1": "The.Handmaids.Tale.S02E02.Unwomen.1080p.HULU.WEBRip.AAC2.0.H264-NTb[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 5,
+            "duplicate_btih": "4aaf242ecfc41d5752c779262770dcdb48212919",
+            "duplicate_5_0": "[limetorrents.cc]The.Handmaids.Tale.S02E02.Unwomen.720p.HULU.WEBRip.AAC2.0.H264-B",
+            "duplicate_5_1": "The.Handmaids.Tale.S02E02.Unwomen.720p.HULU.WEBRip.AAC2.0.H264-BTW[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 6,
+            "duplicate_btih": "519e53febc0c30b67fd81ed21b969c30d6e82b05",
+            "duplicate_6_0": "[limetorrents.cc]The.Handmaids.Tale.S02E02.WEBRip.x264-ION10",
+            "duplicate_6_1": "The.Handmaids.Tale.S02E02.WEBRip.x264-ION10-[rarbg.to]",
+            "duplicate_6_2": "The.Handmaids.Tale.S02E02.WEBRip.x264-ION10.519e53febc0c30b6"
+        },
+        {
+            "duplicate_id": 7,
+            "duplicate_btih": "0986287c27883fdb899e66457b19fbca65f6f184",
+            "duplicate_7_0": "[limetorrents.cc]The.Handmaids.Tale.S02E02.WEBRip.x264-TBS.EZTV",
+            "duplicate_7_1": "The.Handmaids.Tale.S02E02.WEBRip.x264-TBS[eztv].mkv"
+        }
+    ],
+    "collection_btiha_metadata": [
+        {
+            "id": 1,
+            "name": "[limetorrents.cc]The.Handmaids.Tale.S02E01.1080p.HEVC.x265-MeGusta",
+            "size_total": 0.657808025,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.001151238,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S02E01.1080p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.001112149,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S02E01.1080p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001270101,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S02E01.1080p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001081902,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S02E01.1080p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.653191327,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S02E01.1080p.HEVC.x265-MeGusta/The.Handmaids.Tale.S02E01.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001224,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S02E01.1080p.HEVC.x265-MeGusta/The.Handmaids.Tale.S02E01.1080p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 7,
+                    "size": 8.4e-8,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S02E01.1080p.HEVC.x265-MeGusta/Torrent Downloaded From WWW.TORRENTING.COM.txt"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "[limetorrents.cc]The.Handmaids.Tale.S02E01.1080p.HULU.WEB-DL.2.0.HEVC.x265-GIRAYS",
+            "size_total": 0.568286128,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.568286128,
+                    "path": "The.Handmaids.Tale.S02E01.June.1080p.HULU.WEB-DL.2.0.HEVC.x265-GIRAYS.mkv"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "[limetorrents.cc]The.Handmaids.Tale.S02E01.1080p.WEBRip.x264-TBS",
+            "size_total": 1.691822086,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.001088725,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S02E01.1080p.WEBRip.x264-TBS/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000716442,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S02E01.1080p.WEBRip.x264-TBS/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001308515,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S02E01.1080p.WEBRip.x264-TBS/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000678918,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S02E01.1080p.WEBRip.x264-TBS/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 1.688029263,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S02E01.1080p.WEBRip.x264-TBS/the.handmaids.tale.s02e01.1080p.webrip.x264-tbs.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 1.1e-7,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S02E01.1080p.WEBRip.x264-TBS/the.handmaids.tale.s02e01.1080p.webrip.x264-tbs.nfo"
+                },
+                {
+                    "number": 7,
+                    "size": 1.13e-7,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S02E01.1080p.WEBRip.x264-TBS/Torrent Downloaded From www.Torrenting.com.txt"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "[limetorrents.cc]The.Handmaids.Tale.S02E01.480p.x264-mSD",
+            "size_total": 0.175468212,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000135262,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S02E01.480p.x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000105082,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S02E01.480p.x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000126781,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S02E01.480p.x264-mSD/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000143768,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S02E01.480p.x264-mSD/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.174956047,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S02E01.480p.x264-mSD/The.Handmaids.Tale.S02E01.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001188,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S02E01.480p.x264-mSD/The.Handmaids.Tale.S02E01.480p.x264-mSD.nfo"
+                },
+                {
+                    "number": 7,
+                    "size": 8.4e-8,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S02E01.480p.x264-mSD/Torrent Downloaded From WWW.TORRENTING.COM.txt"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "[limetorrents.cc]The.Handmaids.Tale.S02E01.720p.HEVC.x265-MeGusta",
+            "size_total": 0.252259336,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000422219,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S02E01.720p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000243551,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S02E01.720p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000652425,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S02E01.720p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000145208,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S02E01.720p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.250794649,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S02E01.720p.HEVC.x265-MeGusta/The.Handmaids.Tale.S02E01.720p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.0000012,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S02E01.720p.HEVC.x265-MeGusta/The.Handmaids.Tale.S02E01.720p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 7,
+                    "size": 8.4e-8,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S02E01.720p.HEVC.x265-MeGusta/Torrent Downloaded From WWW.TORRENTING.COM.txt"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "[limetorrents.cc]The.Handmaids.Tale.S02E01.720p.WEBRip.x264-TBS[ettv]",
+            "size_total": 1.045519592,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.79e-7,
+                    "path": "The.Handmaids.Tale.S02E01.720p.WEBRip.x264-TBS[ettv]/Downloaded from www.ETTV.tv .txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.045519413,
+                    "path": "The.Handmaids.Tale.S02E01.720p.WEBRip.x264-TBS[ettv]/the.handmaids.tale.s02e01.720p.webrip.x264-tbs[ettv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "[limetorrents.cc]The.Handmaids.Tale.S02E01.720p.WEBRip.x264-TBS[N1C]",
+            "size_total": 1.045519487,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 7.4e-8,
+                    "path": "The.Handmaids.Tale.S02E01.720p.WEBRip.x264-TBS[N1C]/the.handmaids.tale.s02e01.720p.webrip.x264-tbs.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 1.045519413,
+                    "path": "The.Handmaids.Tale.S02E01.720p.WEBRip.x264-TBS[N1C]/the.handmaids.tale.s02e01.720p.webrip.x264-tbs[N1C].mkv"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "[limetorrents.cc]The.Handmaids.Tale.S02E01.720p.WEBRip.x264",
+            "size_total": 0.469449343,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.469448952,
+                    "path": "[TorrentCouch.com].The.Handmaids.Tale.S02E01.720p.WEBRip.x264.[440MB].[MP4]/[TorrentCouch.com].The.Handmaids.Tale.S02E01.720p.WEBRip.x264.[440MB].mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 2.01e-7,
+                    "path": "[TorrentCouch.com].The.Handmaids.Tale.S02E01.720p.WEBRip.x264.[440MB].[MP4]/Download HD & BluRay Movies from TorrentCounter.to .txt"
+                },
+                {
+                    "number": 3,
+                    "size": 1.9e-7,
+                    "path": "[TorrentCouch.com].The.Handmaids.Tale.S02E01.720p.WEBRip.x264.[440MB].[MP4]/Download Daily Updated TV Shows from TorrentCouch.com.txt"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "[limetorrents.cc]The.Handmaids.Tale.S02E01.June.1080p.HULU.WEBRip.AAC2.0.H264-NTb",
+            "size_total": 1.847745466,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Handmaids.Tale.S02E01.June.1080p.HULU.WEBRip.AAC2.0.H264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.847745436,
+                    "path": "The.Handmaids.Tale.S02E01.June.1080p.HULU.WEBRip.AAC2.0.H264-NTb[rarbg]/The.Handmaid's.Tale.S02E01.June.1080p.HULU.WEB-DL.AAC2.0.H.264-NTb.mkv"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "[limetorrents.cc]The.Handmaids.Tale.S02E01.June.720p.HULU.WEB-DL",
+            "size_total": 0.473016547,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.473016547,
+                    "path": "The.Handmaids.Tale.S02E01.June.720p.HULU.WEB-DL.MkvCage.Com.mkv"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "[limetorrents.cc]The.Handmaids.Tale.S02E01.June.720p.HULU.WEBRip.AAC2.0.H264-NTb",
+            "size_total": 0.727765161,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Handmaids.Tale.S02E01.June.720p.HULU.WEBRip.AAC2.0.H264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.727765131,
+                    "path": "The.Handmaids.Tale.S02E01.June.720p.HULU.WEBRip.AAC2.0.H264-NTb[rarbg]/The.Handmaid's.Tale.S02E01.June.720p.HULU.WEB-DL.AAC2.0.H.264-NTb.mkv"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "[limetorrents.cc]The.Handmaids.Tale.S02E01.WEBRip.x264-ION10",
+            "size_total": 0.563259701,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Handmaids.Tale.S02E01.WEBRip.x264-ION10/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000041269,
+                    "path": "The.Handmaids.Tale.S02E01.WEBRip.x264-ION10/Subs/2_Eng.srt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000041146,
+                    "path": "The.Handmaids.Tale.S02E01.WEBRip.x264-ION10/Subs/3_Spa.srt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.563177256,
+                    "path": "The.Handmaids.Tale.S02E01.WEBRip.x264-ION10/The.Handmaids.Tale.S02E01.WEBRip.x264-ION10.mp4"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "[limetorrents.cc]The.Handmaids.Tale.S02E01.WEBRip.x264-TBS[N1C]",
+            "size_total": 0.266905637,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 6.9e-8,
+                    "path": "The.Handmaids.Tale.S02E01.WEBRip.x264-TBS[N1C]/the.handmaids.tale.s02e01.webrip.x264-tbs.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.266905568,
+                    "path": "The.Handmaids.Tale.S02E01.WEBRip.x264-TBS[N1C]/the.handmaids.tale.s02e01.webrip.x264-tbs[N1C].mkv"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "[limetorrents.cc]The.Handmaids.Tale.S02E01.XviD-AFG",
+            "size_total": 0.386129898,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000318653,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S02E01.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000098103,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S02E01.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000122957,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S02E01.XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000181407,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S02E01.XviD-AFG/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.385407526,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S02E01.XviD-AFG/The.Handmaids.Tale.S02E01.XviD-AFG.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001168,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S02E01.XviD-AFG/The.Handmaids.Tale.S02E01.XviD-AFG.nfo"
+                },
+                {
+                    "number": 7,
+                    "size": 8.4e-8,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S02E01.XviD-AFG/Torrent Downloaded From WWW.TORRENTING.COM.txt"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "[limetorrents.cc]The.Handmaids.Tale.S02E01.XviD-AFG[TGx]",
+            "size_total": 0.386130023,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000318653,
+                    "path": "The.Handmaids.Tale.S02E01.XviD-AFG[TGx]/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000098103,
+                    "path": "The.Handmaids.Tale.S02E01.XviD-AFG[TGx]/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000122957,
+                    "path": "The.Handmaids.Tale.S02E01.XviD-AFG[TGx]/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000181407,
+                    "path": "The.Handmaids.Tale.S02E01.XviD-AFG[TGx]/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.385407526,
+                    "path": "The.Handmaids.Tale.S02E01.XviD-AFG[TGx]/The.Handmaids.Tale.S02E01.XviD-AFG.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001168,
+                    "path": "The.Handmaids.Tale.S02E01.XviD-AFG[TGx]/The.Handmaids.Tale.S02E01.XviD-AFG.nfo"
+                },
+                {
+                    "number": 7,
+                    "size": 2.09e-7,
+                    "path": "The.Handmaids.Tale.S02E01.XviD-AFG[TGx]/[TGx]Downloaded_from_torrentgalaxy.org_.txt"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "[limetorrents.cc]The.Handmaids.Tale.S02E02.1080p.WEBRip.x264-TBS",
+            "size_total": 1.312789213,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000017384,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S02E02.1080p.WEBRip.x264-TBS/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000496902,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S02E02.1080p.WEBRip.x264-TBS/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000802653,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S02E02.1080p.WEBRip.x264-TBS/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.00062708,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S02E02.1080p.WEBRip.x264-TBS/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 1.310844971,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S02E02.1080p.WEBRip.x264-TBS/the.handmaids.tale.s02e02.1080p.webrip.x264-tbs.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 1.1e-7,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S02E02.1080p.WEBRip.x264-TBS/the.handmaids.tale.s02e02.1080p.webrip.x264-tbs.nfo"
+                },
+                {
+                    "number": 7,
+                    "size": 1.13e-7,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S02E02.1080p.WEBRip.x264-TBS/Torrent Downloaded From www.Torrenting.com.txt"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "[limetorrents.cc]The.Handmaids.Tale.S02E02.480p.x264-mSD",
+            "size_total": 0.167270973,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000366726,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S02E02.480p.x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000144679,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S02E02.480p.x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000081653,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S02E02.480p.x264-mSD/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000020064,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S02E02.480p.x264-mSD/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.166656578,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S02E02.480p.x264-mSD/The.Handmaids.Tale.S02E02.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001189,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S02E02.480p.x264-mSD/The.Handmaids.Tale.S02E02.480p.x264-mSD.nfo"
+                },
+                {
+                    "number": 7,
+                    "size": 8.4e-8,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S02E02.480p.x264-mSD/Torrent Downloaded From WWW.TORRENTING.COM.txt"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": "[limetorrents.cc]The.Handmaids.Tale.S02E02.720p.HEVC.x265-MeGusta",
+            "size_total": 0.229798301,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000020202,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S02E02.720p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000198492,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S02E02.720p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000282449,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S02E02.720p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000236172,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S02E02.720p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.229059701,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S02E02.720p.HEVC.x265-MeGusta/The.Handmaids.Tale.S02E02.720p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001201,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S02E02.720p.HEVC.x265-MeGusta/The.Handmaids.Tale.S02E02.720p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 7,
+                    "size": 8.4e-8,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S02E02.720p.HEVC.x265-MeGusta/Torrent Downloaded From WWW.TORRENTING.COM.txt"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "name": "[limetorrents.cc]The.Handmaids.Tale.S02E02.720p.WEBRip.x264-TBS.EZTV",
+            "size_total": 0.829413988,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.829413988,
+                    "path": "The.Handmaids.Tale.S02E02.720p.WEBRip.x264-TBS[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "name": "[limetorrents.cc]The.Handmaids.Tale.S02E02.720p.WEBRip.x264-TBS",
+            "size_total": 0.830500036,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000010877,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S02E02.720p.WEBRip.x264-TBS/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000295194,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S02E02.720p.WEBRip.x264-TBS/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000438395,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S02E02.720p.WEBRip.x264-TBS/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000341395,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S02E02.720p.WEBRip.x264-TBS/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.829413988,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S02E02.720p.WEBRip.x264-TBS/the.handmaids.tale.s02e02.720p.webrip.x264-tbs.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 7.4e-8,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S02E02.720p.WEBRip.x264-TBS/the.handmaids.tale.s02e02.720p.webrip.x264-tbs.nfo"
+                },
+                {
+                    "number": 7,
+                    "size": 1.13e-7,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S02E02.720p.WEBRip.x264-TBS/Torrent Downloaded From www.Torrenting.com.txt"
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "name": "[limetorrents.cc]The.Handmaids.Tale.S02E02.720p.WEBRip.x264-TBS[ettv]",
+            "size_total": 0.829414167,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.79e-7,
+                    "path": "The.Handmaids.Tale.S02E02.720p.WEBRip.x264-TBS[ettv]/Downloaded from www.ETTV.tv .txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.829413988,
+                    "path": "The.Handmaids.Tale.S02E02.720p.WEBRip.x264-TBS[ettv]/the.handmaids.tale.s02e02.720p.webrip.x264-tbs[ettv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "name": "[limetorrents.cc]The.Handmaids.Tale.S02E02.720p.WEBRip.x264-TBS[N1C]",
+            "size_total": 0.829414062,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 7.4e-8,
+                    "path": "The.Handmaids.Tale.S02E02.720p.WEBRip.x264-TBS[N1C]/the.handmaids.tale.s02e02.720p.webrip.x264-tbs.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.829413988,
+                    "path": "The.Handmaids.Tale.S02E02.720p.WEBRip.x264-TBS[N1C]/the.handmaids.tale.s02e02.720p.webrip.x264-tbs[N1C].mkv"
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "name": "[limetorrents.cc]The.Handmaids.Tale.S02E02.720p.WEBRip.x264-TBS[TGx]",
+            "size_total": 0.829415308,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.09e-7,
+                    "path": "The.Handmaids.Tale.S02E02.720p.WEBRip.x264-TBS[TGx]/[TGx]Downloaded_from_torrentgalaxy.org_.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.829413988,
+                    "path": "The.Handmaids.Tale.S02E02.720p.WEBRip.x264-TBS[TGx]/the.handmaids.tale.s02e02.720p.webrip.x264-tbs.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 7.4e-8,
+                    "path": "The.Handmaids.Tale.S02E02.720p.WEBRip.x264-TBS[TGx]/the.handmaids.tale.s02e02.720p.webrip.x264-tbs.nfo"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000001037,
+                    "path": "The.Handmaids.Tale.S02E02.720p.WEBRip.x264-TBS[TGx]/the.handmaids.tale.s02e02.720p.webrip.x264-tbs.sfv"
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "name": "[limetorrents.cc]The.Handmaids.Tale.S02E02.720p.WEBRip.x264",
+            "size_total": 0.460438404,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.460438013,
+                    "path": "[TorrentCouch.com].The.Handmaids.Tale.S02E02.720p.WEBRip.x264.[440MB].[MP4]/[TorrentCouch.com].The.Handmaids.Tale.S02E02.720p.WEBRip.x264.[440MB].mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 2.01e-7,
+                    "path": "[TorrentCouch.com].The.Handmaids.Tale.S02E02.720p.WEBRip.x264.[440MB].[MP4]/Download HD & BluRay Movies from TorrentCounter.to .txt"
+                },
+                {
+                    "number": 3,
+                    "size": 1.9e-7,
+                    "path": "[TorrentCouch.com].The.Handmaids.Tale.S02E02.720p.WEBRip.x264.[440MB].[MP4]/Download Daily Updated TV Shows from TorrentCouch.com.txt"
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "name": "[limetorrents.cc]The.Handmaids.Tale.S02E02.Unwomen.1080p.HULU.WEBRip.AAC2.0.H264-",
+            "size_total": 1.37873802,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Handmaids.Tale.S02E02.Unwomen.1080p.HULU.WEBRip.AAC2.0.H264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.37873799,
+                    "path": "The.Handmaids.Tale.S02E02.Unwomen.1080p.HULU.WEBRip.AAC2.0.H264-NTb[rarbg]/The.Handmaid's.Tale.S02E02.Unwomen.1080p.HULU.WEB-DL.AAC2.0.H.264-NTb.mkv"
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "name": "[limetorrents.cc]The.Handmaids.Tale.S02E02.Unwomen.720p.HULU.WEBRip.AAC2.0.H264-B",
+            "size_total": 0.584517134,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Handmaids.Tale.S02E02.Unwomen.720p.HULU.WEBRip.AAC2.0.H264-BTW[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.584517104,
+                    "path": "The.Handmaids.Tale.S02E02.Unwomen.720p.HULU.WEBRip.AAC2.0.H264-BTW[rarbg]/The.Handmaid's.Tale.S02E02.Unwomen.720p.HULU.WEB-DL.AAC2.0.H.264-BTW.mkv"
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "name": "[limetorrents.cc]The.Handmaids.Tale.S02E02.WEBRip.x264-ION10",
+            "size_total": 0.553863521,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Handmaids.Tale.S02E02.WEBRip.x264-ION10/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000036045,
+                    "path": "The.Handmaids.Tale.S02E02.WEBRip.x264-ION10/Subs/2_Eng.srt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000035079,
+                    "path": "The.Handmaids.Tale.S02E02.WEBRip.x264-ION10/Subs/3_Spa.srt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.553792367,
+                    "path": "The.Handmaids.Tale.S02E02.WEBRip.x264-ION10/The.Handmaids.Tale.S02E02.WEBRip.x264-ION10.mp4"
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "name": "[limetorrents.cc]The.Handmaids.Tale.S02E02.WEBRip.x264-TBS.EZTV",
+            "size_total": 0.247154074,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.247154074,
+                    "path": "The.Handmaids.Tale.S02E02.WEBRip.x264-TBS[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "name": "[limetorrents.cc]The.Handmaids.Tale.S02E02.WEBRip.x264-TBS",
+            "size_total": 0.247551073,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000005263,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S02E02.WEBRip.x264-TBS/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000118669,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S02E02.WEBRip.x264-TBS/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000140158,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S02E02.WEBRip.x264-TBS/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000132756,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S02E02.WEBRip.x264-TBS/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.247154074,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S02E02.WEBRip.x264-TBS/the.handmaids.tale.s02e02.webrip.x264-tbs.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 6.9e-8,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S02E02.WEBRip.x264-TBS/the.handmaids.tale.s02e02.webrip.x264-tbs.nfo"
+                },
+                {
+                    "number": 7,
+                    "size": 8.4e-8,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S02E02.WEBRip.x264-TBS/Torrent Downloaded From WWW.TORRENTING.COM.txt"
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "name": "[limetorrents.cc]The.Handmaids.Tale.S02E02.WEBRip.x264-TBS[ettv]",
+            "size_total": 0.247154267,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.93e-7,
+                    "path": "The.Handmaids.Tale.S02E02.WEBRip.x264-TBS[ettv]/Downloaded from www.ETTV.tv .txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.247154074,
+                    "path": "The.Handmaids.Tale.S02E02.WEBRip.x264-TBS[ettv]/the.handmaids.tale.s02e02.webrip.x264-tbs[ettv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "name": "[limetorrents.cc]The.Handmaids.Tale.S02E02.WEBRip.x264-TBS[N1C]",
+            "size_total": 0.247154143,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 6.9e-8,
+                    "path": "The.Handmaids.Tale.S02E02.WEBRip.x264-TBS[N1C]/the.handmaids.tale.s02e02.webrip.x264-tbs.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.247154074,
+                    "path": "The.Handmaids.Tale.S02E02.WEBRip.x264-TBS[N1C]/the.handmaids.tale.s02e02.webrip.x264-tbs[N1C].mkv"
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "name": "[limetorrents.cc]The.Handmaids.Tale.S02E02.XviD-AFG",
+            "size_total": 0.357889769,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000405455,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S02E02.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000180282,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S02E02.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000092092,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S02E02.XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000034142,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S02E02.XviD-AFG/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.357176544,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S02E02.XviD-AFG/The.Handmaids.Tale.S02E02.XviD-AFG.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.00000117,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S02E02.XviD-AFG/The.Handmaids.Tale.S02E02.XviD-AFG.nfo"
+                },
+                {
+                    "number": 7,
+                    "size": 8.4e-8,
+                    "path": "www.Torrenting.com - The.Handmaids.Tale.S02E02.XviD-AFG/Torrent Downloaded From WWW.TORRENTING.COM.txt"
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "name": "[limetorrents.cc]The.Handmaids.Tale.S02E02.XviD-AFG[TGx]",
+            "size_total": 0.357889894,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000405455,
+                    "path": "The.Handmaids.Tale.S02E02.XviD-AFG[TGx]/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000180282,
+                    "path": "The.Handmaids.Tale.S02E02.XviD-AFG[TGx]/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000092092,
+                    "path": "The.Handmaids.Tale.S02E02.XviD-AFG[TGx]/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000034142,
+                    "path": "The.Handmaids.Tale.S02E02.XviD-AFG[TGx]/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.357176544,
+                    "path": "The.Handmaids.Tale.S02E02.XviD-AFG[TGx]/The.Handmaids.Tale.S02E02.XviD-AFG.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.00000117,
+                    "path": "The.Handmaids.Tale.S02E02.XviD-AFG[TGx]/The.Handmaids.Tale.S02E02.XviD-AFG.nfo"
+                },
+                {
+                    "number": 7,
+                    "size": 2.09e-7,
+                    "path": "The.Handmaids.Tale.S02E02.XviD-AFG[TGx]/[TGx]Downloaded_from_torrentgalaxy.org_.txt"
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "name": "[rutor.is]The.Handmaids.Tale.S02.WEB-DLRip.1080p.IdeaFilm",
+            "size_total": 6.225455626,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.150353814,
+                    "path": "The.Handmaids.Tale.S02.WEB-DLRip.1080p/The.Handmaid's.Tale.S02E01.WEB-DLRip.1080p.IdeaFilm.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3.075101812,
+                    "path": "The.Handmaids.Tale.S02.WEB-DLRip.1080p/The.Handmaid's.Tale.S02E02.WEB-DLRip.1080p.IdeaFilm.mkv"
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "name": "[rutor.is]The.Handmaids.Tale.S02.WEB-DLRip.720p.IdeaFilm",
+            "size_total": 3.768878704,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.904905163,
+                    "path": "The.Handmaids.Tale.S02.WEB-DLRip.720p/The.Handmaid's.Tale.S02E01.WEB-DLRip.720p.IdeaFilm.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.863973541,
+                    "path": "The.Handmaids.Tale.S02.WEB-DLRip.720p/The.Handmaid's.Tale.S02E02.WEB-DLRip.720p.IdeaFilm.mkv"
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "name": "[rutor.is]The.Handmaids.Tale.S02.WEB-DLRip.IdeaFilm",
+            "size_total": 1.495439636,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.791002148,
+                    "path": "The.Handmaids.Tale.S02.WEB-DLRip/The.Handmaid's.Tale.S02E01.WEB-DLRip.IdeaFilm.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.704437488,
+                    "path": "The.Handmaids.Tale.S02.WEB-DLRip/The.Handmaid's.Tale.S02E02.WEB-DLRip.IdeaFilm.avi"
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "name": "[rutor.is]The_Handmaids_Tale_LostFilm",
+            "size_total": 1.409005568,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.731963392,
+                    "path": "Рассказ служанки (сезон 2) The Handmaid's Tale (2018) WEBRip - LostFilm/The.Handmaid's.Tale.S02E01.WEBRip.Rus.Eng.DV.LostFilm.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.677042176,
+                    "path": "Рассказ служанки (сезон 2) The Handmaid's Tale (2018) WEBRip - LostFilm/The.Handmaid's.Tale.S02E02.WEBRip.Rus.Eng.DV.LostFilm.avi"
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "name": "[rutor.is]The_Handmaids_Tale_S02E01-02_1080p_ColdFilm_tor",
+            "size_total": 3.784843998,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.919819488,
+                    "path": "The.Handmaids.Tale.S02E01-02.1080p.ColdFilm/The.Handmaids.Tale.S02E01.1080p.ColdFilm.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.86502451,
+                    "path": "The.Handmaids.Tale.S02E01-02.1080p.ColdFilm/The.Handmaids.Tale.S02E02.1080p.ColdFilm.mkv"
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "name": "[rutor.is]The_Handmaids_Tale_S02E01-02_400p_ColdFilm_torr",
+            "size_total": 1.108236436,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.558747288,
+                    "path": "The.Handmaids.Tale.S02E01-02.400p.ColdFilm/The.Handmaids.Tale.S02E01.400p.ColdFilm.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.549489148,
+                    "path": "The.Handmaids.Tale.S02E01-02.400p.ColdFilm/The.Handmaids.Tale.S02E02.400p.ColdFilm.avi"
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "name": "[rutor.is]The_Handmaids_Tale_S02E01-02_720p_ColdFilm_torr",
+            "size_total": 2.645626724,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.340816018,
+                    "path": "The.Handmaids.Tale.S02E01-02.720p.ColdFilm/The.Handmaids.Tale.S02E01.720p.ColdFilm.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.304810706,
+                    "path": "The.Handmaids.Tale.S02E01-02.720p.ColdFilm/The.Handmaids.Tale.S02E02.720p.ColdFilm.mkv"
+                }
+            ]
+        },
+        {
+            "id": 41,
+            "name": "The.Handmaid's.Tale.S02E01.June.1080p.HULU.WEB-DL.AAC2.0.H.264-NTb [IPT]",
+            "size_total": 1.851689103,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.001061183,
+                    "path": "The.Handmaid's.Tale.S02E01.June.1080p.HULU.WEB-DL.AAC2.0.H.264-NTb/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000723249,
+                    "path": "The.Handmaid's.Tale.S02E01.June.1080p.HULU.WEB-DL.AAC2.0.H.264-NTb/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001336434,
+                    "path": "The.Handmaid's.Tale.S02E01.June.1080p.HULU.WEB-DL.AAC2.0.H.264-NTb/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.00082137,
+                    "path": "The.Handmaid's.Tale.S02E01.June.1080p.HULU.WEB-DL.AAC2.0.H.264-NTb/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 1.847745436,
+                    "path": "The.Handmaid's.Tale.S02E01.June.1080p.HULU.WEB-DL.AAC2.0.H.264-NTb/The.Handmaid's.Tale.S02E01.June.1080p.HULU.WEB-DL.AAC2.0.H.264-NTb.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001431,
+                    "path": "The.Handmaid's.Tale.S02E01.June.1080p.HULU.WEB-DL.AAC2.0.H.264-NTb/The.Handmaid's.Tale.S02E01.June.1080p.HULU.WEB-DL.AAC2.0.H.264-NTb.nfo"
+                }
+            ]
+        },
+        {
+            "id": 42,
+            "name": "The.Handmaid's.Tale.S02E01.June.480p.HULU.WEB-DL.AAC2.0.H.264-BTW [IPT]",
+            "size_total": 0.227425906,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000190502,
+                    "path": "The.Handmaid's.Tale.S02E01.June.480p.HULU.WEB-DL.AAC2.0.H.264-BTW/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000104712,
+                    "path": "The.Handmaid's.Tale.S02E01.June.480p.HULU.WEB-DL.AAC2.0.H.264-BTW/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000225539,
+                    "path": "The.Handmaid's.Tale.S02E01.June.480p.HULU.WEB-DL.AAC2.0.H.264-BTW/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000093396,
+                    "path": "The.Handmaid's.Tale.S02E01.June.480p.HULU.WEB-DL.AAC2.0.H.264-BTW/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.226810333,
+                    "path": "The.Handmaid's.Tale.S02E01.June.480p.HULU.WEB-DL.AAC2.0.H.264-BTW/The.Handmaid's.Tale.S02E01.June.480p.HULU.WEB-DL.AAC2.0.H.264-BTW.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001424,
+                    "path": "The.Handmaid's.Tale.S02E01.June.480p.HULU.WEB-DL.AAC2.0.H.264-BTW/The.Handmaid's.Tale.S02E01.June.480p.HULU.WEB-DL.AAC2.0.H.264-BTW.nfo"
+                }
+            ]
+        },
+        {
+            "id": 43,
+            "name": "The.Handmaid's.Tale.S02E01.June.720p.HULU.WEB-DL.AAC2.0.H.264-NTb [IPT]",
+            "size_total": 0.729514277,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000481504,
+                    "path": "The.Handmaid's.Tale.S02E01.June.720p.HULU.WEB-DL.AAC2.0.H.264-NTb/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000318436,
+                    "path": "The.Handmaid's.Tale.S02E01.June.720p.HULU.WEB-DL.AAC2.0.H.264-NTb/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000624895,
+                    "path": "The.Handmaid's.Tale.S02E01.June.720p.HULU.WEB-DL.AAC2.0.H.264-NTb/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000322881,
+                    "path": "The.Handmaid's.Tale.S02E01.June.720p.HULU.WEB-DL.AAC2.0.H.264-NTb/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.727765131,
+                    "path": "The.Handmaid's.Tale.S02E01.June.720p.HULU.WEB-DL.AAC2.0.H.264-NTb/The.Handmaid's.Tale.S02E01.June.720p.HULU.WEB-DL.AAC2.0.H.264-NTb.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.00000143,
+                    "path": "The.Handmaid's.Tale.S02E01.June.720p.HULU.WEB-DL.AAC2.0.H.264-NTb/The.Handmaid's.Tale.S02E01.June.720p.HULU.WEB-DL.AAC2.0.H.264-NTb.nfo"
+                }
+            ]
+        },
+        {
+            "id": 44,
+            "name": "The.Handmaid's.Tale.S02E02.Unwomen.396p.HULU.WEB-DL.AAC2.0.H.264-BTW [IPT]",
+            "size_total": 0.213064062,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000004901,
+                    "path": "The.Handmaid's.Tale.S02E02.Unwomen.396p.HULU.WEB-DL.AAC2.0.H.264-BTW/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.00010559,
+                    "path": "The.Handmaid's.Tale.S02E02.Unwomen.396p.HULU.WEB-DL.AAC2.0.H.264-BTW/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000125591,
+                    "path": "The.Handmaid's.Tale.S02E02.Unwomen.396p.HULU.WEB-DL.AAC2.0.H.264-BTW/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000117939,
+                    "path": "The.Handmaid's.Tale.S02E02.Unwomen.396p.HULU.WEB-DL.AAC2.0.H.264-BTW/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.21270861,
+                    "path": "The.Handmaid's.Tale.S02E02.Unwomen.396p.HULU.WEB-DL.AAC2.0.H.264-BTW/The.Handmaid's.Tale.S02E02.Unwomen.396p.HULU.WEB-DL.AAC2.0.H.264-BTW.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001431,
+                    "path": "The.Handmaid's.Tale.S02E02.Unwomen.396p.HULU.WEB-DL.AAC2.0.H.264-BTW/The.Handmaid's.Tale.S02E02.Unwomen.396p.HULU.WEB-DL.AAC2.0.H.264-BTW.nfo"
+                }
+            ]
+        },
+        {
+            "id": 45,
+            "name": "The.Handmaid's.Tale.S02E02.Unwomen.720p.HULU.WEB-DL.AAC2.0.H.264-BTW [IPT]",
+            "size_total": 0.585531431,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000010056,
+                    "path": "The.Handmaid's.Tale.S02E02.Unwomen.720p.HULU.WEB-DL.AAC2.0.H.264-BTW/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000307206,
+                    "path": "The.Handmaid's.Tale.S02E02.Unwomen.720p.HULU.WEB-DL.AAC2.0.H.264-BTW/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000397694,
+                    "path": "The.Handmaid's.Tale.S02E02.Unwomen.720p.HULU.WEB-DL.AAC2.0.H.264-BTW/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000297935,
+                    "path": "The.Handmaid's.Tale.S02E02.Unwomen.720p.HULU.WEB-DL.AAC2.0.H.264-BTW/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.584517104,
+                    "path": "The.Handmaid's.Tale.S02E02.Unwomen.720p.HULU.WEB-DL.AAC2.0.H.264-BTW/The.Handmaid's.Tale.S02E02.Unwomen.720p.HULU.WEB-DL.AAC2.0.H.264-BTW.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001436,
+                    "path": "The.Handmaid's.Tale.S02E02.Unwomen.720p.HULU.WEB-DL.AAC2.0.H.264-BTW/The.Handmaid's.Tale.S02E02.Unwomen.720p.HULU.WEB-DL.AAC2.0.H.264-BTW.nfo"
+                }
+            ]
+        },
+        {
+            "id": 46,
+            "name": "The.Handmaid's.Tale.S02E02.Unwomen.720p.HULU.WEB-DL.AAC2.0.H.264-NTb [IPT]",
+            "size_total": 0.585531431,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000010056,
+                    "path": "The.Handmaid's.Tale.S02E02.Unwomen.720p.HULU.WEB-DL.AAC2.0.H.264-NTb/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000307206,
+                    "path": "The.Handmaid's.Tale.S02E02.Unwomen.720p.HULU.WEB-DL.AAC2.0.H.264-NTb/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000397694,
+                    "path": "The.Handmaid's.Tale.S02E02.Unwomen.720p.HULU.WEB-DL.AAC2.0.H.264-NTb/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000297935,
+                    "path": "The.Handmaid's.Tale.S02E02.Unwomen.720p.HULU.WEB-DL.AAC2.0.H.264-NTb/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.584517104,
+                    "path": "The.Handmaid's.Tale.S02E02.Unwomen.720p.HULU.WEB-DL.AAC2.0.H.264-NTb/The.Handmaid's.Tale.S02E02.Unwomen.720p.HULU.WEB-DL.AAC2.0.H.264-NTb.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001436,
+                    "path": "The.Handmaid's.Tale.S02E02.Unwomen.720p.HULU.WEB-DL.AAC2.0.H.264-NTb/The.Handmaid's.Tale.S02E02.Unwomen.720p.HULU.WEB-DL.AAC2.0.H.264-NTb.nfo"
+                }
+            ]
+        },
+        {
+            "id": 47,
+            "name": "The.Handmaids.Tale.S02E01.1080p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.657807941,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.001151238,
+                    "path": "The.Handmaids.Tale.S02E01.1080p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.001112149,
+                    "path": "The.Handmaids.Tale.S02E01.1080p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001270101,
+                    "path": "The.Handmaids.Tale.S02E01.1080p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001081902,
+                    "path": "The.Handmaids.Tale.S02E01.1080p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.653191327,
+                    "path": "The.Handmaids.Tale.S02E01.1080p.HEVC.x265-MeGusta/The.Handmaids.Tale.S02E01.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001224,
+                    "path": "The.Handmaids.Tale.S02E01.1080p.HEVC.x265-MeGusta/The.Handmaids.Tale.S02E01.1080p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 48,
+            "name": "The.Handmaids.Tale.S02E01.1080p.WEBRip.x264-TBS [IPT]",
+            "size_total": 1.688035731,
+            "files_total": 36,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.1e-7,
+                    "path": "The.Handmaids.Tale.S02E01.1080p.WEBRip.x264-TBS/the.handmaids.tale.s02e01.1080p.webrip.x264-tbs.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E01.1080p.WEBRip.x264-TBS/the.handmaids.tale.s02e01.1080p.webrip.x264-tbs.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E01.1080p.WEBRip.x264-TBS/the.handmaids.tale.s02e01.1080p.webrip.x264-tbs.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E01.1080p.WEBRip.x264-TBS/the.handmaids.tale.s02e01.1080p.webrip.x264-tbs.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E01.1080p.WEBRip.x264-TBS/the.handmaids.tale.s02e01.1080p.webrip.x264-tbs.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E01.1080p.WEBRip.x264-TBS/the.handmaids.tale.s02e01.1080p.webrip.x264-tbs.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E01.1080p.WEBRip.x264-TBS/the.handmaids.tale.s02e01.1080p.webrip.x264-tbs.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E01.1080p.WEBRip.x264-TBS/the.handmaids.tale.s02e01.1080p.webrip.x264-tbs.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E01.1080p.WEBRip.x264-TBS/the.handmaids.tale.s02e01.1080p.webrip.x264-tbs.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E01.1080p.WEBRip.x264-TBS/the.handmaids.tale.s02e01.1080p.webrip.x264-tbs.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E01.1080p.WEBRip.x264-TBS/the.handmaids.tale.s02e01.1080p.webrip.x264-tbs.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E01.1080p.WEBRip.x264-TBS/the.handmaids.tale.s02e01.1080p.webrip.x264-tbs.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E01.1080p.WEBRip.x264-TBS/the.handmaids.tale.s02e01.1080p.webrip.x264-tbs.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E01.1080p.WEBRip.x264-TBS/the.handmaids.tale.s02e01.1080p.webrip.x264-tbs.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E01.1080p.WEBRip.x264-TBS/the.handmaids.tale.s02e01.1080p.webrip.x264-tbs.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E01.1080p.WEBRip.x264-TBS/the.handmaids.tale.s02e01.1080p.webrip.x264-tbs.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E01.1080p.WEBRip.x264-TBS/the.handmaids.tale.s02e01.1080p.webrip.x264-tbs.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E01.1080p.WEBRip.x264-TBS/the.handmaids.tale.s02e01.1080p.webrip.x264-tbs.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E01.1080p.WEBRip.x264-TBS/the.handmaids.tale.s02e01.1080p.webrip.x264-tbs.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E01.1080p.WEBRip.x264-TBS/the.handmaids.tale.s02e01.1080p.webrip.x264-tbs.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E01.1080p.WEBRip.x264-TBS/the.handmaids.tale.s02e01.1080p.webrip.x264-tbs.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E01.1080p.WEBRip.x264-TBS/the.handmaids.tale.s02e01.1080p.webrip.x264-tbs.r20"
+                },
+                {
+                    "number": 23,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E01.1080p.WEBRip.x264-TBS/the.handmaids.tale.s02e01.1080p.webrip.x264-tbs.r21"
+                },
+                {
+                    "number": 24,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E01.1080p.WEBRip.x264-TBS/the.handmaids.tale.s02e01.1080p.webrip.x264-tbs.r22"
+                },
+                {
+                    "number": 25,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E01.1080p.WEBRip.x264-TBS/the.handmaids.tale.s02e01.1080p.webrip.x264-tbs.r23"
+                },
+                {
+                    "number": 26,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E01.1080p.WEBRip.x264-TBS/the.handmaids.tale.s02e01.1080p.webrip.x264-tbs.r24"
+                },
+                {
+                    "number": 27,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E01.1080p.WEBRip.x264-TBS/the.handmaids.tale.s02e01.1080p.webrip.x264-tbs.r25"
+                },
+                {
+                    "number": 28,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E01.1080p.WEBRip.x264-TBS/the.handmaids.tale.s02e01.1080p.webrip.x264-tbs.r26"
+                },
+                {
+                    "number": 29,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E01.1080p.WEBRip.x264-TBS/the.handmaids.tale.s02e01.1080p.webrip.x264-tbs.r27"
+                },
+                {
+                    "number": 30,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E01.1080p.WEBRip.x264-TBS/the.handmaids.tale.s02e01.1080p.webrip.x264-tbs.r28"
+                },
+                {
+                    "number": 31,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E01.1080p.WEBRip.x264-TBS/the.handmaids.tale.s02e01.1080p.webrip.x264-tbs.r29"
+                },
+                {
+                    "number": 32,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E01.1080p.WEBRip.x264-TBS/the.handmaids.tale.s02e01.1080p.webrip.x264-tbs.r30"
+                },
+                {
+                    "number": 33,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E01.1080p.WEBRip.x264-TBS/the.handmaids.tale.s02e01.1080p.webrip.x264-tbs.r31"
+                },
+                {
+                    "number": 34,
+                    "size": 0.038033513,
+                    "path": "The.Handmaids.Tale.S02E01.1080p.WEBRip.x264-TBS/the.handmaids.tale.s02e01.1080p.webrip.x264-tbs.r32"
+                },
+                {
+                    "number": 35,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E01.1080p.WEBRip.x264-TBS/the.handmaids.tale.s02e01.1080p.webrip.x264-tbs.rar"
+                },
+                {
+                    "number": 36,
+                    "size": 0.000002108,
+                    "path": "The.Handmaids.Tale.S02E01.1080p.WEBRip.x264-TBS/the.handmaids.tale.s02e01.1080p.webrip.x264-tbs.sfv"
+                }
+            ]
+        },
+        {
+            "id": 49,
+            "name": "The.Handmaids.Tale.S02E01.1080p.WEBRip.x264-TBS[rartv]-[rarbg.to]",
+            "size_total": 1.688029403,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Handmaids.Tale.S02E01.1080p.WEBRip.x264-TBS[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.688029263,
+                    "path": "The.Handmaids.Tale.S02E01.1080p.WEBRip.x264-TBS[rarbg]/the.handmaids.tale.s02e01.1080p.webrip.x264-tbs.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.1e-7,
+                    "path": "The.Handmaids.Tale.S02E01.1080p.WEBRip.x264-TBS[rarbg]/the.handmaids.tale.s02e01.1080p.webrip.x264-tbs.nfo"
+                }
+            ]
+        },
+        {
+            "id": 50,
+            "name": "The.Handmaids.Tale.S02E01.480p.x264-mSD [IPT]",
+            "size_total": 0.175468128,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000135262,
+                    "path": "The.Handmaids.Tale.S02E01.480p.x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000105082,
+                    "path": "The.Handmaids.Tale.S02E01.480p.x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000126781,
+                    "path": "The.Handmaids.Tale.S02E01.480p.x264-mSD/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000143768,
+                    "path": "The.Handmaids.Tale.S02E01.480p.x264-mSD/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.174956047,
+                    "path": "The.Handmaids.Tale.S02E01.480p.x264-mSD/The.Handmaids.Tale.S02E01.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001188,
+                    "path": "The.Handmaids.Tale.S02E01.480p.x264-mSD/The.Handmaids.Tale.S02E01.480p.x264-mSD.nfo"
+                }
+            ]
+        },
+        {
+            "id": 51,
+            "name": "The.Handmaids.Tale.S02E01.720p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.252259252,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000422219,
+                    "path": "The.Handmaids.Tale.S02E01.720p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000243551,
+                    "path": "The.Handmaids.Tale.S02E01.720p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000652425,
+                    "path": "The.Handmaids.Tale.S02E01.720p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000145208,
+                    "path": "The.Handmaids.Tale.S02E01.720p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.250794649,
+                    "path": "The.Handmaids.Tale.S02E01.720p.HEVC.x265-MeGusta/The.Handmaids.Tale.S02E01.720p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.0000012,
+                    "path": "The.Handmaids.Tale.S02E01.720p.HEVC.x265-MeGusta/The.Handmaids.Tale.S02E01.720p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 52,
+            "name": "The.Handmaids.Tale.S02E01.720p.WEBRip.x264-TBS [IPT]",
+            "size_total": 1.045523372,
+            "files_total": 23,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 7.4e-8,
+                    "path": "The.Handmaids.Tale.S02E01.720p.WEBRip.x264-TBS/the.handmaids.tale.s02e01.720p.webrip.x264-tbs.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E01.720p.WEBRip.x264-TBS/the.handmaids.tale.s02e01.720p.webrip.x264-tbs.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E01.720p.WEBRip.x264-TBS/the.handmaids.tale.s02e01.720p.webrip.x264-tbs.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E01.720p.WEBRip.x264-TBS/the.handmaids.tale.s02e01.720p.webrip.x264-tbs.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E01.720p.WEBRip.x264-TBS/the.handmaids.tale.s02e01.720p.webrip.x264-tbs.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E01.720p.WEBRip.x264-TBS/the.handmaids.tale.s02e01.720p.webrip.x264-tbs.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E01.720p.WEBRip.x264-TBS/the.handmaids.tale.s02e01.720p.webrip.x264-tbs.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E01.720p.WEBRip.x264-TBS/the.handmaids.tale.s02e01.720p.webrip.x264-tbs.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E01.720p.WEBRip.x264-TBS/the.handmaids.tale.s02e01.720p.webrip.x264-tbs.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E01.720p.WEBRip.x264-TBS/the.handmaids.tale.s02e01.720p.webrip.x264-tbs.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E01.720p.WEBRip.x264-TBS/the.handmaids.tale.s02e01.720p.webrip.x264-tbs.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E01.720p.WEBRip.x264-TBS/the.handmaids.tale.s02e01.720p.webrip.x264-tbs.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E01.720p.WEBRip.x264-TBS/the.handmaids.tale.s02e01.720p.webrip.x264-tbs.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E01.720p.WEBRip.x264-TBS/the.handmaids.tale.s02e01.720p.webrip.x264-tbs.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E01.720p.WEBRip.x264-TBS/the.handmaids.tale.s02e01.720p.webrip.x264-tbs.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E01.720p.WEBRip.x264-TBS/the.handmaids.tale.s02e01.720p.webrip.x264-tbs.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E01.720p.WEBRip.x264-TBS/the.handmaids.tale.s02e01.720p.webrip.x264-tbs.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E01.720p.WEBRip.x264-TBS/the.handmaids.tale.s02e01.720p.webrip.x264-tbs.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E01.720p.WEBRip.x264-TBS/the.handmaids.tale.s02e01.720p.webrip.x264-tbs.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E01.720p.WEBRip.x264-TBS/the.handmaids.tale.s02e01.720p.webrip.x264-tbs.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.045522017,
+                    "path": "The.Handmaids.Tale.S02E01.720p.WEBRip.x264-TBS/the.handmaids.tale.s02e01.720p.webrip.x264-tbs.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E01.720p.WEBRip.x264-TBS/the.handmaids.tale.s02e01.720p.webrip.x264-tbs.rar"
+                },
+                {
+                    "number": 23,
+                    "size": 0.000001281,
+                    "path": "The.Handmaids.Tale.S02E01.720p.WEBRip.x264-TBS/the.handmaids.tale.s02e01.720p.webrip.x264-tbs.sfv"
+                }
+            ]
+        },
+        {
+            "id": 53,
+            "name": "The.Handmaids.Tale.S02E01.720p.WEBRip.x264-TBS[eztv].mkv",
+            "size_total": 1.045519413,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.045519413,
+                    "path": "The.Handmaids.Tale.S02E01.720p.WEBRip.x264-TBS[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 54,
+            "name": "The.Handmaids.Tale.S02E01.720p.WEBRip.x264-TBS[rartv]-[rarbg.to]",
+            "size_total": 1.045519517,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Handmaids.Tale.S02E01.720p.WEBRip.x264-TBS[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.045519413,
+                    "path": "The.Handmaids.Tale.S02E01.720p.WEBRip.x264-TBS[rarbg]/the.handmaids.tale.s02e01.720p.webrip.x264-tbs.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 7.4e-8,
+                    "path": "The.Handmaids.Tale.S02E01.720p.WEBRip.x264-TBS[rarbg]/the.handmaids.tale.s02e01.720p.webrip.x264-tbs.nfo"
+                }
+            ]
+        },
+        {
+            "id": 55,
+            "name": "The.Handmaids.Tale.S02E01.AAC.MP4-Mobile [IPT]",
+            "size_total": 0.173781288,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000137307,
+                    "path": "The.Handmaids.Tale.S02E01.AAC.MP4-Mobile/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000113632,
+                    "path": "The.Handmaids.Tale.S02E01.AAC.MP4-Mobile/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000129446,
+                    "path": "The.Handmaids.Tale.S02E01.AAC.MP4-Mobile/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000157602,
+                    "path": "The.Handmaids.Tale.S02E01.AAC.MP4-Mobile/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.173242009,
+                    "path": "The.Handmaids.Tale.S02E01.AAC.MP4-Mobile/The.Handmaids.Tale.S02E01.AAC.MP4-Mobile.mp4"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001292,
+                    "path": "The.Handmaids.Tale.S02E01.AAC.MP4-Mobile/The.Handmaids.Tale.S02E01.AAC.MP4-Mobile.nfo"
+                }
+            ]
+        },
+        {
+            "id": 56,
+            "name": "The.Handmaids.Tale.S02E01.June.1080p.HULU.WEBRip.AAC2.0.H264-NTb[rartv]-[rarbg.to]",
+            "size_total": 1.847745466,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Handmaids.Tale.S02E01.June.1080p.HULU.WEBRip.AAC2.0.H264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.847745436,
+                    "path": "The.Handmaids.Tale.S02E01.June.1080p.HULU.WEBRip.AAC2.0.H264-NTb[rarbg]/The.Handmaid's.Tale.S02E01.June.1080p.HULU.WEB-DL.AAC2.0.H.264-NTb.mkv"
+                }
+            ]
+        },
+        {
+            "id": 57,
+            "name": "The.Handmaids.Tale.S02E01.June.720p.HULU.WEBRip.AAC2.0.H264-NTb[rartv]-[rarbg.to]",
+            "size_total": 0.727765161,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Handmaids.Tale.S02E01.June.720p.HULU.WEBRip.AAC2.0.H264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.727765131,
+                    "path": "The.Handmaids.Tale.S02E01.June.720p.HULU.WEBRip.AAC2.0.H264-NTb[rarbg]/The.Handmaid's.Tale.S02E01.June.720p.HULU.WEB-DL.AAC2.0.H.264-NTb.mkv"
+                }
+            ]
+        },
+        {
+            "id": 58,
+            "name": "The.Handmaids.Tale.S02E01.MULTi.1080p.HDTV.x264-HYBRiS [IPT]",
+            "size_total": 2.731085481,
+            "files_total": 30,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000011905,
+                    "path": "The.Handmaids.Tale.S02E01.MULTi.1080p.HDTV.x264-HYBRiS/the.handmaids.tale.s02e01.multi.1080p.hdtv.x264-hybris.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.1,
+                    "path": "The.Handmaids.Tale.S02E01.MULTi.1080p.HDTV.x264-HYBRiS/the.handmaids.tale.s02e01.multi.1080p.hdtv.x264-hybris.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.1,
+                    "path": "The.Handmaids.Tale.S02E01.MULTi.1080p.HDTV.x264-HYBRiS/the.handmaids.tale.s02e01.multi.1080p.hdtv.x264-hybris.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.1,
+                    "path": "The.Handmaids.Tale.S02E01.MULTi.1080p.HDTV.x264-HYBRiS/the.handmaids.tale.s02e01.multi.1080p.hdtv.x264-hybris.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.1,
+                    "path": "The.Handmaids.Tale.S02E01.MULTi.1080p.HDTV.x264-HYBRiS/the.handmaids.tale.s02e01.multi.1080p.hdtv.x264-hybris.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.1,
+                    "path": "The.Handmaids.Tale.S02E01.MULTi.1080p.HDTV.x264-HYBRiS/the.handmaids.tale.s02e01.multi.1080p.hdtv.x264-hybris.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.1,
+                    "path": "The.Handmaids.Tale.S02E01.MULTi.1080p.HDTV.x264-HYBRiS/the.handmaids.tale.s02e01.multi.1080p.hdtv.x264-hybris.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.1,
+                    "path": "The.Handmaids.Tale.S02E01.MULTi.1080p.HDTV.x264-HYBRiS/the.handmaids.tale.s02e01.multi.1080p.hdtv.x264-hybris.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.1,
+                    "path": "The.Handmaids.Tale.S02E01.MULTi.1080p.HDTV.x264-HYBRiS/the.handmaids.tale.s02e01.multi.1080p.hdtv.x264-hybris.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.1,
+                    "path": "The.Handmaids.Tale.S02E01.MULTi.1080p.HDTV.x264-HYBRiS/the.handmaids.tale.s02e01.multi.1080p.hdtv.x264-hybris.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.1,
+                    "path": "The.Handmaids.Tale.S02E01.MULTi.1080p.HDTV.x264-HYBRiS/the.handmaids.tale.s02e01.multi.1080p.hdtv.x264-hybris.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.1,
+                    "path": "The.Handmaids.Tale.S02E01.MULTi.1080p.HDTV.x264-HYBRiS/the.handmaids.tale.s02e01.multi.1080p.hdtv.x264-hybris.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.1,
+                    "path": "The.Handmaids.Tale.S02E01.MULTi.1080p.HDTV.x264-HYBRiS/the.handmaids.tale.s02e01.multi.1080p.hdtv.x264-hybris.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.1,
+                    "path": "The.Handmaids.Tale.S02E01.MULTi.1080p.HDTV.x264-HYBRiS/the.handmaids.tale.s02e01.multi.1080p.hdtv.x264-hybris.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.1,
+                    "path": "The.Handmaids.Tale.S02E01.MULTi.1080p.HDTV.x264-HYBRiS/the.handmaids.tale.s02e01.multi.1080p.hdtv.x264-hybris.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.1,
+                    "path": "The.Handmaids.Tale.S02E01.MULTi.1080p.HDTV.x264-HYBRiS/the.handmaids.tale.s02e01.multi.1080p.hdtv.x264-hybris.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.1,
+                    "path": "The.Handmaids.Tale.S02E01.MULTi.1080p.HDTV.x264-HYBRiS/the.handmaids.tale.s02e01.multi.1080p.hdtv.x264-hybris.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.1,
+                    "path": "The.Handmaids.Tale.S02E01.MULTi.1080p.HDTV.x264-HYBRiS/the.handmaids.tale.s02e01.multi.1080p.hdtv.x264-hybris.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.1,
+                    "path": "The.Handmaids.Tale.S02E01.MULTi.1080p.HDTV.x264-HYBRiS/the.handmaids.tale.s02e01.multi.1080p.hdtv.x264-hybris.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.1,
+                    "path": "The.Handmaids.Tale.S02E01.MULTi.1080p.HDTV.x264-HYBRiS/the.handmaids.tale.s02e01.multi.1080p.hdtv.x264-hybris.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.1,
+                    "path": "The.Handmaids.Tale.S02E01.MULTi.1080p.HDTV.x264-HYBRiS/the.handmaids.tale.s02e01.multi.1080p.hdtv.x264-hybris.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.1,
+                    "path": "The.Handmaids.Tale.S02E01.MULTi.1080p.HDTV.x264-HYBRiS/the.handmaids.tale.s02e01.multi.1080p.hdtv.x264-hybris.r20"
+                },
+                {
+                    "number": 23,
+                    "size": 0.1,
+                    "path": "The.Handmaids.Tale.S02E01.MULTi.1080p.HDTV.x264-HYBRiS/the.handmaids.tale.s02e01.multi.1080p.hdtv.x264-hybris.r21"
+                },
+                {
+                    "number": 24,
+                    "size": 0.1,
+                    "path": "The.Handmaids.Tale.S02E01.MULTi.1080p.HDTV.x264-HYBRiS/the.handmaids.tale.s02e01.multi.1080p.hdtv.x264-hybris.r22"
+                },
+                {
+                    "number": 25,
+                    "size": 0.1,
+                    "path": "The.Handmaids.Tale.S02E01.MULTi.1080p.HDTV.x264-HYBRiS/the.handmaids.tale.s02e01.multi.1080p.hdtv.x264-hybris.r23"
+                },
+                {
+                    "number": 26,
+                    "size": 0.1,
+                    "path": "The.Handmaids.Tale.S02E01.MULTi.1080p.HDTV.x264-HYBRiS/the.handmaids.tale.s02e01.multi.1080p.hdtv.x264-hybris.r24"
+                },
+                {
+                    "number": 27,
+                    "size": 0.1,
+                    "path": "The.Handmaids.Tale.S02E01.MULTi.1080p.HDTV.x264-HYBRiS/the.handmaids.tale.s02e01.multi.1080p.hdtv.x264-hybris.r25"
+                },
+                {
+                    "number": 28,
+                    "size": 0.031071644,
+                    "path": "The.Handmaids.Tale.S02E01.MULTi.1080p.HDTV.x264-HYBRiS/the.handmaids.tale.s02e01.multi.1080p.hdtv.x264-hybris.r26"
+                },
+                {
+                    "number": 29,
+                    "size": 0.1,
+                    "path": "The.Handmaids.Tale.S02E01.MULTi.1080p.HDTV.x264-HYBRiS/the.handmaids.tale.s02e01.multi.1080p.hdtv.x264-hybris.rar"
+                },
+                {
+                    "number": 30,
+                    "size": 0.000001932,
+                    "path": "The.Handmaids.Tale.S02E01.MULTi.1080p.HDTV.x264-HYBRiS/the.handmaids.tale.s02e01.multi.1080p.hdtv.x264-hybris.sfv"
+                }
+            ]
+        },
+        {
+            "id": 59,
+            "name": "The.Handmaids.Tale.S02E01.WEBRip.x264-ION10-[rarbg.to]",
+            "size_total": 0.563259701,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Handmaids.Tale.S02E01.WEBRip.x264-ION10/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000041269,
+                    "path": "The.Handmaids.Tale.S02E01.WEBRip.x264-ION10/Subs/2_Eng.srt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000041146,
+                    "path": "The.Handmaids.Tale.S02E01.WEBRip.x264-ION10/Subs/3_Spa.srt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.563177256,
+                    "path": "The.Handmaids.Tale.S02E01.WEBRip.x264-ION10/The.Handmaids.Tale.S02E01.WEBRip.x264-ION10.mp4"
+                }
+            ]
+        },
+        {
+            "id": 60,
+            "name": "The.Handmaids.Tale.S02E01.WEBRip.x264-ION10.083133fcc54d5b2e",
+            "size_total": 0.563259701,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Handmaids.Tale.S02E01.WEBRip.x264-ION10/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000041269,
+                    "path": "The.Handmaids.Tale.S02E01.WEBRip.x264-ION10/Subs/2_Eng.srt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000041146,
+                    "path": "The.Handmaids.Tale.S02E01.WEBRip.x264-ION10/Subs/3_Spa.srt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.563177256,
+                    "path": "The.Handmaids.Tale.S02E01.WEBRip.x264-ION10/The.Handmaids.Tale.S02E01.WEBRip.x264-ION10.mp4"
+                }
+            ]
+        },
+        {
+            "id": 61,
+            "name": "The.Handmaids.Tale.S02E01.WEBRip.x264-TBS [IPT]",
+            "size_total": 0.266908059,
+            "files_total": 16,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 6.9e-8,
+                    "path": "The.Handmaids.Tale.S02E01.WEBRip.x264-TBS/the.handmaids.tale.s02e01.webrip.x264-tbs.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.02,
+                    "path": "The.Handmaids.Tale.S02E01.WEBRip.x264-TBS/the.handmaids.tale.s02e01.webrip.x264-tbs.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.02,
+                    "path": "The.Handmaids.Tale.S02E01.WEBRip.x264-TBS/the.handmaids.tale.s02e01.webrip.x264-tbs.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.02,
+                    "path": "The.Handmaids.Tale.S02E01.WEBRip.x264-TBS/the.handmaids.tale.s02e01.webrip.x264-tbs.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.02,
+                    "path": "The.Handmaids.Tale.S02E01.WEBRip.x264-TBS/the.handmaids.tale.s02e01.webrip.x264-tbs.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.02,
+                    "path": "The.Handmaids.Tale.S02E01.WEBRip.x264-TBS/the.handmaids.tale.s02e01.webrip.x264-tbs.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.02,
+                    "path": "The.Handmaids.Tale.S02E01.WEBRip.x264-TBS/the.handmaids.tale.s02e01.webrip.x264-tbs.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.02,
+                    "path": "The.Handmaids.Tale.S02E01.WEBRip.x264-TBS/the.handmaids.tale.s02e01.webrip.x264-tbs.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.02,
+                    "path": "The.Handmaids.Tale.S02E01.WEBRip.x264-TBS/the.handmaids.tale.s02e01.webrip.x264-tbs.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.02,
+                    "path": "The.Handmaids.Tale.S02E01.WEBRip.x264-TBS/the.handmaids.tale.s02e01.webrip.x264-tbs.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.02,
+                    "path": "The.Handmaids.Tale.S02E01.WEBRip.x264-TBS/the.handmaids.tale.s02e01.webrip.x264-tbs.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.02,
+                    "path": "The.Handmaids.Tale.S02E01.WEBRip.x264-TBS/the.handmaids.tale.s02e01.webrip.x264-tbs.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.02,
+                    "path": "The.Handmaids.Tale.S02E01.WEBRip.x264-TBS/the.handmaids.tale.s02e01.webrip.x264-tbs.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.006907206,
+                    "path": "The.Handmaids.Tale.S02E01.WEBRip.x264-TBS/the.handmaids.tale.s02e01.webrip.x264-tbs.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.02,
+                    "path": "The.Handmaids.Tale.S02E01.WEBRip.x264-TBS/the.handmaids.tale.s02e01.webrip.x264-tbs.rar"
+                },
+                {
+                    "number": 16,
+                    "size": 7.84e-7,
+                    "path": "The.Handmaids.Tale.S02E01.WEBRip.x264-TBS/the.handmaids.tale.s02e01.webrip.x264-tbs.sfv"
+                }
+            ]
+        },
+        {
+            "id": 62,
+            "name": "The.Handmaids.Tale.S02E01.WEBRip.x264-TBS[eztv].mkv",
+            "size_total": 0.266905568,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.266905568,
+                    "path": "The.Handmaids.Tale.S02E01.WEBRip.x264-TBS[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 63,
+            "name": "The.Handmaids.Tale.S02E01.WEBRip.x264-TBS[rartv]-[rarbg.to]",
+            "size_total": 0.266905667,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Handmaids.Tale.S02E01.WEBRip.x264-TBS[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.266905568,
+                    "path": "The.Handmaids.Tale.S02E01.WEBRip.x264-TBS[rarbg]/the.handmaids.tale.s02e01.webrip.x264-tbs.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 6.9e-8,
+                    "path": "The.Handmaids.Tale.S02E01.WEBRip.x264-TBS[rarbg]/the.handmaids.tale.s02e01.webrip.x264-tbs.nfo"
+                }
+            ]
+        },
+        {
+            "id": 64,
+            "name": "The.Handmaids.Tale.S02E01.XviD-AFG [IPT]",
+            "size_total": 0.386129814,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000318653,
+                    "path": "The.Handmaids.Tale.S02E01.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000098103,
+                    "path": "The.Handmaids.Tale.S02E01.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000122957,
+                    "path": "The.Handmaids.Tale.S02E01.XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000181407,
+                    "path": "The.Handmaids.Tale.S02E01.XviD-AFG/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.385407526,
+                    "path": "The.Handmaids.Tale.S02E01.XviD-AFG/The.Handmaids.Tale.S02E01.XviD-AFG.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001168,
+                    "path": "The.Handmaids.Tale.S02E01.XviD-AFG/The.Handmaids.Tale.S02E01.XviD-AFG.nfo"
+                }
+            ]
+        },
+        {
+            "id": 65,
+            "name": "The.Handmaids.Tale.S02E02.1080p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.554418995,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.002457878,
+                    "path": "The.Handmaids.Tale.S02E02.1080p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.00093068,
+                    "path": "The.Handmaids.Tale.S02E02.1080p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000658023,
+                    "path": "The.Handmaids.Tale.S02E02.1080p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000161032,
+                    "path": "The.Handmaids.Tale.S02E02.1080p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.55021016,
+                    "path": "The.Handmaids.Tale.S02E02.1080p.HEVC.x265-MeGusta/The.Handmaids.Tale.S02E02.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001222,
+                    "path": "The.Handmaids.Tale.S02E02.1080p.HEVC.x265-MeGusta/The.Handmaids.Tale.S02E02.1080p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 66,
+            "name": "The.Handmaids.Tale.S02E02.1080p.WEBRip.x264-TBS [IPT]",
+            "size_total": 1.31085013,
+            "files_total": 29,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.1e-7,
+                    "path": "The.Handmaids.Tale.S02E02.1080p.WEBRip.x264-TBS/the.handmaids.tale.s02e02.1080p.webrip.x264-tbs.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E02.1080p.WEBRip.x264-TBS/the.handmaids.tale.s02e02.1080p.webrip.x264-tbs.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E02.1080p.WEBRip.x264-TBS/the.handmaids.tale.s02e02.1080p.webrip.x264-tbs.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E02.1080p.WEBRip.x264-TBS/the.handmaids.tale.s02e02.1080p.webrip.x264-tbs.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E02.1080p.WEBRip.x264-TBS/the.handmaids.tale.s02e02.1080p.webrip.x264-tbs.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E02.1080p.WEBRip.x264-TBS/the.handmaids.tale.s02e02.1080p.webrip.x264-tbs.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E02.1080p.WEBRip.x264-TBS/the.handmaids.tale.s02e02.1080p.webrip.x264-tbs.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E02.1080p.WEBRip.x264-TBS/the.handmaids.tale.s02e02.1080p.webrip.x264-tbs.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E02.1080p.WEBRip.x264-TBS/the.handmaids.tale.s02e02.1080p.webrip.x264-tbs.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E02.1080p.WEBRip.x264-TBS/the.handmaids.tale.s02e02.1080p.webrip.x264-tbs.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E02.1080p.WEBRip.x264-TBS/the.handmaids.tale.s02e02.1080p.webrip.x264-tbs.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E02.1080p.WEBRip.x264-TBS/the.handmaids.tale.s02e02.1080p.webrip.x264-tbs.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E02.1080p.WEBRip.x264-TBS/the.handmaids.tale.s02e02.1080p.webrip.x264-tbs.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E02.1080p.WEBRip.x264-TBS/the.handmaids.tale.s02e02.1080p.webrip.x264-tbs.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E02.1080p.WEBRip.x264-TBS/the.handmaids.tale.s02e02.1080p.webrip.x264-tbs.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E02.1080p.WEBRip.x264-TBS/the.handmaids.tale.s02e02.1080p.webrip.x264-tbs.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E02.1080p.WEBRip.x264-TBS/the.handmaids.tale.s02e02.1080p.webrip.x264-tbs.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E02.1080p.WEBRip.x264-TBS/the.handmaids.tale.s02e02.1080p.webrip.x264-tbs.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E02.1080p.WEBRip.x264-TBS/the.handmaids.tale.s02e02.1080p.webrip.x264-tbs.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E02.1080p.WEBRip.x264-TBS/the.handmaids.tale.s02e02.1080p.webrip.x264-tbs.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E02.1080p.WEBRip.x264-TBS/the.handmaids.tale.s02e02.1080p.webrip.x264-tbs.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E02.1080p.WEBRip.x264-TBS/the.handmaids.tale.s02e02.1080p.webrip.x264-tbs.r20"
+                },
+                {
+                    "number": 23,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E02.1080p.WEBRip.x264-TBS/the.handmaids.tale.s02e02.1080p.webrip.x264-tbs.r21"
+                },
+                {
+                    "number": 24,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E02.1080p.WEBRip.x264-TBS/the.handmaids.tale.s02e02.1080p.webrip.x264-tbs.r22"
+                },
+                {
+                    "number": 25,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E02.1080p.WEBRip.x264-TBS/the.handmaids.tale.s02e02.1080p.webrip.x264-tbs.r23"
+                },
+                {
+                    "number": 26,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E02.1080p.WEBRip.x264-TBS/the.handmaids.tale.s02e02.1080p.webrip.x264-tbs.r24"
+                },
+                {
+                    "number": 27,
+                    "size": 0.010848346,
+                    "path": "The.Handmaids.Tale.S02E02.1080p.WEBRip.x264-TBS/the.handmaids.tale.s02e02.1080p.webrip.x264-tbs.r25"
+                },
+                {
+                    "number": 28,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E02.1080p.WEBRip.x264-TBS/the.handmaids.tale.s02e02.1080p.webrip.x264-tbs.rar"
+                },
+                {
+                    "number": 29,
+                    "size": 0.000001674,
+                    "path": "The.Handmaids.Tale.S02E02.1080p.WEBRip.x264-TBS/the.handmaids.tale.s02e02.1080p.webrip.x264-tbs.sfv"
+                }
+            ]
+        },
+        {
+            "id": 67,
+            "name": "The.Handmaids.Tale.S02E02.1080p.WEBRip.x264-TBS[rartv]-[rarbg.to]",
+            "size_total": 1.310845111,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Handmaids.Tale.S02E02.1080p.WEBRip.x264-TBS[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.310844971,
+                    "path": "The.Handmaids.Tale.S02E02.1080p.WEBRip.x264-TBS[rarbg]/the.handmaids.tale.s02e02.1080p.webrip.x264-tbs.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.1e-7,
+                    "path": "The.Handmaids.Tale.S02E02.1080p.WEBRip.x264-TBS[rarbg]/the.handmaids.tale.s02e02.1080p.webrip.x264-tbs.nfo"
+                }
+            ]
+        },
+        {
+            "id": 68,
+            "name": "The.Handmaids.Tale.S02E02.480p.x264-mSD [IPT]",
+            "size_total": 0.167270889,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000366726,
+                    "path": "The.Handmaids.Tale.S02E02.480p.x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000144679,
+                    "path": "The.Handmaids.Tale.S02E02.480p.x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000081653,
+                    "path": "The.Handmaids.Tale.S02E02.480p.x264-mSD/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000020064,
+                    "path": "The.Handmaids.Tale.S02E02.480p.x264-mSD/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.166656578,
+                    "path": "The.Handmaids.Tale.S02E02.480p.x264-mSD/The.Handmaids.Tale.S02E02.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001189,
+                    "path": "The.Handmaids.Tale.S02E02.480p.x264-mSD/The.Handmaids.Tale.S02E02.480p.x264-mSD.nfo"
+                }
+            ]
+        },
+        {
+            "id": 69,
+            "name": "The.Handmaids.Tale.S02E02.720p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.229798217,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000020202,
+                    "path": "The.Handmaids.Tale.S02E02.720p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000198492,
+                    "path": "The.Handmaids.Tale.S02E02.720p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000282449,
+                    "path": "The.Handmaids.Tale.S02E02.720p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000236172,
+                    "path": "The.Handmaids.Tale.S02E02.720p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.229059701,
+                    "path": "The.Handmaids.Tale.S02E02.720p.HEVC.x265-MeGusta/The.Handmaids.Tale.S02E02.720p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001201,
+                    "path": "The.Handmaids.Tale.S02E02.720p.HEVC.x265-MeGusta/The.Handmaids.Tale.S02E02.720p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 70,
+            "name": "The.Handmaids.Tale.S02E02.720p.WEBRip.x264-TBS [IPT]",
+            "size_total": 0.829417207,
+            "files_total": 19,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 7.4e-8,
+                    "path": "The.Handmaids.Tale.S02E02.720p.WEBRip.x264-TBS/the.handmaids.tale.s02e02.720p.webrip.x264-tbs.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E02.720p.WEBRip.x264-TBS/the.handmaids.tale.s02e02.720p.webrip.x264-tbs.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E02.720p.WEBRip.x264-TBS/the.handmaids.tale.s02e02.720p.webrip.x264-tbs.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E02.720p.WEBRip.x264-TBS/the.handmaids.tale.s02e02.720p.webrip.x264-tbs.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E02.720p.WEBRip.x264-TBS/the.handmaids.tale.s02e02.720p.webrip.x264-tbs.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E02.720p.WEBRip.x264-TBS/the.handmaids.tale.s02e02.720p.webrip.x264-tbs.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E02.720p.WEBRip.x264-TBS/the.handmaids.tale.s02e02.720p.webrip.x264-tbs.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E02.720p.WEBRip.x264-TBS/the.handmaids.tale.s02e02.720p.webrip.x264-tbs.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E02.720p.WEBRip.x264-TBS/the.handmaids.tale.s02e02.720p.webrip.x264-tbs.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E02.720p.WEBRip.x264-TBS/the.handmaids.tale.s02e02.720p.webrip.x264-tbs.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E02.720p.WEBRip.x264-TBS/the.handmaids.tale.s02e02.720p.webrip.x264-tbs.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E02.720p.WEBRip.x264-TBS/the.handmaids.tale.s02e02.720p.webrip.x264-tbs.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E02.720p.WEBRip.x264-TBS/the.handmaids.tale.s02e02.720p.webrip.x264-tbs.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E02.720p.WEBRip.x264-TBS/the.handmaids.tale.s02e02.720p.webrip.x264-tbs.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E02.720p.WEBRip.x264-TBS/the.handmaids.tale.s02e02.720p.webrip.x264-tbs.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E02.720p.WEBRip.x264-TBS/the.handmaids.tale.s02e02.720p.webrip.x264-tbs.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.029416096,
+                    "path": "The.Handmaids.Tale.S02E02.720p.WEBRip.x264-TBS/the.handmaids.tale.s02e02.720p.webrip.x264-tbs.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.05,
+                    "path": "The.Handmaids.Tale.S02E02.720p.WEBRip.x264-TBS/the.handmaids.tale.s02e02.720p.webrip.x264-tbs.rar"
+                },
+                {
+                    "number": 19,
+                    "size": 0.000001037,
+                    "path": "The.Handmaids.Tale.S02E02.720p.WEBRip.x264-TBS/the.handmaids.tale.s02e02.720p.webrip.x264-tbs.sfv"
+                }
+            ]
+        },
+        {
+            "id": 71,
+            "name": "The.Handmaids.Tale.S02E02.720p.WEBRip.x264-TBS[eztv].mkv",
+            "size_total": 0.829413988,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.829413988,
+                    "path": "The.Handmaids.Tale.S02E02.720p.WEBRip.x264-TBS[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 72,
+            "name": "The.Handmaids.Tale.S02E02.720p.WEBRip.x264-TBS[rartv]-[rarbg.to]",
+            "size_total": 0.829414092,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Handmaids.Tale.S02E02.720p.WEBRip.x264-TBS[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.829413988,
+                    "path": "The.Handmaids.Tale.S02E02.720p.WEBRip.x264-TBS[rarbg]/the.handmaids.tale.s02e02.720p.webrip.x264-tbs.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 7.4e-8,
+                    "path": "The.Handmaids.Tale.S02E02.720p.WEBRip.x264-TBS[rarbg]/the.handmaids.tale.s02e02.720p.webrip.x264-tbs.nfo"
+                }
+            ]
+        },
+        {
+            "id": 73,
+            "name": "The.Handmaids.Tale.S02E02.AAC.MP4-Mobile [IPT]",
+            "size_total": 0.165810782,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000378824,
+                    "path": "The.Handmaids.Tale.S02E02.AAC.MP4-Mobile/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000152608,
+                    "path": "The.Handmaids.Tale.S02E02.AAC.MP4-Mobile/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000091186,
+                    "path": "The.Handmaids.Tale.S02E02.AAC.MP4-Mobile/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000022836,
+                    "path": "The.Handmaids.Tale.S02E02.AAC.MP4-Mobile/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.165164035,
+                    "path": "The.Handmaids.Tale.S02E02.AAC.MP4-Mobile/The.Handmaids.Tale.S02E02.AAC.MP4-Mobile.mp4"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001293,
+                    "path": "The.Handmaids.Tale.S02E02.AAC.MP4-Mobile/The.Handmaids.Tale.S02E02.AAC.MP4-Mobile.nfo"
+                }
+            ]
+        },
+        {
+            "id": 74,
+            "name": "The.Handmaids.Tale.S02E02.MULTi.1080p.HDTV.x264-HYBRiS [IPT]",
+            "size_total": 2.331044542,
+            "files_total": 26,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000011905,
+                    "path": "The.Handmaids.Tale.S02E02.MULTi.1080p.HDTV.x264-HYBRiS/the.handmaids.tale.s02e02.multi.1080p.hdtv.x264-hybris.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.1,
+                    "path": "The.Handmaids.Tale.S02E02.MULTi.1080p.HDTV.x264-HYBRiS/the.handmaids.tale.s02e02.multi.1080p.hdtv.x264-hybris.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.1,
+                    "path": "The.Handmaids.Tale.S02E02.MULTi.1080p.HDTV.x264-HYBRiS/the.handmaids.tale.s02e02.multi.1080p.hdtv.x264-hybris.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.1,
+                    "path": "The.Handmaids.Tale.S02E02.MULTi.1080p.HDTV.x264-HYBRiS/the.handmaids.tale.s02e02.multi.1080p.hdtv.x264-hybris.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.1,
+                    "path": "The.Handmaids.Tale.S02E02.MULTi.1080p.HDTV.x264-HYBRiS/the.handmaids.tale.s02e02.multi.1080p.hdtv.x264-hybris.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.1,
+                    "path": "The.Handmaids.Tale.S02E02.MULTi.1080p.HDTV.x264-HYBRiS/the.handmaids.tale.s02e02.multi.1080p.hdtv.x264-hybris.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.1,
+                    "path": "The.Handmaids.Tale.S02E02.MULTi.1080p.HDTV.x264-HYBRiS/the.handmaids.tale.s02e02.multi.1080p.hdtv.x264-hybris.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.1,
+                    "path": "The.Handmaids.Tale.S02E02.MULTi.1080p.HDTV.x264-HYBRiS/the.handmaids.tale.s02e02.multi.1080p.hdtv.x264-hybris.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.1,
+                    "path": "The.Handmaids.Tale.S02E02.MULTi.1080p.HDTV.x264-HYBRiS/the.handmaids.tale.s02e02.multi.1080p.hdtv.x264-hybris.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.1,
+                    "path": "The.Handmaids.Tale.S02E02.MULTi.1080p.HDTV.x264-HYBRiS/the.handmaids.tale.s02e02.multi.1080p.hdtv.x264-hybris.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.1,
+                    "path": "The.Handmaids.Tale.S02E02.MULTi.1080p.HDTV.x264-HYBRiS/the.handmaids.tale.s02e02.multi.1080p.hdtv.x264-hybris.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.1,
+                    "path": "The.Handmaids.Tale.S02E02.MULTi.1080p.HDTV.x264-HYBRiS/the.handmaids.tale.s02e02.multi.1080p.hdtv.x264-hybris.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.1,
+                    "path": "The.Handmaids.Tale.S02E02.MULTi.1080p.HDTV.x264-HYBRiS/the.handmaids.tale.s02e02.multi.1080p.hdtv.x264-hybris.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.1,
+                    "path": "The.Handmaids.Tale.S02E02.MULTi.1080p.HDTV.x264-HYBRiS/the.handmaids.tale.s02e02.multi.1080p.hdtv.x264-hybris.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.1,
+                    "path": "The.Handmaids.Tale.S02E02.MULTi.1080p.HDTV.x264-HYBRiS/the.handmaids.tale.s02e02.multi.1080p.hdtv.x264-hybris.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.1,
+                    "path": "The.Handmaids.Tale.S02E02.MULTi.1080p.HDTV.x264-HYBRiS/the.handmaids.tale.s02e02.multi.1080p.hdtv.x264-hybris.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.1,
+                    "path": "The.Handmaids.Tale.S02E02.MULTi.1080p.HDTV.x264-HYBRiS/the.handmaids.tale.s02e02.multi.1080p.hdtv.x264-hybris.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.1,
+                    "path": "The.Handmaids.Tale.S02E02.MULTi.1080p.HDTV.x264-HYBRiS/the.handmaids.tale.s02e02.multi.1080p.hdtv.x264-hybris.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.1,
+                    "path": "The.Handmaids.Tale.S02E02.MULTi.1080p.HDTV.x264-HYBRiS/the.handmaids.tale.s02e02.multi.1080p.hdtv.x264-hybris.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.1,
+                    "path": "The.Handmaids.Tale.S02E02.MULTi.1080p.HDTV.x264-HYBRiS/the.handmaids.tale.s02e02.multi.1080p.hdtv.x264-hybris.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.1,
+                    "path": "The.Handmaids.Tale.S02E02.MULTi.1080p.HDTV.x264-HYBRiS/the.handmaids.tale.s02e02.multi.1080p.hdtv.x264-hybris.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.1,
+                    "path": "The.Handmaids.Tale.S02E02.MULTi.1080p.HDTV.x264-HYBRiS/the.handmaids.tale.s02e02.multi.1080p.hdtv.x264-hybris.r20"
+                },
+                {
+                    "number": 23,
+                    "size": 0.1,
+                    "path": "The.Handmaids.Tale.S02E02.MULTi.1080p.HDTV.x264-HYBRiS/the.handmaids.tale.s02e02.multi.1080p.hdtv.x264-hybris.r21"
+                },
+                {
+                    "number": 24,
+                    "size": 0.031030981,
+                    "path": "The.Handmaids.Tale.S02E02.MULTi.1080p.HDTV.x264-HYBRiS/the.handmaids.tale.s02e02.multi.1080p.hdtv.x264-hybris.r22"
+                },
+                {
+                    "number": 25,
+                    "size": 0.1,
+                    "path": "The.Handmaids.Tale.S02E02.MULTi.1080p.HDTV.x264-HYBRiS/the.handmaids.tale.s02e02.multi.1080p.hdtv.x264-hybris.rar"
+                },
+                {
+                    "number": 26,
+                    "size": 0.000001656,
+                    "path": "The.Handmaids.Tale.S02E02.MULTi.1080p.HDTV.x264-HYBRiS/the.handmaids.tale.s02e02.multi.1080p.hdtv.x264-hybris.sfv"
+                }
+            ]
+        },
+        {
+            "id": 75,
+            "name": "The.Handmaids.Tale.S02E02.Unwomen.1080p.HULU.WEBRip.AAC2.0.H264-NTb[rartv]-[rarbg.to]",
+            "size_total": 1.37873802,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Handmaids.Tale.S02E02.Unwomen.1080p.HULU.WEBRip.AAC2.0.H264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.37873799,
+                    "path": "The.Handmaids.Tale.S02E02.Unwomen.1080p.HULU.WEBRip.AAC2.0.H264-NTb[rarbg]/The.Handmaid's.Tale.S02E02.Unwomen.1080p.HULU.WEB-DL.AAC2.0.H.264-NTb.mkv"
+                }
+            ]
+        },
+        {
+            "id": 76,
+            "name": "The.Handmaids.Tale.S02E02.Unwomen.720p.HULU.WEBRip.AAC2.0.H264-BTW[rartv]-[rarbg.to]",
+            "size_total": 0.584517134,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Handmaids.Tale.S02E02.Unwomen.720p.HULU.WEBRip.AAC2.0.H264-BTW[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.584517104,
+                    "path": "The.Handmaids.Tale.S02E02.Unwomen.720p.HULU.WEBRip.AAC2.0.H264-BTW[rarbg]/The.Handmaid's.Tale.S02E02.Unwomen.720p.HULU.WEB-DL.AAC2.0.H.264-BTW.mkv"
+                }
+            ]
+        },
+        {
+            "id": 77,
+            "name": "The.Handmaids.Tale.S02E02.WEBRip.x264-ION10-[rarbg.to]",
+            "size_total": 0.553863521,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Handmaids.Tale.S02E02.WEBRip.x264-ION10/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000036045,
+                    "path": "The.Handmaids.Tale.S02E02.WEBRip.x264-ION10/Subs/2_Eng.srt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000035079,
+                    "path": "The.Handmaids.Tale.S02E02.WEBRip.x264-ION10/Subs/3_Spa.srt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.553792367,
+                    "path": "The.Handmaids.Tale.S02E02.WEBRip.x264-ION10/The.Handmaids.Tale.S02E02.WEBRip.x264-ION10.mp4"
+                }
+            ]
+        },
+        {
+            "id": 78,
+            "name": "The.Handmaids.Tale.S02E02.WEBRip.x264-ION10.519e53febc0c30b6",
+            "size_total": 0.553863521,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Handmaids.Tale.S02E02.WEBRip.x264-ION10/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000036045,
+                    "path": "The.Handmaids.Tale.S02E02.WEBRip.x264-ION10/Subs/2_Eng.srt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000035079,
+                    "path": "The.Handmaids.Tale.S02E02.WEBRip.x264-ION10/Subs/3_Spa.srt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.553792367,
+                    "path": "The.Handmaids.Tale.S02E02.WEBRip.x264-ION10/The.Handmaids.Tale.S02E02.WEBRip.x264-ION10.mp4"
+                }
+            ]
+        },
+        {
+            "id": 79,
+            "name": "The.Handmaids.Tale.S02E02.WEBRip.x264-TBS [IPT]",
+            "size_total": 0.247156418,
+            "files_total": 15,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 6.9e-8,
+                    "path": "The.Handmaids.Tale.S02E02.WEBRip.x264-TBS/the.handmaids.tale.s02e02.webrip.x264-tbs.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.02,
+                    "path": "The.Handmaids.Tale.S02E02.WEBRip.x264-TBS/the.handmaids.tale.s02e02.webrip.x264-tbs.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.02,
+                    "path": "The.Handmaids.Tale.S02E02.WEBRip.x264-TBS/the.handmaids.tale.s02e02.webrip.x264-tbs.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.02,
+                    "path": "The.Handmaids.Tale.S02E02.WEBRip.x264-TBS/the.handmaids.tale.s02e02.webrip.x264-tbs.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.02,
+                    "path": "The.Handmaids.Tale.S02E02.WEBRip.x264-TBS/the.handmaids.tale.s02e02.webrip.x264-tbs.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.02,
+                    "path": "The.Handmaids.Tale.S02E02.WEBRip.x264-TBS/the.handmaids.tale.s02e02.webrip.x264-tbs.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.02,
+                    "path": "The.Handmaids.Tale.S02E02.WEBRip.x264-TBS/the.handmaids.tale.s02e02.webrip.x264-tbs.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.02,
+                    "path": "The.Handmaids.Tale.S02E02.WEBRip.x264-TBS/the.handmaids.tale.s02e02.webrip.x264-tbs.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.02,
+                    "path": "The.Handmaids.Tale.S02E02.WEBRip.x264-TBS/the.handmaids.tale.s02e02.webrip.x264-tbs.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.02,
+                    "path": "The.Handmaids.Tale.S02E02.WEBRip.x264-TBS/the.handmaids.tale.s02e02.webrip.x264-tbs.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.02,
+                    "path": "The.Handmaids.Tale.S02E02.WEBRip.x264-TBS/the.handmaids.tale.s02e02.webrip.x264-tbs.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.02,
+                    "path": "The.Handmaids.Tale.S02E02.WEBRip.x264-TBS/the.handmaids.tale.s02e02.webrip.x264-tbs.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.007155621,
+                    "path": "The.Handmaids.Tale.S02E02.WEBRip.x264-TBS/the.handmaids.tale.s02e02.webrip.x264-tbs.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.02,
+                    "path": "The.Handmaids.Tale.S02E02.WEBRip.x264-TBS/the.handmaids.tale.s02e02.webrip.x264-tbs.rar"
+                },
+                {
+                    "number": 15,
+                    "size": 7.28e-7,
+                    "path": "The.Handmaids.Tale.S02E02.WEBRip.x264-TBS/the.handmaids.tale.s02e02.webrip.x264-tbs.sfv"
+                }
+            ]
+        },
+        {
+            "id": 80,
+            "name": "The.Handmaids.Tale.S02E02.WEBRip.x264-TBS[eztv].mkv",
+            "size_total": 0.247154074,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.247154074,
+                    "path": "The.Handmaids.Tale.S02E02.WEBRip.x264-TBS[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 81,
+            "name": "The.Handmaids.Tale.S02E02.WEBRip.x264-TBS[rartv]-[rarbg.to]",
+            "size_total": 0.247154173,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Handmaids.Tale.S02E02.WEBRip.x264-TBS[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.247154074,
+                    "path": "The.Handmaids.Tale.S02E02.WEBRip.x264-TBS[rarbg]/the.handmaids.tale.s02e02.webrip.x264-tbs.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 6.9e-8,
+                    "path": "The.Handmaids.Tale.S02E02.WEBRip.x264-TBS[rarbg]/the.handmaids.tale.s02e02.webrip.x264-tbs.nfo"
+                }
+            ]
+        },
+        {
+            "id": 82,
+            "name": "The.Handmaids.Tale.S02E02.XviD-AFG [IPT]",
+            "size_total": 0.357889685,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000405455,
+                    "path": "The.Handmaids.Tale.S02E02.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000180282,
+                    "path": "The.Handmaids.Tale.S02E02.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000092092,
+                    "path": "The.Handmaids.Tale.S02E02.XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000034142,
+                    "path": "The.Handmaids.Tale.S02E02.XviD-AFG/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.357176544,
+                    "path": "The.Handmaids.Tale.S02E02.XviD-AFG/The.Handmaids.Tale.S02E02.XviD-AFG.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.00000117,
+                    "path": "The.Handmaids.Tale.S02E02.XviD-AFG/The.Handmaids.Tale.S02E02.XviD-AFG.nfo"
+                }
+            ]
+        },
+        {
+            "id": 83,
+            "name": "Рассказ Служанки The Handmaid's Tale Сезон 1-2 Серии 1-11 из 20 (Рид Морано, Майк Баркер) [2017-2018, США, Драма, фантасти [rutracker-5404615]",
+            "size_total": 11.488079403,
+            "files_total": 11,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.033551774,
+                    "path": "Rasskaz Sluzhanki/S1/Rasskaz.Sluzhanki.2017.s01ep01.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.83370886,
+                    "path": "Rasskaz Sluzhanki/S1/Rasskaz.Sluzhanki.2017.s01ep02.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.922679628,
+                    "path": "Rasskaz Sluzhanki/S1/Rasskaz.Sluzhanki.2017.s01ep03.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 0.88353677,
+                    "path": "Rasskaz Sluzhanki/S1/Rasskaz.Sluzhanki.2017.s01ep04.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 1.006200925,
+                    "path": "Rasskaz Sluzhanki/S1/Rasskaz.Sluzhanki.2017.s01ep05.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.938031479,
+                    "path": "Rasskaz Sluzhanki/S1/Rasskaz.Sluzhanki.2017.s01ep06.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 1.044568574,
+                    "path": "Rasskaz Sluzhanki/S1/Rasskaz.Sluzhanki.2017.s01ep07.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 0.675454046,
+                    "path": "Rasskaz Sluzhanki/S1/Rasskaz.Sluzhanki.2017.s01ep08.mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 1.498565839,
+                    "path": "Rasskaz Sluzhanki/S1/Rasskaz.Sluzhanki.2017.s01ep09.mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 1.924058072,
+                    "path": "Rasskaz Sluzhanki/S1/Rasskaz.Sluzhanki.2017.s01ep10.mkv"
+                },
+                {
+                    "number": 11,
+                    "size": 0.727723436,
+                    "path": "Rasskaz Sluzhanki/S2/Rasskaz.Sluzhanki.s02ep01.mkv"
+                }
+            ]
+        },
+        {
+            "id": 84,
+            "name": "使女的故事.The.Handmaids.Tale.S02E01.720p-天天美剧字幕组.mp4.dd4f8e5e809ef5c2",
+            "size_total": 0.567813675,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.567813675,
+                    "path": "使女的故事.The.Handmaids.Tale.S02E01.720p-天天美剧字幕组.mp4"
+                }
+            ]
+        },
+        {
+            "id": 85,
+            "name": "使女的故事.The.Handmaids.Tale.S02E01.720p.x264.双语字幕.mp4.0911d537e668fbba",
+            "size_total": 0.535033379,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.535033379,
+                    "path": "使女的故事.The.Handmaids.Tale.S02E01.720p.x264.双语字幕.mp4"
+                }
+            ]
+        },
+        {
+            "id": 86,
+            "name": "使女的故事.The.Handmaids.Tale.S02E01.720p.x264.双语字幕初版-深影字幕组.mp4.d456b38912ffa1f0",
+            "size_total": 0.533683479,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.533683479,
+                    "path": "使女的故事.The.Handmaids.Tale.S02E01.720p.x264.双语字幕初版-深影字幕组.mp4"
+                }
+            ]
+        },
+        {
+            "id": 87,
+            "name": "使女的故事.The.Handmaids.Tale.S02E01.720p.x264.双语字幕精校版-深影字幕组.mp4.2aa6bfcf9248cf98",
+            "size_total": 0.534792191,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.534792191,
+                    "path": "使女的故事.The.Handmaids.Tale.S02E01.720p.x264.双语字幕精校版-深影字幕组.mp4"
+                }
+            ]
+        },
+        {
+            "id": 88,
+            "name": "使女的故事.The.Handmaids.Tale.S02E02.720p-天天美剧字幕组.mp4.6958f0684ea8d786",
+            "size_total": 0.539440846,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.539440846,
+                    "path": "使女的故事.The.Handmaids.Tale.S02E02.720p-天天美剧字幕组.mp4"
+                }
+            ]
+        },
+        {
+            "id": 89,
+            "name": "使女的故事.The.Handmaids.Tale.S02E02.720p.x264.双语字幕.mp4.44dbacd5aa19cd62",
+            "size_total": 0.497020693,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.497020693,
+                    "path": "使女的故事.The.Handmaids.Tale.S02E02.720p.x264.双语字幕.mp4"
+                }
+            ]
+        }
+    ],
+    "collection_cumulative_by_btiha": [
+        {
+            "id": 91,
+            "name": "multi-btih-1-2-x-[limetorrents.cc]The.Handmaids.Tale.S02E01.June.720p.HULU.WEBRip.AAC2.0.H264-NTb",
+            "btih": "45028f841fa80856d953f4eb9e31287ff26cf028",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.727765161,
+            "creation": "2018-04-25T06:12:47.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 131738,
+            "uuploaders": 57541
+        },
+        {
+            "id": 95,
+            "name": "multi-btih-5-2-x-[limetorrents.cc]The.Handmaids.Tale.S02E02.Unwomen.720p.HULU.WEBRip.AAC2.0.H264-B",
+            "btih": "4aaf242ecfc41d5752c779262770dcdb48212919",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.584517134,
+            "creation": "2018-04-25T06:24:28.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 123011,
+            "uuploaders": 55799
+        },
+        {
+            "id": 90,
+            "name": "multi-btih-0-2-x-[limetorrents.cc]The.Handmaids.Tale.S02E01.June.1080p.HULU.WEBRip.AAC2.0.H264-NTb",
+            "btih": "4a51621af463f85baa05de3f1de654ca7c730430",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.847745466,
+            "creation": "2018-04-25T06:12:34.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 94844,
+            "uuploaders": 40680
+        },
+        {
+            "id": 72,
+            "name": "The.Handmaids.Tale.S02E02.720p.WEBRip.x264-TBS[rartv]-[rarbg.to]",
+            "btih": "b2a641c200e86e4481901414720899fb52006728",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.829414092,
+            "creation": "2018-04-26T00:33:27.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 75492,
+            "uuploaders": 24925
+        },
+        {
+            "id": 94,
+            "name": "multi-btih-4-2-x-[limetorrents.cc]The.Handmaids.Tale.S02E02.Unwomen.1080p.HULU.WEBRip.AAC2.0.H264-",
+            "btih": "fafdc21b087e106e6760754d53877eea096ae6e2",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.37873802,
+            "creation": "2018-04-25T06:25:47.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 47601,
+            "uuploaders": 26739
+        },
+        {
+            "id": 97,
+            "name": "multi-btih-7-2-x-[limetorrents.cc]The.Handmaids.Tale.S02E02.WEBRip.x264-TBS.EZTV",
+            "btih": "0986287c27883fdb899e66457b19fbca65f6f184",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.247154074,
+            "creation": "2018-04-26T00:24:30.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 46893,
+            "uuploaders": 29647
+        },
+        {
+            "id": 62,
+            "name": "The.Handmaids.Tale.S02E01.WEBRip.x264-TBS[eztv].mkv",
+            "btih": "750b1fc4b07b5fd57b6ecfbe4bbe878f33777041",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.266905568,
+            "creation": "2018-04-25T23:47:15.000000000Z,EZTV,Visit us: https://eztv.ag/ - Bitcoin: 1EZTVtpeNttqdDayh3D98nfQYybeZhu5YV",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 42329,
+            "uuploaders": 21794
+        },
+        {
+            "id": 92,
+            "name": "multi-btih-2-3-x-[limetorrents.cc]The.Handmaids.Tale.S02E01.WEBRip.x264-ION10",
+            "btih": "083133fcc54d5b2e89e696ab0203b3fdba65ba84",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.563259701,
+            "creation": "2018-04-25T06:30:08.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 41847,
+            "uuploaders": 24976
+        },
+        {
+            "id": 96,
+            "name": "multi-btih-6-3-x-[limetorrents.cc]The.Handmaids.Tale.S02E02.WEBRip.x264-ION10",
+            "btih": "519e53febc0c30b67fd81ed21b969c30d6e82b05",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.553863521,
+            "creation": "2018-04-25T06:37:10.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 36432,
+            "uuploaders": 22574
+        },
+        {
+            "id": 54,
+            "name": "The.Handmaids.Tale.S02E01.720p.WEBRip.x264-TBS[rartv]-[rarbg.to]",
+            "btih": "5f86a2bc965a5cb1e12eed3231a5e03745c0a7c6",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.045519517,
+            "creation": "2018-04-25T23:56:47.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 29756,
+            "uuploaders": 13587
+        },
+        {
+            "id": 49,
+            "name": "The.Handmaids.Tale.S02E01.1080p.WEBRip.x264-TBS[rartv]-[rarbg.to]",
+            "btih": "2a524292f03a776ef5e28276146696617a813fbd",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.688029403,
+            "creation": "2018-04-26T01:04:26.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 26310,
+            "uuploaders": 12826
+        },
+        {
+            "id": 67,
+            "name": "The.Handmaids.Tale.S02E02.1080p.WEBRip.x264-TBS[rartv]-[rarbg.to]",
+            "btih": "1f970e04cdfd520726e28c87855e07df2fa5ec63",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.310845111,
+            "creation": "2018-04-26T01:55:57.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 25867,
+            "uuploaders": 12652
+        },
+        {
+            "id": 63,
+            "name": "The.Handmaids.Tale.S02E01.WEBRip.x264-TBS[rartv]-[rarbg.to]",
+            "btih": "40b8888dbe9b126f5fc7490e582ac0a4f3ccce51",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.266905667,
+            "creation": "2018-04-25T23:37:28.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 25214,
+            "uuploaders": 10604
+        },
+        {
+            "id": 93,
+            "name": "multi-btih-3-2-x-[limetorrents.cc]The.Handmaids.Tale.S02E02.720p.WEBRip.x264-TBS.EZTV",
+            "btih": "1ddcfd94da456c5161698234855b1bf9e9c47b68",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.829413988,
+            "creation": "2018-04-26T00:43:24.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 23627,
+            "uuploaders": 15851
+        },
+        {
+            "id": 53,
+            "name": "The.Handmaids.Tale.S02E01.720p.WEBRip.x264-TBS[eztv].mkv",
+            "btih": "254b171fa2f19c97ae1421a7ae9e733ce1f3d334",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.045519413,
+            "creation": "2018-04-26T00:02:21.000000000Z,EZTV,Visit us: https://eztv.ag/ - Bitcoin: 1EZTVtpeNttqdDayh3D98nfQYybeZhu5YV",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 21875,
+            "uuploaders": 12605
+        },
+        {
+            "id": 81,
+            "name": "The.Handmaids.Tale.S02E02.WEBRip.x264-TBS[rartv]-[rarbg.to]",
+            "btih": "9e1c9b3e5a493a97c2d682bc3267cdc0cdc35e70",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.247154173,
+            "creation": "2018-04-26T00:16:48.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 21498,
+            "uuploaders": 8825
+        },
+        {
+            "id": 30,
+            "name": "[limetorrents.cc]The.Handmaids.Tale.S02E02.WEBRip.x264-TBS[ettv]",
+            "btih": "0b2328b5068a036a97ae830f650923c2b5c44aa2",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.247154267,
+            "creation": "2018-04-26T00:24:27.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 17944,
+            "uuploaders": 5697
+        },
+        {
+            "id": 10,
+            "name": "[limetorrents.cc]The.Handmaids.Tale.S02E01.June.720p.HULU.WEB-DL",
+            "btih": "f09c3139c583535b0b422298ac071f1f12a66bfa",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.473016547,
+            "creation": "2018-04-25T08:07:45.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 8271,
+            "uuploaders": 2948
+        },
+        {
+            "id": 21,
+            "name": "[limetorrents.cc]The.Handmaids.Tale.S02E02.720p.WEBRip.x264-TBS[ettv]",
+            "btih": "7d0b47ebc0b01639304eb0a007c69fb72bf98fc8",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.829414167,
+            "creation": "2018-04-26T00:40:02.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 7447,
+            "uuploaders": 3271
+        },
+        {
+            "id": 24,
+            "name": "[limetorrents.cc]The.Handmaids.Tale.S02E02.720p.WEBRip.x264",
+            "btih": "2fabdeaf090bd8b86c8cab050f0edf1fbb197471",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.460438404,
+            "creation": "2018-04-25T07:35:23.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 6899,
+            "uuploaders": 2865
+        },
+        {
+            "id": 8,
+            "name": "[limetorrents.cc]The.Handmaids.Tale.S02E01.720p.WEBRip.x264",
+            "btih": "dc104f37559c822a9e64e8a73a797add79b816ee",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.469449343,
+            "creation": "2018-04-25T07:27:39.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 6794,
+            "uuploaders": 2801
+        },
+        {
+            "id": 6,
+            "name": "[limetorrents.cc]The.Handmaids.Tale.S02E01.720p.WEBRip.x264-TBS[ettv]",
+            "btih": "1951c69a93143be2430e24f0a5665e18d0f905c0",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.045519592,
+            "creation": "2018-04-26T00:00:03.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 6442,
+            "uuploaders": 2832
+        },
+        {
+            "id": 84,
+            "name": "使女的故事.The.Handmaids.Tale.S02E01.720p-天天美剧字幕组.mp4.dd4f8e5e809ef5c2",
+            "btih": "dd4f8e5e809ef5c2b96f16d89fc38096f1bc0c1a",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.567813675,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4395,
+            "uuploaders": 1663
+        },
+        {
+            "id": 14,
+            "name": "[limetorrents.cc]The.Handmaids.Tale.S02E01.XviD-AFG",
+            "btih": "c9f1a050ae01f1362fe2a86fe5f4fa110f4d03ce",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.386129898,
+            "creation": "2018-04-26T00:10:03.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4297,
+            "uuploaders": 1901
+        },
+        {
+            "id": 32,
+            "name": "[limetorrents.cc]The.Handmaids.Tale.S02E02.XviD-AFG",
+            "btih": "2bfaf5498e9ded7582d20e4a84d7cf36c781848b",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.357889769,
+            "creation": "2018-04-26T00:45:04.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4239,
+            "uuploaders": 1973
+        },
+        {
+            "id": 43,
+            "name": "The.Handmaid's.Tale.S02E01.June.720p.HULU.WEB-DL.AAC2.0.H.264-NTb [IPT]",
+            "btih": "e82b461c4fcca68242b7bd555b1c5737a7fc69b7",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.729514277,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 3931,
+            "uuploaders": 2074
+        },
+        {
+            "id": 2,
+            "name": "[limetorrents.cc]The.Handmaids.Tale.S02E01.1080p.HULU.WEB-DL.2.0.HEVC.x265-GIRAYS",
+            "btih": "f4ee68424877b7c41307aab271975bae292b8145",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.568286128,
+            "creation": "2018-04-26T03:30:03.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 3836,
+            "uuploaders": 1601
+        },
+        {
+            "id": 88,
+            "name": "使女的故事.The.Handmaids.Tale.S02E02.720p-天天美剧字幕组.mp4.6958f0684ea8d786",
+            "btih": "6958f0684ea8d786c9e6dfa6167d34816c779e15",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.539440846,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 3646,
+            "uuploaders": 1466
+        },
+        {
+            "id": 1,
+            "name": "[limetorrents.cc]The.Handmaids.Tale.S02E01.1080p.HEVC.x265-MeGusta",
+            "btih": "bf2a107f74757f621b1aac64e26a9c24973a8045",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.657808025,
+            "creation": "2018-04-26T02:50:03.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 3356,
+            "uuploaders": 1338
+        },
+        {
+            "id": 39,
+            "name": "[rutor.is]The_Handmaids_Tale_S02E01-02_400p_ColdFilm_torr",
+            "btih": "cf52be61d29f1a668d58c208704e6541e9d4cf78",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 1.108236436,
+            "creation": "2018-04-25T15:14:50.000000000Z,uTorrent/2210,http://rutor.is/torrent/628264",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 3253,
+            "uuploaders": 1549
+        },
+        {
+            "id": 37,
+            "name": "[rutor.is]The_Handmaids_Tale_LostFilm",
+            "btih": "f597a2a6b9bcaf07b2c579fb670346f9ca284a39",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 1.409005568,
+            "creation": "2018-05-01T05:11:22.000000000Z,uTorrent/3.5,http://rutor.is/torrent/628772",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 3009,
+            "uuploaders": 1211
+        },
+        {
+            "id": 18,
+            "name": "[limetorrents.cc]The.Handmaids.Tale.S02E02.720p.HEVC.x265-MeGusta",
+            "btih": "ae5f6d548725c5ac4005e3425797b67b56d44eac",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.229798301,
+            "creation": "2018-04-26T01:10:03.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2996,
+            "uuploaders": 1227
+        },
+        {
+            "id": 15,
+            "name": "[limetorrents.cc]The.Handmaids.Tale.S02E01.XviD-AFG[TGx]",
+            "btih": "8ef07d3d0fd9acbb0a6bd3b98243db11d49a8b73",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.386130023,
+            "creation": "2018-04-26T00:30:03.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2682,
+            "uuploaders": 1253
+        },
+        {
+            "id": 3,
+            "name": "[limetorrents.cc]The.Handmaids.Tale.S02E01.1080p.WEBRip.x264-TBS",
+            "btih": "d71258b1b114ff19fe9eef56859e7125e1d10a9f",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.691822086,
+            "creation": "2018-04-26T01:20:04.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2616,
+            "uuploaders": 1307
+        },
+        {
+            "id": 83,
+            "name": "Рассказ Служанки The Handmaid's Tale Сезон 1-2 Серии 1-11 из 20 (Рид Морано, Майк Баркер) [2017-2018, США, Драма, фантасти [rutracker-5404615]",
+            "btih": "a7703b7a4b7f37abd46619e4e3fcf0d50fef5654",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 11.488079403,
+            "creation": "2018-04-27T06:51:49.000000000Z,uTorrent/1870,https://rutracker.org/forum/viewtopic.php?t=5404615",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2559,
+            "uuploaders": 1058
+        },
+        {
+            "id": 45,
+            "name": "The.Handmaid's.Tale.S02E02.Unwomen.720p.HULU.WEB-DL.AAC2.0.H.264-BTW [IPT]",
+            "btih": "1495ac8b0d394eb085258e95b6b78a40ed51f63d",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.585531431,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 2455,
+            "uuploaders": 1268
+        },
+        {
+            "id": 5,
+            "name": "[limetorrents.cc]The.Handmaids.Tale.S02E01.720p.HEVC.x265-MeGusta",
+            "btih": "ad129341f872680515c3dd573cdd35d2ddb3ba59",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.252259336,
+            "creation": "2018-04-26T00:30:43.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2421,
+            "uuploaders": 1017
+        },
+        {
+            "id": 23,
+            "name": "[limetorrents.cc]The.Handmaids.Tale.S02E02.720p.WEBRip.x264-TBS[TGx]",
+            "btih": "8eefb0705e0b9869b638aea65ca89096bd902bee",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.829415308,
+            "creation": "2018-04-26T00:40:31.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2369,
+            "uuploaders": 1222
+        },
+        {
+            "id": 16,
+            "name": "[limetorrents.cc]The.Handmaids.Tale.S02E02.1080p.WEBRip.x264-TBS",
+            "btih": "f3163e6b004db6193b564823f0e5fac41bb9879d",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.312789213,
+            "creation": "2018-04-26T02:25:11.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2352,
+            "uuploaders": 1200
+        },
+        {
+            "id": 4,
+            "name": "[limetorrents.cc]The.Handmaids.Tale.S02E01.480p.x264-mSD",
+            "btih": "0b9c46ccad926fe3a3b77fcf24f160eaef2b3767",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.175468212,
+            "creation": "2018-04-26T00:10:03.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2029,
+            "uuploaders": 837
+        },
+        {
+            "id": 13,
+            "name": "[limetorrents.cc]The.Handmaids.Tale.S02E01.WEBRip.x264-TBS[N1C]",
+            "btih": "094ee2e9c8bffd462dc6b8e766622a0b3ff154d6",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.266905637,
+            "creation": "2018-04-25T23:40:10.000000000Z,mktorrent 1.0,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1972,
+            "uuploaders": 899
+        },
+        {
+            "id": 38,
+            "name": "[rutor.is]The_Handmaids_Tale_S02E01-02_1080p_ColdFilm_tor",
+            "btih": "613e248259ba9d13ef1ee9f84381c7d394f8c2ff",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 3.784843998,
+            "creation": "2018-04-25T15:15:53.000000000Z,uTorrent/2210,http://rutor.is/torrent/628266",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1972,
+            "uuploaders": 963
+        },
+        {
+            "id": 33,
+            "name": "[limetorrents.cc]The.Handmaids.Tale.S02E02.XviD-AFG[TGx]",
+            "btih": "ecafd7127e0301e2a74c17ad68ef5b9e49609ded",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.357889894,
+            "creation": "2018-04-26T00:49:49.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1886,
+            "uuploaders": 993
+        },
+        {
+            "id": 40,
+            "name": "[rutor.is]The_Handmaids_Tale_S02E01-02_720p_ColdFilm_torr",
+            "btih": "f4b72cd6965aed1f7c373e8890642de9321dfcfd",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 2.645626724,
+            "creation": "2018-04-25T15:15:25.000000000Z,uTorrent/2210,http://rutor.is/torrent/628265",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1879,
+            "uuploaders": 1133
+        },
+        {
+            "id": 41,
+            "name": "The.Handmaid's.Tale.S02E01.June.1080p.HULU.WEB-DL.AAC2.0.H.264-NTb [IPT]",
+            "btih": "0662bfb9fbe299349f2ba8440602c6fa2402b938",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.851689103,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 1726,
+            "uuploaders": 898
+        },
+        {
+            "id": 35,
+            "name": "[rutor.is]The.Handmaids.Tale.S02.WEB-DLRip.720p.IdeaFilm",
+            "btih": "89920dc1663447486fa592103d1e8e1a363b8b34",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 3.768878704,
+            "creation": "2018-04-27T20:49:17.000000000Z,qBittorrent v4.0.4,http://rutor.is/torrent/628681",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1656,
+            "uuploaders": 953
+        },
+        {
+            "id": 36,
+            "name": "[rutor.is]The.Handmaids.Tale.S02.WEB-DLRip.IdeaFilm",
+            "btih": "ed35b19d1c265007d4b06694c3e02ace49b69bef",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 1.495439636,
+            "creation": "2018-04-27T20:50:15.000000000Z,qBittorrent v4.0.4,http://rutor.is/torrent/628682",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1651,
+            "uuploaders": 968
+        },
+        {
+            "id": 20,
+            "name": "[limetorrents.cc]The.Handmaids.Tale.S02E02.720p.WEBRip.x264-TBS",
+            "btih": "010b31a6e7cb504cb3b580d920ae4ef0754bb060",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.830500036,
+            "creation": "2018-04-26T00:39:51.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1509,
+            "uuploaders": 643
+        },
+        {
+            "id": 17,
+            "name": "[limetorrents.cc]The.Handmaids.Tale.S02E02.480p.x264-mSD",
+            "btih": "c68606ffd44ba3284175a477be8a5434163576b2",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.167270973,
+            "creation": "2018-04-26T00:49:53.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1431,
+            "uuploaders": 536
+        },
+        {
+            "id": 31,
+            "name": "[limetorrents.cc]The.Handmaids.Tale.S02E02.WEBRip.x264-TBS[N1C]",
+            "btih": "fa3ac0274dfef5b5d17a3671d555f75355137e76",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.247154143,
+            "creation": "2018-04-26T00:25:34.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1296,
+            "uuploaders": 605
+        },
+        {
+            "id": 29,
+            "name": "[limetorrents.cc]The.Handmaids.Tale.S02E02.WEBRip.x264-TBS",
+            "btih": "61a00d60b2c6c28b70551ae831d44ed7df9f5af3",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.247551073,
+            "creation": "2018-04-26T00:25:22.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1276,
+            "uuploaders": 510
+        },
+        {
+            "id": 22,
+            "name": "[limetorrents.cc]The.Handmaids.Tale.S02E02.720p.WEBRip.x264-TBS[N1C]",
+            "btih": "064bcf555bf6d4b71071c74005abab84708abc97",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.829414062,
+            "creation": "2018-04-26T00:40:02.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1238,
+            "uuploaders": 563
+        },
+        {
+            "id": 70,
+            "name": "The.Handmaids.Tale.S02E02.720p.WEBRip.x264-TBS [IPT]",
+            "btih": "9f97ce2ae489cd66cc58d2f5cf8daa9715e57ae2",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.829417207,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 1191,
+            "uuploaders": 531
+        },
+        {
+            "id": 52,
+            "name": "The.Handmaids.Tale.S02E01.720p.WEBRip.x264-TBS [IPT]",
+            "btih": "80cc4ebc4abfe42bce436d1f806728215b548772",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.045523372,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 1187,
+            "uuploaders": 459
+        },
+        {
+            "id": 34,
+            "name": "[rutor.is]The.Handmaids.Tale.S02.WEB-DLRip.1080p.IdeaFilm",
+            "btih": "cfbafff1cb8fcb26b4bc87d2857cc374900d7f5a",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 6.225455626,
+            "creation": "2018-04-27T20:48:25.000000000Z,qBittorrent v4.0.4,http://rutor.is/torrent/628680",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1180,
+            "uuploaders": 746
+        },
+        {
+            "id": 46,
+            "name": "The.Handmaid's.Tale.S02E02.Unwomen.720p.HULU.WEB-DL.AAC2.0.H.264-NTb [IPT]",
+            "btih": "2a9f6b1bc34555c893561ac07851e830fd25bb3b",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.585531431,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 1156,
+            "uuploaders": 506
+        },
+        {
+            "id": 66,
+            "name": "The.Handmaids.Tale.S02E02.1080p.WEBRip.x264-TBS [IPT]",
+            "btih": "af56a0265a7cf456a217afa5af09e838e14ac809",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.31085013,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 1126,
+            "uuploaders": 456
+        },
+        {
+            "id": 42,
+            "name": "The.Handmaid's.Tale.S02E01.June.480p.HULU.WEB-DL.AAC2.0.H.264-BTW [IPT]",
+            "btih": "e41cf27131b8266e5f578505cd68885621fbffea",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.227425906,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 921,
+            "uuploaders": 349
+        },
+        {
+            "id": 48,
+            "name": "The.Handmaids.Tale.S02E01.1080p.WEBRip.x264-TBS [IPT]",
+            "btih": "7e14136b2c4af47350231fa2df55576552894447",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.688035731,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 909,
+            "uuploaders": 379
+        },
+        {
+            "id": 82,
+            "name": "The.Handmaids.Tale.S02E02.XviD-AFG [IPT]",
+            "btih": "3560d60b52998ee6fdbefd10026b126f7458f9b3",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.357889685,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 852,
+            "uuploaders": 576
+        },
+        {
+            "id": 64,
+            "name": "The.Handmaids.Tale.S02E01.XviD-AFG [IPT]",
+            "btih": "ad7862f9ba43dd66736534c5b110d1ff61c87e0a",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.386129814,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 838,
+            "uuploaders": 574
+        },
+        {
+            "id": 7,
+            "name": "[limetorrents.cc]The.Handmaids.Tale.S02E01.720p.WEBRip.x264-TBS[N1C]",
+            "btih": "3e09eaa4c5d273fb377f0375d9d50add2f16e4d5",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.045519487,
+            "creation": "2018-04-26T00:10:53.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 837,
+            "uuploaders": 408
+        },
+        {
+            "id": 89,
+            "name": "使女的故事.The.Handmaids.Tale.S02E02.720p.x264.双语字幕.mp4.44dbacd5aa19cd62",
+            "btih": "44dbacd5aa19cd625bbe22fec155afcd6a49ad7a",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.497020693,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 832,
+            "uuploaders": 267
+        },
+        {
+            "id": 44,
+            "name": "The.Handmaid's.Tale.S02E02.Unwomen.396p.HULU.WEB-DL.AAC2.0.H.264-BTW [IPT]",
+            "btih": "75a1810b6185bd1540391715372a237b67d869e5",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.213064062,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 767,
+            "uuploaders": 318
+        },
+        {
+            "id": 65,
+            "name": "The.Handmaids.Tale.S02E02.1080p.HEVC.x265-MeGusta [IPT]",
+            "btih": "0b65aa4ec6ea64eb070966851e59265184be2456",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.554418995,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 761,
+            "uuploaders": 350
+        },
+        {
+            "id": 51,
+            "name": "The.Handmaids.Tale.S02E01.720p.HEVC.x265-MeGusta [IPT]",
+            "btih": "91d38bb03e19611f60c7db13c22b628dfedfd96e",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.252259252,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 671,
+            "uuploaders": 278
+        },
+        {
+            "id": 47,
+            "name": "The.Handmaids.Tale.S02E01.1080p.HEVC.x265-MeGusta [IPT]",
+            "btih": "9925ce702dabce0d089ebcd0d224a63dcf7b8234",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.657807941,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 670,
+            "uuploaders": 300
+        },
+        {
+            "id": 69,
+            "name": "The.Handmaids.Tale.S02E02.720p.HEVC.x265-MeGusta [IPT]",
+            "btih": "efd1b04bca1abebff4587643974e4b0f8a77150d",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.229798217,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 651,
+            "uuploaders": 277
+        },
+        {
+            "id": 79,
+            "name": "The.Handmaids.Tale.S02E02.WEBRip.x264-TBS [IPT]",
+            "btih": "58556a8a9e04d8b19d23ada04a19000b21d7ccd0",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.247156418,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 591,
+            "uuploaders": 188
+        },
+        {
+            "id": 85,
+            "name": "使女的故事.The.Handmaids.Tale.S02E01.720p.x264.双语字幕.mp4.0911d537e668fbba",
+            "btih": "0911d537e668fbba8ebd6fb0a4c575075a150c6e",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.535033379,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 576,
+            "uuploaders": 229
+        },
+        {
+            "id": 61,
+            "name": "The.Handmaids.Tale.S02E01.WEBRip.x264-TBS [IPT]",
+            "btih": "d6efa1ff829982541ebfe868df4eca204f3317c0",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.266908059,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 570,
+            "uuploaders": 180
+        },
+        {
+            "id": 86,
+            "name": "使女的故事.The.Handmaids.Tale.S02E01.720p.x264.双语字幕初版-深影字幕组.mp4.d456b38912ffa1f0",
+            "btih": "d456b38912ffa1f03fb0cf59de08b624859f8fb0",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.533683479,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 407,
+            "uuploaders": 92
+        },
+        {
+            "id": 68,
+            "name": "The.Handmaids.Tale.S02E02.480p.x264-mSD [IPT]",
+            "btih": "964d4c64b0e5263bc0f1b69f4854298c8cfc6317",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.167270889,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 402,
+            "uuploaders": 109
+        },
+        {
+            "id": 50,
+            "name": "The.Handmaids.Tale.S02E01.480p.x264-mSD [IPT]",
+            "btih": "4e749c027dc10ed1972c8fa2de5cfad5b1bfe0e9",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.175468128,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 385,
+            "uuploaders": 85
+        },
+        {
+            "id": 74,
+            "name": "The.Handmaids.Tale.S02E02.MULTi.1080p.HDTV.x264-HYBRiS [IPT]",
+            "btih": "de6e7cdf112478d836321f42d359dc24f803f7fb",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.331044542,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 374,
+            "uuploaders": 165
+        },
+        {
+            "id": 58,
+            "name": "The.Handmaids.Tale.S02E01.MULTi.1080p.HDTV.x264-HYBRiS [IPT]",
+            "btih": "206ff0d790837f87ee7b3a680671849566d929b4",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.731085481,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 278,
+            "uuploaders": 123
+        },
+        {
+            "id": 87,
+            "name": "使女的故事.The.Handmaids.Tale.S02E01.720p.x264.双语字幕精校版-深影字幕组.mp4.2aa6bfcf9248cf98",
+            "btih": "2aa6bfcf9248cf980ac738ee1d1e57dd486c557b",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.534792191,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 250,
+            "uuploaders": 72
+        },
+        {
+            "id": 73,
+            "name": "The.Handmaids.Tale.S02E02.AAC.MP4-Mobile [IPT]",
+            "btih": "2ee079d920a2408d8ee89cd0c64f44c520e97f1a",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.165810782,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 148,
+            "uuploaders": 108
+        },
+        {
+            "id": 55,
+            "name": "The.Handmaids.Tale.S02E01.AAC.MP4-Mobile [IPT]",
+            "btih": "abb22bdcc9c84b2c3ac32169775423b2c5e1a413",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.173781288,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 129,
+            "uuploaders": 93
+        }
+    ]
+}

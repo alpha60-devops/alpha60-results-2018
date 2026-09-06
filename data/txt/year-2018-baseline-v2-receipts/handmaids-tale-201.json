@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt5834204",
+    "imdb_id": "tt5834204",
+    "revision": "5daa2bb0f58fe6b678ea0a572049b3311de52618",
+    "wikidata_id": "Q25207350",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Handmaid%27s_Tale_(TV_series)"
+  },
+  "coverage_sha256": "bfc19c881c82fc0f19a3737768c6ee09424fc9257996fc0ca88ef2fc8024d75c",
+  "generated_at": "2026-09-06T18:32:00.940112+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2018-archives/handmaids-tale-201.cache/cache.20180506.tar.xz",
+      "sha256": "ab4fb463481593c94b05a5e2239f6214898c62b4951e6b52b58dc2bbb1a04a15",
+      "size": 121347840
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2018/data/txt/year-2018-coverage-evidence/handmaids-tale-201.md",
+      "sha256": "9b851f21fd9c4aed21d1df67eed6d79503f273ecfb8ad082f4b50a35c457d204",
+      "size": 596
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2018/data/txt/year-2018-day-cache-stream-receipts/handmaids-tale-201.json",
+      "sha256": "aa0ecdb2211d4554e6714f4f627b79ee980b9c662a3af926af24e41e5953f9ed",
+      "size": 1995
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2018/data/txt/year-2018-day-product-receipts/handmaids-tale-201.json",
+      "sha256": "182d1d3bd3e3ed0515baf5a9647164cea234f75edbbb0a83194b0b5f02950f1f",
+      "size": 370
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2018-control/worker-map.json",
+      "sha256": "9fa8abf8526eeed113ee5caacdd56c59ca4dd79dc2693f35b4e875a60e3a1b94",
+      "size": 58051
+    }
+  },
+  "media_object": "handmaids-tale-201",
+  "published_files": {
+    "data/csv/bytes/handmaids-tale-201-cumulative-detail.2018-btiha-itemized-by-bytes.csv": "3a5cbf4111019918484311b30ca3a2f770bc8d5ea1b4268200fa65d39e09c749",
+    "docs/itemized/figures/handmaids-tale-201-carto-4k.webp": "6fb990f557065674b98726d25a7387069466b47ddb238488f9a86ea67888fd99",
+    "docs/itemized/figures/handmaids-tale-201-carto.png": "c3557ac8d9d6145a6c9ee862607e2d0ad9c4f59c8322c7ebf8f6d866c7168b70",
+    "docs/itemized/figures/handmaids-tale-201-cumulative-detail-btiha-itemized-by-bytes.svg": "2e944e46074c5a603001d274240e5c2c4e6f5c31285cca78c66b22eaa79802b0",
+    "docs/itemized/figures/handmaids-tale-201-data-ge-1080p-4k.webp": "dd2826f49511a8d2a10e3447213fdbb4f7266b42914b21eb3e6ae556a5274afe",
+    "docs/itemized/figures/handmaids-tale-201-data-ge-1080p.webp": "210083f74fc0a1cc49eb8efaede65a243374fe08fb7cef03452003b73c2b9990",
+    "docs/itemized/figures/handmaids-tale-201-data-lt-1080p-4k.webp": "538d8fc12f04fb5a00086a8ba0cdeb6f2ea8ab663065c9c9bc6c1f5a62ceea83",
+    "docs/itemized/figures/handmaids-tale-201-data-lt-1080p.webp": "8f2476b9f2ef96057138dbb293f278282fd93b78d990fe731cded2e98f515ea6",
+    "docs/itemized/figures/handmaids-tale-201-downloads-by-day-day.svg": "d6edaa8aad28b75039ae21ad5605fad4f1be0a23665bf1c71349cf50efe8dffd",
+    "docs/itemized/figures/handmaids-tale-201-downloads-by-week-handmaids-tale-201-week.svg": "36df3c57e8badbd8cd9fc8bc34f4c4faf38fb2ef9cf77df457670dc03471daa3",
+    "docs/itemized/handmaids-tale-201-sample-cache-audit.md": "1945951110c5c8ddeb12910e6c0c75570823e23aa42bea7ed24d3d83930fda47",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "27af472f439958c53f0aab30b89cddaa411eedaf",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2018/handmaids-tale-201/tmp/handmaids-tale-201-cumulative-btiha.geojson",
+        "sha256": "21c87947ef7186548f27258b9ae1dc207d3738f3ae26a033e81798dd4372a460",
+        "size": 15652629
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2018/handmaids-tale-201/tmp/handmaids-tale-201-cumulative-btiha-media-objects.json",
+        "sha256": "1303b3074160ab3f1e42cbd55ba9daf26347cf5f954ef207bdf8d6d61e129e31",
+        "size": 182703
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2018-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "handmaids-tale-201",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "3e6a87ec7490ec3b39db0dba09ab6311a015621eb704ac975c05f399296c8393",
+      "size": 8759376
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2018-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          63.0,
+          42.0,
+          40.0,
+          34.0,
+          30.0,
+          30.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "S\u00e3o Paulo",
+          "London",
+          "Lelystad",
+          "Rio de Janeiro",
+          "Amsterdam",
+          "Ashburn",
+          "Paris",
+          "New York City",
+          "Stockholm",
+          "Sydney"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          69.0,
+          44.0,
+          30.0,
+          28.0,
+          27.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "London",
+          "S\u00e3o Paulo",
+          "Sydney",
+          "Dublin",
+          "Rio de Janeiro",
+          "Melbourne",
+          "Toronto",
+          "New York City",
+          "Amsterdam",
+          "Ashburn"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 12,
+        "y_tick_labels": 20
+      },
+      "histogram": {
+        "bars": 18,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 6,
+        "x_tick_marks": 6,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 2,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "27af472f439958c53f0aab30b89cddaa411eedaf",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "980e731bb2e99b13ecc9d15c75480125d514e26c",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "5daa2bb0f58fe6b678ea0a572049b3311de52618"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2018"
+}
