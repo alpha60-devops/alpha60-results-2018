@@ -1,0 +1,2030 @@
+{
+    "collection_name": "The Romanoffs",
+    "collection_id": "104",
+    "collection_key": "romanoffs-104",
+    "collection_notes": "",
+    "data_version": "2026-08-05",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "6:1777968300",
+    "collection_btiha_duplicates": [
+        {
+            "duplicate_id": 0,
+            "duplicate_btih": "23c3e3b55f6aa8e53296cb9641e2aae722efa4e1",
+            "duplicate_0_0": "The.Romanoffs.S01E04.1080p.HEVC.x265-MeGusta [IPT]",
+            "duplicate_0_1": "The.Romanoffs.S01E04.1080p.HEVC.x265-MeGusta"
+        },
+        {
+            "duplicate_id": 1,
+            "duplicate_btih": "8e878947c615f9d612d38124e0931a6f3dd77ba4",
+            "duplicate_1_0": "The.Romanoffs.S01E04.Expectation.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG [IPT]",
+            "duplicate_1_1": "The.Romanoffs.S01E04.Expectation.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG"
+        },
+        {
+            "duplicate_id": 2,
+            "duplicate_btih": "fdcc1734f43fd84a7521e812ad55c8f6790b332a",
+            "duplicate_2_0": "The.Romanoffs.S01E04.Expectation.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG [IPT]",
+            "duplicate_2_1": "The.Romanoffs.S01E04.Expectation.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG"
+        },
+        {
+            "duplicate_id": 3,
+            "duplicate_btih": "85c810be856f2f3321cbaae57b404b943066389e",
+            "duplicate_3_0": "The.Romanoffs.S01E04.Expectation.AMZN.WEB-DL.AAC2.0.H.264-NTG [IPT]",
+            "duplicate_3_1": "The.Romanoffs.S01E04.Expectation.AMZN.WEB-DL.AAC2.0.H.264-NTG"
+        },
+        {
+            "duplicate_id": 4,
+            "duplicate_btih": "f6c4c77aa3f6616078ffd7e1825146519e03de28",
+            "duplicate_4_0": "The.Romanoffs.S01E04.XviD-AFG [IPT]",
+            "duplicate_4_1": "The.Romanoffs.S01E04.XviD-AFG"
+        },
+        {
+            "duplicate_id": 5,
+            "duplicate_btih": "8db21f035b9710f30a3e995571cbcd9f0cf70778",
+            "duplicate_5_0": "[limetorrents.info]The.Romanoffs.S01E04.1080p.WEB.h264-SKGTV[rarbg]",
+            "duplicate_5_1": "The.Romanoffs.S01E04.1080p.WEB.h264-SKGTV[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 6,
+            "duplicate_btih": "ab4a5c6a421f27eb126d55a128129a1496fd1dec",
+            "duplicate_6_0": "[limetorrents.info]The.Romanoffs.S01E04.720p.WEB.h264-SKGTV[eztv]",
+            "duplicate_6_1": "The.Romanoffs.S01E04.720p.WEB.h264-SKGTV[eztv].mkv"
+        },
+        {
+            "duplicate_id": 7,
+            "duplicate_btih": "16c09071f64997ad522d3aa05f2c79dfb0f7d912",
+            "duplicate_7_0": "[limetorrents.info]The.Romanoffs.S01E04.720p.WEB.h264-SKGTV[rarbg]",
+            "duplicate_7_1": "The.Romanoffs.S01E04.720p.WEB.h264-SKGTV[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 8,
+            "duplicate_btih": "47170d68da536b1809cf67e7e08585a44e531f65",
+            "duplicate_8_0": "[limetorrents.info]The.Romanoffs.S01E04.720p.WEB.x265-MiNX[eztv]",
+            "duplicate_8_1": "The.Romanoffs.S01E04.720p.WEB.x265-MiNX[eztv].mkv"
+        },
+        {
+            "duplicate_id": 9,
+            "duplicate_btih": "52ec7ceb36edfee5ebe19851ec425eb6c53f8263",
+            "duplicate_9_0": "[limetorrents.info]The.Romanoffs.S01E04.Expectation.1080p.AMZN.WEBRip.DDP5.1.x264-NTG[rarbg]",
+            "duplicate_9_1": "The.Romanoffs.S01E04.Expectation.1080p.AMZN.WEBRip.DDP5.1.x264-NTG[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 10,
+            "duplicate_btih": "9dc0821bf8586fe573acf95c215c7128535ed4bf",
+            "duplicate_10_0": "[limetorrents.info]The.Romanoffs.S01E04.Expectation.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG[eztv]",
+            "duplicate_10_1": "The.Romanoffs.S01E04.Expectation.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG[eztv].mkv"
+        },
+        {
+            "duplicate_id": 11,
+            "duplicate_btih": "2a1c957c4c9e05e1511a178ee921b8d3f2f348ff",
+            "duplicate_11_0": "[limetorrents.info]The.Romanoffs.S01E04.Expectation.AMZN.WEB-DL.AAC2.0.H.264-NTG[eztv]",
+            "duplicate_11_1": "The.Romanoffs.S01E04.Expectation.AMZN.WEB-DL.AAC2.0.H.264-NTG[eztv].mkv"
+        },
+        {
+            "duplicate_id": 12,
+            "duplicate_btih": "e713efe1f457615ab880a3d08ad2b9048ce5bb60",
+            "duplicate_12_0": "[limetorrents.info]The.Romanoffs.S01E04.WEB.H264-MEMENTO[rarbg]",
+            "duplicate_12_1": "The.Romanoffs.S01E04.WEB.H264-MEMENTO[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 13,
+            "duplicate_btih": "5491a239e620c6986ec363f01b283a190e91c099",
+            "duplicate_13_0": "[limetorrents.info]The.Romanoffs.S01E04.WEB.x264-PHOENiX[eztv]",
+            "duplicate_13_1": "The.Romanoffs.S01E04.WEB.x264-PHOENiX[eztv].mkv"
+        },
+        {
+            "duplicate_id": 14,
+            "duplicate_btih": "b52a24fdaf3bd6e77602119f8630a69e023dbbff",
+            "duplicate_14_0": "[limetorrents.info]The.Romanoffs.S01E04.WEBRip.x264-ION10",
+            "duplicate_14_1": "The.Romanoffs.S01E04.WEBRip.x264-ION10-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 15,
+            "duplicate_btih": "baf4b8190a340b68a92a082dd1031e0bd722a633",
+            "duplicate_15_0": "[limetorrents.info]The.Romanoffs.S01E04.XviD-AFG[eztv]",
+            "duplicate_15_1": "The.Romanoffs.S01E04.XviD-AFG[eztv].avi"
+        }
+    ],
+    "collection_btiha_metadata": [
+        {
+            "id": 1,
+            "name": "[limetorrents.info]The.Romanoffs....Season.01..NewStudio",
+            "size_total": 2.097328128,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.048680448,
+                    "path": "The.Romanoffs   (Season 01) NewStudio/The.Romanoffs.s01e01.WEBDLRip.NewStudio.TV.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 1.04864768,
+                    "path": "The.Romanoffs   (Season 01) NewStudio/The.Romanoffs.s01e02.WEBDLRip.NewStudio.TV.avi"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "[limetorrents.info]The.Romanoffs..2018..S01E04..1080p.WebRip.x265.HEVC.10bit.EAC3.6.0.Kira..[UTR]",
+            "size_total": 2.028937055,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.028937055,
+                    "path": "The Romanoffs (2018) S01E04 (1080p WebRip x265 HEVC 10bit EAC3 6.0 Kira) [UTR].mkv"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "[limetorrents.info]The.Romanoffs.S01E04.1080p.WEB.h264-SKGTV[rarbg]",
+            "size_total": 4.242079074,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Romanoffs.S01E04.1080p.WEB.h264-SKGTV[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 4.242071499,
+                    "path": "The.Romanoffs.S01E04.1080p.WEB.h264-SKGTV[rarbg]/the.romanoffs.s01e04.1080p.web.h264-skgtv.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000007545,
+                    "path": "The.Romanoffs.S01E04.1080p.WEB.h264-SKGTV[rarbg]/the.romanoffs.s01e04.1080p.web.h264-skgtv.nfo"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "[limetorrents.info]The.Romanoffs.S01E04.1080p.WEB.h264-SKGTV[TGx]",
+            "size_total": 4.256198024,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.003747119,
+                    "path": "The.Romanoffs.S01E04.1080p.WEB.h264-SKGTV[TGx]/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.00237993,
+                    "path": "The.Romanoffs.S01E04.1080p.WEB.h264-SKGTV[TGx]/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.004920266,
+                    "path": "The.Romanoffs.S01E04.1080p.WEB.h264-SKGTV[TGx]/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.003070974,
+                    "path": "The.Romanoffs.S01E04.1080p.WEB.h264-SKGTV[TGx]/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 6.91e-7,
+                    "path": "The.Romanoffs.S01E04.1080p.WEB.h264-SKGTV[TGx]/[TGx]Downloaded from torrentgalaxy.org .txt"
+                },
+                {
+                    "number": 6,
+                    "size": 4.242071499,
+                    "path": "The.Romanoffs.S01E04.1080p.WEB.h264-SKGTV[TGx]/the.romanoffs.s01e04.1080p.web.h264-skgtv.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 0.000007545,
+                    "path": "The.Romanoffs.S01E04.1080p.WEB.h264-SKGTV[TGx]/the.romanoffs.s01e04.1080p.web.h264-skgtv.nfo"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "[limetorrents.info]The.Romanoffs.S01E04.720p.WEB.h264-SKGTV[ettv]",
+            "size_total": 1.398675707,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.85e-7,
+                    "path": "The.Romanoffs.S01E04.720p.WEB.h264-SKGTV[ettv]/Downloaded from www.ETTV.tv .txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.398675522,
+                    "path": "The.Romanoffs.S01E04.720p.WEB.h264-SKGTV[ettv]/the.romanoffs.s01e04.720p.web.h264-skgtv[ettv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "[limetorrents.info]The.Romanoffs.S01E04.720p.WEB.h264-SKGTV[eztv]",
+            "size_total": 1.398675522,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.398675522,
+                    "path": "The.Romanoffs.S01E04.720p.WEB.h264-SKGTV[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "[limetorrents.info]The.Romanoffs.S01E04.720p.WEB.h264-SKGTV[rarbg]",
+            "size_total": 1.398683095,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Romanoffs.S01E04.720p.WEB.h264-SKGTV[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.398675522,
+                    "path": "The.Romanoffs.S01E04.720p.WEB.h264-SKGTV[rarbg]/the.romanoffs.s01e04.720p.web.h264-skgtv.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000007543,
+                    "path": "The.Romanoffs.S01E04.720p.WEB.h264-SKGTV[rarbg]/the.romanoffs.s01e04.720p.web.h264-skgtv.nfo"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "[limetorrents.info]The.Romanoffs.S01E04.720p.WEB.h264-SKGTV[TGx]",
+            "size_total": 1.404344763,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.001557821,
+                    "path": "The.Romanoffs.S01E04.720p.WEB.h264-SKGTV[TGx]/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.001002044,
+                    "path": "The.Romanoffs.S01E04.720p.WEB.h264-SKGTV[TGx]/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.002098832,
+                    "path": "The.Romanoffs.S01E04.720p.WEB.h264-SKGTV[TGx]/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.00100231,
+                    "path": "The.Romanoffs.S01E04.720p.WEB.h264-SKGTV[TGx]/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 6.91e-7,
+                    "path": "The.Romanoffs.S01E04.720p.WEB.h264-SKGTV[TGx]/[TGx]Downloaded from torrentgalaxy.org .txt"
+                },
+                {
+                    "number": 6,
+                    "size": 1.398675522,
+                    "path": "The.Romanoffs.S01E04.720p.WEB.h264-SKGTV[TGx]/the.romanoffs.s01e04.720p.web.h264-skgtv.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 0.000007543,
+                    "path": "The.Romanoffs.S01E04.720p.WEB.h264-SKGTV[TGx]/the.romanoffs.s01e04.720p.web.h264-skgtv.nfo"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "[limetorrents.info]The.Romanoffs.S01E04.720p.WEB.x265-MiNX[eztv]",
+            "size_total": 0.294715587,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.294715587,
+                    "path": "The.Romanoffs.S01E04.720p.WEB.x265-MiNX[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "[limetorrents.info]The.Romanoffs.S01E04.720p.WEB.x265-MiNX[TGx]",
+            "size_total": 0.294716278,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.294715587,
+                    "path": "The.Romanoffs.S01E04.720p.WEB.x265-MiNX[TGx]/The.Romanoffs.S01E04.720p.WEB.x265-MiNX.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 6.91e-7,
+                    "path": "The.Romanoffs.S01E04.720p.WEB.x265-MiNX[TGx]/[TGx]Downloaded from torrentgalaxy.org .txt"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "[limetorrents.info]The.Romanoffs.S01E04.Expectation.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG[TGx]",
+            "size_total": 5.223078307,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.003896027,
+                    "path": "The.Romanoffs.S01E04.Expectation.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG[TGx]/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.003491049,
+                    "path": "The.Romanoffs.S01E04.Expectation.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG[TGx]/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.005094728,
+                    "path": "The.Romanoffs.S01E04.Expectation.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG[TGx]/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.003926242,
+                    "path": "The.Romanoffs.S01E04.Expectation.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG[TGx]/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 5.206667973,
+                    "path": "The.Romanoffs.S01E04.Expectation.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG[TGx]/The.Romanoffs.S01E04.Expectation.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001597,
+                    "path": "The.Romanoffs.S01E04.Expectation.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG[TGx]/The.Romanoffs.S01E04.Expectation.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.nfo"
+                },
+                {
+                    "number": 7,
+                    "size": 6.91e-7,
+                    "path": "The.Romanoffs.S01E04.Expectation.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG[TGx]/[TGx]Downloaded from torrentgalaxy.org .txt"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "[limetorrents.info]The.Romanoffs.S01E04.Expectation.1080p.AMZN.WEBRip.DDP5.1.x264-NTG[rarbg]",
+            "size_total": 5.206668003,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Romanoffs.S01E04.Expectation.1080p.AMZN.WEBRip.DDP5.1.x264-NTG[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 5.206667973,
+                    "path": "The.Romanoffs.S01E04.Expectation.1080p.AMZN.WEBRip.DDP5.1.x264-NTG[rarbg]/The.Romanoffs.S01E04.Expectation.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "[limetorrents.info]The.Romanoffs.S01E04.Expectation.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG[eztv]",
+            "size_total": 1.768681715,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.768681715,
+                    "path": "The.Romanoffs.S01E04.Expectation.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "[limetorrents.info]The.Romanoffs.S01E04.Expectation.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG[TGx]",
+            "size_total": 1.775177556,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.001588862,
+                    "path": "The.Romanoffs.S01E04.Expectation.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG[TGx]/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.001316624,
+                    "path": "The.Romanoffs.S01E04.Expectation.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG[TGx]/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.002113173,
+                    "path": "The.Romanoffs.S01E04.Expectation.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG[TGx]/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001474897,
+                    "path": "The.Romanoffs.S01E04.Expectation.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG[TGx]/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 1.768681715,
+                    "path": "The.Romanoffs.S01E04.Expectation.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG[TGx]/The.Romanoffs.S01E04.Expectation.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001594,
+                    "path": "The.Romanoffs.S01E04.Expectation.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG[TGx]/The.Romanoffs.S01E04.Expectation.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG.nfo"
+                },
+                {
+                    "number": 7,
+                    "size": 6.91e-7,
+                    "path": "The.Romanoffs.S01E04.Expectation.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG[TGx]/[TGx]Downloaded from torrentgalaxy.org .txt"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "[limetorrents.info]The.Romanoffs.S01E04.Expectation.AMZN.WEB-DL.AAC2.0.H.264-NTG[eztv]",
+            "size_total": 0.695244656,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.695244656,
+                    "path": "The.Romanoffs.S01E04.Expectation.AMZN.WEB-DL.AAC2.0.H.264-NTG[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "[limetorrents.info]The.Romanoffs.S01E04.Expectation.AMZN.WEB-DL.AAC2.0.H.264-NTG[TGx]",
+            "size_total": 0.69885295,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000903663,
+                    "path": "The.Romanoffs.S01E04.Expectation.AMZN.WEB-DL.AAC2.0.H.264-NTG[TGx]/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000729878,
+                    "path": "The.Romanoffs.S01E04.Expectation.AMZN.WEB-DL.AAC2.0.H.264-NTG[TGx]/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001186566,
+                    "path": "The.Romanoffs.S01E04.Expectation.AMZN.WEB-DL.AAC2.0.H.264-NTG[TGx]/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000785913,
+                    "path": "The.Romanoffs.S01E04.Expectation.AMZN.WEB-DL.AAC2.0.H.264-NTG[TGx]/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.695244656,
+                    "path": "The.Romanoffs.S01E04.Expectation.AMZN.WEB-DL.AAC2.0.H.264-NTG[TGx]/The.Romanoffs.S01E04.Expectation.AMZN.WEB-DL.AAC2.0.H.264-NTG.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001583,
+                    "path": "The.Romanoffs.S01E04.Expectation.AMZN.WEB-DL.AAC2.0.H.264-NTG[TGx]/The.Romanoffs.S01E04.Expectation.AMZN.WEB-DL.AAC2.0.H.264-NTG.nfo"
+                },
+                {
+                    "number": 7,
+                    "size": 6.91e-7,
+                    "path": "The.Romanoffs.S01E04.Expectation.AMZN.WEB-DL.AAC2.0.H.264-NTG[TGx]/[TGx]Downloaded from torrentgalaxy.org .txt"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "[limetorrents.info]The.Romanoffs.S01E04.WEB.H264-MEMENTO[rarbg]",
+            "size_total": 0.590749188,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Romanoffs.S01E04.WEB.H264-MEMENTO[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.59074894,
+                    "path": "The.Romanoffs.S01E04.WEB.H264-MEMENTO[rarbg]/the.romanoffs.s01e04.web.h264-memento.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 2.18e-7,
+                    "path": "The.Romanoffs.S01E04.WEB.H264-MEMENTO[rarbg]/the.romanoffs.s01e04.web.h264-memento.nfo"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": "[limetorrents.info]The.Romanoffs.S01E04.WEB.x264-PHOENiX[eztv]",
+            "size_total": 0.421799308,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.421799308,
+                    "path": "The.Romanoffs.S01E04.WEB.x264-PHOENiX[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "name": "[limetorrents.info]The.Romanoffs.S01E04.WEB.x264-PHOENiX[TGx]",
+            "size_total": 0.421799999,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.421799308,
+                    "path": "The.Romanoffs.S01E04.WEB.x264-PHOENiX[TGx]/The.Romanoffs.S01E04.WEB.x264-PHOENiX.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 6.91e-7,
+                    "path": "The.Romanoffs.S01E04.WEB.x264-PHOENiX[TGx]/[TGx]Downloaded from torrentgalaxy.org .txt"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "name": "[limetorrents.info]The.Romanoffs.S01E04.WEBRip.x264-ION10",
+            "size_total": 0.637880534,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Romanoffs.S01E04.WEBRip.x264-ION10/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000016316,
+                    "path": "The.Romanoffs.S01E04.WEBRip.x264-ION10/Subs/2_Eng.srt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.637864188,
+                    "path": "The.Romanoffs.S01E04.WEBRip.x264-ION10/The.Romanoffs.S01E04.WEBRip.x264-ION10.mp4"
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "name": "[limetorrents.info]The.Romanoffs.S01E04.WEBRip.x264-PBS[ettv]",
+            "size_total": 0.435478513,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.67e-7,
+                    "path": "The.Romanoffs.S01E04.WEBRip.x264-PBS[ettv]/Downloaded from www.ETTV.tv .txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.435478246,
+                    "path": "The.Romanoffs.S01E04.WEBRip.x264-PBS[ettv]/The.Romanoffs.S01E04.WEBRip.x264-PBS[ettv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "name": "[limetorrents.info]The.Romanoffs.S01E04.XviD-AFG[eztv]",
+            "size_total": 0.663183744,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.663183744,
+                    "path": "The.Romanoffs.S01E04.XviD-AFG[eztv].avi"
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "name": "[limetorrents.info]The.Romanoffs.S01E04.XviD-AFG[TGx]",
+            "size_total": 0.664449553,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.00040935,
+                    "path": "The.Romanoffs.S01E04.XviD-AFG[TGx]/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000455963,
+                    "path": "The.Romanoffs.S01E04.XviD-AFG[TGx]/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000242915,
+                    "path": "The.Romanoffs.S01E04.XviD-AFG[TGx]/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000155728,
+                    "path": "The.Romanoffs.S01E04.XviD-AFG[TGx]/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.663183744,
+                    "path": "The.Romanoffs.S01E04.XviD-AFG[TGx]/The.Romanoffs.S01E04.XviD-AFG.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001162,
+                    "path": "The.Romanoffs.S01E04.XviD-AFG[TGx]/The.Romanoffs.S01E04.XviD-AFG.nfo"
+                },
+                {
+                    "number": 7,
+                    "size": 6.91e-7,
+                    "path": "The.Romanoffs.S01E04.XviD-AFG[TGx]/[TGx]Downloaded from torrentgalaxy.org .txt"
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "name": "[rutor.is]The.Romanoffs.S01.1080p.ColdFilm",
+            "size_total": 11.514115944,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.138334857,
+                    "path": "The.Romanoffs.S01.1080p.ColdFilm/The.Romanoffs.S01E02.1080p.ColdFilm.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3.092765948,
+                    "path": "The.Romanoffs.S01.1080p.ColdFilm/The.Romanoffs.S01E03.1080p.ColdFilm.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 3.061133754,
+                    "path": "The.Romanoffs.S01.1080p.ColdFilm/The.Romanoffs.S01E01.1080p.ColdFilm.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 2.221881385,
+                    "path": "The.Romanoffs.S01.1080p.ColdFilm/The.Romanoffs.S01E04.1080p.ColdFilm.mkv"
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "name": "[rutor.is]The.Romanoffs.S01.400p.ColdFilm",
+            "size_total": 3.935554956,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.18042194,
+                    "path": "The.Romanoffs.S01.400p.ColdFilm/The.Romanoffs.S01E01.400p.ColdFilm.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 1.172114694,
+                    "path": "The.Romanoffs.S01.400p.ColdFilm/The.Romanoffs.S01E02.400p.ColdFilm.avi"
+                },
+                {
+                    "number": 3,
+                    "size": 0.84450623,
+                    "path": "The.Romanoffs.S01.400p.ColdFilm/The.Romanoffs.S01E03.400p.ColdFilm.avi"
+                },
+                {
+                    "number": 4,
+                    "size": 0.738512092,
+                    "path": "The.Romanoffs.S01.400p.ColdFilm/The.Romanoffs.S01E04.400p.ColdFilm.avi"
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "name": "[rutor.is]The.Romanoffs.S01.720p.ColdFilm",
+            "size_total": 8.185459821,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.418836078,
+                    "path": "The.Romanoffs.S01.720p.ColdFilm/The.Romanoffs.S01E03.720p.ColdFilm.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 2.16338591,
+                    "path": "The.Romanoffs.S01.720p.ColdFilm/The.Romanoffs.S01E02.720p.ColdFilm.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 2.109871372,
+                    "path": "The.Romanoffs.S01.720p.ColdFilm/The.Romanoffs.S01E01.720p.ColdFilm.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.493366461,
+                    "path": "The.Romanoffs.S01.720p.ColdFilm/The.Romanoffs.S01E04.720p.ColdFilm.mkv"
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "name": "[rutor.is]The.Romanoffs.S01.720p.SunshineStudio_1",
+            "size_total": 5.610520962,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.149192105,
+                    "path": "The.Romanoffs.S01.720p.SunshineStudio/The.Romanoffs.S01E04.720p.SunshineStudio.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.197211648,
+                    "path": "The.Romanoffs.S01.720p.SunshineStudio/The.Romanoffs.S01E01.720p.SunshineStudio.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.500674521,
+                    "path": "The.Romanoffs.S01.720p.SunshineStudio/The.Romanoffs.S01E03.720p.SunshineStudio.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.763442688,
+                    "path": "The.Romanoffs.S01.720p.SunshineStudio/The.Romanoffs.S01E02.720p.SunshineStudio.mkv"
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "name": "[rutor.is]The.Romanoffs.S01.WEBRip.1080p",
+            "size_total": 18.7878725,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 4.90607502,
+                    "path": "The.Romanoffs.S01.WEBRip.1080p/The.Romanoffs.S01E01.WEBRip.1080p-IdeaFilm.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 5.03524299,
+                    "path": "The.Romanoffs.S01.WEBRip.1080p/The.Romanoffs.S01E02.WEBRip.1080p-IdeaFilm.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 5.170877202,
+                    "path": "The.Romanoffs.S01.WEBRip.1080p/The.Romanoffs.S01E03.WEBRip.1080p-IdeaFilm.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 3.675677288,
+                    "path": "The.Romanoffs.S01.WEBRip.1080p/The.Romanoffs.S01E04.WEBRip.1080p-IdeaFilm.mkv"
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "name": "[rutor.is]The.Romanoffs.S01.WEBRip.720p",
+            "size_total": 12.837911421,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.337130788,
+                    "path": "The.Romanoffs.S01.WEBRip.720p/The.Romanoffs.S01E01.WEBRip.720p-IdeaFilm.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3.478308989,
+                    "path": "The.Romanoffs.S01.WEBRip.720p/The.Romanoffs.S01E02.WEBRip.720p-IdeaFilm.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 3.531438721,
+                    "path": "The.Romanoffs.S01.WEBRip.720p/The.Romanoffs.S01E03.WEBRip.720p-IdeaFilm.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 2.491032923,
+                    "path": "The.Romanoffs.S01.WEBRip.720p/The.Romanoffs.S01E04.WEBRip.720p-IdeaFilm.mkv"
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "name": "[rutor.is]The.Romanoffs.S01.WEBRip",
+            "size_total": 5.30921472,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.466707968,
+                    "path": "The.Romanoffs.S01.WEBRip/The.Romanoffs.S01E01.WEBRip-IdeaFilm.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 1.467865088,
+                    "path": "The.Romanoffs.S01.WEBRip/The.Romanoffs.S01E02.WEBRip-IdeaFilm.avi"
+                },
+                {
+                    "number": 3,
+                    "size": 1.466667008,
+                    "path": "The.Romanoffs.S01.WEBRip/The.Romanoffs.S01E03.WEBRip-IdeaFilm.avi"
+                },
+                {
+                    "number": 4,
+                    "size": 0.907974656,
+                    "path": "The.Romanoffs.S01.WEBRip/The.Romanoffs.S01E04.WEBRip-IdeaFilm.avi"
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "name": "The.Romanoffs.S01E04.1080p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.89403553,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.003143693,
+                    "path": "The.Romanoffs.S01E04.1080p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.003345017,
+                    "path": "The.Romanoffs.S01E04.1080p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.002058247,
+                    "path": "The.Romanoffs.S01E04.1080p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001163929,
+                    "path": "The.Romanoffs.S01E04.1080p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.884323434,
+                    "path": "The.Romanoffs.S01E04.1080p.HEVC.x265-MeGusta/The.Romanoffs.S01E04.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.00000121,
+                    "path": "The.Romanoffs.S01E04.1080p.HEVC.x265-MeGusta/The.Romanoffs.S01E04.1080p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "name": "The.Romanoffs.S01E04.1080p.HEVC.x265-MeGusta",
+            "size_total": 0.89403553,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.003143693,
+                    "path": "The.Romanoffs.S01E04.1080p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.003345017,
+                    "path": "The.Romanoffs.S01E04.1080p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.002058247,
+                    "path": "The.Romanoffs.S01E04.1080p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001163929,
+                    "path": "The.Romanoffs.S01E04.1080p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.884323434,
+                    "path": "The.Romanoffs.S01E04.1080p.HEVC.x265-MeGusta/The.Romanoffs.S01E04.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.00000121,
+                    "path": "The.Romanoffs.S01E04.1080p.HEVC.x265-MeGusta/The.Romanoffs.S01E04.1080p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "name": "The.Romanoffs.S01E04.1080p.WEB.h264-SKGTV[rartv]-[rarbg.to]",
+            "size_total": 4.242079074,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Romanoffs.S01E04.1080p.WEB.h264-SKGTV[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 4.242071499,
+                    "path": "The.Romanoffs.S01E04.1080p.WEB.h264-SKGTV[rarbg]/the.romanoffs.s01e04.1080p.web.h264-skgtv.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000007545,
+                    "path": "The.Romanoffs.S01E04.1080p.WEB.h264-SKGTV[rarbg]/the.romanoffs.s01e04.1080p.web.h264-skgtv.nfo"
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "name": "The.Romanoffs.S01E04.720p.WEB.h264-SKGTV[eztv].mkv",
+            "size_total": 1.398675522,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.398675522,
+                    "path": "The.Romanoffs.S01E04.720p.WEB.h264-SKGTV[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "name": "The.Romanoffs.S01E04.720p.WEB.h264-SKGTV[rartv]-[rarbg.to]",
+            "size_total": 1.398683095,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Romanoffs.S01E04.720p.WEB.h264-SKGTV[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.398675522,
+                    "path": "The.Romanoffs.S01E04.720p.WEB.h264-SKGTV[rarbg]/the.romanoffs.s01e04.720p.web.h264-skgtv.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000007543,
+                    "path": "The.Romanoffs.S01E04.720p.WEB.h264-SKGTV[rarbg]/the.romanoffs.s01e04.720p.web.h264-skgtv.nfo"
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "name": "The.Romanoffs.S01E04.720p.WEB.x265-MiNX[eztv].mkv",
+            "size_total": 0.294715587,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.294715587,
+                    "path": "The.Romanoffs.S01E04.720p.WEB.x265-MiNX[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "name": "The.Romanoffs.S01E04.Expectation.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG [IPT]",
+            "size_total": 5.223077616,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.003896027,
+                    "path": "The.Romanoffs.S01E04.Expectation.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.003491049,
+                    "path": "The.Romanoffs.S01E04.Expectation.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.005094728,
+                    "path": "The.Romanoffs.S01E04.Expectation.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.003926242,
+                    "path": "The.Romanoffs.S01E04.Expectation.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 5.206667973,
+                    "path": "The.Romanoffs.S01E04.Expectation.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG/The.Romanoffs.S01E04.Expectation.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001597,
+                    "path": "The.Romanoffs.S01E04.Expectation.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG/The.Romanoffs.S01E04.Expectation.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.nfo"
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "name": "The.Romanoffs.S01E04.Expectation.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG",
+            "size_total": 5.223077616,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.003896027,
+                    "path": "The.Romanoffs.S01E04.Expectation.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.003491049,
+                    "path": "The.Romanoffs.S01E04.Expectation.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.005094728,
+                    "path": "The.Romanoffs.S01E04.Expectation.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.003926242,
+                    "path": "The.Romanoffs.S01E04.Expectation.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 5.206667973,
+                    "path": "The.Romanoffs.S01E04.Expectation.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG/The.Romanoffs.S01E04.Expectation.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001597,
+                    "path": "The.Romanoffs.S01E04.Expectation.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG/The.Romanoffs.S01E04.Expectation.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.nfo"
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "name": "The.Romanoffs.S01E04.Expectation.1080p.AMZN.WEBRip.DDP5.1.x264-NTG[rartv]-[rarbg.to]",
+            "size_total": 5.206668003,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Romanoffs.S01E04.Expectation.1080p.AMZN.WEBRip.DDP5.1.x264-NTG[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 5.206667973,
+                    "path": "The.Romanoffs.S01E04.Expectation.1080p.AMZN.WEBRip.DDP5.1.x264-NTG[rarbg]/The.Romanoffs.S01E04.Expectation.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "name": "The.Romanoffs.S01E04.Expectation.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG [IPT]",
+            "size_total": 1.775176865,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.001588862,
+                    "path": "The.Romanoffs.S01E04.Expectation.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.001316624,
+                    "path": "The.Romanoffs.S01E04.Expectation.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.002113173,
+                    "path": "The.Romanoffs.S01E04.Expectation.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001474897,
+                    "path": "The.Romanoffs.S01E04.Expectation.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 1.768681715,
+                    "path": "The.Romanoffs.S01E04.Expectation.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG/The.Romanoffs.S01E04.Expectation.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001594,
+                    "path": "The.Romanoffs.S01E04.Expectation.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG/The.Romanoffs.S01E04.Expectation.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG.nfo"
+                }
+            ]
+        },
+        {
+            "id": 41,
+            "name": "The.Romanoffs.S01E04.Expectation.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG",
+            "size_total": 1.775176865,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.001588862,
+                    "path": "The.Romanoffs.S01E04.Expectation.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.001316624,
+                    "path": "The.Romanoffs.S01E04.Expectation.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.002113173,
+                    "path": "The.Romanoffs.S01E04.Expectation.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001474897,
+                    "path": "The.Romanoffs.S01E04.Expectation.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 1.768681715,
+                    "path": "The.Romanoffs.S01E04.Expectation.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG/The.Romanoffs.S01E04.Expectation.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001594,
+                    "path": "The.Romanoffs.S01E04.Expectation.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG/The.Romanoffs.S01E04.Expectation.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG.nfo"
+                }
+            ]
+        },
+        {
+            "id": 42,
+            "name": "The.Romanoffs.S01E04.Expectation.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG[eztv].mkv",
+            "size_total": 1.768681715,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.768681715,
+                    "path": "The.Romanoffs.S01E04.Expectation.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 43,
+            "name": "The.Romanoffs.S01E04.Expectation.720p.AMZN.WEBRip.DDP5.1.x264-NTG[rartv]-[rarbg.to]",
+            "size_total": 1.768681745,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Romanoffs.S01E04.Expectation.720p.AMZN.WEBRip.DDP5.1.x264-NTG[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.768681715,
+                    "path": "The.Romanoffs.S01E04.Expectation.720p.AMZN.WEBRip.DDP5.1.x264-NTG[rarbg]/The.Romanoffs.S01E04.Expectation.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                }
+            ]
+        },
+        {
+            "id": 44,
+            "name": "The.Romanoffs.S01E04.Expectation.AMZN.WEB-DL.AAC2.0.H.264-NTG [IPT]",
+            "size_total": 0.698852259,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000903663,
+                    "path": "The.Romanoffs.S01E04.Expectation.AMZN.WEB-DL.AAC2.0.H.264-NTG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000729878,
+                    "path": "The.Romanoffs.S01E04.Expectation.AMZN.WEB-DL.AAC2.0.H.264-NTG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001186566,
+                    "path": "The.Romanoffs.S01E04.Expectation.AMZN.WEB-DL.AAC2.0.H.264-NTG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000785913,
+                    "path": "The.Romanoffs.S01E04.Expectation.AMZN.WEB-DL.AAC2.0.H.264-NTG/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.695244656,
+                    "path": "The.Romanoffs.S01E04.Expectation.AMZN.WEB-DL.AAC2.0.H.264-NTG/The.Romanoffs.S01E04.Expectation.AMZN.WEB-DL.AAC2.0.H.264-NTG.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001583,
+                    "path": "The.Romanoffs.S01E04.Expectation.AMZN.WEB-DL.AAC2.0.H.264-NTG/The.Romanoffs.S01E04.Expectation.AMZN.WEB-DL.AAC2.0.H.264-NTG.nfo"
+                }
+            ]
+        },
+        {
+            "id": 45,
+            "name": "The.Romanoffs.S01E04.Expectation.AMZN.WEB-DL.AAC2.0.H.264-NTG",
+            "size_total": 0.698852259,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000903663,
+                    "path": "The.Romanoffs.S01E04.Expectation.AMZN.WEB-DL.AAC2.0.H.264-NTG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000729878,
+                    "path": "The.Romanoffs.S01E04.Expectation.AMZN.WEB-DL.AAC2.0.H.264-NTG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001186566,
+                    "path": "The.Romanoffs.S01E04.Expectation.AMZN.WEB-DL.AAC2.0.H.264-NTG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000785913,
+                    "path": "The.Romanoffs.S01E04.Expectation.AMZN.WEB-DL.AAC2.0.H.264-NTG/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.695244656,
+                    "path": "The.Romanoffs.S01E04.Expectation.AMZN.WEB-DL.AAC2.0.H.264-NTG/The.Romanoffs.S01E04.Expectation.AMZN.WEB-DL.AAC2.0.H.264-NTG.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001583,
+                    "path": "The.Romanoffs.S01E04.Expectation.AMZN.WEB-DL.AAC2.0.H.264-NTG/The.Romanoffs.S01E04.Expectation.AMZN.WEB-DL.AAC2.0.H.264-NTG.nfo"
+                }
+            ]
+        },
+        {
+            "id": 46,
+            "name": "The.Romanoffs.S01E04.Expectation.AMZN.WEB-DL.AAC2.0.H.264-NTG[eztv].mkv",
+            "size_total": 0.695244656,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.695244656,
+                    "path": "The.Romanoffs.S01E04.Expectation.AMZN.WEB-DL.AAC2.0.H.264-NTG[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 47,
+            "name": "The.Romanoffs.S01E04.WEB.H264-MEMENTO[rartv]-[rarbg.to]",
+            "size_total": 0.590749188,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Romanoffs.S01E04.WEB.H264-MEMENTO[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.59074894,
+                    "path": "The.Romanoffs.S01E04.WEB.H264-MEMENTO[rarbg]/the.romanoffs.s01e04.web.h264-memento.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 2.18e-7,
+                    "path": "The.Romanoffs.S01E04.WEB.H264-MEMENTO[rarbg]/the.romanoffs.s01e04.web.h264-memento.nfo"
+                }
+            ]
+        },
+        {
+            "id": 48,
+            "name": "The.Romanoffs.S01E04.WEB.x264-PHOENiX[eztv].mkv",
+            "size_total": 0.421799308,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.421799308,
+                    "path": "The.Romanoffs.S01E04.WEB.x264-PHOENiX[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 49,
+            "name": "The.Romanoffs.S01E04.WEBRip.x264-ION10-[rarbg.to]",
+            "size_total": 0.637880534,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Romanoffs.S01E04.WEBRip.x264-ION10/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000016316,
+                    "path": "The.Romanoffs.S01E04.WEBRip.x264-ION10/Subs/2_Eng.srt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.637864188,
+                    "path": "The.Romanoffs.S01E04.WEBRip.x264-ION10/The.Romanoffs.S01E04.WEBRip.x264-ION10.mp4"
+                }
+            ]
+        },
+        {
+            "id": 50,
+            "name": "The.Romanoffs.S01E04.XviD-AFG [IPT]",
+            "size_total": 0.664448862,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.00040935,
+                    "path": "The.Romanoffs.S01E04.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000455963,
+                    "path": "The.Romanoffs.S01E04.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000242915,
+                    "path": "The.Romanoffs.S01E04.XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000155728,
+                    "path": "The.Romanoffs.S01E04.XviD-AFG/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.663183744,
+                    "path": "The.Romanoffs.S01E04.XviD-AFG/The.Romanoffs.S01E04.XviD-AFG.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001162,
+                    "path": "The.Romanoffs.S01E04.XviD-AFG/The.Romanoffs.S01E04.XviD-AFG.nfo"
+                }
+            ]
+        },
+        {
+            "id": 51,
+            "name": "The.Romanoffs.S01E04.XviD-AFG",
+            "size_total": 0.664448862,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.00040935,
+                    "path": "The.Romanoffs.S01E04.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000455963,
+                    "path": "The.Romanoffs.S01E04.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000242915,
+                    "path": "The.Romanoffs.S01E04.XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000155728,
+                    "path": "The.Romanoffs.S01E04.XviD-AFG/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.663183744,
+                    "path": "The.Romanoffs.S01E04.XviD-AFG/The.Romanoffs.S01E04.XviD-AFG.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001162,
+                    "path": "The.Romanoffs.S01E04.XviD-AFG/The.Romanoffs.S01E04.XviD-AFG.nfo"
+                }
+            ]
+        },
+        {
+            "id": 52,
+            "name": "The.Romanoffs.S01E04.XviD-AFG[eztv].avi",
+            "size_total": 0.663183744,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.663183744,
+                    "path": "The.Romanoffs.S01E04.XviD-AFG[eztv].avi"
+                }
+            ]
+        },
+        {
+            "id": 53,
+            "name": "Романовы The Romanoffs Сезон 1 Серии 1-4 из 8 (Мэттью Уайнер) [2018, США, драма, WEB-DL 1080p] MVO (TVShows) + Original + [rutracker-5638343]",
+            "size_total": 24.838091371,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 6.19746053,
+                    "path": "The.Romanoffs.S01.1080p.TVShows/The.Romanoffs.S01E01.1080p.TVShows.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 7.106013316,
+                    "path": "The.Romanoffs.S01.1080p.TVShows/The.Romanoffs.S01E02.1080p.TVShows.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 6.146373948,
+                    "path": "The.Romanoffs.S01.1080p.TVShows/The.Romanoffs.S01E03.1080p.TVShows.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 5.388243577,
+                    "path": "The.Romanoffs.S01.1080p.TVShows/The.Romanoffs.S01E04.1080p.TVShows.mkv"
+                }
+            ]
+        },
+        {
+            "id": 54,
+            "name": "Романовы The Romanoffs Сезон 1 Серии 1-4 из 8 (Мэттью Уэйнер) [2018, США, Драма, WEB-DL 720p] MVO (NewStudio) + Original [rutracker-5640093]",
+            "size_total": 9.140637994,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.258040329,
+                    "path": "Романовы. Сериал. 2018. Newstudio (WEB-DL 720p)/The.Romanoffs.s01e01. Фиолетовый час.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 2.625337541,
+                    "path": "Романовы. Сериал. 2018. Newstudio (WEB-DL 720p)/The.Romanoffs.s01e02. Царские Мы.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 2.306660212,
+                    "path": "Романовы. Сериал. 2018. Newstudio (WEB-DL 720p)/The.Romanoffs.s01e03. Дом со специальным назначением.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.950599912,
+                    "path": "Романовы. Сериал. 2018. Newstudio (WEB-DL 720p)/The.Romanoffs.s01e04. Ожидание.mkv"
+                }
+            ]
+        }
+    ],
+    "collection_cumulative_by_btiha": [
+        {
+            "id": 63,
+            "name": "multi-btih-8-2-x-[limetorrents.info]The.Romanoffs.S01E04.720p.WEB.x265-MiNX[eztv]",
+            "btih": "47170d68da536b1809cf67e7e08585a44e531f65",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.294715587,
+            "creation": "2018-10-26T00:11:55.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 12781,
+            "uuploaders": 4672
+        },
+        {
+            "id": 68,
+            "name": "multi-btih-13-2-x-[limetorrents.info]The.Romanoffs.S01E04.WEB.x264-PHOENiX[eztv]",
+            "btih": "5491a239e620c6986ec363f01b283a190e91c099",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.421799308,
+            "creation": "2018-10-25T22:32:31.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 12315,
+            "uuploaders": 4993
+        },
+        {
+            "id": 21,
+            "name": "[limetorrents.info]The.Romanoffs.S01E04.WEBRip.x264-PBS[ettv]",
+            "btih": "519de04bcb950e26cf0962b3af1fde5cf5148d21",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.435478513,
+            "creation": "2018-10-26T00:00:06.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 11578,
+            "uuploaders": 4873
+        },
+        {
+            "id": 66,
+            "name": "multi-btih-11-2-x-[limetorrents.info]The.Romanoffs.S01E04.Expectation.AMZN.WEB-DL.AAC2.0.H.264-NTG[eztv]",
+            "btih": "2a1c957c4c9e05e1511a178ee921b8d3f2f348ff",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.695244656,
+            "creation": "2018-10-26T03:14:43.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 8352,
+            "uuploaders": 2422
+        },
+        {
+            "id": 69,
+            "name": "multi-btih-14-2-x-[limetorrents.info]The.Romanoffs.S01E04.WEBRip.x264-ION10",
+            "btih": "b52a24fdaf3bd6e77602119f8630a69e023dbbff",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.637880534,
+            "creation": "2018-10-25T22:58:10.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 8112,
+            "uuploaders": 3534
+        },
+        {
+            "id": 70,
+            "name": "multi-btih-15-2-x-[limetorrents.info]The.Romanoffs.S01E04.XviD-AFG[eztv]",
+            "btih": "baf4b8190a340b68a92a082dd1031e0bd722a633",
+            "resolution": "720",
+            "encoding": "xvid",
+            "gigabytes": 0.663183744,
+            "creation": "2018-10-25T22:30:47.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 7319,
+            "uuploaders": 2503
+        },
+        {
+            "id": 67,
+            "name": "multi-btih-12-2-x-[limetorrents.info]The.Romanoffs.S01E04.WEB.H264-MEMENTO[rarbg]",
+            "btih": "e713efe1f457615ab880a3d08ad2b9048ce5bb60",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.590749188,
+            "creation": "2018-10-26T03:15:07.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 6897,
+            "uuploaders": 3106
+        },
+        {
+            "id": 23,
+            "name": "[limetorrents.info]The.Romanoffs.S01E04.XviD-AFG[TGx]",
+            "btih": "71cdbf6ec36d6dac0873ec77c5cb2f70c775fc09",
+            "resolution": "720",
+            "encoding": "xvid",
+            "gigabytes": 0.664449553,
+            "creation": "2018-10-25T22:33:03.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 6414,
+            "uuploaders": 1386
+        },
+        {
+            "id": 64,
+            "name": "multi-btih-9-2-x-[limetorrents.info]The.Romanoffs.S01E04.Expectation.1080p.AMZN.WEBRip.DDP5.1.x264-NTG[rarbg]",
+            "btih": "52ec7ceb36edfee5ebe19851ec425eb6c53f8263",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 5.206668003,
+            "creation": "2018-10-26T05:53:34.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 5841,
+            "uuploaders": 2720
+        },
+        {
+            "id": 62,
+            "name": "multi-btih-7-2-x-[limetorrents.info]The.Romanoffs.S01E04.720p.WEB.h264-SKGTV[rarbg]",
+            "btih": "16c09071f64997ad522d3aa05f2c79dfb0f7d912",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.398683095,
+            "creation": "2018-10-25T23:14:00.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 5554,
+            "uuploaders": 1999
+        },
+        {
+            "id": 61,
+            "name": "multi-btih-6-2-x-[limetorrents.info]The.Romanoffs.S01E04.720p.WEB.h264-SKGTV[eztv]",
+            "btih": "ab4a5c6a421f27eb126d55a128129a1496fd1dec",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.398675522,
+            "creation": "2018-10-25T22:32:53.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 5549,
+            "uuploaders": 1976
+        },
+        {
+            "id": 43,
+            "name": "The.Romanoffs.S01E04.Expectation.720p.AMZN.WEBRip.DDP5.1.x264-NTG[rartv]-[rarbg.to]",
+            "btih": "4eddc68ac72d7930a8fe8cd0fdc7e714b29e9bf3",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.768681745,
+            "creation": "2018-10-26T00:35:57.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 5290,
+            "uuploaders": 2182
+        },
+        {
+            "id": 65,
+            "name": "multi-btih-10-2-x-[limetorrents.info]The.Romanoffs.S01E04.Expectation.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG[eztv]",
+            "btih": "9dc0821bf8586fe573acf95c215c7128535ed4bf",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.768681715,
+            "creation": "2018-10-26T06:45:55.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4997,
+            "uuploaders": 2121
+        },
+        {
+            "id": 10,
+            "name": "[limetorrents.info]The.Romanoffs.S01E04.720p.WEB.x265-MiNX[TGx]",
+            "btih": "b699dcc90b92578913388c02b5077433ec83575c",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.294716278,
+            "creation": "2018-10-25T23:17:27.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4242,
+            "uuploaders": 1859
+        },
+        {
+            "id": 60,
+            "name": "multi-btih-5-2-x-[limetorrents.info]The.Romanoffs.S01E04.1080p.WEB.h264-SKGTV[rarbg]",
+            "btih": "8db21f035b9710f30a3e995571cbcd9f0cf70778",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 4.242079074,
+            "creation": "2018-10-26T06:17:41.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 3966,
+            "uuploaders": 1121
+        },
+        {
+            "id": 4,
+            "name": "[limetorrents.info]The.Romanoffs.S01E04.1080p.WEB.h264-SKGTV[TGx]",
+            "btih": "d5a0b87aea344d2e06dcd1425ba29648010911f6",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 4.256198024,
+            "creation": "2018-10-25T22:33:20.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 3458,
+            "uuploaders": 1185
+        },
+        {
+            "id": 5,
+            "name": "[limetorrents.info]The.Romanoffs.S01E04.720p.WEB.h264-SKGTV[ettv]",
+            "btih": "ec1773a150383fd637977ff6490ae52ad6e4ba39",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.398675707,
+            "creation": "2018-10-25T22:44:13.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 3444,
+            "uuploaders": 1880
+        },
+        {
+            "id": 8,
+            "name": "[limetorrents.info]The.Romanoffs.S01E04.720p.WEB.h264-SKGTV[TGx]",
+            "btih": "967a39b2a2b39d7251e2937f12648baee802e785",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.404344763,
+            "creation": "2018-10-25T22:33:01.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 3339,
+            "uuploaders": 1549
+        },
+        {
+            "id": 19,
+            "name": "[limetorrents.info]The.Romanoffs.S01E04.WEB.x264-PHOENiX[TGx]",
+            "btih": "8c64d1b88ca932a5e7ce6e2cdd0076f5843bc75c",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.421799999,
+            "creation": "2018-10-25T22:32:45.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 3069,
+            "uuploaders": 1460
+        },
+        {
+            "id": 16,
+            "name": "[limetorrents.info]The.Romanoffs.S01E04.Expectation.AMZN.WEB-DL.AAC2.0.H.264-NTG[TGx]",
+            "btih": "988bf8311e10745664652076f5668fd6649f48bd",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.69885295,
+            "creation": "2018-10-26T03:00:26.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2975,
+            "uuploaders": 342
+        },
+        {
+            "id": 30,
+            "name": "[rutor.is]The.Romanoffs.S01.WEBRip",
+            "btih": "e60aa230dedf70bd101adf5092f3f7d62fbef1d7",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 5.30921472,
+            "creation": "2018-10-27T13:22:57.000000000Z,uTorrent/3230,http://rutor.is/torrent/659645",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2790,
+            "uuploaders": 1353
+        },
+        {
+            "id": 2,
+            "name": "[limetorrents.info]The.Romanoffs..2018..S01E04..1080p.WebRip.x265.HEVC.10bit.EAC3.6.0.Kira..[UTR]",
+            "btih": "12ecc8b9274c8225db8125e0a282783600c4c680",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 2.028937055,
+            "creation": "2018-10-28T16:57:40.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2442,
+            "uuploaders": 727
+        },
+        {
+            "id": 29,
+            "name": "[rutor.is]The.Romanoffs.S01.WEBRip.720p",
+            "btih": "1ce6cfef0840989b0167e63106ebb24ed0023afd",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 12.837911421,
+            "creation": "2018-10-27T13:21:01.000000000Z,uTorrent/3230,http://rutor.is/torrent/659646",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2268,
+            "uuploaders": 800
+        },
+        {
+            "id": 54,
+            "name": "Романовы The Romanoffs Сезон 1 Серии 1-4 из 8 (Мэттью Уэйнер) [2018, США, Драма, WEB-DL 720p] MVO (NewStudio) + Original [rutracker-5640093]",
+            "btih": "3aa135263ea0b065e7deccc80435aef29aea74d8",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 9.140637994,
+            "creation": "2018-11-01T07:02:18.000000000Z,uTorrent/3230,https://rutracker.org/forum/viewtopic.php?t=5640093",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2150,
+            "uuploaders": 780
+        },
+        {
+            "id": 11,
+            "name": "[limetorrents.info]The.Romanoffs.S01E04.Expectation.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG[TGx]",
+            "btih": "ded10e5ef0594098914f069a30ccfc4f7e09a655",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 5.223078307,
+            "creation": "2018-10-26T05:19:06.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2083,
+            "uuploaders": 314
+        },
+        {
+            "id": 28,
+            "name": "[rutor.is]The.Romanoffs.S01.WEBRip.1080p",
+            "btih": "c280637b1f0785fe49ef8abd46edb80ac10801f5",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 18.7878725,
+            "creation": "2018-10-27T13:17:30.000000000Z,uTorrent/3230,http://rutor.is/torrent/659647",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1960,
+            "uuploaders": 473
+        },
+        {
+            "id": 1,
+            "name": "[limetorrents.info]The.Romanoffs....Season.01..NewStudio",
+            "btih": "4cd454b411ea53835e129fc49a53f2d5dbf4d74d",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 2.097328128,
+            "creation": "2018-10-27T05:31:11.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1885,
+            "uuploaders": 357
+        },
+        {
+            "id": 25,
+            "name": "[rutor.is]The.Romanoffs.S01.400p.ColdFilm",
+            "btih": "d5c58a2636243bda0ed2af67a541199cec18c1a6",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 3.935554956,
+            "creation": "2018-10-30T11:41:03.000000000Z,uTorrent/2210,http://rutor.is/torrent/659002",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1818,
+            "uuploaders": 236
+        },
+        {
+            "id": 14,
+            "name": "[limetorrents.info]The.Romanoffs.S01E04.Expectation.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG[TGx]",
+            "btih": "649decf2d312cc5c9208b53d508491f8dd1f9335",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.775177556,
+            "creation": "2018-10-26T03:06:38.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1741,
+            "uuploaders": 335
+        },
+        {
+            "id": 27,
+            "name": "[rutor.is]The.Romanoffs.S01.720p.SunshineStudio_1",
+            "btih": "7c6e1216fa1c1a763e28c4760dbe6a030eb117a6",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 5.610520962,
+            "creation": "2018-10-27T00:46:04.000000000Z,Zorrip (sunshineseries.ru),http://rutor.is/torrent/659230",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1471,
+            "uuploaders": 176
+        },
+        {
+            "id": 26,
+            "name": "[rutor.is]The.Romanoffs.S01.720p.ColdFilm",
+            "btih": "554b760c60aea9e1cb04f845d6613217bdaa85f9",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 8.185459821,
+            "creation": "2018-10-30T11:42:52.000000000Z,uTorrent/2210,http://rutor.is/torrent/659003",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1461,
+            "uuploaders": 143
+        },
+        {
+            "id": 53,
+            "name": "Романовы The Romanoffs Сезон 1 Серии 1-4 из 8 (Мэттью Уайнер) [2018, США, драма, WEB-DL 1080p] MVO (TVShows) + Original + [rutracker-5638343]",
+            "btih": "ebd95a06f74448f971d42f1862017c8eb7a9e53b",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 24.838091371,
+            "creation": "2018-10-30T07:26:39.000000000Z,ruTorrent (PHP Class - Adrien Gibrat),https://rutracker.org/forum/viewtopic.php?t=5638343",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1438,
+            "uuploaders": 322
+        },
+        {
+            "id": 24,
+            "name": "[rutor.is]The.Romanoffs.S01.1080p.ColdFilm",
+            "btih": "92ac6ea670ac866abe03e736257f276fb077e648",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 11.514115944,
+            "creation": "2018-10-30T11:49:19.000000000Z,uTorrent/2210,http://rutor.is/torrent/659006",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1024,
+            "uuploaders": 147
+        },
+        {
+            "id": 59,
+            "name": "multi-btih-4-2-x-The.Romanoffs.S01E04.XviD-AFG [IPT]",
+            "btih": "f6c4c77aa3f6616078ffd7e1825146519e03de28",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.664448862,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 296,
+            "uuploaders": 189
+        },
+        {
+            "id": 57,
+            "name": "multi-btih-2-2-x-The.Romanoffs.S01E04.Expectation.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG [IPT]",
+            "btih": "fdcc1734f43fd84a7521e812ad55c8f6790b332a",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.775176865,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 212,
+            "uuploaders": 161
+        },
+        {
+            "id": 56,
+            "name": "multi-btih-1-2-x-The.Romanoffs.S01E04.Expectation.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG [IPT]",
+            "btih": "8e878947c615f9d612d38124e0931a6f3dd77ba4",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 5.223077616,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 176,
+            "uuploaders": 108
+        },
+        {
+            "id": 55,
+            "name": "multi-btih-0-2-x-The.Romanoffs.S01E04.1080p.HEVC.x265-MeGusta [IPT]",
+            "btih": "23c3e3b55f6aa8e53296cb9641e2aae722efa4e1",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.89403553,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 94,
+            "uuploaders": 81
+        },
+        {
+            "id": 58,
+            "name": "multi-btih-3-2-x-The.Romanoffs.S01E04.Expectation.AMZN.WEB-DL.AAC2.0.H.264-NTG [IPT]",
+            "btih": "85c810be856f2f3321cbaae57b404b943066389e",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.698852259,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 55,
+            "uuploaders": 44
+        }
+    ]
+}

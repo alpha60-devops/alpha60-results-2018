@@ -1,0 +1,129 @@
+<svg xml:space="preserve"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:html="http://www.w3.org/1999/xhtml"
+id="romanoffs-104-downloads-by-week-romanoffs-104-week" x="0px" y="0px"
+width="1920.000000px" height="1080.000000px"
+viewBox="0 0 1920.000000 1080.000000" enable-background="new 0 0 1920.000000 1080.000000" role="img">
+<title>
+romanoffs-104-downloads-by-week-romanoffs-104-week
+</title>
+<desc>
+Week series for romanoffs-104: udownloaders_total solid, uuploaders_total dashed.
+</desc>
+<title>
+romanoffs-104-downloads-by-week-romanoffs-104-week
+</title>
+ <g id="annotations">
+<text x="960.000000" y="126.000000" font-family="Atkinson Hyperlegible" font-size="26.000000pt" text-anchor="middle" text-align="center" font-weight="600" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> romanoffs-104 downloads by week</text>
+ <g id="axes-lines">
+<text x="960.000000" y="1007.000000" font-family="Atkinson Hyperlegible" font-size="18.000000pt" text-anchor="middle" text-align="center" font-weight="500" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> WEEK</text>
+<text x="73.000000" y="540.000000" font-family="Atkinson Hyperlegible" font-size="18.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="500" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5" transform="rotate(-90,73,540)"> DOWNLOADERS</text>
+ </g>
+ <g id="tic-y-label-lines">
+<line x1="218.000000" y1="675.817737" x2="1702.000000" y2="675.817737" style="fill:rgb(0,0,255); fill-opacity:0; stroke:rgb(242,242,242); stroke-opacity:1; stroke-width:4" />
+<line x1="218.000000" y1="607.817737" x2="1702.000000" y2="607.817737" style="fill:rgb(0,0,255); fill-opacity:0; stroke:rgb(242,242,242); stroke-opacity:1; stroke-width:4" />
+<line x1="218.000000" y1="539.817737" x2="1702.000000" y2="539.817737" style="fill:rgb(0,0,255); fill-opacity:0; stroke:rgb(242,242,242); stroke-opacity:1; stroke-width:4" />
+<line x1="218.000000" y1="471.817737" x2="1702.000000" y2="471.817737" style="fill:rgb(0,0,255); fill-opacity:0; stroke:rgb(242,242,242); stroke-opacity:1; stroke-width:4" />
+<line x1="218.000000" y1="403.817737" x2="1702.000000" y2="403.817737" style="fill:rgb(0,0,255); fill-opacity:0; stroke:rgb(242,242,242); stroke-opacity:1; stroke-width:4" />
+<line x1="218.000000" y1="335.817737" x2="1702.000000" y2="335.817737" style="fill:rgb(0,0,255); fill-opacity:0; stroke:rgb(242,242,242); stroke-opacity:1; stroke-width:4" />
+<line x1="218.000000" y1="267.817737" x2="1702.000000" y2="267.817737" style="fill:rgb(0,0,255); fill-opacity:0; stroke:rgb(242,242,242); stroke-opacity:1; stroke-width:4" />
+<line x1="218.000000" y1="199.817737" x2="1702.000000" y2="199.817737" style="fill:rgb(0,0,255); fill-opacity:0; stroke:rgb(242,242,242); stroke-opacity:1; stroke-width:4" />
+<line x1="218.000000" y1="131.817737" x2="1702.000000" y2="131.817737" style="fill:rgb(0,0,255); fill-opacity:0; stroke:rgb(242,242,242); stroke-opacity:1; stroke-width:4" />
+ </g>
+ <g id="tic-x-labels">
+<text x="200.000000" y="898.000000" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 1</text>
+<text x="706.666667" y="898.000000" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 2</text>
+<text x="1213.333333" y="898.000000" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 3</text>
+<text x="1720.000000" y="898.000000" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 4</text>
+ </g>
+ <g id="tic-y-labels">
+<text x="164.000000" y="745.817737" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0.02M</text>
+<text x="1756.000000" y="745.817737" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0.02M</text>
+<text x="164.000000" y="677.817737" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0.04M</text>
+<text x="1756.000000" y="677.817737" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0.04M</text>
+<text x="164.000000" y="609.817737" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0.05M</text>
+<text x="1756.000000" y="609.817737" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0.05M</text>
+<text x="164.000000" y="541.817737" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0.06M</text>
+<text x="1756.000000" y="541.817737" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0.06M</text>
+<text x="164.000000" y="473.817737" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0.08M</text>
+<text x="1756.000000" y="473.817737" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0.08M</text>
+<text x="164.000000" y="405.817737" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0.09M</text>
+<text x="1756.000000" y="405.817737" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0.09M</text>
+<text x="164.000000" y="337.817737" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0.10M</text>
+<text x="1756.000000" y="337.817737" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0.10M</text>
+<text x="164.000000" y="269.817737" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0.11M</text>
+<text x="1756.000000" y="269.817737" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0.11M</text>
+<text x="164.000000" y="201.817737" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0.13M</text>
+<text x="1756.000000" y="201.817737" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0.13M</text>
+<text x="164.000000" y="133.817737" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0.14M</text>
+<text x="1756.000000" y="133.817737" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0.14M</text>
+ </g>
+ </g>
+ <g id="polyline-romanoffs-104 downloads by week">
+<polyline points="200,666.416 706.667,457.365 1213.33,257.425 1720,200 "  style="fill:rgb(0,0,255); fill-opacity:0; stroke:rgb(0,0,255); stroke-opacity:1; stroke-width:4" />
+ </g>
+ <g id="markers-romanoffs-104 downloads by week">
+ <circle cx="200.000000" cy="666.415861" r="5.000000" style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:4"  >
+<title>
+romanoffs-104 downloads by week
+week: 1
+64,436
+</title>
+ </circle>
+<circle cx="706.666667" cy="457.365271" r="5.000000" style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:4"  >
+<title>
+romanoffs-104 downloads by week
+week: 2
+103,170
+</title>
+ </circle>
+<circle cx="1213.333333" cy="257.424957" r="5.000000" style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:4"  >
+<title>
+romanoffs-104 downloads by week
+week: 3
+140,216
+</title>
+ </circle>
+<circle cx="1720.000000" cy="200.000000" r="5.000000" style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:4"  >
+<title>
+romanoffs-104 downloads by week
+week: 4
+150,856
+</title>
+ </circle>
+ </g>
+ <g id="polyline-romanoffs-104 downloads by week uploaders">
+<polyline points="200,880 706.667,803.723 1213.33,737.9 1720,719.345 " stroke-dasharray="5 15"  style="fill:rgb(0,0,255); fill-opacity:0; stroke:rgb(0,0,255); stroke-opacity:1; stroke-width:4" />
+ </g>
+ <g id="markers-romanoffs-104 downloads by week uploaders">
+ <circle cx="200.000000" cy="880.000000" r="5.000000" style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:4"  >
+<title>
+romanoffs-104 downloads by week uploaders
+week: 1
+24,862
+</title>
+ </circle>
+<circle cx="706.666667" cy="803.723034" r="5.000000" style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:4"  >
+<title>
+romanoffs-104 downloads by week uploaders
+week: 2
+38,995
+</title>
+ </circle>
+<circle cx="1213.333333" cy="737.900217" r="5.000000" style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:4"  >
+<title>
+romanoffs-104 downloads by week uploaders
+week: 3
+51,191
+</title>
+ </circle>
+<circle cx="1720.000000" cy="719.345048" r="5.000000" style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:4"  >
+<title>
+romanoffs-104 downloads by week uploaders
+week: 4
+54,629
+</title>
+ </circle>
+ </g>
+</svg>
