@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt1825683",
+    "imdb_id": "tt1825683",
+    "revision": "5daa2bb0f58fe6b678ea0a572049b3311de52618",
+    "wikidata_id": "Q23780734",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Black_Panther_(film)"
+  },
+  "coverage_sha256": "4794d984f09a7ed24a17a5b4c35ddc9d4b923e63d266f2b20839f2a9c1b1ed47",
+  "generated_at": "2026-09-06T18:27:18.099621+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2018-archives/black-panther.cache/cache.20180622.tar.xz",
+      "sha256": "ad07b5d9d1a80ca4542b5be33655f9f4333033104e470e6b030cd4d5cf199788",
+      "size": 1276565024
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2018/data/txt/year-2018-coverage-evidence/black-panther.md",
+      "sha256": "02dce6b983cc3c197e4e48f2113298de5ac17f2b533e85c79abf9c82bc478264",
+      "size": 591
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2018/data/txt/year-2018-day-cache-stream-receipts/black-panther.json",
+      "sha256": "02769042f315a7556c3dea878881c88a7b603f3da0cbff1a009f488bf72574f0",
+      "size": 2305
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2018/data/txt/year-2018-day-product-receipts/black-panther.json",
+      "sha256": "69bc50d7bae27a5ccd93a06aecbdce8178eeefff010c31d444176bc146ac4c5a",
+      "size": 365
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2018-control/worker-map.json",
+      "sha256": "9fa8abf8526eeed113ee5caacdd56c59ca4dd79dc2693f35b4e875a60e3a1b94",
+      "size": 58051
+    }
+  },
+  "media_object": "black-panther",
+  "published_files": {
+    "data/csv/bytes/black-panther-cumulative-detail.2018-btiha-itemized-by-bytes.csv": "eec506c4ee9fe2cd5e3febb5d573642b5fb74c2411277ecdd2d89fb80c514f73",
+    "docs/itemized/black-panther-sample-cache-audit.md": "66b3ef02a6f3db9673d1da703cadd41640c6014ebbd8b3a280b7bb66e60f0036",
+    "docs/itemized/figures/black-panther-carto-4k.webp": "9f0748da62e26e8e0e015c7ef1532f775e3ac1bda7d82b418493369f18159833",
+    "docs/itemized/figures/black-panther-carto.png": "d7f181e7a29b83d6214abc8fe13343268e1731833469c4ccd6926c3ad7e2b836",
+    "docs/itemized/figures/black-panther-cumulative-detail-btiha-itemized-by-bytes.svg": "3c74a67d52e67be6fb4cf2469ff7ccd87fb44cc667a2914c81674b4735844929",
+    "docs/itemized/figures/black-panther-data-ge-1080p-4k.webp": "4916886d09535743956172cb7eb74ce3d07c7edd32b8435ae1cd04ab8d286b6b",
+    "docs/itemized/figures/black-panther-data-ge-1080p.webp": "a8d5a2d5019dd67647ef5f3d3be6adc0d89ce424d0fc5ac4ca35aea44058e3a5",
+    "docs/itemized/figures/black-panther-data-lt-1080p-4k.webp": "0df156e04846123a7d78f00af8f5aa51db87cedeee06c97bdbd554607557f0a1",
+    "docs/itemized/figures/black-panther-data-lt-1080p.webp": "5c7330d2b0f32748ce8afa464c2f9bad9b860385e4a9f1ccc9572c2cabcfe7c6",
+    "docs/itemized/figures/black-panther-downloads-by-day-day.svg": "91bf72e1de4b88a073b1a32799ca1ee2d1ed9e0488edfd2867c7cad14548d61d",
+    "docs/itemized/figures/black-panther-downloads-by-week-black-panther-week.svg": "fd13826d0e571dd4fb2bbd194cb539e50a146be2c77e6f8671ba949a78689c12",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "27af472f439958c53f0aab30b89cddaa411eedaf",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2018/black-panther/tmp/black-panther-cumulative-btiha.geojson",
+        "sha256": "4a52d6a66d44947d7ab110df645d73ea2507484304da47703a6ee46fba9d1d8c",
+        "size": 96389447
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2018/black-panther/tmp/black-panther-cumulative-btiha-media-objects.json",
+        "sha256": "7154b61873b19a5d353b57545c6832cf4a6f84b27a9c35319f8454255673d751",
+        "size": 867449
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2018-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "black-panther",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "3e6a87ec7490ec3b39db0dba09ab6311a015621eb704ac975c05f399296c8393",
+      "size": 8759376
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2018-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          42.0,
+          38.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Seoul",
+          "London",
+          "S\u00e3o Paulo",
+          "New York City",
+          "Mumbai",
+          "Shanghai",
+          "Ashburn",
+          "Shenzhen",
+          "Incheon",
+          "Sydney"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          50.0,
+          44.0,
+          41.0,
+          35.0,
+          33.0,
+          32.0,
+          29.0,
+          29.0,
+          27.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Mumbai",
+          "Paris",
+          "Delhi",
+          "London",
+          "Seoul",
+          "Dakar",
+          "Abidjan",
+          "New York City",
+          "Ashburn",
+          "S\u00e3o Paulo"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 26,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 37,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 4,
+        "x_tick_marks": 4,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 8,
+        "y_tick_labels": 20
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "27af472f439958c53f0aab30b89cddaa411eedaf",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "980e731bb2e99b13ecc9d15c75480125d514e26c",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "5daa2bb0f58fe6b678ea0a572049b3311de52618"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2018"
+}
