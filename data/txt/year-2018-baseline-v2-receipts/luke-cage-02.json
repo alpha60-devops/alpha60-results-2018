@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt3322314",
+    "imdb_id": "tt3322314",
+    "revision": "5daa2bb0f58fe6b678ea0a572049b3311de52618",
+    "wikidata_id": "Q20646602",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Luke_Cage_(TV_series)"
+  },
+  "coverage_sha256": "9a70385b3314e80ca046ece3168d3db4ec40d4cfd780bfe6a2c54920df3ed491",
+  "generated_at": "2026-09-06T18:32:01.196093+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2018-archives/luke-cage-02.cache/cache.20181004.tar.xz",
+      "sha256": "8942c5b6f2e182de83f47c5bc783aa467da4f603f385c4b30de4ee85d0e5c7cb",
+      "size": 1452630232
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2018/data/txt/year-2018-coverage-evidence/luke-cage-02.md",
+      "sha256": "93be6effbca557577405d673522495de274856aa11cfb9b1c9cd87249aaf11e8",
+      "size": 592
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2018/data/txt/year-2018-day-cache-stream-receipts/luke-cage-02.json",
+      "sha256": "b8ac9f1e84a0e79ba2837f5de0bc4547c7c7ba538ccb24ad69bf264d9a99074f",
+      "size": 2740
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2018/data/txt/year-2018-day-product-receipts/luke-cage-02.json",
+      "sha256": "f330d462c3bb3cfd35dbe4dfa445150be3506909dd846284a969974ea7b8ee6e",
+      "size": 366
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2018-control/worker-map.json",
+      "sha256": "0f0151a9d86552ffa4d2bdec8cc0b2a7ce1ff4f549d25d26b400c16672f3f222",
+      "size": 55881
+    }
+  },
+  "media_object": "luke-cage-02",
+  "published_files": {
+    "data/csv/bytes/luke-cage-02-cumulative-detail.2018-btiha-itemized-by-bytes.csv": "4943302534d7723958eb7b6eabac0264ff9e6a5056dbbe2d1285af61860efd6e",
+    "docs/itemized/figures/luke-cage-02-carto-4k.webp": "780b0744f25d35be30068b48de9a52cc33197f8a365feac8afea4894dd6403c9",
+    "docs/itemized/figures/luke-cage-02-carto.png": "240d74dd5d1964a0e28b74c0e7b3a8abe8148f1ff693de83e1ef7b12c48a16b9",
+    "docs/itemized/figures/luke-cage-02-cumulative-detail-btiha-itemized-by-bytes.svg": "eed9bdd4be7bc9085b12a284fa90672df6d04d988531aac714771bfda1cc188b",
+    "docs/itemized/figures/luke-cage-02-data-ge-1080p-4k.webp": "db1f6bedc5d525078696ae6d931b5ca494c343f36b9fbb43d858d078482ce248",
+    "docs/itemized/figures/luke-cage-02-data-ge-1080p.webp": "7e542d0f866717cd8ed6880fd9f782fe9652dd5d5923c55b9ba0c0a89e7eb3a9",
+    "docs/itemized/figures/luke-cage-02-data-lt-1080p-4k.webp": "c9d2f6059c09fe157952ad8eb25438867d1f88f56e6625e2bc175a9da086776c",
+    "docs/itemized/figures/luke-cage-02-data-lt-1080p.webp": "c0d1a4060aaf102cd24fc0865930a1d851b18d01b2f59f4009018ce20ad9622d",
+    "docs/itemized/figures/luke-cage-02-downloads-by-day-day.svg": "179f3a2dfbb06fff0dbb219f3795017bf685ea5445fd7f5f6622bb0ec8fe74a5",
+    "docs/itemized/figures/luke-cage-02-downloads-by-week-luke-cage-02-week.svg": "37ed73f1c2aa904a2377e7ac17c6fb9a4573d24cc8ce279c16c8ae93076bec98",
+    "docs/itemized/luke-cage-02-sample-cache-audit.md": "03ed842d7bf7e7c10c87bde38ac236a25754ec60e8e3a1ced2fc2597bb0f2790",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "27af472f439958c53f0aab30b89cddaa411eedaf",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2018/luke-cage-02/tmp/luke-cage-02-cumulative-btiha.geojson",
+        "sha256": "35539874eef486c7b95b45a4d2ef0c67996df3d946184d483e546ac680dac4e5",
+        "size": 174391681
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2018/luke-cage-02/tmp/luke-cage-02-cumulative-btiha-media-objects.json",
+        "sha256": "db01b45bbda82a451ae82b936eaede88531d706239d20c28ddbb2e97f08b3e2b",
+        "size": 754202
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2018-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "luke-cage-02",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "3e6a87ec7490ec3b39db0dba09ab6311a015621eb704ac975c05f399296c8393",
+      "size": 8759376
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2018-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          69.0,
+          54.0,
+          50.0,
+          48.0,
+          46.0,
+          41.0,
+          40.0,
+          34.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Columbus",
+          "Ashburn",
+          "New York City",
+          "London",
+          "Seattle",
+          "Tokyo",
+          "Seoul",
+          "Independence",
+          "Shanghai",
+          "Beijing"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          80.0,
+          77.0,
+          58.0,
+          49.0,
+          41.0,
+          37.0,
+          36.0,
+          34.0,
+          31.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Ashburn",
+          "London",
+          "Columbus",
+          "New York City",
+          "Seattle",
+          "Seoul",
+          "Independence",
+          "Tokyo",
+          "Shanghai",
+          "Sydney"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 21,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 14,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 4,
+        "x_tick_marks": 4,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 15,
+        "y_tick_labels": 20
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "27af472f439958c53f0aab30b89cddaa411eedaf",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "980e731bb2e99b13ecc9d15c75480125d514e26c",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "5daa2bb0f58fe6b678ea0a572049b3311de52618"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2018"
+}
