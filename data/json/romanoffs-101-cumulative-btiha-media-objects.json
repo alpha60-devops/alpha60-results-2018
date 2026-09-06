@@ -1,0 +1,4487 @@
+{
+    "collection_name": "The Romanoffs",
+    "collection_id": "101",
+    "collection_key": "romanoffs-101",
+    "collection_notes": "",
+    "data_version": "2026-08-05",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "6:1777968300",
+    "collection_btiha_duplicates": [
+        {
+            "duplicate_id": 0,
+            "duplicate_btih": "a527a68ebfad0fe303e129ab6f7b3be2ff868b7b",
+            "duplicate_0_0": "The.Romanoffs.S01E02.WEBRip.x264-ION10-[rarbg.to](1)",
+            "duplicate_0_1": "The.Romanoffs.S01E02.WEBRip.x264-ION10-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 1,
+            "duplicate_btih": "1793b820670837853411e2e1a769e3d4f5ef9085",
+            "duplicate_1_0": "[limetorrents.info]The.Romanoffs.S01.WEBRip.1080p",
+            "duplicate_1_1": "[rutor.is]The.Romanoffs.S01.WEBRip.1080p"
+        },
+        {
+            "duplicate_id": 2,
+            "duplicate_btih": "9717935b31a7a63efcd17863aa8e0bf5713ddc19",
+            "duplicate_2_0": "[limetorrents.info]The.Romanoffs.S01E01.1080p.WEB.h264-CONVOY[rarbg]",
+            "duplicate_2_1": "The.Romanoffs.S01E01.1080p.WEB.h264-CONVOY[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 3,
+            "duplicate_btih": "bbcd6e8a28571a4b2ad53e135a451f7fe346f71b",
+            "duplicate_3_0": "[limetorrents.info]The.Romanoffs.S01E01.400p.ColdFilm.avi",
+            "duplicate_3_1": "[rutor.is]The_Romanoffs_S01E01_400p_ColdFilm_avi_torrent"
+        },
+        {
+            "duplicate_id": 4,
+            "duplicate_btih": "02c30c07dcc4d64740c6f454db29cadac2397fc6",
+            "duplicate_4_0": "[limetorrents.info]The.Romanoffs.S01E01.The.Violet.Hour.1080p.AMZN.WEBRip.DDP5.1.x26",
+            "duplicate_4_1": "The.Romanoffs.S01E01.The.Violet.Hour.1080p.AMZN.WEBRip.DDP5.1.x264-NTG[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 5,
+            "duplicate_btih": "1e43472a7313da12459eb54dccdb8ad34269a969",
+            "duplicate_5_0": "[limetorrents.info]The.Romanoffs.S01E01.The.Violet.Hour.720p.AMZN.WEBRip.DDP5.1.x264",
+            "duplicate_5_1": "The.Romanoffs.S01E01.The.Violet.Hour.720p.AMZN.WEBRip.DDP5.1.x264-NTG[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 6,
+            "duplicate_btih": "17e7c2473386d436a8fabe5e69393d70de4ca830",
+            "duplicate_6_0": "[limetorrents.info]The.Romanoffs.S01E01.WEB.h264-CONVOY[ettv]",
+            "duplicate_6_1": "ba3b-The.Romanoffs.S01E01.WEB.h264-CONVOY[ettv]"
+        },
+        {
+            "duplicate_id": 7,
+            "duplicate_btih": "c595ec45ee60d7796edaafadee2e14ee33c85720",
+            "duplicate_7_0": "[limetorrents.info]The.Romanoffs.S01E02.1080p.WEB.h264-CONVOY",
+            "duplicate_7_1": "The.Romanoffs.S01E02.1080p.WEB.h264-CONVOY[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 8,
+            "duplicate_btih": "5460533250d5fddbda9bc6c359f71e1a2b99d06d",
+            "duplicate_8_0": "[limetorrents.info]The.Romanoffs.S01E02.720p.WEB.h264-CONVOY[rarbg]",
+            "duplicate_8_1": "The.Romanoffs.S01E02.720p.WEB.h264-CONVOY[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 9,
+            "duplicate_btih": "550ce5364a09b961f0dee0b33e6314479e7f9dcf",
+            "duplicate_9_0": "[limetorrents.info]The.Romanoffs.S01E02.The.Royal.We.720p.AMZN.WEBRip.DDP5.1.x264-NT",
+            "duplicate_9_1": "The.Romanoffs.S01E02.The.Royal.We.720p.AMZN.WEBRip.DDP5.1.x264-NTG[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 10,
+            "duplicate_btih": "43ca43305d80e8f220196e5d53ec579b2ae4d62b",
+            "duplicate_10_0": "[limetorrents.info]The.Romanoffs.S01E02.WEB.h264-CONVOY",
+            "duplicate_10_1": "The.Romanoffs.S01E02.WEB.h264-CONVOY[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 11,
+            "duplicate_btih": "4a249c476def3271067241f2bf2723d2debff0e7",
+            "duplicate_11_0": "[limetorrents.info]the.romanoffs.s01e01.720p.web.h264-convoy[eztv]",
+            "duplicate_11_1": "the.romanoffs.s01e01.720p.web.h264-convoy[eztv].mkv"
+        },
+        {
+            "duplicate_id": 12,
+            "duplicate_btih": "1feac4080ca7fa6ce197b6bcd8356a455468b187",
+            "duplicate_12_0": "[limetorrents.info]the.romanoffs.s01e01.web.h264-convoy[eztv]",
+            "duplicate_12_1": "the.romanoffs.s01e01.web.h264-convoy[eztv].mkv"
+        },
+        {
+            "duplicate_id": 13,
+            "duplicate_btih": "f211ec0ee382ae009f3cb31a287de49502113820",
+            "duplicate_13_0": "[limetorrents.info]the.romanoffs.s01e02.web.h264-convoy[eztv]",
+            "duplicate_13_1": "the.romanoffs.s01e02.web.h264-convoy[eztv].mkv"
+        }
+    ],
+    "collection_btiha_metadata": [
+        {
+            "id": 1,
+            "name": "65ba-The.Romanoffs.S01E01.720p.WEB.h264-CONVOY[ettv]",
+            "size_total": 1.606314161,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.85e-7,
+                    "path": "The.Romanoffs.S01E01.720p.WEB.h264-CONVOY[ettv]/Downloaded from www.ETTV.tv .txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.606313976,
+                    "path": "The.Romanoffs.S01E01.720p.WEB.h264-CONVOY[ettv]/the.romanoffs.s01e01.720p.web.h264-convoy[ettv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "8f03-The.Romanoffs.S01E02.720p.WEB.h264-CONVOY[ettv]",
+            "size_total": 3.429250614,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.85e-7,
+                    "path": "The.Romanoffs.S01E02.720p.WEB.h264-CONVOY[ettv]/Downloaded from www.ETTV.tv .txt"
+                },
+                {
+                    "number": 2,
+                    "size": 3.429250429,
+                    "path": "The.Romanoffs.S01E02.720p.WEB.h264-CONVOY[ettv]/the.romanoffs.s01e02.720p.web.h264-convoy[ettv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "[limetorrents.info]The.Romanoffs..2018..S01E01..1080p.WebRip.x265.HEVC.10bit.EAC3.6.0.Kira..[UTR]",
+            "size_total": 2.197980492,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.197980492,
+                    "path": "The Romanoffs (2018) S01E01 (1080p WebRip x265 HEVC 10bit EAC3 6.0 Kira) [UTR].mkv"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "[limetorrents.info]The.Romanoffs..2018..S01E02..1080p.WebRip.x265.HEVC.10bit.EAC3.6.0.Kira..[UTR]",
+            "size_total": 3.058024068,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.058024068,
+                    "path": "The Romanoffs (2018) S01E02 (1080p WebRip x265 HEVC 10bit EAC3 6.0 Kira) [UTR].mkv"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "[limetorrents.info]The.Romanoffs.S01.400p.ColdFilm",
+            "size_total": 2.352536634,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.18042194,
+                    "path": "The.Romanoffs.S01.400p.ColdFilm/The.Romanoffs.S01E01.400p.ColdFilm.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 1.172114694,
+                    "path": "The.Romanoffs.S01.400p.ColdFilm/The.Romanoffs.S01E02.400p.ColdFilm.avi"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "[limetorrents.info]The.Romanoffs.S01.400p.KosharaSerials",
+            "size_total": 3.231514624,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.148448768,
+                    "path": "The.Romanoffs.S01.400p.KosharaSerials/The.Romanoffs.S01E03.400p.KosharaSerials.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 1.060395008,
+                    "path": "The.Romanoffs.S01.400p.KosharaSerials/The.Romanoffs.S01E02.400p.KosharaSerials.avi"
+                },
+                {
+                    "number": 3,
+                    "size": 1.022670848,
+                    "path": "The.Romanoffs.S01.400p.KosharaSerials/The.Romanoffs.S01E01.400p.KosharaSerials.avi"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "[limetorrents.info]The.Romanoffs.S01.720p.ColdFilm",
+            "size_total": 4.273257282,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.16338591,
+                    "path": "The.Romanoffs.S01.720p.ColdFilm/The.Romanoffs.S01E02.720p.ColdFilm.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 2.109871372,
+                    "path": "The.Romanoffs.S01.720p.ColdFilm/The.Romanoffs.S01E01.720p.ColdFilm.mkv"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "[limetorrents.info]The.Romanoffs.S01.WEBRip.1080p",
+            "size_total": 9.94131801,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 4.90607502,
+                    "path": "The.Romanoffs.S01.WEBRip.1080p/The.Romanoffs.S01E01.WEBRip.1080p-IdeaFilm.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 5.03524299,
+                    "path": "The.Romanoffs.S01.WEBRip.1080p/The.Romanoffs.S01E02.WEBRip.1080p-IdeaFilm.mkv"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "[limetorrents.info]The.Romanoffs.S01E01.1080p.WEB.h264-CONVOY[rarbg]",
+            "size_total": 4.544620628,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Romanoffs.S01E01.1080p.WEB.h264-CONVOY[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 4.544618236,
+                    "path": "The.Romanoffs.S01E01.1080p.WEB.h264-CONVOY[rarbg]/the.romanoffs.s01e01.1080p.web.h264-convoy.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000002362,
+                    "path": "The.Romanoffs.S01E01.1080p.WEB.h264-CONVOY[rarbg]/the.romanoffs.s01e01.1080p.web.h264-convoy.nfo"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "[limetorrents.info]The.Romanoffs.S01E01.400p.ColdFilm.avi",
+            "size_total": 1.18042194,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.18042194,
+                    "path": "The.Romanoffs.S01E01.400p.ColdFilm.avi"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "[limetorrents.info]the.romanoffs.s01e01.720p.web.h264-convoy[eztv]",
+            "size_total": 1.606313976,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.606313976,
+                    "path": "the.romanoffs.s01e01.720p.web.h264-convoy[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "[limetorrents.info]The.Romanoffs.S01E01.HDTV.Subtitulado.Esp.SC.avi",
+            "size_total": 0.57430016,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.57430016,
+                    "path": "The.Romanoffs.S01E01.HDTV.Subtitulado.Esp.SC.avi"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "[limetorrents.info]The.Romanoffs.S01E01.PROPER.WEB.H264-MEMENTO",
+            "size_total": 0.708219909,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.00090229,
+                    "path": "www.torrenting.com - The.Romanoffs.S01E01.PROPER.WEB.H264-MEMENTO/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000413462,
+                    "path": "www.torrenting.com - The.Romanoffs.S01E01.PROPER.WEB.H264-MEMENTO/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000644778,
+                    "path": "www.torrenting.com - The.Romanoffs.S01E01.PROPER.WEB.H264-MEMENTO/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.00092956,
+                    "path": "www.torrenting.com - The.Romanoffs.S01E01.PROPER.WEB.H264-MEMENTO/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.705329477,
+                    "path": "www.torrenting.com - The.Romanoffs.S01E01.PROPER.WEB.H264-MEMENTO/the.romanoffs.s01e01.proper.web.h264-memento.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 2.56e-7,
+                    "path": "www.torrenting.com - The.Romanoffs.S01E01.PROPER.WEB.H264-MEMENTO/the.romanoffs.s01e01.proper.web.h264-memento.nfo"
+                },
+                {
+                    "number": 7,
+                    "size": 8.6e-8,
+                    "path": "www.torrenting.com - The.Romanoffs.S01E01.PROPER.WEB.H264-MEMENTO/Torrent Downloaded From www.torrenting.com.txt"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "[limetorrents.info]The.Romanoffs.S01E01.PROPER.WEB.H264-MEMENTO[ettv]",
+            "size_total": 0.705329676,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.99e-7,
+                    "path": "The.Romanoffs.S01E01.PROPER.WEB.H264-MEMENTO[ettv]/Downloaded from www.ETTV.tv .txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.705329477,
+                    "path": "The.Romanoffs.S01E01.PROPER.WEB.H264-MEMENTO[ettv]/the.romanoffs.s01e01.proper.web.h264-memento[ettv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "[limetorrents.info]The.Romanoffs.S01E01.PROPER.WEB.H264-MEMENTO[TGx]",
+            "size_total": 0.708220514,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.00090229,
+                    "path": "The.Romanoffs.S01E01.PROPER.WEB.H264-MEMENTO[TGx]/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000413462,
+                    "path": "The.Romanoffs.S01E01.PROPER.WEB.H264-MEMENTO[TGx]/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000644778,
+                    "path": "The.Romanoffs.S01E01.PROPER.WEB.H264-MEMENTO[TGx]/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.00092956,
+                    "path": "The.Romanoffs.S01E01.PROPER.WEB.H264-MEMENTO[TGx]/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 6.91e-7,
+                    "path": "The.Romanoffs.S01E01.PROPER.WEB.H264-MEMENTO[TGx]/[TGx]Downloaded from torrentgalaxy.org .txt"
+                },
+                {
+                    "number": 6,
+                    "size": 0.705329477,
+                    "path": "The.Romanoffs.S01E01.PROPER.WEB.H264-MEMENTO[TGx]/the.romanoffs.s01e01.proper.web.h264-memento.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 2.56e-7,
+                    "path": "The.Romanoffs.S01E01.PROPER.WEB.H264-MEMENTO[TGx]/the.romanoffs.s01e01.proper.web.h264-memento.nfo"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "[limetorrents.info]The.Romanoffs.S01E01.The.Violet.Hour.1080p.AMZN.WEBRip.DDP5.1.x26",
+            "size_total": 5.954939835,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Romanoffs.S01E01.The.Violet.Hour.1080p.AMZN.WEBRip.DDP5.1.x264-NTG[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 5.954939805,
+                    "path": "The.Romanoffs.S01E01.The.Violet.Hour.1080p.AMZN.WEBRip.DDP5.1.x264-NTG[rarbg]/The.Romanoffs.S01E01.The.Violet.Hour.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "[limetorrents.info]The.Romanoffs.S01E01.The.Violet.Hour.720p.AMZN.WEBRip.DDP5.1.x264",
+            "size_total": 2.01502393,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Romanoffs.S01E01.The.Violet.Hour.720p.AMZN.WEBRip.DDP5.1.x264-NTG[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 2.0150239,
+                    "path": "The.Romanoffs.S01E01.The.Violet.Hour.720p.AMZN.WEBRip.DDP5.1.x264-NTG[rarbg]/The.Romanoffs.S01E01.The.Violet.Hour.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": "[limetorrents.info]The.Romanoffs.S01E01.The.Violet.Hour.720p.WEBRip.2CH.x265.HEVC-PSA.mkv",
+            "size_total": 0.520552075,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.520552075,
+                    "path": "The.Romanoffs.S01E01.The.Violet.Hour.720p.WEBRip.2CH.x265.HEVC-PSA.mkv"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "name": "[limetorrents.info]The.Romanoffs.S01E01.WEB.h264-CONVOY[ettv]",
+            "size_total": 0.497178625,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.99e-7,
+                    "path": "The.Romanoffs.S01E01.WEB.h264-CONVOY[ettv]/Downloaded from www.ETTV.tv .txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.497178426,
+                    "path": "The.Romanoffs.S01E01.WEB.h264-CONVOY[ettv]/the.romanoffs.s01e01.web.h264-convoy[ettv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "name": "[limetorrents.info]the.romanoffs.s01e01.web.h264-convoy[eztv]",
+            "size_total": 0.497178426,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.497178426,
+                    "path": "the.romanoffs.s01e01.web.h264-convoy[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "name": "[limetorrents.info]The.Romanoffs.s01e01.WEBDL.1080p.NewStudio.TV.mkv",
+            "size_total": 6.197424104,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 6.197424104,
+                    "path": "The.Romanoffs.s01e01.WEBDL.1080p.NewStudio.TV.mkv"
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "name": "[limetorrents.info]The.Romanoffs.s01e01.WEBDL.720p.NewStudio.TV.mkv",
+            "size_total": 2.257503433,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.257503433,
+                    "path": "The.Romanoffs.s01e01.WEBDL.720p.NewStudio.TV.mkv"
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "name": "[limetorrents.info]The.Romanoffs.S01E02.1080p.WEB.h264-CONVOY",
+            "size_total": 6.314353172,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Romanoffs.S01E02.1080p.WEB.h264-CONVOY[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 6.31435078,
+                    "path": "The.Romanoffs.S01E02.1080p.WEB.h264-CONVOY[rarbg]/the.romanoffs.s01e02.1080p.web.h264-convoy.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000002362,
+                    "path": "The.Romanoffs.S01E02.1080p.WEB.h264-CONVOY[rarbg]/the.romanoffs.s01e02.1080p.web.h264-convoy.nfo"
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "name": "[limetorrents.info]The.Romanoffs.S01E02.720p.WEB.h264-CONVOY[rarbg]",
+            "size_total": 3.429252819,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Romanoffs.S01E02.720p.WEB.h264-CONVOY[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 3.429250429,
+                    "path": "The.Romanoffs.S01E02.720p.WEB.h264-CONVOY[rarbg]/the.romanoffs.s01e02.720p.web.h264-convoy.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00000236,
+                    "path": "The.Romanoffs.S01E02.720p.WEB.h264-CONVOY[rarbg]/the.romanoffs.s01e02.720p.web.h264-convoy.nfo"
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "name": "[limetorrents.info]The.Romanoffs.S01E02.720p.WEB.x265-MiNX[eztv]",
+            "size_total": 0.455027866,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.455027866,
+                    "path": "The.Romanoffs.S01E02.720p.WEB.x265-MiNX[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "name": "[limetorrents.info]The.Romanoffs.S01E02.HDTV.Subtitulado.Esp.SC.avi",
+            "size_total": 0.732213248,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.732213248,
+                    "path": "The.Romanoffs.S01E02.HDTV.Subtitulado.Esp.SC.avi"
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "name": "[limetorrents.info]The.Romanoffs.S01E02.The.Royal.We.720p.AMZN.WEBRip.DDP5.1.x264-NT",
+            "size_total": 2.376183599,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Romanoffs.S01E02.The.Royal.We.720p.AMZN.WEBRip.DDP5.1.x264-NTG[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 2.376183569,
+                    "path": "The.Romanoffs.S01E02.The.Royal.We.720p.AMZN.WEBRip.DDP5.1.x264-NTG[rarbg]/The.Romanoffs.S01E02.The.Royal.We.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "name": "[limetorrents.info]The.Romanoffs.S01E02.WEB.h264-CONVOY",
+            "size_total": 0.602353809,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Romanoffs.S01E02.WEB.h264-CONVOY[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.602351426,
+                    "path": "The.Romanoffs.S01E02.WEB.h264-CONVOY[rarbg]/the.romanoffs.s01e02.web.h264-convoy.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000002353,
+                    "path": "The.Romanoffs.S01E02.WEB.h264-CONVOY[rarbg]/the.romanoffs.s01e02.web.h264-convoy.nfo"
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "name": "[limetorrents.info]the.romanoffs.s01e02.web.h264-convoy[eztv]",
+            "size_total": 0.602351426,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.602351426,
+                    "path": "the.romanoffs.s01e02.web.h264-convoy[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "name": "[limetorrents.info]www.torrenting.com.-.The.Romanoffs.S01E01.720p.HEVC.x265-MeGusta",
+            "size_total": 0.492754638,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.001528124,
+                    "path": "www.torrenting.com - The.Romanoffs.S01E01.720p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000641161,
+                    "path": "www.torrenting.com - The.Romanoffs.S01E01.720p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000867408,
+                    "path": "www.torrenting.com - The.Romanoffs.S01E01.720p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001442074,
+                    "path": "www.torrenting.com - The.Romanoffs.S01E01.720p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.488274597,
+                    "path": "www.torrenting.com - The.Romanoffs.S01E01.720p.HEVC.x265-MeGusta/The.Romanoffs.S01E01.720p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001188,
+                    "path": "www.torrenting.com - The.Romanoffs.S01E01.720p.HEVC.x265-MeGusta/The.Romanoffs.S01E01.720p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 7,
+                    "size": 8.6e-8,
+                    "path": "www.torrenting.com - The.Romanoffs.S01E01.720p.HEVC.x265-MeGusta/Torrent Downloaded From www.torrenting.com.txt"
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "name": "[limetorrents.info]罗曼诺夫后裔.The.Romanoffs.S01E01.中英字幕.HDTVrip.720P-人人影视.mp4",
+            "size_total": 1.018216618,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.018216618,
+                    "path": "罗曼诺夫后裔.The.Romanoffs.S01E01.中英字幕.HDTVrip.720P-人人影视.mp4"
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "name": "[limetorrents.info]罗曼诺夫后裔.The.Romanoffs.S01E02.中英字幕.HDTVrip.720P-人人影视.mp4",
+            "size_total": 1.081015903,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.081015903,
+                    "path": "罗曼诺夫后裔.The.Romanoffs.S01E02.中英字幕.HDTVrip.720P-人人影视.mp4"
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "name": "[rutor.is]The.Romanoffs.S01.WEBRip.1080p",
+            "size_total": 9.94131801,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 4.90607502,
+                    "path": "The.Romanoffs.S01.WEBRip.1080p/The.Romanoffs.S01E01.WEBRip.1080p-IdeaFilm.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 5.03524299,
+                    "path": "The.Romanoffs.S01.WEBRip.1080p/The.Romanoffs.S01E02.WEBRip.1080p-IdeaFilm.mkv"
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "name": "[rutor.is]The.Romanoffs.S01.WEBRip.720p",
+            "size_total": 6.815439777,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.337130788,
+                    "path": "The.Romanoffs.S01.WEBRip.720p/The.Romanoffs.S01E01.WEBRip.720p-IdeaFilm.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3.478308989,
+                    "path": "The.Romanoffs.S01.WEBRip.720p/The.Romanoffs.S01E02.WEBRip.720p-IdeaFilm.mkv"
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "name": "[rutor.is]The.Romanoffs.S01.WEBRip",
+            "size_total": 2.934573056,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.466707968,
+                    "path": "The.Romanoffs.S01.WEBRip/The.Romanoffs.S01E01.WEBRip-IdeaFilm.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 1.467865088,
+                    "path": "The.Romanoffs.S01.WEBRip/The.Romanoffs.S01E02.WEBRip-IdeaFilm.avi"
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "name": "[rutor.is]The_Romanoffs_S01E01_1080p_ColdFilm_mkv_torrent",
+            "size_total": 3.061133754,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.061133754,
+                    "path": "The.Romanoffs.S01E01.1080p.ColdFilm.mkv"
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "name": "[rutor.is]The_Romanoffs_S01E01_400p_ColdFilm_avi_torrent",
+            "size_total": 1.18042194,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.18042194,
+                    "path": "The.Romanoffs.S01E01.400p.ColdFilm.avi"
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "name": "[rutor.is]The_Romanoffs_S01E01_720p_ColdFilm_mkv_torrent",
+            "size_total": 2.109871372,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.109871372,
+                    "path": "The.Romanoffs.S01E01.720p.ColdFilm.mkv"
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "name": "ba3b-The.Romanoffs.S01E01.WEB.h264-CONVOY[ettv]",
+            "size_total": 0.497178625,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.99e-7,
+                    "path": "The.Romanoffs.S01E01.WEB.h264-CONVOY[ettv]/Downloaded from www.ETTV.tv .txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.497178426,
+                    "path": "The.Romanoffs.S01E01.WEB.h264-CONVOY[ettv]/the.romanoffs.s01e01.web.h264-convoy[ettv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "name": "f6f2-The.Romanoffs.S01E02.WEB.h264-CONVOY[ettv]",
+            "size_total": 0.602351625,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.99e-7,
+                    "path": "The.Romanoffs.S01E02.WEB.h264-CONVOY[ettv]/Downloaded from www.ETTV.tv .txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.602351426,
+                    "path": "The.Romanoffs.S01E02.WEB.h264-CONVOY[ettv]/the.romanoffs.s01e02.web.h264-convoy[ettv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 41,
+            "name": "The.Romanoffs.S01E01.1080p.WEB.h264-CONVOY [IPT]",
+            "size_total": 4.544629246,
+            "files_total": 48,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000002362,
+                    "path": "The.Romanoffs.S01E01.1080p.WEB.h264-CONVOY/the.romanoffs.s01e01.1080p.web.h264-convoy.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E01.1080p.WEB.h264-CONVOY/the.romanoffs.s01e01.1080p.web.h264-convoy.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E01.1080p.WEB.h264-CONVOY/the.romanoffs.s01e01.1080p.web.h264-convoy.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E01.1080p.WEB.h264-CONVOY/the.romanoffs.s01e01.1080p.web.h264-convoy.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E01.1080p.WEB.h264-CONVOY/the.romanoffs.s01e01.1080p.web.h264-convoy.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E01.1080p.WEB.h264-CONVOY/the.romanoffs.s01e01.1080p.web.h264-convoy.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E01.1080p.WEB.h264-CONVOY/the.romanoffs.s01e01.1080p.web.h264-convoy.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E01.1080p.WEB.h264-CONVOY/the.romanoffs.s01e01.1080p.web.h264-convoy.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E01.1080p.WEB.h264-CONVOY/the.romanoffs.s01e01.1080p.web.h264-convoy.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E01.1080p.WEB.h264-CONVOY/the.romanoffs.s01e01.1080p.web.h264-convoy.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E01.1080p.WEB.h264-CONVOY/the.romanoffs.s01e01.1080p.web.h264-convoy.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E01.1080p.WEB.h264-CONVOY/the.romanoffs.s01e01.1080p.web.h264-convoy.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E01.1080p.WEB.h264-CONVOY/the.romanoffs.s01e01.1080p.web.h264-convoy.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E01.1080p.WEB.h264-CONVOY/the.romanoffs.s01e01.1080p.web.h264-convoy.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E01.1080p.WEB.h264-CONVOY/the.romanoffs.s01e01.1080p.web.h264-convoy.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E01.1080p.WEB.h264-CONVOY/the.romanoffs.s01e01.1080p.web.h264-convoy.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E01.1080p.WEB.h264-CONVOY/the.romanoffs.s01e01.1080p.web.h264-convoy.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E01.1080p.WEB.h264-CONVOY/the.romanoffs.s01e01.1080p.web.h264-convoy.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E01.1080p.WEB.h264-CONVOY/the.romanoffs.s01e01.1080p.web.h264-convoy.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E01.1080p.WEB.h264-CONVOY/the.romanoffs.s01e01.1080p.web.h264-convoy.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E01.1080p.WEB.h264-CONVOY/the.romanoffs.s01e01.1080p.web.h264-convoy.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E01.1080p.WEB.h264-CONVOY/the.romanoffs.s01e01.1080p.web.h264-convoy.r20"
+                },
+                {
+                    "number": 23,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E01.1080p.WEB.h264-CONVOY/the.romanoffs.s01e01.1080p.web.h264-convoy.r21"
+                },
+                {
+                    "number": 24,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E01.1080p.WEB.h264-CONVOY/the.romanoffs.s01e01.1080p.web.h264-convoy.r22"
+                },
+                {
+                    "number": 25,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E01.1080p.WEB.h264-CONVOY/the.romanoffs.s01e01.1080p.web.h264-convoy.r23"
+                },
+                {
+                    "number": 26,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E01.1080p.WEB.h264-CONVOY/the.romanoffs.s01e01.1080p.web.h264-convoy.r24"
+                },
+                {
+                    "number": 27,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E01.1080p.WEB.h264-CONVOY/the.romanoffs.s01e01.1080p.web.h264-convoy.r25"
+                },
+                {
+                    "number": 28,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E01.1080p.WEB.h264-CONVOY/the.romanoffs.s01e01.1080p.web.h264-convoy.r26"
+                },
+                {
+                    "number": 29,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E01.1080p.WEB.h264-CONVOY/the.romanoffs.s01e01.1080p.web.h264-convoy.r27"
+                },
+                {
+                    "number": 30,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E01.1080p.WEB.h264-CONVOY/the.romanoffs.s01e01.1080p.web.h264-convoy.r28"
+                },
+                {
+                    "number": 31,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E01.1080p.WEB.h264-CONVOY/the.romanoffs.s01e01.1080p.web.h264-convoy.r29"
+                },
+                {
+                    "number": 32,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E01.1080p.WEB.h264-CONVOY/the.romanoffs.s01e01.1080p.web.h264-convoy.r30"
+                },
+                {
+                    "number": 33,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E01.1080p.WEB.h264-CONVOY/the.romanoffs.s01e01.1080p.web.h264-convoy.r31"
+                },
+                {
+                    "number": 34,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E01.1080p.WEB.h264-CONVOY/the.romanoffs.s01e01.1080p.web.h264-convoy.r32"
+                },
+                {
+                    "number": 35,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E01.1080p.WEB.h264-CONVOY/the.romanoffs.s01e01.1080p.web.h264-convoy.r33"
+                },
+                {
+                    "number": 36,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E01.1080p.WEB.h264-CONVOY/the.romanoffs.s01e01.1080p.web.h264-convoy.r34"
+                },
+                {
+                    "number": 37,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E01.1080p.WEB.h264-CONVOY/the.romanoffs.s01e01.1080p.web.h264-convoy.r35"
+                },
+                {
+                    "number": 38,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E01.1080p.WEB.h264-CONVOY/the.romanoffs.s01e01.1080p.web.h264-convoy.r36"
+                },
+                {
+                    "number": 39,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E01.1080p.WEB.h264-CONVOY/the.romanoffs.s01e01.1080p.web.h264-convoy.r37"
+                },
+                {
+                    "number": 40,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E01.1080p.WEB.h264-CONVOY/the.romanoffs.s01e01.1080p.web.h264-convoy.r38"
+                },
+                {
+                    "number": 41,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E01.1080p.WEB.h264-CONVOY/the.romanoffs.s01e01.1080p.web.h264-convoy.r39"
+                },
+                {
+                    "number": 42,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E01.1080p.WEB.h264-CONVOY/the.romanoffs.s01e01.1080p.web.h264-convoy.r40"
+                },
+                {
+                    "number": 43,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E01.1080p.WEB.h264-CONVOY/the.romanoffs.s01e01.1080p.web.h264-convoy.r41"
+                },
+                {
+                    "number": 44,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E01.1080p.WEB.h264-CONVOY/the.romanoffs.s01e01.1080p.web.h264-convoy.r42"
+                },
+                {
+                    "number": 45,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E01.1080p.WEB.h264-CONVOY/the.romanoffs.s01e01.1080p.web.h264-convoy.r43"
+                },
+                {
+                    "number": 46,
+                    "size": 0.044624262,
+                    "path": "The.Romanoffs.S01E01.1080p.WEB.h264-CONVOY/the.romanoffs.s01e01.1080p.web.h264-convoy.r44"
+                },
+                {
+                    "number": 47,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E01.1080p.WEB.h264-CONVOY/the.romanoffs.s01e01.1080p.web.h264-convoy.rar"
+                },
+                {
+                    "number": 48,
+                    "size": 0.000002622,
+                    "path": "The.Romanoffs.S01E01.1080p.WEB.h264-CONVOY/the.romanoffs.s01e01.1080p.web.h264-convoy.sfv"
+                }
+            ]
+        },
+        {
+            "id": 42,
+            "name": "The.Romanoffs.S01E01.1080p.WEB.h264-CONVOY[rartv]-[rarbg.to]",
+            "size_total": 4.544620628,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Romanoffs.S01E01.1080p.WEB.h264-CONVOY[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 4.544618236,
+                    "path": "The.Romanoffs.S01E01.1080p.WEB.h264-CONVOY[rarbg]/the.romanoffs.s01e01.1080p.web.h264-convoy.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000002362,
+                    "path": "The.Romanoffs.S01E01.1080p.WEB.h264-CONVOY[rarbg]/the.romanoffs.s01e01.1080p.web.h264-convoy.nfo"
+                }
+            ]
+        },
+        {
+            "id": 43,
+            "name": "The.Romanoffs.S01E01.480p.x264-mSD [IPT]",
+            "size_total": 0.276018333,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000159699,
+                    "path": "The.Romanoffs.S01E01.480p.x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000188394,
+                    "path": "The.Romanoffs.S01E01.480p.x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000241751,
+                    "path": "The.Romanoffs.S01E01.480p.x264-mSD/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000258697,
+                    "path": "The.Romanoffs.S01E01.480p.x264-mSD/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.275168614,
+                    "path": "The.Romanoffs.S01E01.480p.x264-mSD/The.Romanoffs.S01E01.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001178,
+                    "path": "The.Romanoffs.S01E01.480p.x264-mSD/The.Romanoffs.S01E01.480p.x264-mSD.nfo"
+                }
+            ]
+        },
+        {
+            "id": 44,
+            "name": "The.Romanoffs.S01E01.720p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.492754552,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.001528124,
+                    "path": "The.Romanoffs.S01E01.720p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000641161,
+                    "path": "The.Romanoffs.S01E01.720p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000867408,
+                    "path": "The.Romanoffs.S01E01.720p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001442074,
+                    "path": "The.Romanoffs.S01E01.720p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.488274597,
+                    "path": "The.Romanoffs.S01E01.720p.HEVC.x265-MeGusta/The.Romanoffs.S01E01.720p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001188,
+                    "path": "The.Romanoffs.S01E01.720p.HEVC.x265-MeGusta/The.Romanoffs.S01E01.720p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 45,
+            "name": "The.Romanoffs.S01E01.720p.WEB.h264-CONVOY [IPT]",
+            "size_total": 1.60632221,
+            "files_total": 35,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.00000236,
+                    "path": "The.Romanoffs.S01E01.720p.WEB.h264-CONVOY/the.romanoffs.s01e01.720p.web.h264-convoy.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E01.720p.WEB.h264-CONVOY/the.romanoffs.s01e01.720p.web.h264-convoy.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E01.720p.WEB.h264-CONVOY/the.romanoffs.s01e01.720p.web.h264-convoy.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E01.720p.WEB.h264-CONVOY/the.romanoffs.s01e01.720p.web.h264-convoy.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E01.720p.WEB.h264-CONVOY/the.romanoffs.s01e01.720p.web.h264-convoy.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E01.720p.WEB.h264-CONVOY/the.romanoffs.s01e01.720p.web.h264-convoy.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E01.720p.WEB.h264-CONVOY/the.romanoffs.s01e01.720p.web.h264-convoy.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E01.720p.WEB.h264-CONVOY/the.romanoffs.s01e01.720p.web.h264-convoy.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E01.720p.WEB.h264-CONVOY/the.romanoffs.s01e01.720p.web.h264-convoy.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E01.720p.WEB.h264-CONVOY/the.romanoffs.s01e01.720p.web.h264-convoy.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E01.720p.WEB.h264-CONVOY/the.romanoffs.s01e01.720p.web.h264-convoy.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E01.720p.WEB.h264-CONVOY/the.romanoffs.s01e01.720p.web.h264-convoy.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E01.720p.WEB.h264-CONVOY/the.romanoffs.s01e01.720p.web.h264-convoy.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E01.720p.WEB.h264-CONVOY/the.romanoffs.s01e01.720p.web.h264-convoy.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E01.720p.WEB.h264-CONVOY/the.romanoffs.s01e01.720p.web.h264-convoy.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E01.720p.WEB.h264-CONVOY/the.romanoffs.s01e01.720p.web.h264-convoy.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E01.720p.WEB.h264-CONVOY/the.romanoffs.s01e01.720p.web.h264-convoy.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E01.720p.WEB.h264-CONVOY/the.romanoffs.s01e01.720p.web.h264-convoy.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E01.720p.WEB.h264-CONVOY/the.romanoffs.s01e01.720p.web.h264-convoy.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E01.720p.WEB.h264-CONVOY/the.romanoffs.s01e01.720p.web.h264-convoy.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E01.720p.WEB.h264-CONVOY/the.romanoffs.s01e01.720p.web.h264-convoy.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E01.720p.WEB.h264-CONVOY/the.romanoffs.s01e01.720p.web.h264-convoy.r20"
+                },
+                {
+                    "number": 23,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E01.720p.WEB.h264-CONVOY/the.romanoffs.s01e01.720p.web.h264-convoy.r21"
+                },
+                {
+                    "number": 24,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E01.720p.WEB.h264-CONVOY/the.romanoffs.s01e01.720p.web.h264-convoy.r22"
+                },
+                {
+                    "number": 25,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E01.720p.WEB.h264-CONVOY/the.romanoffs.s01e01.720p.web.h264-convoy.r23"
+                },
+                {
+                    "number": 26,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E01.720p.WEB.h264-CONVOY/the.romanoffs.s01e01.720p.web.h264-convoy.r24"
+                },
+                {
+                    "number": 27,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E01.720p.WEB.h264-CONVOY/the.romanoffs.s01e01.720p.web.h264-convoy.r25"
+                },
+                {
+                    "number": 28,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E01.720p.WEB.h264-CONVOY/the.romanoffs.s01e01.720p.web.h264-convoy.r26"
+                },
+                {
+                    "number": 29,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E01.720p.WEB.h264-CONVOY/the.romanoffs.s01e01.720p.web.h264-convoy.r27"
+                },
+                {
+                    "number": 30,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E01.720p.WEB.h264-CONVOY/the.romanoffs.s01e01.720p.web.h264-convoy.r28"
+                },
+                {
+                    "number": 31,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E01.720p.WEB.h264-CONVOY/the.romanoffs.s01e01.720p.web.h264-convoy.r29"
+                },
+                {
+                    "number": 32,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E01.720p.WEB.h264-CONVOY/the.romanoffs.s01e01.720p.web.h264-convoy.r30"
+                },
+                {
+                    "number": 33,
+                    "size": 0.006318002,
+                    "path": "The.Romanoffs.S01E01.720p.WEB.h264-CONVOY/the.romanoffs.s01e01.720p.web.h264-convoy.r31"
+                },
+                {
+                    "number": 34,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E01.720p.WEB.h264-CONVOY/the.romanoffs.s01e01.720p.web.h264-convoy.rar"
+                },
+                {
+                    "number": 35,
+                    "size": 0.000001848,
+                    "path": "The.Romanoffs.S01E01.720p.WEB.h264-CONVOY/the.romanoffs.s01e01.720p.web.h264-convoy.sfv"
+                }
+            ]
+        },
+        {
+            "id": 46,
+            "name": "the.romanoffs.s01e01.720p.web.h264-convoy[eztv].mkv",
+            "size_total": 1.606313976,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.606313976,
+                    "path": "the.romanoffs.s01e01.720p.web.h264-convoy[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 47,
+            "name": "The.Romanoffs.S01E01.720p.WEB.h264-CONVOY[rartv]-[rarbg.to]",
+            "size_total": 1.606316366,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Romanoffs.S01E01.720p.WEB.h264-CONVOY[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.606313976,
+                    "path": "The.Romanoffs.S01E01.720p.WEB.h264-CONVOY[rarbg]/the.romanoffs.s01e01.720p.web.h264-convoy.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00000236,
+                    "path": "The.Romanoffs.S01E01.720p.WEB.h264-CONVOY[rarbg]/the.romanoffs.s01e01.720p.web.h264-convoy.nfo"
+                }
+            ]
+        },
+        {
+            "id": 48,
+            "name": "The.Romanoffs.S01E01.AAC.MP4-Mobile [IPT]",
+            "size_total": 0.300764798,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000183149,
+                    "path": "The.Romanoffs.S01E01.AAC.MP4-Mobile/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000213517,
+                    "path": "The.Romanoffs.S01E01.AAC.MP4-Mobile/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000274631,
+                    "path": "The.Romanoffs.S01E01.AAC.MP4-Mobile/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000293687,
+                    "path": "The.Romanoffs.S01E01.AAC.MP4-Mobile/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.299798531,
+                    "path": "The.Romanoffs.S01E01.AAC.MP4-Mobile/The.Romanoffs.S01E01.AAC.MP4-Mobile.mp4"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001283,
+                    "path": "The.Romanoffs.S01E01.AAC.MP4-Mobile/The.Romanoffs.S01E01.AAC.MP4-Mobile.nfo"
+                }
+            ]
+        },
+        {
+            "id": 49,
+            "name": "The.Romanoffs.S01E01.PROPER.WEB.H264-MEMENTO [IPT]",
+            "size_total": 0.705336357,
+            "files_total": 38,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.56e-7,
+                    "path": "The.Romanoffs.S01E01.PROPER.WEB.H264-MEMENTO/the.romanoffs.s01e01.proper.web.h264-memento.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.02,
+                    "path": "The.Romanoffs.S01E01.PROPER.WEB.H264-MEMENTO/the.romanoffs.s01e01.proper.web.h264-memento.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.02,
+                    "path": "The.Romanoffs.S01E01.PROPER.WEB.H264-MEMENTO/the.romanoffs.s01e01.proper.web.h264-memento.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.02,
+                    "path": "The.Romanoffs.S01E01.PROPER.WEB.H264-MEMENTO/the.romanoffs.s01e01.proper.web.h264-memento.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.02,
+                    "path": "The.Romanoffs.S01E01.PROPER.WEB.H264-MEMENTO/the.romanoffs.s01e01.proper.web.h264-memento.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.02,
+                    "path": "The.Romanoffs.S01E01.PROPER.WEB.H264-MEMENTO/the.romanoffs.s01e01.proper.web.h264-memento.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.02,
+                    "path": "The.Romanoffs.S01E01.PROPER.WEB.H264-MEMENTO/the.romanoffs.s01e01.proper.web.h264-memento.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.02,
+                    "path": "The.Romanoffs.S01E01.PROPER.WEB.H264-MEMENTO/the.romanoffs.s01e01.proper.web.h264-memento.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.02,
+                    "path": "The.Romanoffs.S01E01.PROPER.WEB.H264-MEMENTO/the.romanoffs.s01e01.proper.web.h264-memento.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.02,
+                    "path": "The.Romanoffs.S01E01.PROPER.WEB.H264-MEMENTO/the.romanoffs.s01e01.proper.web.h264-memento.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.02,
+                    "path": "The.Romanoffs.S01E01.PROPER.WEB.H264-MEMENTO/the.romanoffs.s01e01.proper.web.h264-memento.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.02,
+                    "path": "The.Romanoffs.S01E01.PROPER.WEB.H264-MEMENTO/the.romanoffs.s01e01.proper.web.h264-memento.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.02,
+                    "path": "The.Romanoffs.S01E01.PROPER.WEB.H264-MEMENTO/the.romanoffs.s01e01.proper.web.h264-memento.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.02,
+                    "path": "The.Romanoffs.S01E01.PROPER.WEB.H264-MEMENTO/the.romanoffs.s01e01.proper.web.h264-memento.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.02,
+                    "path": "The.Romanoffs.S01E01.PROPER.WEB.H264-MEMENTO/the.romanoffs.s01e01.proper.web.h264-memento.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.02,
+                    "path": "The.Romanoffs.S01E01.PROPER.WEB.H264-MEMENTO/the.romanoffs.s01e01.proper.web.h264-memento.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.02,
+                    "path": "The.Romanoffs.S01E01.PROPER.WEB.H264-MEMENTO/the.romanoffs.s01e01.proper.web.h264-memento.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.02,
+                    "path": "The.Romanoffs.S01E01.PROPER.WEB.H264-MEMENTO/the.romanoffs.s01e01.proper.web.h264-memento.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.02,
+                    "path": "The.Romanoffs.S01E01.PROPER.WEB.H264-MEMENTO/the.romanoffs.s01e01.proper.web.h264-memento.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.02,
+                    "path": "The.Romanoffs.S01E01.PROPER.WEB.H264-MEMENTO/the.romanoffs.s01e01.proper.web.h264-memento.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.02,
+                    "path": "The.Romanoffs.S01E01.PROPER.WEB.H264-MEMENTO/the.romanoffs.s01e01.proper.web.h264-memento.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.02,
+                    "path": "The.Romanoffs.S01E01.PROPER.WEB.H264-MEMENTO/the.romanoffs.s01e01.proper.web.h264-memento.r20"
+                },
+                {
+                    "number": 23,
+                    "size": 0.02,
+                    "path": "The.Romanoffs.S01E01.PROPER.WEB.H264-MEMENTO/the.romanoffs.s01e01.proper.web.h264-memento.r21"
+                },
+                {
+                    "number": 24,
+                    "size": 0.02,
+                    "path": "The.Romanoffs.S01E01.PROPER.WEB.H264-MEMENTO/the.romanoffs.s01e01.proper.web.h264-memento.r22"
+                },
+                {
+                    "number": 25,
+                    "size": 0.02,
+                    "path": "The.Romanoffs.S01E01.PROPER.WEB.H264-MEMENTO/the.romanoffs.s01e01.proper.web.h264-memento.r23"
+                },
+                {
+                    "number": 26,
+                    "size": 0.02,
+                    "path": "The.Romanoffs.S01E01.PROPER.WEB.H264-MEMENTO/the.romanoffs.s01e01.proper.web.h264-memento.r24"
+                },
+                {
+                    "number": 27,
+                    "size": 0.02,
+                    "path": "The.Romanoffs.S01E01.PROPER.WEB.H264-MEMENTO/the.romanoffs.s01e01.proper.web.h264-memento.r25"
+                },
+                {
+                    "number": 28,
+                    "size": 0.02,
+                    "path": "The.Romanoffs.S01E01.PROPER.WEB.H264-MEMENTO/the.romanoffs.s01e01.proper.web.h264-memento.r26"
+                },
+                {
+                    "number": 29,
+                    "size": 0.02,
+                    "path": "The.Romanoffs.S01E01.PROPER.WEB.H264-MEMENTO/the.romanoffs.s01e01.proper.web.h264-memento.r27"
+                },
+                {
+                    "number": 30,
+                    "size": 0.02,
+                    "path": "The.Romanoffs.S01E01.PROPER.WEB.H264-MEMENTO/the.romanoffs.s01e01.proper.web.h264-memento.r28"
+                },
+                {
+                    "number": 31,
+                    "size": 0.02,
+                    "path": "The.Romanoffs.S01E01.PROPER.WEB.H264-MEMENTO/the.romanoffs.s01e01.proper.web.h264-memento.r29"
+                },
+                {
+                    "number": 32,
+                    "size": 0.02,
+                    "path": "The.Romanoffs.S01E01.PROPER.WEB.H264-MEMENTO/the.romanoffs.s01e01.proper.web.h264-memento.r30"
+                },
+                {
+                    "number": 33,
+                    "size": 0.02,
+                    "path": "The.Romanoffs.S01E01.PROPER.WEB.H264-MEMENTO/the.romanoffs.s01e01.proper.web.h264-memento.r31"
+                },
+                {
+                    "number": 34,
+                    "size": 0.02,
+                    "path": "The.Romanoffs.S01E01.PROPER.WEB.H264-MEMENTO/the.romanoffs.s01e01.proper.web.h264-memento.r32"
+                },
+                {
+                    "number": 35,
+                    "size": 0.02,
+                    "path": "The.Romanoffs.S01E01.PROPER.WEB.H264-MEMENTO/the.romanoffs.s01e01.proper.web.h264-memento.r33"
+                },
+                {
+                    "number": 36,
+                    "size": 0.005333977,
+                    "path": "The.Romanoffs.S01E01.PROPER.WEB.H264-MEMENTO/the.romanoffs.s01e01.proper.web.h264-memento.r34"
+                },
+                {
+                    "number": 37,
+                    "size": 0.02,
+                    "path": "The.Romanoffs.S01E01.PROPER.WEB.H264-MEMENTO/the.romanoffs.s01e01.proper.web.h264-memento.rar"
+                },
+                {
+                    "number": 38,
+                    "size": 0.000002124,
+                    "path": "The.Romanoffs.S01E01.PROPER.WEB.H264-MEMENTO/the.romanoffs.s01e01.proper.web.h264-memento.sfv"
+                }
+            ]
+        },
+        {
+            "id": 50,
+            "name": "The.Romanoffs.S01E01.PROPER.WEB.H264-MEMENTO[rartv]-[rarbg.to]",
+            "size_total": 0.705329763,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Romanoffs.S01E01.PROPER.WEB.H264-MEMENTO[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.705329477,
+                    "path": "The.Romanoffs.S01E01.PROPER.WEB.H264-MEMENTO[rarbg]/the.romanoffs.s01e01.proper.web.h264-memento.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 2.56e-7,
+                    "path": "The.Romanoffs.S01E01.PROPER.WEB.H264-MEMENTO[rarbg]/the.romanoffs.s01e01.proper.web.h264-memento.nfo"
+                }
+            ]
+        },
+        {
+            "id": 51,
+            "name": "The.Romanoffs.S01E01.The.Violet.Hour.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG [IPT]",
+            "size_total": 5.968177717,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.00393521,
+                    "path": "The.Romanoffs.S01E01.The.Violet.Hour.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.002238193,
+                    "path": "The.Romanoffs.S01E01.The.Violet.Hour.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.0029903,
+                    "path": "The.Romanoffs.S01E01.The.Violet.Hour.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.004072608,
+                    "path": "The.Romanoffs.S01E01.The.Violet.Hour.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 5.954939805,
+                    "path": "The.Romanoffs.S01E01.The.Violet.Hour.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG/The.Romanoffs.S01E01.The.Violet.Hour.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001601,
+                    "path": "The.Romanoffs.S01E01.The.Violet.Hour.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG/The.Romanoffs.S01E01.The.Violet.Hour.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.nfo"
+                }
+            ]
+        },
+        {
+            "id": 52,
+            "name": "The.Romanoffs.S01E01.The.Violet.Hour.1080p.AMZN.WEBRip.DDP5.1.x264-NTG[rartv]-[rarbg.to]",
+            "size_total": 5.954939835,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Romanoffs.S01E01.The.Violet.Hour.1080p.AMZN.WEBRip.DDP5.1.x264-NTG[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 5.954939805,
+                    "path": "The.Romanoffs.S01E01.The.Violet.Hour.1080p.AMZN.WEBRip.DDP5.1.x264-NTG[rarbg]/The.Romanoffs.S01E01.The.Violet.Hour.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                }
+            ]
+        },
+        {
+            "id": 53,
+            "name": "The.Romanoffs.S01E01.The.Violet.Hour.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG [IPT]",
+            "size_total": 2.020389772,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.001602379,
+                    "path": "The.Romanoffs.S01E01.The.Violet.Hour.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000857776,
+                    "path": "The.Romanoffs.S01E01.The.Violet.Hour.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001213716,
+                    "path": "The.Romanoffs.S01E01.The.Violet.Hour.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001690402,
+                    "path": "The.Romanoffs.S01E01.The.Violet.Hour.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 2.0150239,
+                    "path": "The.Romanoffs.S01E01.The.Violet.Hour.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG/The.Romanoffs.S01E01.The.Violet.Hour.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001599,
+                    "path": "The.Romanoffs.S01E01.The.Violet.Hour.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG/The.Romanoffs.S01E01.The.Violet.Hour.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG.nfo"
+                }
+            ]
+        },
+        {
+            "id": 54,
+            "name": "The.Romanoffs.S01E01.The.Violet.Hour.720p.AMZN.WEBRip.DDP5.1.x264-NTG[rartv]-[rarbg.to]",
+            "size_total": 2.01502393,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Romanoffs.S01E01.The.Violet.Hour.720p.AMZN.WEBRip.DDP5.1.x264-NTG[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 2.0150239,
+                    "path": "The.Romanoffs.S01E01.The.Violet.Hour.720p.AMZN.WEBRip.DDP5.1.x264-NTG[rarbg]/The.Romanoffs.S01E01.The.Violet.Hour.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                }
+            ]
+        },
+        {
+            "id": 55,
+            "name": "The.Romanoffs.S01E01.The.Violet.Hour.AMZN.WEB-DL.AAC2.0.H.264-NTG [IPT]",
+            "size_total": 0.804187157,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000913171,
+                    "path": "The.Romanoffs.S01E01.The.Violet.Hour.AMZN.WEB-DL.AAC2.0.H.264-NTG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000475723,
+                    "path": "The.Romanoffs.S01E01.The.Violet.Hour.AMZN.WEB-DL.AAC2.0.H.264-NTG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000684312,
+                    "path": "The.Romanoffs.S01E01.The.Violet.Hour.AMZN.WEB-DL.AAC2.0.H.264-NTG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000975424,
+                    "path": "The.Romanoffs.S01E01.The.Violet.Hour.AMZN.WEB-DL.AAC2.0.H.264-NTG/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.801136941,
+                    "path": "The.Romanoffs.S01E01.The.Violet.Hour.AMZN.WEB-DL.AAC2.0.H.264-NTG/The.Romanoffs.S01E01.The.Violet.Hour.AMZN.WEB-DL.AAC2.0.H.264-NTG.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001586,
+                    "path": "The.Romanoffs.S01E01.The.Violet.Hour.AMZN.WEB-DL.AAC2.0.H.264-NTG/The.Romanoffs.S01E01.The.Violet.Hour.AMZN.WEB-DL.AAC2.0.H.264-NTG.nfo"
+                }
+            ]
+        },
+        {
+            "id": 56,
+            "name": "The.Romanoffs.S01E01.WEB.h264-CONVOY [IPT]",
+            "size_total": 0.497186491,
+            "files_total": 36,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000002353,
+                    "path": "The.Romanoffs.S01E01.WEB.h264-CONVOY/the.romanoffs.s01e01.web.h264-convoy.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.015,
+                    "path": "The.Romanoffs.S01E01.WEB.h264-CONVOY/the.romanoffs.s01e01.web.h264-convoy.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.015,
+                    "path": "The.Romanoffs.S01E01.WEB.h264-CONVOY/the.romanoffs.s01e01.web.h264-convoy.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.015,
+                    "path": "The.Romanoffs.S01E01.WEB.h264-CONVOY/the.romanoffs.s01e01.web.h264-convoy.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.015,
+                    "path": "The.Romanoffs.S01E01.WEB.h264-CONVOY/the.romanoffs.s01e01.web.h264-convoy.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.015,
+                    "path": "The.Romanoffs.S01E01.WEB.h264-CONVOY/the.romanoffs.s01e01.web.h264-convoy.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.015,
+                    "path": "The.Romanoffs.S01E01.WEB.h264-CONVOY/the.romanoffs.s01e01.web.h264-convoy.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.015,
+                    "path": "The.Romanoffs.S01E01.WEB.h264-CONVOY/the.romanoffs.s01e01.web.h264-convoy.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.015,
+                    "path": "The.Romanoffs.S01E01.WEB.h264-CONVOY/the.romanoffs.s01e01.web.h264-convoy.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.015,
+                    "path": "The.Romanoffs.S01E01.WEB.h264-CONVOY/the.romanoffs.s01e01.web.h264-convoy.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.015,
+                    "path": "The.Romanoffs.S01E01.WEB.h264-CONVOY/the.romanoffs.s01e01.web.h264-convoy.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.015,
+                    "path": "The.Romanoffs.S01E01.WEB.h264-CONVOY/the.romanoffs.s01e01.web.h264-convoy.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.015,
+                    "path": "The.Romanoffs.S01E01.WEB.h264-CONVOY/the.romanoffs.s01e01.web.h264-convoy.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.015,
+                    "path": "The.Romanoffs.S01E01.WEB.h264-CONVOY/the.romanoffs.s01e01.web.h264-convoy.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.015,
+                    "path": "The.Romanoffs.S01E01.WEB.h264-CONVOY/the.romanoffs.s01e01.web.h264-convoy.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.015,
+                    "path": "The.Romanoffs.S01E01.WEB.h264-CONVOY/the.romanoffs.s01e01.web.h264-convoy.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.015,
+                    "path": "The.Romanoffs.S01E01.WEB.h264-CONVOY/the.romanoffs.s01e01.web.h264-convoy.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.015,
+                    "path": "The.Romanoffs.S01E01.WEB.h264-CONVOY/the.romanoffs.s01e01.web.h264-convoy.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.015,
+                    "path": "The.Romanoffs.S01E01.WEB.h264-CONVOY/the.romanoffs.s01e01.web.h264-convoy.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.015,
+                    "path": "The.Romanoffs.S01E01.WEB.h264-CONVOY/the.romanoffs.s01e01.web.h264-convoy.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.015,
+                    "path": "The.Romanoffs.S01E01.WEB.h264-CONVOY/the.romanoffs.s01e01.web.h264-convoy.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.015,
+                    "path": "The.Romanoffs.S01E01.WEB.h264-CONVOY/the.romanoffs.s01e01.web.h264-convoy.r20"
+                },
+                {
+                    "number": 23,
+                    "size": 0.015,
+                    "path": "The.Romanoffs.S01E01.WEB.h264-CONVOY/the.romanoffs.s01e01.web.h264-convoy.r21"
+                },
+                {
+                    "number": 24,
+                    "size": 0.015,
+                    "path": "The.Romanoffs.S01E01.WEB.h264-CONVOY/the.romanoffs.s01e01.web.h264-convoy.r22"
+                },
+                {
+                    "number": 25,
+                    "size": 0.015,
+                    "path": "The.Romanoffs.S01E01.WEB.h264-CONVOY/the.romanoffs.s01e01.web.h264-convoy.r23"
+                },
+                {
+                    "number": 26,
+                    "size": 0.015,
+                    "path": "The.Romanoffs.S01E01.WEB.h264-CONVOY/the.romanoffs.s01e01.web.h264-convoy.r24"
+                },
+                {
+                    "number": 27,
+                    "size": 0.015,
+                    "path": "The.Romanoffs.S01E01.WEB.h264-CONVOY/the.romanoffs.s01e01.web.h264-convoy.r25"
+                },
+                {
+                    "number": 28,
+                    "size": 0.015,
+                    "path": "The.Romanoffs.S01E01.WEB.h264-CONVOY/the.romanoffs.s01e01.web.h264-convoy.r26"
+                },
+                {
+                    "number": 29,
+                    "size": 0.015,
+                    "path": "The.Romanoffs.S01E01.WEB.h264-CONVOY/the.romanoffs.s01e01.web.h264-convoy.r27"
+                },
+                {
+                    "number": 30,
+                    "size": 0.015,
+                    "path": "The.Romanoffs.S01E01.WEB.h264-CONVOY/the.romanoffs.s01e01.web.h264-convoy.r28"
+                },
+                {
+                    "number": 31,
+                    "size": 0.015,
+                    "path": "The.Romanoffs.S01E01.WEB.h264-CONVOY/the.romanoffs.s01e01.web.h264-convoy.r29"
+                },
+                {
+                    "number": 32,
+                    "size": 0.015,
+                    "path": "The.Romanoffs.S01E01.WEB.h264-CONVOY/the.romanoffs.s01e01.web.h264-convoy.r30"
+                },
+                {
+                    "number": 33,
+                    "size": 0.015,
+                    "path": "The.Romanoffs.S01E01.WEB.h264-CONVOY/the.romanoffs.s01e01.web.h264-convoy.r31"
+                },
+                {
+                    "number": 34,
+                    "size": 0.002182404,
+                    "path": "The.Romanoffs.S01E01.WEB.h264-CONVOY/the.romanoffs.s01e01.web.h264-convoy.r32"
+                },
+                {
+                    "number": 35,
+                    "size": 0.015,
+                    "path": "The.Romanoffs.S01E01.WEB.h264-CONVOY/the.romanoffs.s01e01.web.h264-convoy.rar"
+                },
+                {
+                    "number": 36,
+                    "size": 0.000001734,
+                    "path": "The.Romanoffs.S01E01.WEB.h264-CONVOY/the.romanoffs.s01e01.web.h264-convoy.sfv"
+                }
+            ]
+        },
+        {
+            "id": 57,
+            "name": "the.romanoffs.s01e01.web.h264-convoy[eztv].mkv",
+            "size_total": 0.497178426,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.497178426,
+                    "path": "the.romanoffs.s01e01.web.h264-convoy[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 58,
+            "name": "The.Romanoffs.S01E01.WEB.h264-CONVOY[rartv]-[rarbg.to]",
+            "size_total": 0.497180809,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Romanoffs.S01E01.WEB.h264-CONVOY[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.497178426,
+                    "path": "The.Romanoffs.S01E01.WEB.h264-CONVOY[rarbg]/the.romanoffs.s01e01.web.h264-convoy.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000002353,
+                    "path": "The.Romanoffs.S01E01.WEB.h264-CONVOY[rarbg]/the.romanoffs.s01e01.web.h264-convoy.nfo"
+                }
+            ]
+        },
+        {
+            "id": 59,
+            "name": "The.Romanoffs.S01E01.WEBRip.x264-ION10-[rarbg.to]",
+            "size_total": 0.857088795,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Romanoffs.S01E01.WEBRip.x264-ION10/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000037944,
+                    "path": "The.Romanoffs.S01E01.WEBRip.x264-ION10/Subs/2_Eng.srt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.857050821,
+                    "path": "The.Romanoffs.S01E01.WEBRip.x264-ION10/The.Romanoffs.S01E01.WEBRip.x264-ION10.mp4"
+                }
+            ]
+        },
+        {
+            "id": 60,
+            "name": "The.Romanoffs.S01E01.XviD-AFG [IPT]",
+            "size_total": 0.789248141,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000195458,
+                    "path": "The.Romanoffs.S01E01.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000223983,
+                    "path": "The.Romanoffs.S01E01.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000250403,
+                    "path": "The.Romanoffs.S01E01.XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000285505,
+                    "path": "The.Romanoffs.S01E01.XviD-AFG/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.78829163,
+                    "path": "The.Romanoffs.S01E01.XviD-AFG/The.Romanoffs.S01E01.XviD-AFG.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001162,
+                    "path": "The.Romanoffs.S01E01.XviD-AFG/The.Romanoffs.S01E01.XviD-AFG.nfo"
+                }
+            ]
+        },
+        {
+            "id": 61,
+            "name": "The.Romanoffs.S01E01.XviD-AFG[eztv].avi",
+            "size_total": 0.78829163,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.78829163,
+                    "path": "The.Romanoffs.S01E01.XviD-AFG[eztv].avi"
+                }
+            ]
+        },
+        {
+            "id": 62,
+            "name": "The.Romanoffs.S01E02.1080p.WEB.h264-CONVOY [IPT]",
+            "size_total": 6.314365174,
+            "files_total": 66,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000002362,
+                    "path": "The.Romanoffs.S01E02.1080p.WEB.h264-CONVOY/the.romanoffs.s01e02.1080p.web.h264-convoy.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E02.1080p.WEB.h264-CONVOY/the.romanoffs.s01e02.1080p.web.h264-convoy.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E02.1080p.WEB.h264-CONVOY/the.romanoffs.s01e02.1080p.web.h264-convoy.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E02.1080p.WEB.h264-CONVOY/the.romanoffs.s01e02.1080p.web.h264-convoy.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E02.1080p.WEB.h264-CONVOY/the.romanoffs.s01e02.1080p.web.h264-convoy.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E02.1080p.WEB.h264-CONVOY/the.romanoffs.s01e02.1080p.web.h264-convoy.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E02.1080p.WEB.h264-CONVOY/the.romanoffs.s01e02.1080p.web.h264-convoy.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E02.1080p.WEB.h264-CONVOY/the.romanoffs.s01e02.1080p.web.h264-convoy.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E02.1080p.WEB.h264-CONVOY/the.romanoffs.s01e02.1080p.web.h264-convoy.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E02.1080p.WEB.h264-CONVOY/the.romanoffs.s01e02.1080p.web.h264-convoy.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E02.1080p.WEB.h264-CONVOY/the.romanoffs.s01e02.1080p.web.h264-convoy.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E02.1080p.WEB.h264-CONVOY/the.romanoffs.s01e02.1080p.web.h264-convoy.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E02.1080p.WEB.h264-CONVOY/the.romanoffs.s01e02.1080p.web.h264-convoy.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E02.1080p.WEB.h264-CONVOY/the.romanoffs.s01e02.1080p.web.h264-convoy.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E02.1080p.WEB.h264-CONVOY/the.romanoffs.s01e02.1080p.web.h264-convoy.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E02.1080p.WEB.h264-CONVOY/the.romanoffs.s01e02.1080p.web.h264-convoy.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E02.1080p.WEB.h264-CONVOY/the.romanoffs.s01e02.1080p.web.h264-convoy.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E02.1080p.WEB.h264-CONVOY/the.romanoffs.s01e02.1080p.web.h264-convoy.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E02.1080p.WEB.h264-CONVOY/the.romanoffs.s01e02.1080p.web.h264-convoy.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E02.1080p.WEB.h264-CONVOY/the.romanoffs.s01e02.1080p.web.h264-convoy.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E02.1080p.WEB.h264-CONVOY/the.romanoffs.s01e02.1080p.web.h264-convoy.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E02.1080p.WEB.h264-CONVOY/the.romanoffs.s01e02.1080p.web.h264-convoy.r20"
+                },
+                {
+                    "number": 23,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E02.1080p.WEB.h264-CONVOY/the.romanoffs.s01e02.1080p.web.h264-convoy.r21"
+                },
+                {
+                    "number": 24,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E02.1080p.WEB.h264-CONVOY/the.romanoffs.s01e02.1080p.web.h264-convoy.r22"
+                },
+                {
+                    "number": 25,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E02.1080p.WEB.h264-CONVOY/the.romanoffs.s01e02.1080p.web.h264-convoy.r23"
+                },
+                {
+                    "number": 26,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E02.1080p.WEB.h264-CONVOY/the.romanoffs.s01e02.1080p.web.h264-convoy.r24"
+                },
+                {
+                    "number": 27,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E02.1080p.WEB.h264-CONVOY/the.romanoffs.s01e02.1080p.web.h264-convoy.r25"
+                },
+                {
+                    "number": 28,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E02.1080p.WEB.h264-CONVOY/the.romanoffs.s01e02.1080p.web.h264-convoy.r26"
+                },
+                {
+                    "number": 29,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E02.1080p.WEB.h264-CONVOY/the.romanoffs.s01e02.1080p.web.h264-convoy.r27"
+                },
+                {
+                    "number": 30,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E02.1080p.WEB.h264-CONVOY/the.romanoffs.s01e02.1080p.web.h264-convoy.r28"
+                },
+                {
+                    "number": 31,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E02.1080p.WEB.h264-CONVOY/the.romanoffs.s01e02.1080p.web.h264-convoy.r29"
+                },
+                {
+                    "number": 32,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E02.1080p.WEB.h264-CONVOY/the.romanoffs.s01e02.1080p.web.h264-convoy.r30"
+                },
+                {
+                    "number": 33,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E02.1080p.WEB.h264-CONVOY/the.romanoffs.s01e02.1080p.web.h264-convoy.r31"
+                },
+                {
+                    "number": 34,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E02.1080p.WEB.h264-CONVOY/the.romanoffs.s01e02.1080p.web.h264-convoy.r32"
+                },
+                {
+                    "number": 35,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E02.1080p.WEB.h264-CONVOY/the.romanoffs.s01e02.1080p.web.h264-convoy.r33"
+                },
+                {
+                    "number": 36,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E02.1080p.WEB.h264-CONVOY/the.romanoffs.s01e02.1080p.web.h264-convoy.r34"
+                },
+                {
+                    "number": 37,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E02.1080p.WEB.h264-CONVOY/the.romanoffs.s01e02.1080p.web.h264-convoy.r35"
+                },
+                {
+                    "number": 38,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E02.1080p.WEB.h264-CONVOY/the.romanoffs.s01e02.1080p.web.h264-convoy.r36"
+                },
+                {
+                    "number": 39,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E02.1080p.WEB.h264-CONVOY/the.romanoffs.s01e02.1080p.web.h264-convoy.r37"
+                },
+                {
+                    "number": 40,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E02.1080p.WEB.h264-CONVOY/the.romanoffs.s01e02.1080p.web.h264-convoy.r38"
+                },
+                {
+                    "number": 41,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E02.1080p.WEB.h264-CONVOY/the.romanoffs.s01e02.1080p.web.h264-convoy.r39"
+                },
+                {
+                    "number": 42,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E02.1080p.WEB.h264-CONVOY/the.romanoffs.s01e02.1080p.web.h264-convoy.r40"
+                },
+                {
+                    "number": 43,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E02.1080p.WEB.h264-CONVOY/the.romanoffs.s01e02.1080p.web.h264-convoy.r41"
+                },
+                {
+                    "number": 44,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E02.1080p.WEB.h264-CONVOY/the.romanoffs.s01e02.1080p.web.h264-convoy.r42"
+                },
+                {
+                    "number": 45,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E02.1080p.WEB.h264-CONVOY/the.romanoffs.s01e02.1080p.web.h264-convoy.r43"
+                },
+                {
+                    "number": 46,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E02.1080p.WEB.h264-CONVOY/the.romanoffs.s01e02.1080p.web.h264-convoy.r44"
+                },
+                {
+                    "number": 47,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E02.1080p.WEB.h264-CONVOY/the.romanoffs.s01e02.1080p.web.h264-convoy.r45"
+                },
+                {
+                    "number": 48,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E02.1080p.WEB.h264-CONVOY/the.romanoffs.s01e02.1080p.web.h264-convoy.r46"
+                },
+                {
+                    "number": 49,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E02.1080p.WEB.h264-CONVOY/the.romanoffs.s01e02.1080p.web.h264-convoy.r47"
+                },
+                {
+                    "number": 50,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E02.1080p.WEB.h264-CONVOY/the.romanoffs.s01e02.1080p.web.h264-convoy.r48"
+                },
+                {
+                    "number": 51,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E02.1080p.WEB.h264-CONVOY/the.romanoffs.s01e02.1080p.web.h264-convoy.r49"
+                },
+                {
+                    "number": 52,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E02.1080p.WEB.h264-CONVOY/the.romanoffs.s01e02.1080p.web.h264-convoy.r50"
+                },
+                {
+                    "number": 53,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E02.1080p.WEB.h264-CONVOY/the.romanoffs.s01e02.1080p.web.h264-convoy.r51"
+                },
+                {
+                    "number": 54,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E02.1080p.WEB.h264-CONVOY/the.romanoffs.s01e02.1080p.web.h264-convoy.r52"
+                },
+                {
+                    "number": 55,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E02.1080p.WEB.h264-CONVOY/the.romanoffs.s01e02.1080p.web.h264-convoy.r53"
+                },
+                {
+                    "number": 56,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E02.1080p.WEB.h264-CONVOY/the.romanoffs.s01e02.1080p.web.h264-convoy.r54"
+                },
+                {
+                    "number": 57,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E02.1080p.WEB.h264-CONVOY/the.romanoffs.s01e02.1080p.web.h264-convoy.r55"
+                },
+                {
+                    "number": 58,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E02.1080p.WEB.h264-CONVOY/the.romanoffs.s01e02.1080p.web.h264-convoy.r56"
+                },
+                {
+                    "number": 59,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E02.1080p.WEB.h264-CONVOY/the.romanoffs.s01e02.1080p.web.h264-convoy.r57"
+                },
+                {
+                    "number": 60,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E02.1080p.WEB.h264-CONVOY/the.romanoffs.s01e02.1080p.web.h264-convoy.r58"
+                },
+                {
+                    "number": 61,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E02.1080p.WEB.h264-CONVOY/the.romanoffs.s01e02.1080p.web.h264-convoy.r59"
+                },
+                {
+                    "number": 62,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E02.1080p.WEB.h264-CONVOY/the.romanoffs.s01e02.1080p.web.h264-convoy.r60"
+                },
+                {
+                    "number": 63,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E02.1080p.WEB.h264-CONVOY/the.romanoffs.s01e02.1080p.web.h264-convoy.r61"
+                },
+                {
+                    "number": 64,
+                    "size": 0.014359164,
+                    "path": "The.Romanoffs.S01E02.1080p.WEB.h264-CONVOY/the.romanoffs.s01e02.1080p.web.h264-convoy.r62"
+                },
+                {
+                    "number": 65,
+                    "size": 0.1,
+                    "path": "The.Romanoffs.S01E02.1080p.WEB.h264-CONVOY/the.romanoffs.s01e02.1080p.web.h264-convoy.rar"
+                },
+                {
+                    "number": 66,
+                    "size": 0.000003648,
+                    "path": "The.Romanoffs.S01E02.1080p.WEB.h264-CONVOY/the.romanoffs.s01e02.1080p.web.h264-convoy.sfv"
+                }
+            ]
+        },
+        {
+            "id": 63,
+            "name": "The.Romanoffs.S01E02.1080p.WEB.h264-CONVOY[rartv]-[rarbg.to]",
+            "size_total": 6.314353172,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Romanoffs.S01E02.1080p.WEB.h264-CONVOY[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 6.31435078,
+                    "path": "The.Romanoffs.S01E02.1080p.WEB.h264-CONVOY[rarbg]/the.romanoffs.s01e02.1080p.web.h264-convoy.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000002362,
+                    "path": "The.Romanoffs.S01E02.1080p.WEB.h264-CONVOY[rarbg]/the.romanoffs.s01e02.1080p.web.h264-convoy.nfo"
+                }
+            ]
+        },
+        {
+            "id": 64,
+            "name": "The.Romanoffs.S01E02.480p.x264-mSD [IPT]",
+            "size_total": 0.337891453,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.00036847,
+                    "path": "The.Romanoffs.S01E02.480p.x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000382786,
+                    "path": "The.Romanoffs.S01E02.480p.x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000093982,
+                    "path": "The.Romanoffs.S01E02.480p.x264-mSD/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000108694,
+                    "path": "The.Romanoffs.S01E02.480p.x264-mSD/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.336936342,
+                    "path": "The.Romanoffs.S01E02.480p.x264-mSD/The.Romanoffs.S01E02.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001179,
+                    "path": "The.Romanoffs.S01E02.480p.x264-mSD/The.Romanoffs.S01E02.480p.x264-mSD.nfo"
+                }
+            ]
+        },
+        {
+            "id": 65,
+            "name": "The.Romanoffs.S01E02.480p.x264-mSD[eztv].mkv",
+            "size_total": 0.336936342,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.336936342,
+                    "path": "The.Romanoffs.S01E02.480p.x264-mSD[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 66,
+            "name": "The.Romanoffs.S01E02.720p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.722212609,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.001514356,
+                    "path": "The.Romanoffs.S01E02.720p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.00165735,
+                    "path": "The.Romanoffs.S01E02.720p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00130065,
+                    "path": "The.Romanoffs.S01E02.720p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000903435,
+                    "path": "The.Romanoffs.S01E02.720p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.716835631,
+                    "path": "The.Romanoffs.S01E02.720p.HEVC.x265-MeGusta/The.Romanoffs.S01E02.720p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001187,
+                    "path": "The.Romanoffs.S01E02.720p.HEVC.x265-MeGusta/The.Romanoffs.S01E02.720p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 67,
+            "name": "The.Romanoffs.S01E02.720p.WEB.h264-CONVOY [IPT]",
+            "size_total": 3.429264836,
+            "files_total": 71,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E02.720p.WEB.h264-CONVOY/the.romanoffs.s01e02.720p.web.h264-convoy.r00"
+                },
+                {
+                    "number": 2,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E02.720p.WEB.h264-CONVOY/the.romanoffs.s01e02.720p.web.h264-convoy.r01"
+                },
+                {
+                    "number": 3,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E02.720p.WEB.h264-CONVOY/the.romanoffs.s01e02.720p.web.h264-convoy.r02"
+                },
+                {
+                    "number": 4,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E02.720p.WEB.h264-CONVOY/the.romanoffs.s01e02.720p.web.h264-convoy.r03"
+                },
+                {
+                    "number": 5,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E02.720p.WEB.h264-CONVOY/the.romanoffs.s01e02.720p.web.h264-convoy.r04"
+                },
+                {
+                    "number": 6,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E02.720p.WEB.h264-CONVOY/the.romanoffs.s01e02.720p.web.h264-convoy.r05"
+                },
+                {
+                    "number": 7,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E02.720p.WEB.h264-CONVOY/the.romanoffs.s01e02.720p.web.h264-convoy.r06"
+                },
+                {
+                    "number": 8,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E02.720p.WEB.h264-CONVOY/the.romanoffs.s01e02.720p.web.h264-convoy.r07"
+                },
+                {
+                    "number": 9,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E02.720p.WEB.h264-CONVOY/the.romanoffs.s01e02.720p.web.h264-convoy.r08"
+                },
+                {
+                    "number": 10,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E02.720p.WEB.h264-CONVOY/the.romanoffs.s01e02.720p.web.h264-convoy.r09"
+                },
+                {
+                    "number": 11,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E02.720p.WEB.h264-CONVOY/the.romanoffs.s01e02.720p.web.h264-convoy.r10"
+                },
+                {
+                    "number": 12,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E02.720p.WEB.h264-CONVOY/the.romanoffs.s01e02.720p.web.h264-convoy.r11"
+                },
+                {
+                    "number": 13,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E02.720p.WEB.h264-CONVOY/the.romanoffs.s01e02.720p.web.h264-convoy.r12"
+                },
+                {
+                    "number": 14,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E02.720p.WEB.h264-CONVOY/the.romanoffs.s01e02.720p.web.h264-convoy.r13"
+                },
+                {
+                    "number": 15,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E02.720p.WEB.h264-CONVOY/the.romanoffs.s01e02.720p.web.h264-convoy.r14"
+                },
+                {
+                    "number": 16,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E02.720p.WEB.h264-CONVOY/the.romanoffs.s01e02.720p.web.h264-convoy.r15"
+                },
+                {
+                    "number": 17,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E02.720p.WEB.h264-CONVOY/the.romanoffs.s01e02.720p.web.h264-convoy.r16"
+                },
+                {
+                    "number": 18,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E02.720p.WEB.h264-CONVOY/the.romanoffs.s01e02.720p.web.h264-convoy.r17"
+                },
+                {
+                    "number": 19,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E02.720p.WEB.h264-CONVOY/the.romanoffs.s01e02.720p.web.h264-convoy.r18"
+                },
+                {
+                    "number": 20,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E02.720p.WEB.h264-CONVOY/the.romanoffs.s01e02.720p.web.h264-convoy.r19"
+                },
+                {
+                    "number": 21,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E02.720p.WEB.h264-CONVOY/the.romanoffs.s01e02.720p.web.h264-convoy.r20"
+                },
+                {
+                    "number": 22,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E02.720p.WEB.h264-CONVOY/the.romanoffs.s01e02.720p.web.h264-convoy.r21"
+                },
+                {
+                    "number": 23,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E02.720p.WEB.h264-CONVOY/the.romanoffs.s01e02.720p.web.h264-convoy.r22"
+                },
+                {
+                    "number": 24,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E02.720p.WEB.h264-CONVOY/the.romanoffs.s01e02.720p.web.h264-convoy.r23"
+                },
+                {
+                    "number": 25,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E02.720p.WEB.h264-CONVOY/the.romanoffs.s01e02.720p.web.h264-convoy.r24"
+                },
+                {
+                    "number": 26,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E02.720p.WEB.h264-CONVOY/the.romanoffs.s01e02.720p.web.h264-convoy.r25"
+                },
+                {
+                    "number": 27,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E02.720p.WEB.h264-CONVOY/the.romanoffs.s01e02.720p.web.h264-convoy.r26"
+                },
+                {
+                    "number": 28,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E02.720p.WEB.h264-CONVOY/the.romanoffs.s01e02.720p.web.h264-convoy.r27"
+                },
+                {
+                    "number": 29,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E02.720p.WEB.h264-CONVOY/the.romanoffs.s01e02.720p.web.h264-convoy.r28"
+                },
+                {
+                    "number": 30,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E02.720p.WEB.h264-CONVOY/the.romanoffs.s01e02.720p.web.h264-convoy.r29"
+                },
+                {
+                    "number": 31,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E02.720p.WEB.h264-CONVOY/the.romanoffs.s01e02.720p.web.h264-convoy.r30"
+                },
+                {
+                    "number": 32,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E02.720p.WEB.h264-CONVOY/the.romanoffs.s01e02.720p.web.h264-convoy.r31"
+                },
+                {
+                    "number": 33,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E02.720p.WEB.h264-CONVOY/the.romanoffs.s01e02.720p.web.h264-convoy.r32"
+                },
+                {
+                    "number": 34,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E02.720p.WEB.h264-CONVOY/the.romanoffs.s01e02.720p.web.h264-convoy.r33"
+                },
+                {
+                    "number": 35,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E02.720p.WEB.h264-CONVOY/the.romanoffs.s01e02.720p.web.h264-convoy.r34"
+                },
+                {
+                    "number": 36,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E02.720p.WEB.h264-CONVOY/the.romanoffs.s01e02.720p.web.h264-convoy.r35"
+                },
+                {
+                    "number": 37,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E02.720p.WEB.h264-CONVOY/the.romanoffs.s01e02.720p.web.h264-convoy.r36"
+                },
+                {
+                    "number": 38,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E02.720p.WEB.h264-CONVOY/the.romanoffs.s01e02.720p.web.h264-convoy.r37"
+                },
+                {
+                    "number": 39,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E02.720p.WEB.h264-CONVOY/the.romanoffs.s01e02.720p.web.h264-convoy.r38"
+                },
+                {
+                    "number": 40,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E02.720p.WEB.h264-CONVOY/the.romanoffs.s01e02.720p.web.h264-convoy.r39"
+                },
+                {
+                    "number": 41,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E02.720p.WEB.h264-CONVOY/the.romanoffs.s01e02.720p.web.h264-convoy.r40"
+                },
+                {
+                    "number": 42,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E02.720p.WEB.h264-CONVOY/the.romanoffs.s01e02.720p.web.h264-convoy.r41"
+                },
+                {
+                    "number": 43,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E02.720p.WEB.h264-CONVOY/the.romanoffs.s01e02.720p.web.h264-convoy.r42"
+                },
+                {
+                    "number": 44,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E02.720p.WEB.h264-CONVOY/the.romanoffs.s01e02.720p.web.h264-convoy.r43"
+                },
+                {
+                    "number": 45,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E02.720p.WEB.h264-CONVOY/the.romanoffs.s01e02.720p.web.h264-convoy.r44"
+                },
+                {
+                    "number": 46,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E02.720p.WEB.h264-CONVOY/the.romanoffs.s01e02.720p.web.h264-convoy.r45"
+                },
+                {
+                    "number": 47,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E02.720p.WEB.h264-CONVOY/the.romanoffs.s01e02.720p.web.h264-convoy.r46"
+                },
+                {
+                    "number": 48,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E02.720p.WEB.h264-CONVOY/the.romanoffs.s01e02.720p.web.h264-convoy.r47"
+                },
+                {
+                    "number": 49,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E02.720p.WEB.h264-CONVOY/the.romanoffs.s01e02.720p.web.h264-convoy.r48"
+                },
+                {
+                    "number": 50,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E02.720p.WEB.h264-CONVOY/the.romanoffs.s01e02.720p.web.h264-convoy.r49"
+                },
+                {
+                    "number": 51,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E02.720p.WEB.h264-CONVOY/the.romanoffs.s01e02.720p.web.h264-convoy.r50"
+                },
+                {
+                    "number": 52,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E02.720p.WEB.h264-CONVOY/the.romanoffs.s01e02.720p.web.h264-convoy.r51"
+                },
+                {
+                    "number": 53,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E02.720p.WEB.h264-CONVOY/the.romanoffs.s01e02.720p.web.h264-convoy.r52"
+                },
+                {
+                    "number": 54,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E02.720p.WEB.h264-CONVOY/the.romanoffs.s01e02.720p.web.h264-convoy.r53"
+                },
+                {
+                    "number": 55,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E02.720p.WEB.h264-CONVOY/the.romanoffs.s01e02.720p.web.h264-convoy.r54"
+                },
+                {
+                    "number": 56,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E02.720p.WEB.h264-CONVOY/the.romanoffs.s01e02.720p.web.h264-convoy.r55"
+                },
+                {
+                    "number": 57,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E02.720p.WEB.h264-CONVOY/the.romanoffs.s01e02.720p.web.h264-convoy.r56"
+                },
+                {
+                    "number": 58,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E02.720p.WEB.h264-CONVOY/the.romanoffs.s01e02.720p.web.h264-convoy.r57"
+                },
+                {
+                    "number": 59,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E02.720p.WEB.h264-CONVOY/the.romanoffs.s01e02.720p.web.h264-convoy.r58"
+                },
+                {
+                    "number": 60,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E02.720p.WEB.h264-CONVOY/the.romanoffs.s01e02.720p.web.h264-convoy.r59"
+                },
+                {
+                    "number": 61,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E02.720p.WEB.h264-CONVOY/the.romanoffs.s01e02.720p.web.h264-convoy.r60"
+                },
+                {
+                    "number": 62,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E02.720p.WEB.h264-CONVOY/the.romanoffs.s01e02.720p.web.h264-convoy.r61"
+                },
+                {
+                    "number": 63,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E02.720p.WEB.h264-CONVOY/the.romanoffs.s01e02.720p.web.h264-convoy.r62"
+                },
+                {
+                    "number": 64,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E02.720p.WEB.h264-CONVOY/the.romanoffs.s01e02.720p.web.h264-convoy.r63"
+                },
+                {
+                    "number": 65,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E02.720p.WEB.h264-CONVOY/the.romanoffs.s01e02.720p.web.h264-convoy.r64"
+                },
+                {
+                    "number": 66,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E02.720p.WEB.h264-CONVOY/the.romanoffs.s01e02.720p.web.h264-convoy.r65"
+                },
+                {
+                    "number": 67,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E02.720p.WEB.h264-CONVOY/the.romanoffs.s01e02.720p.web.h264-convoy.r66"
+                },
+                {
+                    "number": 68,
+                    "size": 0.029259399,
+                    "path": "The.Romanoffs.S01E02.720p.WEB.h264-CONVOY/the.romanoffs.s01e02.720p.web.h264-convoy.r67"
+                },
+                {
+                    "number": 69,
+                    "size": 0.05,
+                    "path": "The.Romanoffs.S01E02.720p.WEB.h264-CONVOY/the.romanoffs.s01e02.720p.web.h264-convoy.rar"
+                },
+                {
+                    "number": 70,
+                    "size": 0.000003864,
+                    "path": "The.Romanoffs.S01E02.720p.WEB.h264-CONVOY/the.romanoffs.s01e02.720p.web.h264-convoy.sfv"
+                },
+                {
+                    "number": 71,
+                    "size": 0.000001573,
+                    "path": "The.Romanoffs.S01E02.720p.WEB.h264-CONVOY/tvmaze.nfo"
+                }
+            ]
+        },
+        {
+            "id": 68,
+            "name": "The.Romanoffs.S01E02.720p.WEB.h264-CONVOY[rartv]-[rarbg.to]",
+            "size_total": 3.429252819,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Romanoffs.S01E02.720p.WEB.h264-CONVOY[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 3.429250429,
+                    "path": "The.Romanoffs.S01E02.720p.WEB.h264-CONVOY[rarbg]/the.romanoffs.s01e02.720p.web.h264-convoy.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00000236,
+                    "path": "The.Romanoffs.S01E02.720p.WEB.h264-CONVOY[rarbg]/the.romanoffs.s01e02.720p.web.h264-convoy.nfo"
+                }
+            ]
+        },
+        {
+            "id": 69,
+            "name": "The.Romanoffs.S01E02.AAC.MP4-Mobile [IPT]",
+            "size_total": 0.366764527,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000418842,
+                    "path": "The.Romanoffs.S01E02.AAC.MP4-Mobile/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000436921,
+                    "path": "The.Romanoffs.S01E02.AAC.MP4-Mobile/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000120368,
+                    "path": "The.Romanoffs.S01E02.AAC.MP4-Mobile/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000129225,
+                    "path": "The.Romanoffs.S01E02.AAC.MP4-Mobile/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.365657888,
+                    "path": "The.Romanoffs.S01E02.AAC.MP4-Mobile/The.Romanoffs.S01E02.AAC.MP4-Mobile.mp4"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001283,
+                    "path": "The.Romanoffs.S01E02.AAC.MP4-Mobile/The.Romanoffs.S01E02.AAC.MP4-Mobile.nfo"
+                }
+            ]
+        },
+        {
+            "id": 70,
+            "name": "The.Romanoffs.S01E02.The.Royal.We.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG [IPT]",
+            "size_total": 6.872035282,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.003890913,
+                    "path": "The.Romanoffs.S01E02.The.Royal.We.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.004465521,
+                    "path": "The.Romanoffs.S01E02.The.Royal.We.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.003440596,
+                    "path": "The.Romanoffs.S01E02.The.Royal.We.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.002994672,
+                    "path": "The.Romanoffs.S01E02.The.Royal.We.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 6.857241982,
+                    "path": "The.Romanoffs.S01E02.The.Royal.We.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG/The.Romanoffs.S01E02.The.Royal.We.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001598,
+                    "path": "The.Romanoffs.S01E02.The.Royal.We.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG/The.Romanoffs.S01E02.The.Royal.We.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.nfo"
+                }
+            ]
+        },
+        {
+            "id": 71,
+            "name": "The.Romanoffs.S01E02.The.Royal.We.1080p.AMZN.WEBRip.DDP5.1.x264-NTG[rartv]-[rarbg.to]",
+            "size_total": 6.857242012,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Romanoffs.S01E02.The.Royal.We.1080p.AMZN.WEBRip.DDP5.1.x264-NTG[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 6.857241982,
+                    "path": "The.Romanoffs.S01E02.The.Royal.We.1080p.AMZN.WEBRip.DDP5.1.x264-NTG[rarbg]/The.Romanoffs.S01E02.The.Royal.We.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                }
+            ]
+        },
+        {
+            "id": 72,
+            "name": "The.Romanoffs.S01E02.The.Royal.We.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG [IPT]",
+            "size_total": 2.382264706,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.001582964,
+                    "path": "The.Romanoffs.S01E02.The.Royal.We.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.001807261,
+                    "path": "The.Romanoffs.S01E02.The.Royal.We.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00140116,
+                    "path": "The.Romanoffs.S01E02.The.Royal.We.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001288157,
+                    "path": "The.Romanoffs.S01E02.The.Royal.We.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 2.376183569,
+                    "path": "The.Romanoffs.S01E02.The.Royal.We.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG/The.Romanoffs.S01E02.The.Royal.We.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001595,
+                    "path": "The.Romanoffs.S01E02.The.Royal.We.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG/The.Romanoffs.S01E02.The.Royal.We.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG.nfo"
+                }
+            ]
+        },
+        {
+            "id": 73,
+            "name": "The.Romanoffs.S01E02.The.Royal.We.720p.AMZN.WEBRip.DDP5.1.x264-NTG[rartv]-[rarbg.to]",
+            "size_total": 2.376183599,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Romanoffs.S01E02.The.Royal.We.720p.AMZN.WEBRip.DDP5.1.x264-NTG[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 2.376183569,
+                    "path": "The.Romanoffs.S01E02.The.Royal.We.720p.AMZN.WEBRip.DDP5.1.x264-NTG[rarbg]/The.Romanoffs.S01E02.The.Royal.We.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv"
+                }
+            ]
+        },
+        {
+            "id": 74,
+            "name": "The.Romanoffs.S01E02.The.Royal.We.AMZN.WEB-DL.AAC2.0.H.264-NTG [IPT]",
+            "size_total": 1.000579813,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000903441,
+                    "path": "The.Romanoffs.S01E02.The.Royal.We.AMZN.WEB-DL.AAC2.0.H.264-NTG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.001031055,
+                    "path": "The.Romanoffs.S01E02.The.Royal.We.AMZN.WEB-DL.AAC2.0.H.264-NTG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000812128,
+                    "path": "The.Romanoffs.S01E02.The.Royal.We.AMZN.WEB-DL.AAC2.0.H.264-NTG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000704036,
+                    "path": "The.Romanoffs.S01E02.The.Royal.We.AMZN.WEB-DL.AAC2.0.H.264-NTG/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.99712757,
+                    "path": "The.Romanoffs.S01E02.The.Royal.We.AMZN.WEB-DL.AAC2.0.H.264-NTG/The.Romanoffs.S01E02.The.Royal.We.AMZN.WEB-DL.AAC2.0.H.264-NTG.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001583,
+                    "path": "The.Romanoffs.S01E02.The.Royal.We.AMZN.WEB-DL.AAC2.0.H.264-NTG/The.Romanoffs.S01E02.The.Royal.We.AMZN.WEB-DL.AAC2.0.H.264-NTG.nfo"
+                }
+            ]
+        },
+        {
+            "id": 75,
+            "name": "The.Romanoffs.S01E02.WEB.h264-CONVOY [IPT]",
+            "size_total": 0.608975119,
+            "files_total": 45,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.006612879,
+                    "path": "The.Romanoffs.S01E02.WEB.h264-CONVOY/Sample/the.romanoffs.s01e02.web.h264-convoy.sample.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000002353,
+                    "path": "The.Romanoffs.S01E02.WEB.h264-CONVOY/the.romanoffs.s01e02.web.h264-convoy.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.015,
+                    "path": "The.Romanoffs.S01E02.WEB.h264-CONVOY/the.romanoffs.s01e02.web.h264-convoy.r00"
+                },
+                {
+                    "number": 4,
+                    "size": 0.015,
+                    "path": "The.Romanoffs.S01E02.WEB.h264-CONVOY/the.romanoffs.s01e02.web.h264-convoy.r01"
+                },
+                {
+                    "number": 5,
+                    "size": 0.015,
+                    "path": "The.Romanoffs.S01E02.WEB.h264-CONVOY/the.romanoffs.s01e02.web.h264-convoy.r02"
+                },
+                {
+                    "number": 6,
+                    "size": 0.015,
+                    "path": "The.Romanoffs.S01E02.WEB.h264-CONVOY/the.romanoffs.s01e02.web.h264-convoy.r03"
+                },
+                {
+                    "number": 7,
+                    "size": 0.015,
+                    "path": "The.Romanoffs.S01E02.WEB.h264-CONVOY/the.romanoffs.s01e02.web.h264-convoy.r04"
+                },
+                {
+                    "number": 8,
+                    "size": 0.015,
+                    "path": "The.Romanoffs.S01E02.WEB.h264-CONVOY/the.romanoffs.s01e02.web.h264-convoy.r05"
+                },
+                {
+                    "number": 9,
+                    "size": 0.015,
+                    "path": "The.Romanoffs.S01E02.WEB.h264-CONVOY/the.romanoffs.s01e02.web.h264-convoy.r06"
+                },
+                {
+                    "number": 10,
+                    "size": 0.015,
+                    "path": "The.Romanoffs.S01E02.WEB.h264-CONVOY/the.romanoffs.s01e02.web.h264-convoy.r07"
+                },
+                {
+                    "number": 11,
+                    "size": 0.015,
+                    "path": "The.Romanoffs.S01E02.WEB.h264-CONVOY/the.romanoffs.s01e02.web.h264-convoy.r08"
+                },
+                {
+                    "number": 12,
+                    "size": 0.015,
+                    "path": "The.Romanoffs.S01E02.WEB.h264-CONVOY/the.romanoffs.s01e02.web.h264-convoy.r09"
+                },
+                {
+                    "number": 13,
+                    "size": 0.015,
+                    "path": "The.Romanoffs.S01E02.WEB.h264-CONVOY/the.romanoffs.s01e02.web.h264-convoy.r10"
+                },
+                {
+                    "number": 14,
+                    "size": 0.015,
+                    "path": "The.Romanoffs.S01E02.WEB.h264-CONVOY/the.romanoffs.s01e02.web.h264-convoy.r11"
+                },
+                {
+                    "number": 15,
+                    "size": 0.015,
+                    "path": "The.Romanoffs.S01E02.WEB.h264-CONVOY/the.romanoffs.s01e02.web.h264-convoy.r12"
+                },
+                {
+                    "number": 16,
+                    "size": 0.015,
+                    "path": "The.Romanoffs.S01E02.WEB.h264-CONVOY/the.romanoffs.s01e02.web.h264-convoy.r13"
+                },
+                {
+                    "number": 17,
+                    "size": 0.015,
+                    "path": "The.Romanoffs.S01E02.WEB.h264-CONVOY/the.romanoffs.s01e02.web.h264-convoy.r14"
+                },
+                {
+                    "number": 18,
+                    "size": 0.015,
+                    "path": "The.Romanoffs.S01E02.WEB.h264-CONVOY/the.romanoffs.s01e02.web.h264-convoy.r15"
+                },
+                {
+                    "number": 19,
+                    "size": 0.015,
+                    "path": "The.Romanoffs.S01E02.WEB.h264-CONVOY/the.romanoffs.s01e02.web.h264-convoy.r16"
+                },
+                {
+                    "number": 20,
+                    "size": 0.015,
+                    "path": "The.Romanoffs.S01E02.WEB.h264-CONVOY/the.romanoffs.s01e02.web.h264-convoy.r17"
+                },
+                {
+                    "number": 21,
+                    "size": 0.015,
+                    "path": "The.Romanoffs.S01E02.WEB.h264-CONVOY/the.romanoffs.s01e02.web.h264-convoy.r18"
+                },
+                {
+                    "number": 22,
+                    "size": 0.015,
+                    "path": "The.Romanoffs.S01E02.WEB.h264-CONVOY/the.romanoffs.s01e02.web.h264-convoy.r19"
+                },
+                {
+                    "number": 23,
+                    "size": 0.015,
+                    "path": "The.Romanoffs.S01E02.WEB.h264-CONVOY/the.romanoffs.s01e02.web.h264-convoy.r20"
+                },
+                {
+                    "number": 24,
+                    "size": 0.015,
+                    "path": "The.Romanoffs.S01E02.WEB.h264-CONVOY/the.romanoffs.s01e02.web.h264-convoy.r21"
+                },
+                {
+                    "number": 25,
+                    "size": 0.015,
+                    "path": "The.Romanoffs.S01E02.WEB.h264-CONVOY/the.romanoffs.s01e02.web.h264-convoy.r22"
+                },
+                {
+                    "number": 26,
+                    "size": 0.015,
+                    "path": "The.Romanoffs.S01E02.WEB.h264-CONVOY/the.romanoffs.s01e02.web.h264-convoy.r23"
+                },
+                {
+                    "number": 27,
+                    "size": 0.015,
+                    "path": "The.Romanoffs.S01E02.WEB.h264-CONVOY/the.romanoffs.s01e02.web.h264-convoy.r24"
+                },
+                {
+                    "number": 28,
+                    "size": 0.015,
+                    "path": "The.Romanoffs.S01E02.WEB.h264-CONVOY/the.romanoffs.s01e02.web.h264-convoy.r25"
+                },
+                {
+                    "number": 29,
+                    "size": 0.015,
+                    "path": "The.Romanoffs.S01E02.WEB.h264-CONVOY/the.romanoffs.s01e02.web.h264-convoy.r26"
+                },
+                {
+                    "number": 30,
+                    "size": 0.015,
+                    "path": "The.Romanoffs.S01E02.WEB.h264-CONVOY/the.romanoffs.s01e02.web.h264-convoy.r27"
+                },
+                {
+                    "number": 31,
+                    "size": 0.015,
+                    "path": "The.Romanoffs.S01E02.WEB.h264-CONVOY/the.romanoffs.s01e02.web.h264-convoy.r28"
+                },
+                {
+                    "number": 32,
+                    "size": 0.015,
+                    "path": "The.Romanoffs.S01E02.WEB.h264-CONVOY/the.romanoffs.s01e02.web.h264-convoy.r29"
+                },
+                {
+                    "number": 33,
+                    "size": 0.015,
+                    "path": "The.Romanoffs.S01E02.WEB.h264-CONVOY/the.romanoffs.s01e02.web.h264-convoy.r30"
+                },
+                {
+                    "number": 34,
+                    "size": 0.015,
+                    "path": "The.Romanoffs.S01E02.WEB.h264-CONVOY/the.romanoffs.s01e02.web.h264-convoy.r31"
+                },
+                {
+                    "number": 35,
+                    "size": 0.015,
+                    "path": "The.Romanoffs.S01E02.WEB.h264-CONVOY/the.romanoffs.s01e02.web.h264-convoy.r32"
+                },
+                {
+                    "number": 36,
+                    "size": 0.015,
+                    "path": "The.Romanoffs.S01E02.WEB.h264-CONVOY/the.romanoffs.s01e02.web.h264-convoy.r33"
+                },
+                {
+                    "number": 37,
+                    "size": 0.015,
+                    "path": "The.Romanoffs.S01E02.WEB.h264-CONVOY/the.romanoffs.s01e02.web.h264-convoy.r34"
+                },
+                {
+                    "number": 38,
+                    "size": 0.015,
+                    "path": "The.Romanoffs.S01E02.WEB.h264-CONVOY/the.romanoffs.s01e02.web.h264-convoy.r35"
+                },
+                {
+                    "number": 39,
+                    "size": 0.015,
+                    "path": "The.Romanoffs.S01E02.WEB.h264-CONVOY/the.romanoffs.s01e02.web.h264-convoy.r36"
+                },
+                {
+                    "number": 40,
+                    "size": 0.015,
+                    "path": "The.Romanoffs.S01E02.WEB.h264-CONVOY/the.romanoffs.s01e02.web.h264-convoy.r37"
+                },
+                {
+                    "number": 41,
+                    "size": 0.015,
+                    "path": "The.Romanoffs.S01E02.WEB.h264-CONVOY/the.romanoffs.s01e02.web.h264-convoy.r38"
+                },
+                {
+                    "number": 42,
+                    "size": 0.002356223,
+                    "path": "The.Romanoffs.S01E02.WEB.h264-CONVOY/the.romanoffs.s01e02.web.h264-convoy.r39"
+                },
+                {
+                    "number": 43,
+                    "size": 0.015,
+                    "path": "The.Romanoffs.S01E02.WEB.h264-CONVOY/the.romanoffs.s01e02.web.h264-convoy.rar"
+                },
+                {
+                    "number": 44,
+                    "size": 0.000002091,
+                    "path": "The.Romanoffs.S01E02.WEB.h264-CONVOY/the.romanoffs.s01e02.web.h264-convoy.sfv"
+                },
+                {
+                    "number": 45,
+                    "size": 0.000001573,
+                    "path": "The.Romanoffs.S01E02.WEB.h264-CONVOY/tvmaze.nfo"
+                }
+            ]
+        },
+        {
+            "id": 76,
+            "name": "the.romanoffs.s01e02.web.h264-convoy[eztv].mkv",
+            "size_total": 0.602351426,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.602351426,
+                    "path": "the.romanoffs.s01e02.web.h264-convoy[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 77,
+            "name": "The.Romanoffs.S01E02.WEB.h264-CONVOY[rartv]-[rarbg.to]",
+            "size_total": 0.602353809,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Romanoffs.S01E02.WEB.h264-CONVOY[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.602351426,
+                    "path": "The.Romanoffs.S01E02.WEB.h264-CONVOY[rarbg]/the.romanoffs.s01e02.web.h264-convoy.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000002353,
+                    "path": "The.Romanoffs.S01E02.WEB.h264-CONVOY[rarbg]/the.romanoffs.s01e02.web.h264-convoy.nfo"
+                }
+            ]
+        },
+        {
+            "id": 78,
+            "name": "The.Romanoffs.S01E02.WEBRip.x264-ION10-[rarbg.to](1)",
+            "size_total": 0.89874251,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Romanoffs.S01E02.WEBRip.x264-ION10/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000069715,
+                    "path": "The.Romanoffs.S01E02.WEBRip.x264-ION10/Subs/2_Eng.srt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.898672765,
+                    "path": "The.Romanoffs.S01E02.WEBRip.x264-ION10/The.Romanoffs.S01E02.WEBRip.x264-ION10.mp4"
+                }
+            ]
+        },
+        {
+            "id": 79,
+            "name": "The.Romanoffs.S01E02.WEBRip.x264-ION10-[rarbg.to]",
+            "size_total": 0.89874251,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Romanoffs.S01E02.WEBRip.x264-ION10/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000069715,
+                    "path": "The.Romanoffs.S01E02.WEBRip.x264-ION10/Subs/2_Eng.srt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.898672765,
+                    "path": "The.Romanoffs.S01E02.WEBRip.x264-ION10/The.Romanoffs.S01E02.WEBRip.x264-ION10.mp4"
+                }
+            ]
+        },
+        {
+            "id": 80,
+            "name": "The.Romanoffs.S01E02.XviD-AFG [IPT]",
+            "size_total": 1.020089514,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000432728,
+                    "path": "The.Romanoffs.S01E02.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000446741,
+                    "path": "The.Romanoffs.S01E02.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000084925,
+                    "path": "The.Romanoffs.S01E02.XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000114342,
+                    "path": "The.Romanoffs.S01E02.XviD-AFG/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 1.019009618,
+                    "path": "The.Romanoffs.S01E02.XviD-AFG/The.Romanoffs.S01E02.XviD-AFG.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.00000116,
+                    "path": "The.Romanoffs.S01E02.XviD-AFG/The.Romanoffs.S01E02.XviD-AFG.nfo"
+                }
+            ]
+        },
+        {
+            "id": 81,
+            "name": "The.Romanoffs.S01E02.XviD-AFG[eztv].avi",
+            "size_total": 1.019009618,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.019009618,
+                    "path": "The.Romanoffs.S01E02.XviD-AFG[eztv].avi"
+                }
+            ]
+        },
+        {
+            "id": 82,
+            "name": "The.Romanoffs.S01E03.1080p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.992102897,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.001200042,
+                    "path": "The.Romanoffs.S01E03.1080p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.002377875,
+                    "path": "The.Romanoffs.S01E03.1080p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000985986,
+                    "path": "The.Romanoffs.S01E03.1080p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.004847042,
+                    "path": "The.Romanoffs.S01E03.1080p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.98269074,
+                    "path": "The.Romanoffs.S01E03.1080p.HEVC.x265-MeGusta/The.Romanoffs.S01E03.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001212,
+                    "path": "The.Romanoffs.S01E03.1080p.HEVC.x265-MeGusta/The.Romanoffs.S01E03.1080p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        }
+    ],
+    "collection_cumulative_by_btiha": [
+        {
+            "id": 95,
+            "name": "multi-btih-12-2-x-[limetorrents.info]the.romanoffs.s01e01.web.h264-convoy[eztv]",
+            "btih": "1feac4080ca7fa6ce197b6bcd8356a455468b187",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.497178426,
+            "creation": "2018-10-12T06:55:17.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 19964,
+            "uuploaders": 10088
+        },
+        {
+            "id": 40,
+            "name": "f6f2-The.Romanoffs.S01E02.WEB.h264-CONVOY[ettv]",
+            "btih": "8f550753231d2a7235b0e68da03a5c23f60e715e",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.602351625,
+            "creation": "2018-10-11T23:56:08.000000000Z,mktorrent 1.0",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 15367,
+            "uuploaders": 6640
+        },
+        {
+            "id": 14,
+            "name": "[limetorrents.info]The.Romanoffs.S01E01.PROPER.WEB.H264-MEMENTO[ettv]",
+            "btih": "757d4b4e4d86f5eee69f8945b51c901d81a5c4c0",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.705329676,
+            "creation": "2018-10-12T10:05:54.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 15234,
+            "uuploaders": 7611
+        },
+        {
+            "id": 25,
+            "name": "[limetorrents.info]The.Romanoffs.S01E02.720p.WEB.x265-MiNX[eztv]",
+            "btih": "1e2462187b8d4108cb531e370ffcf959d1c41be0",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.455027866,
+            "creation": "2018-10-12T13:30:49.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 14892,
+            "uuploaders": 6923
+        },
+        {
+            "id": 96,
+            "name": "multi-btih-13-2-x-[limetorrents.info]the.romanoffs.s01e02.web.h264-convoy[eztv]",
+            "btih": "f211ec0ee382ae009f3cb31a287de49502113820",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.602351426,
+            "creation": "2018-10-12T06:55:13.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 13991,
+            "uuploaders": 7518
+        },
+        {
+            "id": 61,
+            "name": "The.Romanoffs.S01E01.XviD-AFG[eztv].avi",
+            "btih": "f877aefe8ad3b57613d602d0beae690a0cc96125",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.78829163,
+            "creation": "2018-10-12T00:30:18.000000000Z,EZTV,Visit us: https://eztv.ag/ - Bitcoin: 1EZTVtpeNttqdDayh3D98nfQYybeZhu5YV",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 13826,
+            "uuploaders": 6415
+        },
+        {
+            "id": 94,
+            "name": "multi-btih-11-2-x-[limetorrents.info]the.romanoffs.s01e01.720p.web.h264-convoy[eztv]",
+            "btih": "4a249c476def3271067241f2bf2723d2debff0e7",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.606313976,
+            "creation": "2018-10-12T06:55:10.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 11283,
+            "uuploaders": 4051
+        },
+        {
+            "id": 88,
+            "name": "multi-btih-5-2-x-[limetorrents.info]The.Romanoffs.S01E01.The.Violet.Hour.720p.AMZN.WEBRip.DDP5.1.x264",
+            "btih": "1e43472a7313da12459eb54dccdb8ad34269a969",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 2.01502393,
+            "creation": "2018-10-12T06:58:55.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 10636,
+            "uuploaders": 4732
+        },
+        {
+            "id": 83,
+            "name": "multi-btih-0-2-x-The.Romanoffs.S01E02.WEBRip.x264-ION10-[rarbg.to](1)",
+            "btih": "a527a68ebfad0fe303e129ab6f7b3be2ff868b7b",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.89874251,
+            "creation": "2018-10-12T00:14:43.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 10229,
+            "uuploaders": 4722
+        },
+        {
+            "id": 81,
+            "name": "The.Romanoffs.S01E02.XviD-AFG[eztv].avi",
+            "btih": "27280d781282e068685598303ddb90476a3abd58",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 1.019009618,
+            "creation": "2018-10-12T00:42:20.000000000Z,EZTV,Visit us: https://eztv.ag/ - Bitcoin: 1EZTVtpeNttqdDayh3D98nfQYybeZhu5YV",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 10221,
+            "uuploaders": 4975
+        },
+        {
+            "id": 93,
+            "name": "multi-btih-10-2-x-[limetorrents.info]The.Romanoffs.S01E02.WEB.h264-CONVOY",
+            "btih": "43ca43305d80e8f220196e5d53ec579b2ae4d62b",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.602353809,
+            "creation": "2018-10-12T09:26:27.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 10131,
+            "uuploaders": 4271
+        },
+        {
+            "id": 92,
+            "name": "multi-btih-9-2-x-[limetorrents.info]The.Romanoffs.S01E02.The.Royal.We.720p.AMZN.WEBRip.DDP5.1.x264-NT",
+            "btih": "550ce5364a09b961f0dee0b33e6314479e7f9dcf",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 2.376183599,
+            "creation": "2018-10-12T06:57:33.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 9911,
+            "uuploaders": 4541
+        },
+        {
+            "id": 65,
+            "name": "The.Romanoffs.S01E02.480p.x264-mSD[eztv].mkv",
+            "btih": "1620306f63b1e74c65dccc38bd045fd586d7c4d7",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.336936342,
+            "creation": "2018-10-12T00:52:15.000000000Z,EZTV,Visit us: https://eztv.ag/ - Bitcoin: 1EZTVtpeNttqdDayh3D98nfQYybeZhu5YV",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 9571,
+            "uuploaders": 4074
+        },
+        {
+            "id": 59,
+            "name": "The.Romanoffs.S01E01.WEBRip.x264-ION10-[rarbg.to]",
+            "btih": "eeadb5efd255c059f38d7f1c5223cc603634f5e8",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.857088795,
+            "creation": "2018-10-12T00:09:04.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 9446,
+            "uuploaders": 4380
+        },
+        {
+            "id": 58,
+            "name": "The.Romanoffs.S01E01.WEB.h264-CONVOY[rartv]-[rarbg.to]",
+            "btih": "9c0e53ec42ec23e5d0b20ee9948720aedb1caf49",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.497180809,
+            "creation": "2018-10-11T23:50:58.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 9076,
+            "uuploaders": 4211
+        },
+        {
+            "id": 87,
+            "name": "multi-btih-4-2-x-[limetorrents.info]The.Romanoffs.S01E01.The.Violet.Hour.1080p.AMZN.WEBRip.DDP5.1.x26",
+            "btih": "02c30c07dcc4d64740c6f454db29cadac2397fc6",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 5.954939835,
+            "creation": "2018-10-12T09:24:03.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 8214,
+            "uuploaders": 3889
+        },
+        {
+            "id": 89,
+            "name": "multi-btih-6-2-x-[limetorrents.info]The.Romanoffs.S01E01.WEB.h264-CONVOY[ettv]",
+            "btih": "17e7c2473386d436a8fabe5e69393d70de4ca830",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.497178625,
+            "creation": "2018-10-12T07:04:25.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 7110,
+            "uuploaders": 2895
+        },
+        {
+            "id": 71,
+            "name": "The.Romanoffs.S01E02.The.Royal.We.1080p.AMZN.WEBRip.DDP5.1.x264-NTG[rartv]-[rarbg.to]",
+            "btih": "51393830a86383d5c9f0093f3244d8e6a9fbe404",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 6.857242012,
+            "creation": "2018-10-12T01:23:27.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 6691,
+            "uuploaders": 3330
+        },
+        {
+            "id": 50,
+            "name": "The.Romanoffs.S01E01.PROPER.WEB.H264-MEMENTO[rartv]-[rarbg.to]",
+            "btih": "6a529f8b943b8d054e70e0eba51d7b46a30f90d6",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.705329763,
+            "creation": "2018-10-12T09:52:47.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 6305,
+            "uuploaders": 2933
+        },
+        {
+            "id": 1,
+            "name": "65ba-The.Romanoffs.S01E01.720p.WEB.h264-CONVOY[ettv]",
+            "btih": "8714c45ce3fb78bb14a2fd75c54dc55c556b3d57",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.606314161,
+            "creation": "2018-10-11T23:56:24.000000000Z,mktorrent 1.0",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 5315,
+            "uuploaders": 2746
+        },
+        {
+            "id": 90,
+            "name": "multi-btih-7-2-x-[limetorrents.info]The.Romanoffs.S01E02.1080p.WEB.h264-CONVOY",
+            "btih": "c595ec45ee60d7796edaafadee2e14ee33c85720",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 6.314353172,
+            "creation": "2018-10-12T12:49:27.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 5025,
+            "uuploaders": 1925
+        },
+        {
+            "id": 47,
+            "name": "The.Romanoffs.S01E01.720p.WEB.h264-CONVOY[rartv]-[rarbg.to]",
+            "btih": "b1010caefda50e811c5a6be00df4fc189c2d2766",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.606316366,
+            "creation": "2018-10-11T23:51:53.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4643,
+            "uuploaders": 2164
+        },
+        {
+            "id": 91,
+            "name": "multi-btih-8-2-x-[limetorrents.info]The.Romanoffs.S01E02.720p.WEB.h264-CONVOY[rarbg]",
+            "btih": "5460533250d5fddbda9bc6c359f71e1a2b99d06d",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 3.429252819,
+            "creation": "2018-10-12T07:04:32.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4618,
+            "uuploaders": 1930
+        },
+        {
+            "id": 85,
+            "name": "multi-btih-2-2-x-[limetorrents.info]The.Romanoffs.S01E01.1080p.WEB.h264-CONVOY[rarbg]",
+            "btih": "9717935b31a7a63efcd17863aa8e0bf5713ddc19",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 4.544620628,
+            "creation": "2018-10-12T07:04:15.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 3496,
+            "uuploaders": 1352
+        },
+        {
+            "id": 15,
+            "name": "[limetorrents.info]The.Romanoffs.S01E01.PROPER.WEB.H264-MEMENTO[TGx]",
+            "btih": "60ec4a1807a66222510116380d19081e218b0c44",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.708220514,
+            "creation": "2018-10-12T11:36:02.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 3366,
+            "uuploaders": 1486
+        },
+        {
+            "id": 13,
+            "name": "[limetorrents.info]The.Romanoffs.S01E01.PROPER.WEB.H264-MEMENTO",
+            "btih": "080c3249752ec556b021f2f6e4035fa94c4c0618",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.708219909,
+            "creation": "2018-10-12T10:01:19.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 3269,
+            "uuploaders": 1138
+        },
+        {
+            "id": 2,
+            "name": "8f03-The.Romanoffs.S01E02.720p.WEB.h264-CONVOY[ettv]",
+            "btih": "fb867e73ca01c0d816680a37304346144a6b2c4c",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 3.429250614,
+            "creation": "2018-10-11T23:58:15.000000000Z,mktorrent 1.0",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 3244,
+            "uuploaders": 1580
+        },
+        {
+            "id": 86,
+            "name": "multi-btih-3-2-x-[limetorrents.info]The.Romanoffs.S01E01.400p.ColdFilm.avi",
+            "btih": "bbcd6e8a28571a4b2ad53e135a451f7fe346f71b",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 1.18042194,
+            "creation": "2018-10-12T20:06:21.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 3165,
+            "uuploaders": 1284
+        },
+        {
+            "id": 38,
+            "name": "[rutor.is]The_Romanoffs_S01E01_720p_ColdFilm_mkv_torrent",
+            "btih": "0796efdd041e13ef606024007b09d299b907665b",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 2.109871372,
+            "creation": "2018-10-12T14:55:25.000000000Z,uTorrent/3.5.4,http://rutor.is/torrent/659003",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2879,
+            "uuploaders": 1185
+        },
+        {
+            "id": 31,
+            "name": "[limetorrents.info]罗曼诺夫后裔.The.Romanoffs.S01E01.中英字幕.HDTVrip.720P-人人影视.mp4",
+            "btih": "869e29110b75a698b3caa0f48b056d6e4d3fa68d",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 1.018216618,
+            "creation": "2018-10-14T16:46:38.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2563,
+            "uuploaders": 988
+        },
+        {
+            "id": 84,
+            "name": "multi-btih-1-2-x-[limetorrents.info]The.Romanoffs.S01.WEBRip.1080p",
+            "btih": "1793b820670837853411e2e1a769e3d4f5ef9085",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 9.94131801,
+            "creation": "2018-10-17T09:15:41.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2432,
+            "uuploaders": 730
+        },
+        {
+            "id": 26,
+            "name": "[limetorrents.info]The.Romanoffs.S01E02.HDTV.Subtitulado.Esp.SC.avi",
+            "btih": "1a97c599dc1fb71434063d34b20f66a5d796b9e0",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.732213248,
+            "creation": "2018-10-15T20:26:13.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2329,
+            "uuploaders": 1084
+        },
+        {
+            "id": 36,
+            "name": "[rutor.is]The_Romanoffs_S01E01_1080p_ColdFilm_mkv_torrent",
+            "btih": "e83e5504c4802c94164e464237647037df2c8667",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 3.061133754,
+            "creation": "2018-10-12T14:47:47.000000000Z,uTorrent/3.5.4,http://rutor.is/torrent/659006",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2270,
+            "uuploaders": 1092
+        },
+        {
+            "id": 21,
+            "name": "[limetorrents.info]The.Romanoffs.s01e01.WEBDL.1080p.NewStudio.TV.mkv",
+            "btih": "0362dca441a0273ba87676ed4952c8920e3ca5cd",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 6.197424104,
+            "creation": "2018-10-20T05:02:41.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2058,
+            "uuploaders": 817
+        },
+        {
+            "id": 32,
+            "name": "[limetorrents.info]罗曼诺夫后裔.The.Romanoffs.S01E02.中英字幕.HDTVrip.720P-人人影视.mp4",
+            "btih": "e54ea38982a0786f18dee1031dc856f4073bbba9",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 1.081015903,
+            "creation": "2018-10-18T07:23:00.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1948,
+            "uuploaders": 801
+        },
+        {
+            "id": 22,
+            "name": "[limetorrents.info]The.Romanoffs.s01e01.WEBDL.720p.NewStudio.TV.mkv",
+            "btih": "83a3bc52d2584ba38c82ec2bf0f5b0ef1941974d",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 2.257503433,
+            "creation": "2018-10-20T07:21:02.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1834,
+            "uuploaders": 566
+        },
+        {
+            "id": 12,
+            "name": "[limetorrents.info]The.Romanoffs.S01E01.HDTV.Subtitulado.Esp.SC.avi",
+            "btih": "2696058dad11367ca83b547d630d7bf4748ee2be",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.57430016,
+            "creation": "2018-10-16T20:55:05.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1818,
+            "uuploaders": 814
+        },
+        {
+            "id": 35,
+            "name": "[rutor.is]The.Romanoffs.S01.WEBRip",
+            "btih": "60af9a02c11e52e79856afd5d42cca6753d1c54a",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 2.934573056,
+            "creation": "2018-10-16T14:17:20.000000000Z,uTorrent/3230,http://rutor.is/torrent/659645",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1722,
+            "uuploaders": 700
+        },
+        {
+            "id": 5,
+            "name": "[limetorrents.info]The.Romanoffs.S01.400p.ColdFilm",
+            "btih": "62cd5bff49904bc055a1e73ee6387056be854094",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 2.352536634,
+            "creation": "2018-10-14T04:10:38.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1689,
+            "uuploaders": 835
+        },
+        {
+            "id": 30,
+            "name": "[limetorrents.info]www.torrenting.com.-.The.Romanoffs.S01E01.720p.HEVC.x265-MeGusta",
+            "btih": "7f518abd01ed4f14c7620cd744c92a660c470109",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.492754638,
+            "creation": "2018-10-14T20:29:23.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1640,
+            "uuploaders": 638
+        },
+        {
+            "id": 18,
+            "name": "[limetorrents.info]The.Romanoffs.S01E01.The.Violet.Hour.720p.WEBRip.2CH.x265.HEVC-PSA.mkv",
+            "btih": "a45dc185abec9545f15763aa66fa4e40950a15df",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.520552075,
+            "creation": "2018-10-20T03:20:04.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1599,
+            "uuploaders": 564
+        },
+        {
+            "id": 34,
+            "name": "[rutor.is]The.Romanoffs.S01.WEBRip.720p",
+            "btih": "b2704b644fab2641eedcf37fab6c43c8488155a8",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 6.815439777,
+            "creation": "2018-10-16T14:16:30.000000000Z,uTorrent/3230,http://rutor.is/torrent/659646",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1410,
+            "uuploaders": 425
+        },
+        {
+            "id": 3,
+            "name": "[limetorrents.info]The.Romanoffs..2018..S01E01..1080p.WebRip.x265.HEVC.10bit.EAC3.6.0.Kira..[UTR]",
+            "btih": "9b07e2384a91f49b8fc619b3364e7b3b06c0b3a1",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 2.197980492,
+            "creation": "2018-10-16T04:58:11.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1276,
+            "uuploaders": 602
+        },
+        {
+            "id": 4,
+            "name": "[limetorrents.info]The.Romanoffs..2018..S01E02..1080p.WebRip.x265.HEVC.10bit.EAC3.6.0.Kira..[UTR]",
+            "btih": "33a9dbe513482eae6ebbba40f442f0f15b2eadb8",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 3.058024068,
+            "creation": "2018-10-16T04:40:46.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1210,
+            "uuploaders": 588
+        },
+        {
+            "id": 7,
+            "name": "[limetorrents.info]The.Romanoffs.S01.720p.ColdFilm",
+            "btih": "a7feac515feef99e467eb8d06398bde58af63efd",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 4.273257282,
+            "creation": "2018-10-16T08:54:20.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1129,
+            "uuploaders": 432
+        },
+        {
+            "id": 6,
+            "name": "[limetorrents.info]The.Romanoffs.S01.400p.KosharaSerials",
+            "btih": "5d1321af31422fb556558e9281648e576a8051d2",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 3.231514624,
+            "creation": "2018-10-19T06:07:42.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1036,
+            "uuploaders": 229
+        },
+        {
+            "id": 60,
+            "name": "The.Romanoffs.S01E01.XviD-AFG [IPT]",
+            "btih": "be3a0d928f0193618bb35d3593164519b67802df",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.789248141,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 439,
+            "uuploaders": 354
+        },
+        {
+            "id": 44,
+            "name": "The.Romanoffs.S01E01.720p.HEVC.x265-MeGusta [IPT]",
+            "btih": "c74b7e8629172f35d8794378239f7780148f9145",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.492754552,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 343,
+            "uuploaders": 94
+        },
+        {
+            "id": 66,
+            "name": "The.Romanoffs.S01E02.720p.HEVC.x265-MeGusta [IPT]",
+            "btih": "5583a89c87c33f214e49b7d3023f1fc71038c61f",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.722212609,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 340,
+            "uuploaders": 80
+        },
+        {
+            "id": 80,
+            "name": "The.Romanoffs.S01E02.XviD-AFG [IPT]",
+            "btih": "79eaf3f3734a0dc3520c733bf6ee883991446d1f",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 1.020089514,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 333,
+            "uuploaders": 278
+        },
+        {
+            "id": 72,
+            "name": "The.Romanoffs.S01E02.The.Royal.We.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG [IPT]",
+            "btih": "79f3d51ccbf86d214a0ae5a5c4f1d24b137115a9",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 2.382264706,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 190,
+            "uuploaders": 98
+        },
+        {
+            "id": 53,
+            "name": "The.Romanoffs.S01E01.The.Violet.Hour.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG [IPT]",
+            "btih": "b6a1ba625ec3589758acd7aca7daab1851cb49ed",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 2.020389772,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 181,
+            "uuploaders": 97
+        },
+        {
+            "id": 45,
+            "name": "The.Romanoffs.S01E01.720p.WEB.h264-CONVOY [IPT]",
+            "btih": "e2e35dd56171aa92a1aab1c621262a3c6740adf1",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.60632221,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 174,
+            "uuploaders": 144
+        },
+        {
+            "id": 43,
+            "name": "The.Romanoffs.S01E01.480p.x264-mSD [IPT]",
+            "btih": "e8a2a759538cc64f7781bbb082535dc1d9ce24e2",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.276018333,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 169,
+            "uuploaders": 95
+        },
+        {
+            "id": 69,
+            "name": "The.Romanoffs.S01E02.AAC.MP4-Mobile [IPT]",
+            "btih": "677b1d3df87ccc4c7973690ae611e84cab9f660d",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.366764527,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 163,
+            "uuploaders": 80
+        },
+        {
+            "id": 55,
+            "name": "The.Romanoffs.S01E01.The.Violet.Hour.AMZN.WEB-DL.AAC2.0.H.264-NTG [IPT]",
+            "btih": "c91e6c8e5c0623125a070fbc8e586d2bf5de57ea",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.804187157,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 160,
+            "uuploaders": 83
+        },
+        {
+            "id": 62,
+            "name": "The.Romanoffs.S01E02.1080p.WEB.h264-CONVOY [IPT]",
+            "btih": "ef6b57cdbb58d4325648443d6ea626fd3b2ddbaf",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 6.314365174,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 155,
+            "uuploaders": 66
+        },
+        {
+            "id": 67,
+            "name": "The.Romanoffs.S01E02.720p.WEB.h264-CONVOY [IPT]",
+            "btih": "19981fb2ea688b493db8f6e74a768c9b112eddd8",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 3.429264836,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 154,
+            "uuploaders": 130
+        },
+        {
+            "id": 64,
+            "name": "The.Romanoffs.S01E02.480p.x264-mSD [IPT]",
+            "btih": "4f6f70d30d2b51c48f51ab0d9460f3a0218c4b5e",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.337891453,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 145,
+            "uuploaders": 79
+        },
+        {
+            "id": 41,
+            "name": "The.Romanoffs.S01E01.1080p.WEB.h264-CONVOY [IPT]",
+            "btih": "31da2c95d3938331c42b38d1893da8fd1b91419c",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 4.544629246,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 142,
+            "uuploaders": 82
+        },
+        {
+            "id": 56,
+            "name": "The.Romanoffs.S01E01.WEB.h264-CONVOY [IPT]",
+            "btih": "f6bf903c86197eaa4f2e9638212d19f47d283690",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.497186491,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 140,
+            "uuploaders": 96
+        },
+        {
+            "id": 48,
+            "name": "The.Romanoffs.S01E01.AAC.MP4-Mobile [IPT]",
+            "btih": "33a345712c4724dc30344a71c19355359f27d7a3",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.300764798,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 133,
+            "uuploaders": 66
+        },
+        {
+            "id": 70,
+            "name": "The.Romanoffs.S01E02.The.Royal.We.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG [IPT]",
+            "btih": "b3578245ffbd390f767f363de1b7ccee123baa7c",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 6.872035282,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 101,
+            "uuploaders": 72
+        },
+        {
+            "id": 51,
+            "name": "The.Romanoffs.S01E01.The.Violet.Hour.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG [IPT]",
+            "btih": "bc4920f5d77ddfd6c722e6e5aa4bda3a945ab53d",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 5.968177717,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 97,
+            "uuploaders": 71
+        },
+        {
+            "id": 75,
+            "name": "The.Romanoffs.S01E02.WEB.h264-CONVOY [IPT]",
+            "btih": "40a08a8e84ada06ce161898836bd5207fab222ae",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.608975119,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 86,
+            "uuploaders": 54
+        },
+        {
+            "id": 49,
+            "name": "The.Romanoffs.S01E01.PROPER.WEB.H264-MEMENTO [IPT]",
+            "btih": "012a2a00e787351736e62c1c5978b8cb15176173",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.705336357,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 67,
+            "uuploaders": 48
+        },
+        {
+            "id": 82,
+            "name": "The.Romanoffs.S01E03.1080p.HEVC.x265-MeGusta [IPT]",
+            "btih": "6c4b84828e9dab6f19aeefcfde509dbc9f8b86a6",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.992102897,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 48,
+            "uuploaders": 42
+        },
+        {
+            "id": 74,
+            "name": "The.Romanoffs.S01E02.The.Royal.We.AMZN.WEB-DL.AAC2.0.H.264-NTG [IPT]",
+            "btih": "cfa7529702301a270d329ef1ef7bde98eed8aef4",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 1.000579813,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 14,
+            "uuploaders": 13
+        }
+    ]
+}
