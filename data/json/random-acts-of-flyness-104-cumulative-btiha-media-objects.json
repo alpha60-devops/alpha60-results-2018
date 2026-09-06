@@ -1,0 +1,1628 @@
+{
+    "collection_name": "Random Acts of Flyness",
+    "collection_id": "104",
+    "collection_key": "random-acts-of-flyness-104",
+    "collection_notes": "",
+    "data_version": "2026-08-05",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "6:1777968300",
+    "collection_btiha_duplicates": [
+        {
+            "duplicate_id": 0,
+            "duplicate_btih": "ca0a3519b19f449c85799a1baa1a562bded10c3c",
+            "duplicate_0_0": "[limetorrents.info]Random.Acts.Of.Flyness.S01E04.720p.AMZN.WEBRip.DDP5.1.x264-monke",
+            "duplicate_0_1": "Random.Acts.Of.Flyness.S01E04.720p.AMZN.WEBRip.DDP5.1.x264-monkee[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 1,
+            "duplicate_btih": "3c64003263d3742b2f19bb11e7c70ebe66b2040a",
+            "duplicate_1_0": "[limetorrents.info]Random.Acts.of.Flyness.S01E01.1080p.WEB.X264-METCON",
+            "duplicate_1_1": "Random.Acts.of.Flyness.S01E01.1080p.WEB.X264-METCON[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 2,
+            "duplicate_btih": "ba1e7bb4d10e9fc6b74d6023f1765e68bcbb934b",
+            "duplicate_2_0": "[limetorrents.info]Random.Acts.of.Flyness.S01E04.1080p.AMZN.WEBRip.DDP5.1.x264-monk",
+            "duplicate_2_1": "Random.Acts.of.Flyness.S01E04.1080p.AMZN.WEBRip.DDP5.1.x264-monkee[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 3,
+            "duplicate_btih": "3af90a3df45beed9e6402e5045ecf0faa5c7cbc5",
+            "duplicate_3_0": "[limetorrents.info]Random.Acts.of.Flyness.S01E04.WEBRip.x264-ION10",
+            "duplicate_3_1": "Random.Acts.of.Flyness.S01E04.WEBRip.x264-ION10-[rarbg.to]"
+        }
+    ],
+    "collection_btiha_metadata": [
+        {
+            "id": 1,
+            "name": "[limetorrents.info]Random.Acts.of.Flyness.S01E01.1080p.WEB.X264-METCON",
+            "size_total": 1.425523495,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Random.Acts.of.Flyness.S01E01.1080p.WEB.X264-METCON[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.425523105,
+                    "path": "Random.Acts.of.Flyness.S01E01.1080p.WEB.X264-METCON[rarbg]/Random.Acts.of.Flyness.S01E01.1080p.WEB.X264-METCON.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 3.6e-7,
+                    "path": "Random.Acts.of.Flyness.S01E01.1080p.WEB.X264-METCON[rarbg]/random.acts.of.flyness.s01e01.1080p.web.x264-metcon.nfo"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "[limetorrents.info]Random.Acts.of.Flyness.S01E04.1080p.AMZN.WEBRip.DDP5.1.x264-monk",
+            "size_total": 1.336627702,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Random.Acts.of.Flyness.S01E04.1080p.AMZN.WEBRip.DDP5.1.x264-monkee[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.336627672,
+                    "path": "Random.Acts.of.Flyness.S01E04.1080p.AMZN.WEBRip.DDP5.1.x264-monkee[rarbg]/Random.Acts.of.Flyness.S01E04.Items.Outside.the.Shelter.But.Within.Reach.1080p.AMZN.WEB-DL.DDP5.1.H.264-monkee.mkv"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "[limetorrents.info]Random.Acts.of.Flyness.S01E04.1080p.WEB.X264-METCON",
+            "size_total": 1.425669186,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.41998872,
+                    "path": "www.scenetime.com - Random.Acts.of.Flyness.S01E04.1080p.WEB.X264-METCON/Random.Acts.of.Flyness.S01E04.1080p.WEB.X264-METCON.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3.6e-7,
+                    "path": "www.scenetime.com - Random.Acts.of.Flyness.S01E04.1080p.WEB.X264-METCON/random.acts.of.flyness.s01e04.1080p.web.x264-metcon.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00072402,
+                    "path": "www.scenetime.com - Random.Acts.of.Flyness.S01E04.1080p.WEB.X264-METCON/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001497982,
+                    "path": "www.scenetime.com - Random.Acts.of.Flyness.S01E04.1080p.WEB.X264-METCON/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.001457503,
+                    "path": "www.scenetime.com - Random.Acts.of.Flyness.S01E04.1080p.WEB.X264-METCON/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.002000498,
+                    "path": "www.scenetime.com - Random.Acts.of.Flyness.S01E04.1080p.WEB.X264-METCON/Screens/screen0004.png"
+                },
+                {
+                    "number": 7,
+                    "size": 1.03e-7,
+                    "path": "www.scenetime.com - Random.Acts.of.Flyness.S01E04.1080p.WEB.X264-METCON/Torrent Downloaded From www.scenetime.com.txt"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "[limetorrents.info]Random.Acts.of.Flyness.S01E04.480p.x264-mSD",
+            "size_total": 0.111973897,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.111437517,
+                    "path": "www.Torrenting.com - Random.Acts.of.Flyness.S01E04.480p.x264-mSD/Random.Acts.of.Flyness.S01E04.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001138,
+                    "path": "www.Torrenting.com - Random.Acts.of.Flyness.S01E04.480p.x264-mSD/Random.Acts.of.Flyness.S01E04.480p.x264-mSD.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000182143,
+                    "path": "www.Torrenting.com - Random.Acts.of.Flyness.S01E04.480p.x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000220335,
+                    "path": "www.Torrenting.com - Random.Acts.of.Flyness.S01E04.480p.x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.00013268,
+                    "path": "www.Torrenting.com - Random.Acts.of.Flyness.S01E04.480p.x264-mSD/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 8.4e-8,
+                    "path": "www.Torrenting.com - Random.Acts.of.Flyness.S01E04.480p.x264-mSD/Torrent Downloaded From WWW.TORRENTING.COM.txt"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "[limetorrents.info]Random.Acts.Of.Flyness.S01E04.720p.AMZN.WEBRip.DDP5.1.x264-monke",
+            "size_total": 0.570672746,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Random.Acts.Of.Flyness.S01E04.720p.AMZN.WEBRip.DDP5.1.x264-monkee[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.570672716,
+                    "path": "Random.Acts.Of.Flyness.S01E04.720p.AMZN.WEBRip.DDP5.1.x264-monkee[rarbg]/Random.Acts.Of.Flyness.S01E04.Items.Outside.the.Shelter.But.Within.Reach.720p.AMZN.WEB-DL.DDP5.1.H.264-monkee.mkv"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "[limetorrents.info]Random.Acts.of.Flyness.S01E04.720p.HDTV.x264-aAF",
+            "size_total": 0.673619453,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.670500349,
+                    "path": "www.scenetime.com - Random.Acts.of.Flyness.S01E04.720p.HDTV.x264-aAF/Random.Acts.of.Flyness.S01E04.720p.HDTV.x264-aAF.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000003085,
+                    "path": "www.scenetime.com - Random.Acts.of.Flyness.S01E04.720p.HDTV.x264-aAF/random.acts.of.flyness.s01e04.720p.hdtv.x264-aaf.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000891338,
+                    "path": "www.scenetime.com - Random.Acts.of.Flyness.S01E04.720p.HDTV.x264-aAF/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000745682,
+                    "path": "www.scenetime.com - Random.Acts.of.Flyness.S01E04.720p.HDTV.x264-aAF/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000573717,
+                    "path": "www.scenetime.com - Random.Acts.of.Flyness.S01E04.720p.HDTV.x264-aAF/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000905179,
+                    "path": "www.scenetime.com - Random.Acts.of.Flyness.S01E04.720p.HDTV.x264-aAF/Screens/screen0004.png"
+                },
+                {
+                    "number": 7,
+                    "size": 1.03e-7,
+                    "path": "www.scenetime.com - Random.Acts.of.Flyness.S01E04.720p.HDTV.x264-aAF/Torrent Downloaded From www.scenetime.com.txt"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "[limetorrents.info]Random.Acts.of.Flyness.S01E04.720p.HEVC.x265-MeGusta",
+            "size_total": 0.196259208,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.19383666,
+                    "path": "www.Torrenting.com - Random.Acts.of.Flyness.S01E04.720p.HEVC.x265-MeGusta/Random.Acts.of.Flyness.S01E04.720p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001202,
+                    "path": "www.Torrenting.com - Random.Acts.of.Flyness.S01E04.720p.HEVC.x265-MeGusta/Random.Acts.of.Flyness.S01E04.720p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000468315,
+                    "path": "www.Torrenting.com - Random.Acts.of.Flyness.S01E04.720p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000560457,
+                    "path": "www.Torrenting.com - Random.Acts.of.Flyness.S01E04.720p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000500508,
+                    "path": "www.Torrenting.com - Random.Acts.of.Flyness.S01E04.720p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000891982,
+                    "path": "www.Torrenting.com - Random.Acts.of.Flyness.S01E04.720p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                },
+                {
+                    "number": 7,
+                    "size": 8.4e-8,
+                    "path": "www.Torrenting.com - Random.Acts.of.Flyness.S01E04.720p.HEVC.x265-MeGusta/Torrent Downloaded From WWW.TORRENTING.COM.txt"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "[limetorrents.info]Random.Acts.of.Flyness.S01E04.720p.WEB.X264-METCON",
+            "size_total": 0.752577456,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.749691885,
+                    "path": "www.scenetime.com - Random.Acts.of.Flyness.S01E04.720p.WEB.X264-METCON/Random.Acts.of.Flyness.S01E04.720p.WEB.X264-METCON.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3.57e-7,
+                    "path": "www.scenetime.com - Random.Acts.of.Flyness.S01E04.720p.WEB.X264-METCON/random.acts.of.flyness.s01e04.720p.web.x264-metcon.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000455131,
+                    "path": "www.scenetime.com - Random.Acts.of.Flyness.S01E04.720p.WEB.X264-METCON/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000723588,
+                    "path": "www.scenetime.com - Random.Acts.of.Flyness.S01E04.720p.WEB.X264-METCON/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000715943,
+                    "path": "www.scenetime.com - Random.Acts.of.Flyness.S01E04.720p.WEB.X264-METCON/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000990449,
+                    "path": "www.scenetime.com - Random.Acts.of.Flyness.S01E04.720p.WEB.X264-METCON/Screens/screen0004.png"
+                },
+                {
+                    "number": 7,
+                    "size": 1.03e-7,
+                    "path": "www.scenetime.com - Random.Acts.of.Flyness.S01E04.720p.WEB.X264-METCON/Torrent Downloaded From www.scenetime.com.txt"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "[limetorrents.info]Random.Acts.of.Flyness.S01E04.WEBRip.x264-ION10",
+            "size_total": 0.318312566,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Random.Acts.of.Flyness.S01E04.WEBRip.x264-ION10/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.318239765,
+                    "path": "Random.Acts.of.Flyness.S01E04.WEBRip.x264-ION10/Random.Acts.of.Flyness.S01E04.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000033642,
+                    "path": "Random.Acts.of.Flyness.S01E04.WEBRip.x264-ION10/Subs/2_Eng.srt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000039129,
+                    "path": "Random.Acts.of.Flyness.S01E04.WEBRip.x264-ION10/Subs/3_Eng.srt"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "[limetorrents.info]Random.Acts.of.Flyness.S01E04.XviD-AFG",
+            "size_total": 0.287164389,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.286654956,
+                    "path": "www.Torrenting.com - Random.Acts.of.Flyness.S01E04.XviD-AFG/Random.Acts.of.Flyness.S01E04.XviD-AFG.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001174,
+                    "path": "www.Torrenting.com - Random.Acts.of.Flyness.S01E04.XviD-AFG/Random.Acts.of.Flyness.S01E04.XviD-AFG.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000184443,
+                    "path": "www.Torrenting.com - Random.Acts.of.Flyness.S01E04.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000106518,
+                    "path": "www.Torrenting.com - Random.Acts.of.Flyness.S01E04.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000070225,
+                    "path": "www.Torrenting.com - Random.Acts.of.Flyness.S01E04.XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000146989,
+                    "path": "www.Torrenting.com - Random.Acts.of.Flyness.S01E04.XviD-AFG/Screens/screen0004.png"
+                },
+                {
+                    "number": 7,
+                    "size": 8.4e-8,
+                    "path": "www.Torrenting.com - Random.Acts.of.Flyness.S01E04.XviD-AFG/Torrent Downloaded From WWW.TORRENTING.COM.txt"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Random.Acts.of.Flyness.S01E01.1080p.WEB.X264-METCON [IPT]",
+            "size_total": 1.425526435,
+            "files_total": 17,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.6e-7,
+                    "path": "Random.Acts.of.Flyness.S01E01.1080p.WEB.X264-METCON/random.acts.of.flyness.s01e01.1080p.web.x264-metcon.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.1,
+                    "path": "Random.Acts.of.Flyness.S01E01.1080p.WEB.X264-METCON/random.acts.of.flyness.s01e01.1080p.web.x264-metcon.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.1,
+                    "path": "Random.Acts.of.Flyness.S01E01.1080p.WEB.X264-METCON/random.acts.of.flyness.s01e01.1080p.web.x264-metcon.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.1,
+                    "path": "Random.Acts.of.Flyness.S01E01.1080p.WEB.X264-METCON/random.acts.of.flyness.s01e01.1080p.web.x264-metcon.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.1,
+                    "path": "Random.Acts.of.Flyness.S01E01.1080p.WEB.X264-METCON/random.acts.of.flyness.s01e01.1080p.web.x264-metcon.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.1,
+                    "path": "Random.Acts.of.Flyness.S01E01.1080p.WEB.X264-METCON/random.acts.of.flyness.s01e01.1080p.web.x264-metcon.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.1,
+                    "path": "Random.Acts.of.Flyness.S01E01.1080p.WEB.X264-METCON/random.acts.of.flyness.s01e01.1080p.web.x264-metcon.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.1,
+                    "path": "Random.Acts.of.Flyness.S01E01.1080p.WEB.X264-METCON/random.acts.of.flyness.s01e01.1080p.web.x264-metcon.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.1,
+                    "path": "Random.Acts.of.Flyness.S01E01.1080p.WEB.X264-METCON/random.acts.of.flyness.s01e01.1080p.web.x264-metcon.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.1,
+                    "path": "Random.Acts.of.Flyness.S01E01.1080p.WEB.X264-METCON/random.acts.of.flyness.s01e01.1080p.web.x264-metcon.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.1,
+                    "path": "Random.Acts.of.Flyness.S01E01.1080p.WEB.X264-METCON/random.acts.of.flyness.s01e01.1080p.web.x264-metcon.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.1,
+                    "path": "Random.Acts.of.Flyness.S01E01.1080p.WEB.X264-METCON/random.acts.of.flyness.s01e01.1080p.web.x264-metcon.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.1,
+                    "path": "Random.Acts.of.Flyness.S01E01.1080p.WEB.X264-METCON/random.acts.of.flyness.s01e01.1080p.web.x264-metcon.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.1,
+                    "path": "Random.Acts.of.Flyness.S01E01.1080p.WEB.X264-METCON/random.acts.of.flyness.s01e01.1080p.web.x264-metcon.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.025525085,
+                    "path": "Random.Acts.of.Flyness.S01E01.1080p.WEB.X264-METCON/random.acts.of.flyness.s01e01.1080p.web.x264-metcon.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.1,
+                    "path": "Random.Acts.of.Flyness.S01E01.1080p.WEB.X264-METCON/random.acts.of.flyness.s01e01.1080p.web.x264-metcon.rar"
+                },
+                {
+                    "number": 17,
+                    "size": 9.9e-7,
+                    "path": "Random.Acts.of.Flyness.S01E01.1080p.WEB.X264-METCON/random.acts.of.flyness.s01e01.1080p.web.x264-metcon.sfv"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Random.Acts.of.Flyness.S01E01.1080p.WEB.X264-METCON[rartv]-[rarbg.to]",
+            "size_total": 1.425523495,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Random.Acts.of.Flyness.S01E01.1080p.WEB.X264-METCON[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.425523105,
+                    "path": "Random.Acts.of.Flyness.S01E01.1080p.WEB.X264-METCON[rarbg]/Random.Acts.of.Flyness.S01E01.1080p.WEB.X264-METCON.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 3.6e-7,
+                    "path": "Random.Acts.of.Flyness.S01E01.1080p.WEB.X264-METCON[rarbg]/random.acts.of.flyness.s01e01.1080p.web.x264-metcon.nfo"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Random.Acts.of.Flyness.S01E01.720p.AMZN.WEBRip.DDP5.1.x264-monkee[rartv]-[rarbg.to]",
+            "size_total": 0.793601838,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.1e-8,
+                    "path": "Random.Acts.of.Flyness.S01E01.720p.AMZN.WEBRip.DDP5.1.x264-monkee[rartv]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.793601807,
+                    "path": "Random.Acts.of.Flyness.S01E01.720p.AMZN.WEBRip.DDP5.1.x264-monkee[rartv]/Random.Acts.of.Flyness.S01E01.720p.AMZN.WEB-DL.DDP5.1.H.264-monkee.mkv"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Random.Acts.of.Flyness.S01E02.1080p.WEB.X264-METCON [IPT]",
+            "size_total": 1.429340386,
+            "files_total": 17,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.6e-7,
+                    "path": "Random.Acts.of.Flyness.S01E02.1080p.WEB.X264-METCON/random.acts.of.flyness.s01e02.1080p.web.x264-metcon.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.1,
+                    "path": "Random.Acts.of.Flyness.S01E02.1080p.WEB.X264-METCON/random.acts.of.flyness.s01e02.1080p.web.x264-metcon.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.1,
+                    "path": "Random.Acts.of.Flyness.S01E02.1080p.WEB.X264-METCON/random.acts.of.flyness.s01e02.1080p.web.x264-metcon.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.1,
+                    "path": "Random.Acts.of.Flyness.S01E02.1080p.WEB.X264-METCON/random.acts.of.flyness.s01e02.1080p.web.x264-metcon.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.1,
+                    "path": "Random.Acts.of.Flyness.S01E02.1080p.WEB.X264-METCON/random.acts.of.flyness.s01e02.1080p.web.x264-metcon.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.1,
+                    "path": "Random.Acts.of.Flyness.S01E02.1080p.WEB.X264-METCON/random.acts.of.flyness.s01e02.1080p.web.x264-metcon.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.1,
+                    "path": "Random.Acts.of.Flyness.S01E02.1080p.WEB.X264-METCON/random.acts.of.flyness.s01e02.1080p.web.x264-metcon.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.1,
+                    "path": "Random.Acts.of.Flyness.S01E02.1080p.WEB.X264-METCON/random.acts.of.flyness.s01e02.1080p.web.x264-metcon.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.1,
+                    "path": "Random.Acts.of.Flyness.S01E02.1080p.WEB.X264-METCON/random.acts.of.flyness.s01e02.1080p.web.x264-metcon.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.1,
+                    "path": "Random.Acts.of.Flyness.S01E02.1080p.WEB.X264-METCON/random.acts.of.flyness.s01e02.1080p.web.x264-metcon.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.1,
+                    "path": "Random.Acts.of.Flyness.S01E02.1080p.WEB.X264-METCON/random.acts.of.flyness.s01e02.1080p.web.x264-metcon.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.1,
+                    "path": "Random.Acts.of.Flyness.S01E02.1080p.WEB.X264-METCON/random.acts.of.flyness.s01e02.1080p.web.x264-metcon.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.1,
+                    "path": "Random.Acts.of.Flyness.S01E02.1080p.WEB.X264-METCON/random.acts.of.flyness.s01e02.1080p.web.x264-metcon.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.1,
+                    "path": "Random.Acts.of.Flyness.S01E02.1080p.WEB.X264-METCON/random.acts.of.flyness.s01e02.1080p.web.x264-metcon.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.029339036,
+                    "path": "Random.Acts.of.Flyness.S01E02.1080p.WEB.X264-METCON/random.acts.of.flyness.s01e02.1080p.web.x264-metcon.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.1,
+                    "path": "Random.Acts.of.Flyness.S01E02.1080p.WEB.X264-METCON/random.acts.of.flyness.s01e02.1080p.web.x264-metcon.rar"
+                },
+                {
+                    "number": 17,
+                    "size": 9.9e-7,
+                    "path": "Random.Acts.of.Flyness.S01E02.1080p.WEB.X264-METCON/random.acts.of.flyness.s01e02.1080p.web.x264-metcon.sfv"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Random.Acts.of.Flyness.S01E02.1080p.WEB.X264-METCON[rartv]-[rarbg.to]",
+            "size_total": 1.429337446,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Random.Acts.of.Flyness.S01E02.1080p.WEB.X264-METCON[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.429337056,
+                    "path": "Random.Acts.of.Flyness.S01E02.1080p.WEB.X264-METCON[rarbg]/Random.Acts.of.Flyness.S01E02.1080p.WEB.X264-METCON.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 3.6e-7,
+                    "path": "Random.Acts.of.Flyness.S01E02.1080p.WEB.X264-METCON[rarbg]/random.acts.of.flyness.s01e02.1080p.web.x264-metcon.nfo"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Random.Acts.of.Flyness.S01E04.1080p.AMZN.WEBRip.DDP5.1.x264-monkee[rartv]-[rarbg.to]",
+            "size_total": 1.336627702,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Random.Acts.of.Flyness.S01E04.1080p.AMZN.WEBRip.DDP5.1.x264-monkee[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.336627672,
+                    "path": "Random.Acts.of.Flyness.S01E04.1080p.AMZN.WEBRip.DDP5.1.x264-monkee[rarbg]/Random.Acts.of.Flyness.S01E04.Items.Outside.the.Shelter.But.Within.Reach.1080p.AMZN.WEB-DL.DDP5.1.H.264-monkee.mkv"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Random.Acts.of.Flyness.S01E04.1080p.WEB.X264-METCON [IPT]",
+            "size_total": 1.41999205,
+            "files_total": 17,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.6e-7,
+                    "path": "Random.Acts.of.Flyness.S01E04.1080p.WEB.X264-METCON/random.acts.of.flyness.s01e04.1080p.web.x264-metcon.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.1,
+                    "path": "Random.Acts.of.Flyness.S01E04.1080p.WEB.X264-METCON/random.acts.of.flyness.s01e04.1080p.web.x264-metcon.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.1,
+                    "path": "Random.Acts.of.Flyness.S01E04.1080p.WEB.X264-METCON/random.acts.of.flyness.s01e04.1080p.web.x264-metcon.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.1,
+                    "path": "Random.Acts.of.Flyness.S01E04.1080p.WEB.X264-METCON/random.acts.of.flyness.s01e04.1080p.web.x264-metcon.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.1,
+                    "path": "Random.Acts.of.Flyness.S01E04.1080p.WEB.X264-METCON/random.acts.of.flyness.s01e04.1080p.web.x264-metcon.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.1,
+                    "path": "Random.Acts.of.Flyness.S01E04.1080p.WEB.X264-METCON/random.acts.of.flyness.s01e04.1080p.web.x264-metcon.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.1,
+                    "path": "Random.Acts.of.Flyness.S01E04.1080p.WEB.X264-METCON/random.acts.of.flyness.s01e04.1080p.web.x264-metcon.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.1,
+                    "path": "Random.Acts.of.Flyness.S01E04.1080p.WEB.X264-METCON/random.acts.of.flyness.s01e04.1080p.web.x264-metcon.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.1,
+                    "path": "Random.Acts.of.Flyness.S01E04.1080p.WEB.X264-METCON/random.acts.of.flyness.s01e04.1080p.web.x264-metcon.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.1,
+                    "path": "Random.Acts.of.Flyness.S01E04.1080p.WEB.X264-METCON/random.acts.of.flyness.s01e04.1080p.web.x264-metcon.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.1,
+                    "path": "Random.Acts.of.Flyness.S01E04.1080p.WEB.X264-METCON/random.acts.of.flyness.s01e04.1080p.web.x264-metcon.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.1,
+                    "path": "Random.Acts.of.Flyness.S01E04.1080p.WEB.X264-METCON/random.acts.of.flyness.s01e04.1080p.web.x264-metcon.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.1,
+                    "path": "Random.Acts.of.Flyness.S01E04.1080p.WEB.X264-METCON/random.acts.of.flyness.s01e04.1080p.web.x264-metcon.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.1,
+                    "path": "Random.Acts.of.Flyness.S01E04.1080p.WEB.X264-METCON/random.acts.of.flyness.s01e04.1080p.web.x264-metcon.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.0199907,
+                    "path": "Random.Acts.of.Flyness.S01E04.1080p.WEB.X264-METCON/random.acts.of.flyness.s01e04.1080p.web.x264-metcon.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.1,
+                    "path": "Random.Acts.of.Flyness.S01E04.1080p.WEB.X264-METCON/random.acts.of.flyness.s01e04.1080p.web.x264-metcon.rar"
+                },
+                {
+                    "number": 17,
+                    "size": 9.9e-7,
+                    "path": "Random.Acts.of.Flyness.S01E04.1080p.WEB.X264-METCON/random.acts.of.flyness.s01e04.1080p.web.x264-metcon.sfv"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Random.Acts.of.Flyness.S01E04.1080p.WEB.X264-METCON[rartv]-[rarbg.to]",
+            "size_total": 1.41998911,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Random.Acts.of.Flyness.S01E04.1080p.WEB.X264-METCON[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.41998872,
+                    "path": "Random.Acts.of.Flyness.S01E04.1080p.WEB.X264-METCON[rarbg]/Random.Acts.of.Flyness.S01E04.1080p.WEB.X264-METCON.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 3.6e-7,
+                    "path": "Random.Acts.of.Flyness.S01E04.1080p.WEB.X264-METCON[rarbg]/random.acts.of.flyness.s01e04.1080p.web.x264-metcon.nfo"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "name": "Random.Acts.of.Flyness.S01E04.480p.x264-mSD [IPT]",
+            "size_total": 0.111973813,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.111437517,
+                    "path": "Random.Acts.of.Flyness.S01E04.480p.x264-mSD/Random.Acts.of.Flyness.S01E04.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001138,
+                    "path": "Random.Acts.of.Flyness.S01E04.480p.x264-mSD/Random.Acts.of.Flyness.S01E04.480p.x264-mSD.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000182143,
+                    "path": "Random.Acts.of.Flyness.S01E04.480p.x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000220335,
+                    "path": "Random.Acts.of.Flyness.S01E04.480p.x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.00013268,
+                    "path": "Random.Acts.of.Flyness.S01E04.480p.x264-mSD/Screens/screen0003.png"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "name": "Random.Acts.Of.Flyness.S01E04.720p.AMZN.WEBRip.DDP5.1.x264-monkee[rartv]-[rarbg.to]",
+            "size_total": 0.570672746,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Random.Acts.Of.Flyness.S01E04.720p.AMZN.WEBRip.DDP5.1.x264-monkee[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.570672716,
+                    "path": "Random.Acts.Of.Flyness.S01E04.720p.AMZN.WEBRip.DDP5.1.x264-monkee[rarbg]/Random.Acts.Of.Flyness.S01E04.Items.Outside.the.Shelter.But.Within.Reach.720p.AMZN.WEB-DL.DDP5.1.H.264-monkee.mkv"
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "name": "Random.Acts.of.Flyness.S01E04.720p.HDTV.x264-aAF [IPT]",
+            "size_total": 0.670506052,
+            "files_total": 16,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000003085,
+                    "path": "Random.Acts.of.Flyness.S01E04.720p.HDTV.x264-aAF/random.acts.of.flyness.s01e04.720p.hdtv.x264-aaf.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.05,
+                    "path": "Random.Acts.of.Flyness.S01E04.720p.HDTV.x264-aAF/random.acts.of.flyness.s01e04.720p.hdtv.x264-aaf.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.05,
+                    "path": "Random.Acts.of.Flyness.S01E04.720p.HDTV.x264-aAF/random.acts.of.flyness.s01e04.720p.hdtv.x264-aaf.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.05,
+                    "path": "Random.Acts.of.Flyness.S01E04.720p.HDTV.x264-aAF/random.acts.of.flyness.s01e04.720p.hdtv.x264-aaf.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.05,
+                    "path": "Random.Acts.of.Flyness.S01E04.720p.HDTV.x264-aAF/random.acts.of.flyness.s01e04.720p.hdtv.x264-aaf.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.05,
+                    "path": "Random.Acts.of.Flyness.S01E04.720p.HDTV.x264-aAF/random.acts.of.flyness.s01e04.720p.hdtv.x264-aaf.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.05,
+                    "path": "Random.Acts.of.Flyness.S01E04.720p.HDTV.x264-aAF/random.acts.of.flyness.s01e04.720p.hdtv.x264-aaf.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.05,
+                    "path": "Random.Acts.of.Flyness.S01E04.720p.HDTV.x264-aAF/random.acts.of.flyness.s01e04.720p.hdtv.x264-aaf.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.05,
+                    "path": "Random.Acts.of.Flyness.S01E04.720p.HDTV.x264-aAF/random.acts.of.flyness.s01e04.720p.hdtv.x264-aaf.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.05,
+                    "path": "Random.Acts.of.Flyness.S01E04.720p.HDTV.x264-aAF/random.acts.of.flyness.s01e04.720p.hdtv.x264-aaf.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.05,
+                    "path": "Random.Acts.of.Flyness.S01E04.720p.HDTV.x264-aAF/random.acts.of.flyness.s01e04.720p.hdtv.x264-aaf.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.05,
+                    "path": "Random.Acts.of.Flyness.S01E04.720p.HDTV.x264-aAF/random.acts.of.flyness.s01e04.720p.hdtv.x264-aaf.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.05,
+                    "path": "Random.Acts.of.Flyness.S01E04.720p.HDTV.x264-aAF/random.acts.of.flyness.s01e04.720p.hdtv.x264-aaf.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.020502085,
+                    "path": "Random.Acts.of.Flyness.S01E04.720p.HDTV.x264-aAF/random.acts.of.flyness.s01e04.720p.hdtv.x264-aaf.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.05,
+                    "path": "Random.Acts.of.Flyness.S01E04.720p.HDTV.x264-aAF/random.acts.of.flyness.s01e04.720p.hdtv.x264-aaf.rar"
+                },
+                {
+                    "number": 16,
+                    "size": 8.82e-7,
+                    "path": "Random.Acts.of.Flyness.S01E04.720p.HDTV.x264-aAF/random.acts.of.flyness.s01e04.720p.hdtv.x264-aaf.sfv"
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "name": "Random.Acts.of.Flyness.S01E04.720p.HDTV.x264-aAF[rartv]-[rarbg.to]",
+            "size_total": 0.67050352,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Random.Acts.of.Flyness.S01E04.720p.HDTV.x264-aAF[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.670500349,
+                    "path": "Random.Acts.of.Flyness.S01E04.720p.HDTV.x264-aAF[rarbg]/Random.Acts.of.Flyness.S01E04.720p.HDTV.x264-aAF.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000003141,
+                    "path": "Random.Acts.of.Flyness.S01E04.720p.HDTV.x264-aAF[rarbg]/random.acts.of.flyness.s01e04.720p.hdtv.x264-aaf.nfo"
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "name": "Random.Acts.of.Flyness.S01E04.720p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.196259124,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.19383666,
+                    "path": "Random.Acts.of.Flyness.S01E04.720p.HEVC.x265-MeGusta/Random.Acts.of.Flyness.S01E04.720p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001202,
+                    "path": "Random.Acts.of.Flyness.S01E04.720p.HEVC.x265-MeGusta/Random.Acts.of.Flyness.S01E04.720p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000468315,
+                    "path": "Random.Acts.of.Flyness.S01E04.720p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000560457,
+                    "path": "Random.Acts.of.Flyness.S01E04.720p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000500508,
+                    "path": "Random.Acts.of.Flyness.S01E04.720p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000891982,
+                    "path": "Random.Acts.of.Flyness.S01E04.720p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "name": "Random.Acts.of.Flyness.S01E04.720p.WEB.X264-METCON [IPT]",
+            "size_total": 0.749695182,
+            "files_total": 17,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.57e-7,
+                    "path": "Random.Acts.of.Flyness.S01E04.720p.WEB.X264-METCON/random.acts.of.flyness.s01e04.720p.web.x264-metcon.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.05,
+                    "path": "Random.Acts.of.Flyness.S01E04.720p.WEB.X264-METCON/random.acts.of.flyness.s01e04.720p.web.x264-metcon.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.05,
+                    "path": "Random.Acts.of.Flyness.S01E04.720p.WEB.X264-METCON/random.acts.of.flyness.s01e04.720p.web.x264-metcon.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.05,
+                    "path": "Random.Acts.of.Flyness.S01E04.720p.WEB.X264-METCON/random.acts.of.flyness.s01e04.720p.web.x264-metcon.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.05,
+                    "path": "Random.Acts.of.Flyness.S01E04.720p.WEB.X264-METCON/random.acts.of.flyness.s01e04.720p.web.x264-metcon.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.05,
+                    "path": "Random.Acts.of.Flyness.S01E04.720p.WEB.X264-METCON/random.acts.of.flyness.s01e04.720p.web.x264-metcon.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.05,
+                    "path": "Random.Acts.of.Flyness.S01E04.720p.WEB.X264-METCON/random.acts.of.flyness.s01e04.720p.web.x264-metcon.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.05,
+                    "path": "Random.Acts.of.Flyness.S01E04.720p.WEB.X264-METCON/random.acts.of.flyness.s01e04.720p.web.x264-metcon.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.05,
+                    "path": "Random.Acts.of.Flyness.S01E04.720p.WEB.X264-METCON/random.acts.of.flyness.s01e04.720p.web.x264-metcon.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.05,
+                    "path": "Random.Acts.of.Flyness.S01E04.720p.WEB.X264-METCON/random.acts.of.flyness.s01e04.720p.web.x264-metcon.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.05,
+                    "path": "Random.Acts.of.Flyness.S01E04.720p.WEB.X264-METCON/random.acts.of.flyness.s01e04.720p.web.x264-metcon.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.05,
+                    "path": "Random.Acts.of.Flyness.S01E04.720p.WEB.X264-METCON/random.acts.of.flyness.s01e04.720p.web.x264-metcon.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.05,
+                    "path": "Random.Acts.of.Flyness.S01E04.720p.WEB.X264-METCON/random.acts.of.flyness.s01e04.720p.web.x264-metcon.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.05,
+                    "path": "Random.Acts.of.Flyness.S01E04.720p.WEB.X264-METCON/random.acts.of.flyness.s01e04.720p.web.x264-metcon.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.04969385,
+                    "path": "Random.Acts.of.Flyness.S01E04.720p.WEB.X264-METCON/random.acts.of.flyness.s01e04.720p.web.x264-metcon.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.05,
+                    "path": "Random.Acts.of.Flyness.S01E04.720p.WEB.X264-METCON/random.acts.of.flyness.s01e04.720p.web.x264-metcon.rar"
+                },
+                {
+                    "number": 17,
+                    "size": 9.75e-7,
+                    "path": "Random.Acts.of.Flyness.S01E04.720p.WEB.X264-METCON/random.acts.of.flyness.s01e04.720p.web.x264-metcon.sfv"
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "name": "Random.Acts.of.Flyness.S01E04.720p.WEB.X264-METCON[rartv]-[rarbg.to]",
+            "size_total": 0.749694386,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Random.Acts.of.Flyness.S01E04.720p.WEB.X264-METCON[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.749691885,
+                    "path": "Random.Acts.of.Flyness.S01E04.720p.WEB.X264-METCON[rarbg]/Random.Acts.of.Flyness.S01E04.720p.WEB.X264-METCON.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 3.57e-7,
+                    "path": "Random.Acts.of.Flyness.S01E04.720p.WEB.X264-METCON[rarbg]/random.acts.of.flyness.s01e04.720p.web.x264-metcon.nfo"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000002114,
+                    "path": "Random.Acts.of.Flyness.S01E04.720p.WEB.X264-METCON[rarbg]/tvmaze.nfo"
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "name": "Random.Acts.of.Flyness.S01E04.AAC.MP4-Mobile [IPT]",
+            "size_total": 0.119860016,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.119316033,
+                    "path": "Random.Acts.of.Flyness.S01E04.AAC.MP4-Mobile/Random.Acts.of.Flyness.S01E04.AAC.MP4-Mobile.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001295,
+                    "path": "Random.Acts.of.Flyness.S01E04.AAC.MP4-Mobile/Random.Acts.of.Flyness.S01E04.AAC.MP4-Mobile.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000225143,
+                    "path": "Random.Acts.of.Flyness.S01E04.AAC.MP4-Mobile/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000117493,
+                    "path": "Random.Acts.of.Flyness.S01E04.AAC.MP4-Mobile/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000040401,
+                    "path": "Random.Acts.of.Flyness.S01E04.AAC.MP4-Mobile/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000159651,
+                    "path": "Random.Acts.of.Flyness.S01E04.AAC.MP4-Mobile/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "name": "Random.Acts.of.Flyness.S01E04.Items.Outside.the.Shelter.But.Within.Reach.1080p.AMZN.WEB-DL.DDP5.1.H.264-monkee [IPT]",
+            "size_total": 1.342358244,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.336627672,
+                    "path": "Random.Acts.of.Flyness.S01E04.Items.Outside.the.Shelter.But.Within.Reach.1080p.AMZN.WEB-DL.DDP5.1.H.264-monkee/Random.Acts.of.Flyness.S01E04.Items.Outside.the.Shelter.But.Within.Reach.1080p.AMZN.WEB-DL.DDP5.1.H.264-monkee.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001656,
+                    "path": "Random.Acts.of.Flyness.S01E04.Items.Outside.the.Shelter.But.Within.Reach.1080p.AMZN.WEB-DL.DDP5.1.H.264-monkee/Random.Acts.of.Flyness.S01E04.Items.Outside.the.Shelter.But.Within.Reach.1080p.AMZN.WEB-DL.DDP5.1.H.264-monkee.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00169433,
+                    "path": "Random.Acts.of.Flyness.S01E04.Items.Outside.the.Shelter.But.Within.Reach.1080p.AMZN.WEB-DL.DDP5.1.H.264-monkee/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001413714,
+                    "path": "Random.Acts.of.Flyness.S01E04.Items.Outside.the.Shelter.But.Within.Reach.1080p.AMZN.WEB-DL.DDP5.1.H.264-monkee/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.001117055,
+                    "path": "Random.Acts.of.Flyness.S01E04.Items.Outside.the.Shelter.But.Within.Reach.1080p.AMZN.WEB-DL.DDP5.1.H.264-monkee/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.001503817,
+                    "path": "Random.Acts.of.Flyness.S01E04.Items.Outside.the.Shelter.But.Within.Reach.1080p.AMZN.WEB-DL.DDP5.1.H.264-monkee/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "name": "Random.Acts.Of.Flyness.S01E04.Items.Outside.the.Shelter.But.Within.Reach.720p.AMZN.WEB-DL.DDP5.1.H.264-monkee [IPT]",
+            "size_total": 0.573629988,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.570672716,
+                    "path": "Random.Acts.Of.Flyness.S01E04.Items.Outside.the.Shelter.But.Within.Reach.720p.AMZN.WEB-DL.DDP5.1.H.264-monkee/Random.Acts.Of.Flyness.S01E04.Items.Outside.the.Shelter.But.Within.Reach.720p.AMZN.WEB-DL.DDP5.1.H.264-monkee.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001654,
+                    "path": "Random.Acts.Of.Flyness.S01E04.Items.Outside.the.Shelter.But.Within.Reach.720p.AMZN.WEB-DL.DDP5.1.H.264-monkee/Random.Acts.Of.Flyness.S01E04.Items.Outside.the.Shelter.But.Within.Reach.720p.AMZN.WEB-DL.DDP5.1.H.264-monkee.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00093091,
+                    "path": "Random.Acts.Of.Flyness.S01E04.Items.Outside.the.Shelter.But.Within.Reach.720p.AMZN.WEB-DL.DDP5.1.H.264-monkee/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000685952,
+                    "path": "Random.Acts.Of.Flyness.S01E04.Items.Outside.the.Shelter.But.Within.Reach.720p.AMZN.WEB-DL.DDP5.1.H.264-monkee/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000594156,
+                    "path": "Random.Acts.Of.Flyness.S01E04.Items.Outside.the.Shelter.But.Within.Reach.720p.AMZN.WEB-DL.DDP5.1.H.264-monkee/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.0007446,
+                    "path": "Random.Acts.Of.Flyness.S01E04.Items.Outside.the.Shelter.But.Within.Reach.720p.AMZN.WEB-DL.DDP5.1.H.264-monkee/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "name": "Random.Acts.of.Flyness.S01E04.WEBRip.x264-ION10-[rarbg.to]",
+            "size_total": 0.318312566,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Random.Acts.of.Flyness.S01E04.WEBRip.x264-ION10/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.318239765,
+                    "path": "Random.Acts.of.Flyness.S01E04.WEBRip.x264-ION10/Random.Acts.of.Flyness.S01E04.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000033642,
+                    "path": "Random.Acts.of.Flyness.S01E04.WEBRip.x264-ION10/Subs/2_Eng.srt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000039129,
+                    "path": "Random.Acts.of.Flyness.S01E04.WEBRip.x264-ION10/Subs/3_Eng.srt"
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "name": "Random.Acts.of.Flyness.S01E04.XviD-AFG [IPT]",
+            "size_total": 0.287164305,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.286654956,
+                    "path": "Random.Acts.of.Flyness.S01E04.XviD-AFG/Random.Acts.of.Flyness.S01E04.XviD-AFG.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001174,
+                    "path": "Random.Acts.of.Flyness.S01E04.XviD-AFG/Random.Acts.of.Flyness.S01E04.XviD-AFG.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000184443,
+                    "path": "Random.Acts.of.Flyness.S01E04.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000106518,
+                    "path": "Random.Acts.of.Flyness.S01E04.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000070225,
+                    "path": "Random.Acts.of.Flyness.S01E04.XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000146989,
+                    "path": "Random.Acts.of.Flyness.S01E04.XviD-AFG/Screens/screen0004.png"
+                }
+            ]
+        }
+    ],
+    "collection_cumulative_by_btiha": [
+        {
+            "id": 33,
+            "name": "multi-btih-2-2-x-[limetorrents.info]Random.Acts.of.Flyness.S01E04.1080p.AMZN.WEBRip.DDP5.1.x264-monk",
+            "btih": "ba1e7bb4d10e9fc6b74d6023f1765e68bcbb934b",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.336627702,
+            "creation": "2018-08-26T18:00:08.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 65903,
+            "uuploaders": 1098
+        },
+        {
+            "id": 10,
+            "name": "[limetorrents.info]Random.Acts.of.Flyness.S01E04.XviD-AFG",
+            "btih": "2d52d4ea53577a0141036efbbd082151552bb151",
+            "resolution": "720",
+            "encoding": "xvid",
+            "gigabytes": 0.287164389,
+            "creation": "2018-08-25T09:20:03.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 54225,
+            "uuploaders": 656
+        },
+        {
+            "id": 4,
+            "name": "[limetorrents.info]Random.Acts.of.Flyness.S01E04.480p.x264-mSD",
+            "btih": "b98387f63297c94aa84b8d89f8a251d0d8db98c0",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.111973897,
+            "creation": "2018-08-25T13:30:03.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 52937,
+            "uuploaders": 648
+        },
+        {
+            "id": 34,
+            "name": "multi-btih-3-2-x-[limetorrents.info]Random.Acts.of.Flyness.S01E04.WEBRip.x264-ION10",
+            "btih": "3af90a3df45beed9e6402e5045ecf0faa5c7cbc5",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.318312566,
+            "creation": "2018-08-26T18:00:11.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 51173,
+            "uuploaders": 977
+        },
+        {
+            "id": 25,
+            "name": "Random.Acts.of.Flyness.S01E04.720p.WEB.X264-METCON[rartv]-[rarbg.to]",
+            "btih": "487ae4f1f46c8331a97c331206f770481f64b0a9",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.749694386,
+            "creation": "2018-08-26T08:56:47.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 50326,
+            "uuploaders": 293
+        },
+        {
+            "id": 8,
+            "name": "[limetorrents.info]Random.Acts.of.Flyness.S01E04.720p.WEB.X264-METCON",
+            "btih": "aa4b0f89dab27b19a41135ae104d02066662bd3b",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.752577456,
+            "creation": "2018-08-25T09:20:03.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 46273,
+            "uuploaders": 745
+        },
+        {
+            "id": 6,
+            "name": "[limetorrents.info]Random.Acts.of.Flyness.S01E04.720p.HDTV.x264-aAF",
+            "btih": "6a3761f405dfd77eb1b70340f2707ebc85e62ec9",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.673619453,
+            "creation": "2018-08-25T11:50:03.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 45824,
+            "uuploaders": 277
+        },
+        {
+            "id": 7,
+            "name": "[limetorrents.info]Random.Acts.of.Flyness.S01E04.720p.HEVC.x265-MeGusta",
+            "btih": "8607b6642ea151693db61325963e16caed70943f",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.196259208,
+            "creation": "2018-08-25T10:10:03.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 44985,
+            "uuploaders": 747
+        },
+        {
+            "id": 22,
+            "name": "Random.Acts.of.Flyness.S01E04.720p.HDTV.x264-aAF[rartv]-[rarbg.to]",
+            "btih": "8a294b5aaf11116eceb11bde9253ac72b6c3da52",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.67050352,
+            "creation": "2018-08-26T08:56:48.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 42886,
+            "uuploaders": 264
+        },
+        {
+            "id": 31,
+            "name": "multi-btih-0-2-x-[limetorrents.info]Random.Acts.Of.Flyness.S01E04.720p.AMZN.WEBRip.DDP5.1.x264-monke",
+            "btih": "ca0a3519b19f449c85799a1baa1a562bded10c3c",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.570672746,
+            "creation": "2018-08-26T17:53:39.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 42325,
+            "uuploaders": 423
+        },
+        {
+            "id": 32,
+            "name": "multi-btih-1-2-x-[limetorrents.info]Random.Acts.of.Flyness.S01E01.1080p.WEB.X264-METCON",
+            "btih": "3c64003263d3742b2f19bb11e7c70ebe66b2040a",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.425523495,
+            "creation": "2018-08-26T18:00:05.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 40667,
+            "uuploaders": 503
+        },
+        {
+            "id": 3,
+            "name": "[limetorrents.info]Random.Acts.of.Flyness.S01E04.1080p.WEB.X264-METCON",
+            "btih": "3a24f2238f17d2ad406c444c7aa00b6e428a1b68",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.425669186,
+            "creation": "2018-08-25T09:20:02.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 34579,
+            "uuploaders": 572
+        },
+        {
+            "id": 13,
+            "name": "Random.Acts.of.Flyness.S01E01.720p.AMZN.WEBRip.DDP5.1.x264-monkee[rartv]-[rarbg.to]",
+            "btih": "a8c45d2cf779bacd763bd878dc82dd5ed817ce4f",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.793601838,
+            "creation": "2018-08-19T17:17:45.000000000Z,mktorrent 1.0,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 26870,
+            "uuploaders": 370
+        },
+        {
+            "id": 18,
+            "name": "Random.Acts.of.Flyness.S01E04.1080p.WEB.X264-METCON[rartv]-[rarbg.to]",
+            "btih": "cecba01f396afd4247882133469808adcc92ac31",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.41998911,
+            "creation": "2018-08-26T08:57:37.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 23009,
+            "uuploaders": 269
+        },
+        {
+            "id": 15,
+            "name": "Random.Acts.of.Flyness.S01E02.1080p.WEB.X264-METCON[rartv]-[rarbg.to]",
+            "btih": "d09b4643dcc1b5ecad1a3c5830797826bc662343",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.429337446,
+            "creation": "2018-08-26T08:57:41.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 22694,
+            "uuploaders": 225
+        },
+        {
+            "id": 21,
+            "name": "Random.Acts.of.Flyness.S01E04.720p.HDTV.x264-aAF [IPT]",
+            "btih": "be173c80f4c6e0232999ae7b4f22fc76758677a2",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.670506052,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 209,
+            "uuploaders": 22
+        },
+        {
+            "id": 17,
+            "name": "Random.Acts.of.Flyness.S01E04.1080p.WEB.X264-METCON [IPT]",
+            "btih": "71cf153ebbb0146eb470fa69db957e4a565b1ecc",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.41999205,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 47,
+            "uuploaders": 23
+        },
+        {
+            "id": 24,
+            "name": "Random.Acts.of.Flyness.S01E04.720p.WEB.X264-METCON [IPT]",
+            "btih": "41967a5f94dcb13138f05c41e0ffbbff4e70832f",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.749695182,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 14,
+            "uuploaders": 13
+        },
+        {
+            "id": 28,
+            "name": "Random.Acts.Of.Flyness.S01E04.Items.Outside.the.Shelter.But.Within.Reach.720p.AMZN.WEB-DL.DDP5.1.H.264-monkee [IPT]",
+            "btih": "7279853573dcbb3a4b1103dfc01612777562481b",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.573629988,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 10,
+            "uuploaders": 8
+        },
+        {
+            "id": 27,
+            "name": "Random.Acts.of.Flyness.S01E04.Items.Outside.the.Shelter.But.Within.Reach.1080p.AMZN.WEB-DL.DDP5.1.H.264-monkee [IPT]",
+            "btih": "abb1b8c95a7d538e98276ce2b024a22e761e3359",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.342358244,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 8,
+            "uuploaders": 7
+        },
+        {
+            "id": 30,
+            "name": "Random.Acts.of.Flyness.S01E04.XviD-AFG [IPT]",
+            "btih": "d93afefc2f40840eb1c5f58844ec2b86fca22785",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.287164305,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 8,
+            "uuploaders": 6
+        },
+        {
+            "id": 23,
+            "name": "Random.Acts.of.Flyness.S01E04.720p.HEVC.x265-MeGusta [IPT]",
+            "btih": "2eafa1805dc18262f416ff436dcd24ff62b318bb",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.196259124,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 7,
+            "uuploaders": 6
+        },
+        {
+            "id": 26,
+            "name": "Random.Acts.of.Flyness.S01E04.AAC.MP4-Mobile [IPT]",
+            "btih": "c97d26cb4dea90c280a1631aeb1965ae4d9631b5",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.119860016,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 7,
+            "uuploaders": 5
+        },
+        {
+            "id": 19,
+            "name": "Random.Acts.of.Flyness.S01E04.480p.x264-mSD [IPT]",
+            "btih": "f4061599b0801389bbd506c68e376350a15a336a",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.111973813,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 6,
+            "uuploaders": 5
+        },
+        {
+            "id": 14,
+            "name": "Random.Acts.of.Flyness.S01E02.1080p.WEB.X264-METCON [IPT]",
+            "btih": "2fb23494cc0acedd55162a3f5d001d5b8ad8b159",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.429340386,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 4,
+            "uuploaders": 3
+        },
+        {
+            "id": 11,
+            "name": "Random.Acts.of.Flyness.S01E01.1080p.WEB.X264-METCON [IPT]",
+            "btih": "9f78adc34c81883f5c98fe1efc873987f0d28cf1",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.425526435,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 3,
+            "uuploaders": 2
+        }
+    ]
+}
