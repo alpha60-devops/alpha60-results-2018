@@ -1,0 +1,96 @@
+{
+  "authorization": {
+    "archive_mutated": false,
+    "excluded_member_classes": [
+      "hour",
+      "week",
+      "cumulative"
+    ],
+    "raw_samples_opened": false,
+    "scope": "read only streaming of per-torrent day records"
+  },
+  "available_day_products": 28,
+  "cache_members": 6673,
+  "collection_key": "house-of-cards-06",
+  "downstream_cache_synthesis": {
+    "cache_members": {
+      "cumulative": 267,
+      "week": 1011
+    },
+    "derived_durations": [
+      "week",
+      "cumulative"
+    ],
+    "producer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-cache-samples.exe",
+      "sha256": "ad35383a3e27b224a9e98d60c7dd087cc9f3d952bb91fa46eb9352afc8240ef6",
+      "size": 28639432
+    },
+    "sample_anchor": {
+      "directories": [
+        "2018-11-02-at-00-00",
+        "2018-11-29-at-00-00"
+      ],
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2018/house-of-cards-06/tmp/house-of-cards-06-released-day-sample-anchor",
+      "raw_samples_opened": false,
+      "synthetic": true
+    },
+    "schema": "alpha60-released-day-downstream-cache/1",
+    "source_duration": "day",
+    "status": "pass"
+  },
+  "first_date": "2018-11-02",
+  "first_index": 1,
+  "indices": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28
+  ],
+  "last_date": "2018-11-29",
+  "last_index": 28,
+  "missing_indices": [],
+  "sample_span_days": 28,
+  "schema": "alpha60-day-cache-stream-contract/1",
+  "selection": {
+    "admitted_cache_members": 6673,
+    "archive_mutated": false,
+    "excluded_cache_members": 0,
+    "policy": "released-sample-endpoints-in-place",
+    "required_first_date": "2018-11-02",
+    "required_last_date": "2018-11-29",
+    "required_span_days": 28,
+    "schema": "alpha60-released-day-cache-window/1",
+    "source_cache_members": 6673,
+    "source_first_date": "2018-11-02",
+    "source_first_index": 1,
+    "source_last_date": "2018-11-29",
+    "source_last_index": 28
+  },
+  "sparse": false,
+  "status": "pass"
+}
