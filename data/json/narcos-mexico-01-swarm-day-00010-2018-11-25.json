@@ -1,0 +1,17 @@
+{
+    "datestamp": "2018-11-25",
+    "collection_name": "Narcos Mexico",
+    "collection_id": "1",
+    "collection_key": "narcos-mexico-01",
+    "collection_notes": "",
+    "data_version": "2026-08-05",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "6:1777968300",
+    "summary_type": "day",
+    "summary_index": 10,
+    "btiha_size": 285,
+    "upeers_total": 475851,
+    "useeds_total": 119935,
+    "upeers_new": 0,
+    "useeds_new": 0
+}
