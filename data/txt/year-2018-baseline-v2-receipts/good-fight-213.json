@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt5853176",
+    "imdb_id": "tt5853176",
+    "revision": "5daa2bb0f58fe6b678ea0a572049b3311de52618",
+    "wikidata_id": "Q28052823",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Good_Fight"
+  },
+  "coverage_sha256": "e0844bf09d9bb71b8af69feb3547b8a9c7ded25d8b30c401888f75e04b6bd3f3",
+  "generated_at": "2026-09-06T18:18:20.455880+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2018-archives/good-fight-213.cache/cache.20180616.tar.xz",
+      "sha256": "e841eb3273cc9c32e7e71e27b20983de367301acb2b6d7ba5f903f8a11d24fac",
+      "size": 42467896
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2018/data/txt/year-2018-coverage-evidence/good-fight-213.md",
+      "sha256": "5912ede0f17993e11bac3ed63e42d005c8aa96d0afbcb0d744b0bfdba936b01d",
+      "size": 592
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2018/data/txt/year-2018-day-cache-stream-receipts/good-fight-213.json",
+      "sha256": "ef1d96a4ca6f0d4aad4610fadf399b440d1ddce110bfedc2ecce5ae91aec63bc",
+      "size": 2058
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2018/data/txt/year-2018-day-product-receipts/good-fight-213.json",
+      "sha256": "a0779c6ad1b3028b6f938705e61671c552e1ec025f0059353ea4da4319a6f6aa",
+      "size": 366
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2018-control/worker-map.json",
+      "sha256": "0f0151a9d86552ffa4d2bdec8cc0b2a7ce1ff4f549d25d26b400c16672f3f222",
+      "size": 55881
+    }
+  },
+  "media_object": "good-fight-213",
+  "published_files": {
+    "data/csv/bytes/good-fight-213-cumulative-detail.2018-btiha-itemized-by-bytes.csv": "9d93c4dfcc11bdf2d18a3e09c13d06b49e1d3686c113c77b2f4053947d7b71d7",
+    "docs/itemized/figures/good-fight-213-carto-4k.webp": "1cc30dadc70f291e28e4dfbb2073eff3ecd7c1992d62707d298f69230ea1eebb",
+    "docs/itemized/figures/good-fight-213-carto.png": "af118316124afbb4e91f61f281d7b35cb0e16a793dbf626a8bd17b61de4b4a24",
+    "docs/itemized/figures/good-fight-213-cumulative-detail-btiha-itemized-by-bytes.svg": "d15377a70872764a0299cc9fcbc69f6e18bd9b95c5f0d079d746fd555de3f12d",
+    "docs/itemized/figures/good-fight-213-data-ge-1080p-4k.webp": "60f1fdc944a5feb98484cff6e5ba291961d0b898c640736d967c2359b8dc1da6",
+    "docs/itemized/figures/good-fight-213-data-ge-1080p.webp": "71f23059aecac3039b1558e1373eb482f050c916b74286c544bc18cba6d757e6",
+    "docs/itemized/figures/good-fight-213-data-lt-1080p-4k.webp": "f5ec2e6920108a699924890df4c65d61133d156e5a11d45031ab21dc6bf763dd",
+    "docs/itemized/figures/good-fight-213-data-lt-1080p.webp": "7e7a72ca1746c6925e0f736af9fd9bfefe1d109e7060c1abaebeac8a6875b18c",
+    "docs/itemized/figures/good-fight-213-downloads-by-day-day.svg": "e184c8d1520489bfadabe95c4a104c4324c8318829f03d042184835ceba8a0c3",
+    "docs/itemized/figures/good-fight-213-downloads-by-week-good-fight-213-week.svg": "42f25167f62b55d40ad37d39f1370bd66e3dcbc13cf76b846c669ebadfbf6b42",
+    "docs/itemized/good-fight-213-sample-cache-audit.md": "c74ee98f33b8d3361833f627a42c412035b56ccfce38269246eb42bc68462056",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "27af472f439958c53f0aab30b89cddaa411eedaf",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2018/good-fight-213/tmp/good-fight-213-cumulative-btiha.geojson",
+        "sha256": "399ba4674e16f614c98d0a41dcddf4cd1b2d6803d94401f7f89a06a67be14e4d",
+        "size": 8258373
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2018/good-fight-213/tmp/good-fight-213-cumulative-btiha-media-objects.json",
+        "sha256": "2422a6ad17cf7fbb83662d151301b0ccbd2f1b334eef5c58c281f52319ef8a73",
+        "size": 215479
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2018-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "good-fight-213",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "3e6a87ec7490ec3b39db0dba09ab6311a015621eb704ac975c05f399296c8393",
+      "size": 8759376
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2018-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          61.0,
+          46.0,
+          39.0,
+          38.0,
+          36.0,
+          35.0,
+          33.0,
+          32.0,
+          30.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Ashburn",
+          "London",
+          "Columbus",
+          "Frankfurt am Main",
+          "Dublin",
+          "New York City",
+          "Lelystad",
+          "Paris",
+          "Boardman",
+          "Dallas"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          50.0,
+          36.0,
+          35.0,
+          31.0,
+          31.0,
+          29.0,
+          29.0,
+          28.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "London",
+          "Ashburn",
+          "Sydney",
+          "Quezon City",
+          "Frankfurt am Main",
+          "Dublin",
+          "Paris",
+          "Dallas",
+          "Cape Town",
+          "Madrid"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 21,
+        "y_tick_labels": 20
+      },
+      "histogram": {
+        "bars": 15,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 6,
+        "x_tick_marks": 6,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 3,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "27af472f439958c53f0aab30b89cddaa411eedaf",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "980e731bb2e99b13ecc9d15c75480125d514e26c",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "5daa2bb0f58fe6b678ea0a572049b3311de52618"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2018"
+}
