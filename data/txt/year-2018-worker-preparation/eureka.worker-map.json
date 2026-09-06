@@ -1,0 +1,1506 @@
+{
+  "cache_root": "/mnt/gold/src/alpha60-samples-cache.gold",
+  "owner": "eureka",
+  "records": [
+    {
+      "archive": {
+        "filename": "cache.20180310.tar.xz",
+        "filename_date": "20180310",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/american-crime-story-205.cache/cache.20180310.tar.xz",
+        "sha256": "9ae6612b4dfbd26b5709883ebb7028b45f95063c84ff2760874fadb21c9bddf2",
+        "size": 36085252
+      },
+      "collection_key": "american-crime-story-205",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 24,
+          "cache_members": 1184,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2018-03-10",
+          "sample_span_days": 24,
+          "sample_start": "2018-02-15",
+          "torrent_indices": 50
+        },
+        "required_collection_key": "american-crime-story-205",
+        "required_day_products": 24,
+        "required_sample_days": 24,
+        "required_sample_end": "2018-03-10",
+        "required_sample_start": "2018-02-15",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "205",
+        "collection_name": "American Crime Story",
+        "metadata_version": "2025-11-22",
+        "sample_days": 24,
+        "sample_end": "2018-03-10",
+        "sample_start": "2018-02-15",
+        "sha256": "ae423838d2e520367230fff4ada38955e27dea1d520b97a4bdf37cb41ee6b692",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/american-crime-story-205.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20180310.tar.xz",
+            "size": 36085252
+          }
+        ],
+        "expected_filename_date": "20180310"
+      },
+      "worker_archive_relative_path": "american-crime-story-205.cache/cache.20180310.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20181101.tar.xz",
+        "filename_date": "20181101",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/chilling-adventures-of-sabrina-01.cache/cache.20181101.tar.xz",
+        "sha256": "4eb1519bf7b21fb8f50e0115a7e8e5eac7b4ae7c2341c546d92134286b2470c3",
+        "size": 55801648
+      },
+      "collection_key": "chilling-adventures-of-sabrina-01",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 7,
+          "cache_members": 1163,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2018-11-01",
+          "sample_span_days": 7,
+          "sample_start": "2018-10-26",
+          "torrent_indices": 195
+        },
+        "required_collection_key": "chilling-adventures-of-sabrina-01",
+        "required_day_products": 7,
+        "required_sample_days": 7,
+        "required_sample_end": "2018-11-01",
+        "required_sample_start": "2018-10-26",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "1",
+        "collection_name": "Chilling Adventures of Sabrina",
+        "metadata_version": "2025-11-22",
+        "sample_days": 7,
+        "sample_end": "2018-11-01",
+        "sample_start": "2018-10-26",
+        "sha256": "002a568d2c03ca451e77d539a5b41be273db5c10f9c9bfe822349e60ab684936",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/chilling-adventures-of-sabrina-01.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20181101.tar.xz",
+            "size": 55801648
+          }
+        ],
+        "expected_filename_date": "20181101"
+      },
+      "worker_archive_relative_path": "chilling-adventures-of-sabrina-01.cache/cache.20181101.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20181103.tar.xz",
+        "filename_date": "20181103",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/doctor-who-1101.cache/cache.20181103.tar.xz",
+        "sha256": "0978deac739e7b7b0fa7154a3f43cca8ce8acfe4aaeb5e30192cbc8ace6ff3dc",
+        "size": 217991072
+      },
+      "collection_key": "doctor-who-1101",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 28,
+          "cache_members": 2493,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2018-11-03",
+          "sample_span_days": 28,
+          "sample_start": "2018-10-07",
+          "torrent_indices": 97
+        },
+        "required_collection_key": "doctor-who-1101",
+        "required_day_products": 28,
+        "required_sample_days": 28,
+        "required_sample_end": "2018-11-03",
+        "required_sample_start": "2018-10-07",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "1101",
+        "collection_name": "Doctor Who 2005",
+        "metadata_version": "2025-11-22",
+        "sample_days": 28,
+        "sample_end": "2018-11-03",
+        "sample_start": "2018-10-07",
+        "sha256": "389e369979abc40ba1f9d04739bddfa4e903c25563f725019618b2dfb44e024e",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/doctor-who-1101.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20181103.tar.xz",
+            "size": 217991072
+          }
+        ],
+        "expected_filename_date": "20181103"
+      },
+      "worker_archive_relative_path": "doctor-who-1101.cache/cache.20181103.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20181118.tar.xz",
+        "filename_date": "20181118",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/doctor-who-1105.cache/cache.20181118.tar.xz",
+        "sha256": "71c48aa2b86f49f49f9df673297b73d00f15c91fa087090c05e9b5a15a48b046",
+        "size": 102928164
+      },
+      "collection_key": "doctor-who-1105",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 14,
+          "cache_members": 832,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2018-11-18",
+          "sample_span_days": 14,
+          "sample_start": "2018-11-05",
+          "torrent_indices": 66
+        },
+        "required_collection_key": "doctor-who-1105",
+        "required_day_products": 14,
+        "required_sample_days": 14,
+        "required_sample_end": "2018-11-18",
+        "required_sample_start": "2018-11-05",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "11",
+        "collection_name": "Doctor Who",
+        "metadata_version": "2025-11-22",
+        "sample_days": 14,
+        "sample_end": "2018-11-18",
+        "sample_start": "2018-11-05",
+        "sha256": "7ddaa823f6954a1fc96fedec8eef1fad8707f2bb71f327033827534915bfe845",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/doctor-who-1105.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20181118.tar.xz",
+            "size": 102928164
+          }
+        ],
+        "expected_filename_date": "20181118"
+      },
+      "worker_archive_relative_path": "doctor-who-1105.cache/cache.20181118.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20180616.tar.xz",
+        "filename_date": "20180616",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/good-fight-213.cache/cache.20180616.tar.xz",
+        "sha256": "e841eb3273cc9c32e7e71e27b20983de367301acb2b6d7ba5f903f8a11d24fac",
+        "size": 42467896
+      },
+      "collection_key": "good-fight-213",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 21,
+          "cache_members": 1478,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2018-06-16",
+          "sample_span_days": 21,
+          "sample_start": "2018-05-27",
+          "torrent_indices": 81
+        },
+        "required_collection_key": "good-fight-213",
+        "required_day_products": 21,
+        "required_sample_days": 21,
+        "required_sample_end": "2018-06-16",
+        "required_sample_start": "2018-05-27",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "2",
+        "collection_name": "The Good Fight",
+        "metadata_version": "2025-11-22",
+        "sample_days": 21,
+        "sample_end": "2018-06-16",
+        "sample_start": "2018-05-27",
+        "sha256": "6ef08b1857c021a3c96af02020dc4bff5f1af87fbdbf8328e764921872ebae58",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/good-fight-213.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20180616.tar.xz",
+            "size": 42467896
+          }
+        ],
+        "expected_filename_date": "20180616"
+      },
+      "worker_archive_relative_path": "good-fight-213.cache/cache.20180616.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20180608.tar.xz",
+        "filename_date": "20180608",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/handmaids-tale-208.cache/cache.20180608.tar.xz",
+        "sha256": "7b1cf49620dded0fc116f84192491e4b3f8ff2f2774b45c3e2dcb3e2b5c74b23",
+        "size": 19292228
+      },
+      "collection_key": "handmaids-tale-208",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 3,
+          "cache_members": 117,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2018-06-08",
+          "sample_span_days": 3,
+          "sample_start": "2018-06-06",
+          "torrent_indices": 48
+        },
+        "required_collection_key": "handmaids-tale-208",
+        "required_day_products": 3,
+        "required_sample_days": 3,
+        "required_sample_end": "2018-06-08",
+        "required_sample_start": "2018-06-06",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "2",
+        "collection_name": "The Handmaid's Tale",
+        "metadata_version": "2025-11-22",
+        "sample_days": 3,
+        "sample_end": "2018-06-08",
+        "sample_start": "2018-06-06",
+        "sha256": "576f77ea068e900ef8175d93d7d5216f0fe36aee0ec85e4bd1b72c9fcdb3660c",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/handmaids-tale-208.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20180608.tar.xz",
+            "size": 19292228
+          }
+        ],
+        "expected_filename_date": "20180608"
+      },
+      "worker_archive_relative_path": "handmaids-tale-208.cache/cache.20180608.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20181129.tar.xz",
+        "filename_date": "20181129",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/house-of-cards-06.cache/cache.20181129.tar.xz",
+        "sha256": "e6d554b897881757255f886c7414badf6bb4441a71f0c08582adbf337e9e526e",
+        "size": 232620340
+      },
+      "collection_key": "house-of-cards-06",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 28,
+          "cache_members": 6673,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2018-11-29",
+          "sample_span_days": 28,
+          "sample_start": "2018-11-02",
+          "torrent_indices": 267
+        },
+        "required_collection_key": "house-of-cards-06",
+        "required_day_products": 28,
+        "required_sample_days": 28,
+        "required_sample_end": "2018-11-29",
+        "required_sample_start": "2018-11-02",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "6",
+        "collection_name": "House of Cards",
+        "metadata_version": "2025-11-22",
+        "sample_days": 28,
+        "sample_end": "2018-11-29",
+        "sample_start": "2018-11-02",
+        "sha256": "130aac53097ece300cb2aa7d850e520c6e1660669879d16510b9004ea33fc982",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/house-of-cards-06.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20181129.tar.xz",
+            "size": 232620340
+          }
+        ],
+        "expected_filename_date": "20181129"
+      },
+      "worker_archive_relative_path": "house-of-cards-06.cache/cache.20181129.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20180625.tar.xz",
+        "filename_date": "20180625",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/into-the-badlands-308.cache/cache.20180625.tar.xz",
+        "sha256": "f77b99bb0e97c13f0482dbd05b0b4423428c61962aace04d8a3d43925b7c74dc",
+        "size": 31059728
+      },
+      "collection_key": "into-the-badlands-308",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 8,
+          "cache_members": 448,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2018-06-25",
+          "sample_span_days": 8,
+          "sample_start": "2018-06-18",
+          "torrent_indices": 69
+        },
+        "required_collection_key": "into-the-badlands-308",
+        "required_day_products": 8,
+        "required_sample_days": 8,
+        "required_sample_end": "2018-06-25",
+        "required_sample_start": "2018-06-18",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "308",
+        "collection_name": "Into The Badlands",
+        "metadata_version": "2025-11-22",
+        "sample_days": 8,
+        "sample_end": "2018-06-25",
+        "sample_start": "2018-06-18",
+        "sha256": "d0ba94175f63923bc6cc05130bbdbebc622ab18aba310592ed0fc5a8219732bb",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/into-the-badlands-308.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20180625.tar.xz",
+            "size": 31059728
+          }
+        ],
+        "expected_filename_date": "20180625"
+      },
+      "worker_archive_relative_path": "into-the-badlands-308.cache/cache.20180625.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20180412.tar.xz",
+        "filename_date": "20180412",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/legend-of-galactic-heroes-die-neue-these.cache/cache.20180412.tar.xz",
+        "sha256": "3d88c2552eaf36e89eb2a64a9721e8b8e77cb6e23fb46ae7f5953f7a44408b64",
+        "size": 19953108
+      },
+      "collection_key": "legend-of-galactic-heroes-die-neue-these",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 10,
+          "cache_members": 343,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2018-04-12",
+          "sample_span_days": 10,
+          "sample_start": "2018-04-03",
+          "torrent_indices": 40
+        },
+        "required_collection_key": "legend-of-galactic-heroes-die-neue-these",
+        "required_day_products": 10,
+        "required_sample_days": 10,
+        "required_sample_end": "2018-04-12",
+        "required_sample_start": "2018-04-03",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "",
+        "collection_name": "Legend of the Galactic Heroes",
+        "metadata_version": "2025-11-22",
+        "sample_days": 10,
+        "sample_end": "2018-04-12",
+        "sample_start": "2018-04-03",
+        "sha256": "cd3c90c4f406758079f403871c70946fdaf2a0ec85f1f7adc807b452723df211",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/legend-of-galactic-heroes-die-neue-these.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20180412.tar.xz",
+            "size": 19953108
+          }
+        ],
+        "expected_filename_date": "20180412"
+      },
+      "worker_archive_relative_path": "legend-of-galactic-heroes-die-neue-these.cache/cache.20180412.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20181004.tar.xz",
+        "filename_date": "20181004",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/luke-cage-02.cache/cache.20181004.tar.xz",
+        "sha256": "8942c5b6f2e182de83f47c5bc783aa467da4f603f385c4b30de4ee85d0e5c7cb",
+        "size": 1452630232
+      },
+      "collection_key": "luke-cage-02",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 105,
+          "cache_members": 27955,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2018-10-04",
+          "sample_span_days": 105,
+          "sample_start": "2018-06-22",
+          "torrent_indices": 273
+        },
+        "required_collection_key": "luke-cage-02",
+        "required_day_products": 105,
+        "required_sample_days": 105,
+        "required_sample_end": "2018-10-04",
+        "required_sample_start": "2018-06-22",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "2",
+        "collection_name": "Luke Cage",
+        "metadata_version": "2025-11-22",
+        "sample_days": 105,
+        "sample_end": "2018-10-04",
+        "sample_start": "2018-06-22",
+        "sha256": "c556815db0aba56997e525c812fb3be09597e3cdf74cc37776b1d12b6f99b7ac",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/luke-cage-02.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20181004.tar.xz",
+            "size": 1452630232
+          }
+        ],
+        "expected_filename_date": "20181004"
+      },
+      "worker_archive_relative_path": "luke-cage-02.cache/cache.20181004.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20190212.tar.xz",
+        "filename_date": "20190212",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/marvelous-mrs-maisel-02.cache/cache.20190212.tar.xz",
+        "sha256": "151b0c99e34dda5660ff274b5a59e64c7daa439dca32482ac46b3d0c23508ff3",
+        "size": 820033148
+      },
+      "collection_key": "marvelous-mrs-maisel-02",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 70,
+          "cache_members": 14347,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2019-02-12",
+          "sample_span_days": 70,
+          "sample_start": "2018-12-05",
+          "torrent_indices": 216
+        },
+        "required_collection_key": "marvelous-mrs-maisel-02",
+        "required_day_products": 70,
+        "required_sample_days": 70,
+        "required_sample_end": "2019-02-12",
+        "required_sample_start": "2018-12-05",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "2",
+        "collection_name": "Marvelous Mrs. Maisel",
+        "metadata_version": "2025-11-22",
+        "sample_days": 70,
+        "sample_end": "2019-02-12",
+        "sample_start": "2018-12-05",
+        "sha256": "fae253f464bfdbacf6a5c679dd8c0bcb2824abe6e43f217f95a78a982aaac825",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/marvelous-mrs-maisel-02.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20190212.tar.xz",
+            "size": 820033148
+          }
+        ],
+        "expected_filename_date": "20190212"
+      },
+      "worker_archive_relative_path": "marvelous-mrs-maisel-02.cache/cache.20190212.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20190124.tar.xz",
+        "filename_date": "20190124",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/narcos-mexico-01.cache/cache.20190124.tar.xz",
+        "sha256": "5fd6cd7d3c69396cce408f40a4f1fa86de1c53047881c5ecda75e1e65a71621f",
+        "size": 907571100
+      },
+      "collection_key": "narcos-mexico-01",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 69,
+          "cache_members": 21002,
+          "missing_indices": [
+            48
+          ],
+          "post_release_day_products": 0,
+          "sample_end": "2019-01-24",
+          "sample_span_days": 70,
+          "sample_start": "2018-11-16",
+          "torrent_indices": 320
+        },
+        "required_collection_key": "narcos-mexico-01",
+        "required_day_products": 69,
+        "required_sample_days": 70,
+        "required_sample_end": "2019-01-24",
+        "required_sample_start": "2018-11-16",
+        "required_sparse_intervals": [
+          {
+            "days": 1,
+            "first_index": 48,
+            "last_index": 48
+          }
+        ],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "1",
+        "collection_name": "Narcos Mexico",
+        "metadata_version": "2025-11-22",
+        "sample_days": 70,
+        "sample_end": "2019-01-24",
+        "sample_start": "2018-11-16",
+        "sha256": "15f54ba1984fb45b107a0d6628212b093fafb90829fca3767854f6c81353f964",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/narcos-mexico-01.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20190124.tar.xz",
+            "size": 907571100
+          }
+        ],
+        "expected_filename_date": "20190124"
+      },
+      "worker_archive_relative_path": "narcos-mexico-01.cache/cache.20190124.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20190127.tar.xz",
+        "filename_date": "20190127",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/orville-201.cache/cache.20190127.tar.xz",
+        "sha256": "9dc9bb23cb34a2249b5506cb84ef803726fa43ff78fc3edda95c1a5322d63e89",
+        "size": 153777808
+      },
+      "collection_key": "orville-201",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 28,
+          "cache_members": 1793,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2019-01-27",
+          "sample_span_days": 28,
+          "sample_start": "2018-12-31",
+          "torrent_indices": 67
+        },
+        "required_collection_key": "orville-201",
+        "required_day_products": 28,
+        "required_sample_days": 28,
+        "required_sample_end": "2019-01-27",
+        "required_sample_start": "2018-12-31",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "201",
+        "collection_name": "The Orville",
+        "metadata_version": "2025-11-22",
+        "sample_days": 28,
+        "sample_end": "2019-01-27",
+        "sample_start": "2018-12-31",
+        "sha256": "6dda6ecc5aabab3c0b55dd6a0a1505f4c2d1ddba10dac2a3b5eb0233c47ee193",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/orville-201.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20190127.tar.xz",
+            "size": 153777808
+          }
+        ],
+        "expected_filename_date": "20190127"
+      },
+      "worker_archive_relative_path": "orville-201.cache/cache.20190127.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20181011.tar.xz",
+        "filename_date": "20181011",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/ozark-02.cache/cache.20181011.tar.xz",
+        "sha256": "351763c68a687cfbb3a3aa0067a71c14a8f064a5bde6143d2ca0622a5386b772",
+        "size": 273138876
+      },
+      "collection_key": "ozark-02",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 42,
+          "cache_members": 10016,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2018-10-11",
+          "sample_span_days": 42,
+          "sample_start": "2018-08-31",
+          "torrent_indices": 252
+        },
+        "required_collection_key": "ozark-02",
+        "required_day_products": 42,
+        "required_sample_days": 42,
+        "required_sample_end": "2018-10-11",
+        "required_sample_start": "2018-08-31",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "2",
+        "collection_name": "Ozark",
+        "metadata_version": "2025-11-22",
+        "sample_days": 42,
+        "sample_end": "2018-10-11",
+        "sample_start": "2018-08-31",
+        "sha256": "4cecf0c495684f9a1b95943ad0721dbb73f408500869153a3e6739ac30dfedf5",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/ozark-02.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20181011.tar.xz",
+            "size": 273138876
+          }
+        ],
+        "expected_filename_date": "20181011"
+      },
+      "worker_archive_relative_path": "ozark-02.cache/cache.20181011.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20180913.tar.xz",
+        "filename_date": "20180913",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/queen-of-the-south-311.cache/cache.20180913.tar.xz",
+        "sha256": "cb06c94d6725fb804a2ab0a22ea3b793f37384d36bc2cd004f88b4d34b9a6a6d",
+        "size": 68052876
+      },
+      "collection_key": "queen-of-the-south-311",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 14,
+          "cache_members": 573,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2018-09-13",
+          "sample_span_days": 14,
+          "sample_start": "2018-08-31",
+          "torrent_indices": 42
+        },
+        "required_collection_key": "queen-of-the-south-311",
+        "required_day_products": 14,
+        "required_sample_days": 14,
+        "required_sample_end": "2018-09-13",
+        "required_sample_start": "2018-08-31",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "3",
+        "collection_name": "Queen of the South",
+        "metadata_version": "2025-11-22",
+        "sample_days": 14,
+        "sample_end": "2018-09-13",
+        "sample_start": "2018-08-31",
+        "sha256": "381344d89c0d6b99a579bcc16237efcd10e8b7ea2b2339cd47cd69a77e3147b4",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/queen-of-the-south-311.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20180913.tar.xz",
+            "size": 68052876
+          }
+        ],
+        "expected_filename_date": "20180913"
+      },
+      "worker_archive_relative_path": "queen-of-the-south-311.cache/cache.20180913.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20180929.tar.xz",
+        "filename_date": "20180929",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/random-acts-of-flyness-106.cache/cache.20180929.tar.xz",
+        "sha256": "a9eed09f2d7f492e33097651424a7b0a03981f455a94a10bbf09199ae614e59d",
+        "size": 21002264
+      },
+      "collection_key": "random-acts-of-flyness-106",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 22,
+          "cache_members": 591,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2018-09-29",
+          "sample_span_days": 22,
+          "sample_start": "2018-09-08",
+          "torrent_indices": 31
+        },
+        "required_collection_key": "random-acts-of-flyness-106",
+        "required_day_products": 22,
+        "required_sample_days": 22,
+        "required_sample_end": "2018-09-29",
+        "required_sample_start": "2018-09-08",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "106",
+        "collection_name": "Random Acts of Flyness",
+        "metadata_version": "2025-11-22",
+        "sample_days": 22,
+        "sample_end": "2018-09-29",
+        "sample_start": "2018-09-08",
+        "sha256": "8e751a99a84a6161da178ae81bc9e0c43b52407a6247bb4defaffda4504d48a7",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/random-acts-of-flyness-106.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20180929.tar.xz",
+            "size": 21002264
+          }
+        ],
+        "expected_filename_date": "20180929"
+      },
+      "worker_archive_relative_path": "random-acts-of-flyness-106.cache/cache.20180929.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20181101.tar.xz",
+        "filename_date": "20181101",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/romanoffs-101.cache/cache.20181101.tar.xz",
+        "sha256": "da30e9ae9683125103834df1831db7bcae9dfaf1da1236bdcc5ffe8ae254c59c",
+        "size": 29523716
+      },
+      "collection_key": "romanoffs-101",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 21,
+          "cache_members": 1497,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2018-11-01",
+          "sample_span_days": 21,
+          "sample_start": "2018-10-12",
+          "torrent_indices": 82
+        },
+        "required_collection_key": "romanoffs-101",
+        "required_day_products": 21,
+        "required_sample_days": 21,
+        "required_sample_end": "2018-11-01",
+        "required_sample_start": "2018-10-12",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "1",
+        "collection_name": "The Romanoffs",
+        "metadata_version": "2025-11-22",
+        "sample_days": 21,
+        "sample_end": "2018-11-01",
+        "sample_start": "2018-10-12",
+        "sha256": "67da8e8ccda9ff51e11c996b92bd84246ce89aaad3080b5d99b2c8d2e77f885e",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/romanoffs-101.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20181101.tar.xz",
+            "size": 29523716
+          }
+        ],
+        "expected_filename_date": "20181101"
+      },
+      "worker_archive_relative_path": "romanoffs-101.cache/cache.20181101.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20181117.tar.xz",
+        "filename_date": "20181117",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/romanoffs-104.cache/cache.20181117.tar.xz",
+        "sha256": "105194b2ad6347990a6b572d50a1890a3b8a14930a340ffa970d2a840ada5df0",
+        "size": 14316256
+      },
+      "collection_key": "romanoffs-104",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 23,
+          "cache_members": 1071,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2018-11-17",
+          "sample_span_days": 23,
+          "sample_start": "2018-10-26",
+          "torrent_indices": 54
+        },
+        "required_collection_key": "romanoffs-104",
+        "required_day_products": 23,
+        "required_sample_days": 23,
+        "required_sample_end": "2018-11-17",
+        "required_sample_start": "2018-10-26",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "1",
+        "collection_name": "The Romanoffs",
+        "metadata_version": "2025-11-22",
+        "sample_days": 23,
+        "sample_end": "2018-11-17",
+        "sample_start": "2018-10-26",
+        "sha256": "78fbbf9feb195d4ff7c69edaaeafcf4f7d62f5fd36e8822b43259b0e1dc6cf29",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/romanoffs-104.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20181117.tar.xz",
+            "size": 14316256
+          }
+        ],
+        "expected_filename_date": "20181117"
+      },
+      "worker_archive_relative_path": "romanoffs-104.cache/cache.20181117.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20180304.tar.xz",
+        "filename_date": "20180304",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/star-trek-discovery-115.cache/cache.20180304.tar.xz",
+        "sha256": "0ef3fd9f82a1d56a5ef15bec82c122f6a57cfbe8ea00e17c6408cda2416ba821",
+        "size": 117639424
+      },
+      "collection_key": "star-trek-discovery-115",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 21,
+          "cache_members": 1856,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2018-03-04",
+          "sample_span_days": 21,
+          "sample_start": "2018-02-12",
+          "torrent_indices": 89
+        },
+        "required_collection_key": "star-trek-discovery-115",
+        "required_day_products": 21,
+        "required_sample_days": 21,
+        "required_sample_end": "2018-03-04",
+        "required_sample_start": "2018-02-12",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "115",
+        "collection_name": "Star Trek Discovery",
+        "metadata_version": "2025-11-22",
+        "sample_days": 21,
+        "sample_end": "2018-03-04",
+        "sample_start": "2018-02-12",
+        "sha256": "ee50ea173e7277797c79161e5f97882f3fcbafc23378dcc5f81237c063834103",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/star-trek-discovery-115.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20180304.tar.xz",
+            "size": 117639424
+          }
+        ],
+        "expected_filename_date": "20180304"
+      },
+      "worker_archive_relative_path": "star-trek-discovery-115.cache/cache.20180304.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20180401.tar.xz",
+        "filename_date": "20180401",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/walking-dead-811.cache/cache.20180401.tar.xz",
+        "sha256": "2ced2a2d0c53d13886a0d0694d290550460060c71b77d19a8d3a5179ca396c5f",
+        "size": 185124336
+      },
+      "collection_key": "walking-dead-811",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 21,
+          "cache_members": 1069,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2018-04-01",
+          "sample_span_days": 21,
+          "sample_start": "2018-03-12",
+          "torrent_indices": 52
+        },
+        "required_collection_key": "walking-dead-811",
+        "required_day_products": 21,
+        "required_sample_days": 21,
+        "required_sample_end": "2018-04-01",
+        "required_sample_start": "2018-03-12",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "8",
+        "collection_name": "The Walking Dead",
+        "metadata_version": "2025-11-22",
+        "sample_days": 21,
+        "sample_end": "2018-04-01",
+        "sample_start": "2018-03-12",
+        "sha256": "d857a70c0c0f5c6b85b85a2b58db056531f036de1f7df4816f34c093244b03d3",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/walking-dead-811.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20180401.tar.xz",
+            "size": 185124336
+          }
+        ],
+        "expected_filename_date": "20180401"
+      },
+      "worker_archive_relative_path": "walking-dead-811.cache/cache.20180401.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20181230.tar.xz",
+        "filename_date": "20181230",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/walking-dead-908.cache/cache.20181230.tar.xz",
+        "sha256": "442fc1b496308d64ef16092570bf2b92c4a21460bbbe3bcab091f4d17529eb46",
+        "size": 354045132
+      },
+      "collection_key": "walking-dead-908",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 35,
+          "cache_members": 3288,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2018-12-30",
+          "sample_span_days": 35,
+          "sample_start": "2018-11-26",
+          "torrent_indices": 97
+        },
+        "required_collection_key": "walking-dead-908",
+        "required_day_products": 35,
+        "required_sample_days": 35,
+        "required_sample_end": "2018-12-30",
+        "required_sample_start": "2018-11-26",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "908",
+        "collection_name": "The Walking Dead",
+        "metadata_version": "2025-11-22",
+        "sample_days": 35,
+        "sample_end": "2018-12-30",
+        "sample_start": "2018-11-26",
+        "sha256": "7aed1ca82a18ede59775bdd88130d5c689c75da82372cc70eaab4447d9f5447d",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/walking-dead-908.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20181230.tar.xz",
+            "size": 354045132
+          }
+        ],
+        "expected_filename_date": "20181230"
+      },
+      "worker_archive_relative_path": "walking-dead-908.cache/cache.20181230.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20180506.tar.xz",
+        "filename_date": "20180506",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/westworld-201.cache/cache.20180506.tar.xz",
+        "sha256": "80e7090af55291fb7f87524e38bfb0cc0769e89ed98e1e0a0c1dfd1cf13a502b",
+        "size": 304701304
+      },
+      "collection_key": "westworld-201",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 14,
+          "cache_members": 1053,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2018-05-06",
+          "sample_span_days": 14,
+          "sample_start": "2018-04-23",
+          "torrent_indices": 80
+        },
+        "required_collection_key": "westworld-201",
+        "required_day_products": 14,
+        "required_sample_days": 14,
+        "required_sample_end": "2018-05-06",
+        "required_sample_start": "2018-04-23",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "201",
+        "collection_name": "Westworld",
+        "metadata_version": "2025-11-22",
+        "sample_days": 14,
+        "sample_end": "2018-05-06",
+        "sample_start": "2018-04-23",
+        "sha256": "7b584621d6e806cddb3cb7319b96ce476766442f02b19ae2f3e74a4ae63e92d8",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/westworld-201.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20180506.tar.xz",
+            "size": 304701304
+          }
+        ],
+        "expected_filename_date": "20180506"
+      },
+      "worker_archive_relative_path": "westworld-201.cache/cache.20180506.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20180604.tar.xz",
+        "filename_date": "20180604",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/westworld-205.cache/cache.20180604.tar.xz",
+        "sha256": "bc6d057e23bb4c804f56b909deee16255324db79d91ba34192befafd601d764e",
+        "size": 244261636
+      },
+      "collection_key": "westworld-205",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 15,
+          "cache_members": 1058,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2018-06-04",
+          "sample_span_days": 15,
+          "sample_start": "2018-05-21",
+          "torrent_indices": 73
+        },
+        "required_collection_key": "westworld-205",
+        "required_day_products": 15,
+        "required_sample_days": 15,
+        "required_sample_end": "2018-06-04",
+        "required_sample_start": "2018-05-21",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "2",
+        "collection_name": "Westworld",
+        "metadata_version": "2025-11-22",
+        "sample_days": 15,
+        "sample_end": "2018-06-04",
+        "sample_start": "2018-05-21",
+        "sha256": "da47c4826920bb1f9f5dcbf35510a3ee7af8bad6c644a351da133ea62a798b80",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/westworld-205.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20180604.tar.xz",
+            "size": 244261636
+          }
+        ],
+        "expected_filename_date": "20180604"
+      },
+      "worker_archive_relative_path": "westworld-205.cache/cache.20180604.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20180801.tar.xz",
+        "filename_date": "20180801",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/westworld-210.cache/cache.20180801.tar.xz",
+        "sha256": "8980f38d6e929480a08f297a4e5f5410b424c6fda07ab520c5b5c399281f8bfb",
+        "size": 559247360
+      },
+      "collection_key": "westworld-210",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 38,
+          "cache_members": 5240,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2018-08-01",
+          "sample_span_days": 38,
+          "sample_start": "2018-06-25",
+          "torrent_indices": 152
+        },
+        "required_collection_key": "westworld-210",
+        "required_day_products": 38,
+        "required_sample_days": 38,
+        "required_sample_end": "2018-08-01",
+        "required_sample_start": "2018-06-25",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "210",
+        "collection_name": "Westworld",
+        "metadata_version": "2025-11-22",
+        "sample_days": 38,
+        "sample_end": "2018-08-01",
+        "sample_start": "2018-06-25",
+        "sha256": "7c1550ac7f306788f0efee7d315ad633228b52d3a988fbf3bd509eae57bb8bc0",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/westworld-210.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20180801.tar.xz",
+            "size": 559247360
+          }
+        ],
+        "expected_filename_date": "20180801"
+      },
+      "worker_archive_relative_path": "westworld-210.cache/cache.20180801.tar.xz"
+    }
+  ],
+  "schema": "alpha60-year-day-worker-map/1",
+  "source_map_sha256": "38c4cd55d078ff257a2f9ee3480809568415afcc7cea92537530ed3349f76c20",
+  "status": "pass",
+  "year": "2018"
+}
