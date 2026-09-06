@@ -1,0 +1,42 @@
+{
+  "campaign_counts": {
+    "archive_records": 49,
+    "baseline_v2_pages": 49,
+    "day_complete": 49,
+    "day_product_pairs": 1362,
+    "excluded_records": 0,
+    "index_links": 49,
+    "inventory": 49,
+    "worker_failed": 0,
+    "worker_passed": 49
+  },
+  "counts": {
+    "absent": 0,
+    "failed": 0,
+    "inventory": 49,
+    "old": 0,
+    "passed": 49,
+    "unique": 49
+  },
+  "evidence_sha256": {
+    "campaign_audit": "ec87e0c093a9497ceeb5dbdc2fc6702619f88aebe91096374a63fafaadd6ad70",
+    "metadata-audit.json": "48a33ac7008467e2b4019872fbd4be95923f779a5483a9376e695e46d9b9c075",
+    "site-audit.json": "db87d4e0350168e57b9c9fe98b070b9e1b1994c8ed76f518501bf4ef7ef4ff1d",
+    "worker-original-01.json": "9113192cbd9e8f0a15370bd4ae9160318cede218a389ebff7de9a1fd8782a475",
+    "worker-original-02.json": "c82244198326f864a63e43922264a44eeaf6a9b0a8f8763f15a8f112cd9ddcb3",
+    "worker-repair-01.json": "058a22750d549ad4a28f4872b746bd7b65bb5ecd99333a6f9b47d153e730d105",
+    "worker-repair-02.json": "07964aa6206eccd2b701b156ca4ebd4b503073bbf32e773c67105b46d9e8583e"
+  },
+  "generated_at": "2026-09-06T20:01:29.367035+00:00",
+  "schema": "alpha60-year-baseline-v2-completion/1",
+  "source_revisions": {
+    "alpha60": "726bc934c9632486bcdfbb536879c0e6252367df",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "980e731bb2e99b13ecc9d15c75480125d514e26c",
+    "izzi": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+    "metadata": "5daa2bb0f58fe6b678ea0a572049b3311de52618",
+    "results": "9e2a3667fe36cf9eba4ba32a99df8a3108ff3edf"
+  },
+  "status": "passed",
+  "year": "2018"
+}
