@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt5788792",
+    "imdb_id": "tt5788792",
+    "revision": "5daa2bb0f58fe6b678ea0a572049b3311de52618",
+    "wikidata_id": "Q30634329",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Marvelous_Mrs._Maisel"
+  },
+  "coverage_sha256": "52fb0c2feebf4b70994a9eb0bde26c6ac955b7b133cb0e5aed38e531ca30f068",
+  "generated_at": "2026-09-06T18:33:40.774656+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2018-archives/marvelous-mrs-maisel-02.cache/cache.20190212.tar.xz",
+      "sha256": "151b0c99e34dda5660ff274b5a59e64c7daa439dca32482ac46b3d0c23508ff3",
+      "size": 820033148
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2018/data/txt/year-2018-coverage-evidence/marvelous-mrs-maisel-02.md",
+      "sha256": "29efbce36e0dbc6e04e0e824e353ed19270c65cc3dba1fdb3418e66e007e7e14",
+      "size": 601
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2018/data/txt/year-2018-day-cache-stream-receipts/marvelous-mrs-maisel-02.json",
+      "sha256": "818441fea6de027845c9a6d5b424fa51101dca1c0b22e3db5726848cd3fb3a12",
+      "size": 2482
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2018/data/txt/year-2018-day-product-receipts/marvelous-mrs-maisel-02.json",
+      "sha256": "535a632fefc01cc4ff66cf2b7897d631fbd49990e7488f9a99012b16ecd9b648",
+      "size": 375
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2018-control/worker-map.json",
+      "sha256": "0f0151a9d86552ffa4d2bdec8cc0b2a7ce1ff4f549d25d26b400c16672f3f222",
+      "size": 55881
+    }
+  },
+  "media_object": "marvelous-mrs-maisel-02",
+  "published_files": {
+    "data/csv/bytes/marvelous-mrs-maisel-02-cumulative-detail.2018-btiha-itemized-by-bytes.csv": "2a3b4d5df1e804f8a776dafa584dbfcbe40fce3481313c103c655f68fedb04d6",
+    "docs/itemized/figures/marvelous-mrs-maisel-02-carto-4k.webp": "c6a90c171d3740498a1c7a6da2220f439dd7ce8ba74d27f5f5ad29a848fac7c9",
+    "docs/itemized/figures/marvelous-mrs-maisel-02-carto.png": "828fce48a1a935fd610356ab4fcac8f0773a3a57e983e6dc88019fbe0eac3123",
+    "docs/itemized/figures/marvelous-mrs-maisel-02-cumulative-detail-btiha-itemized-by-bytes.svg": "cb64dca8102d8803ae04c0d8b8ccaf53da76de0566f7db2c5ac78fa33ec4025e",
+    "docs/itemized/figures/marvelous-mrs-maisel-02-data-ge-1080p-4k.webp": "02e1485982cc88d8b6b56d1836d59473d651d04309b6099d1fe74c23fb575a24",
+    "docs/itemized/figures/marvelous-mrs-maisel-02-data-ge-1080p.webp": "6ac36f2cecf85d302ef0230b571b26734e97c41ef9adc52234ab39f04db06e8c",
+    "docs/itemized/figures/marvelous-mrs-maisel-02-data-lt-1080p-4k.webp": "85cd17c25cd41648ec207fcf6b86d780eee10e04ff78d74a3333c2cd87aed0ba",
+    "docs/itemized/figures/marvelous-mrs-maisel-02-data-lt-1080p.webp": "9da91a3e3c305354f64deb61791fa3dbd88c520d68c1d0b5a9944b5dedb4ac1f",
+    "docs/itemized/figures/marvelous-mrs-maisel-02-downloads-by-day-day.svg": "52e7f9a155ca511582d5320af14ae7b17e0230f4ac25044e7ca9a6fd2dc51c61",
+    "docs/itemized/figures/marvelous-mrs-maisel-02-downloads-by-week-marvelous-mrs-maisel-02-week.svg": "6d158ac27b596a51ea5b6aaa4203c7b10f7855ba6502a9cba25dc7867f0ab8ce",
+    "docs/itemized/marvelous-mrs-maisel-02-sample-cache-audit.md": "5e0f80e6ad48b90ab33247590f44c0d30a6c49002afd3c4a7ba3146ba497e8b9",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "7348341a0e25ea12760cadfc7f1f5ae5554a7da5",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2018/marvelous-mrs-maisel-02/tmp/marvelous-mrs-maisel-02-cumulative-btiha.geojson",
+        "sha256": "dc4dc26c615768b637477301369da0390b34a3495514337dc219bcbf6c19e8d4",
+        "size": 140007698
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2018/marvelous-mrs-maisel-02/tmp/marvelous-mrs-maisel-02-cumulative-btiha-media-objects.json",
+        "sha256": "7938da81a56ceedf6d3716ce365918a375a9cb887806da4764f9b1fb4598fee1",
+        "size": 543930
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2018-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "marvelous-mrs-maisel-02",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "3e6a87ec7490ec3b39db0dba09ab6311a015621eb704ac975c05f399296c8393",
+      "size": 8759376
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2018-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          72.0,
+          57.0,
+          54.0,
+          52.0,
+          47.0,
+          42.0,
+          40.0,
+          35.0,
+          28.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Columbus",
+          "Ashburn",
+          "New York City",
+          "Tokyo",
+          "Seattle",
+          "London",
+          "Seoul",
+          "Independence",
+          "Shanghai",
+          "Beijing"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          87.0,
+          54.0,
+          53.0,
+          49.0,
+          49.0,
+          47.0,
+          40.0,
+          38.0,
+          36.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Ashburn",
+          "Columbus",
+          "Shanghai",
+          "New York City",
+          "Seattle",
+          "London",
+          "Tokyo",
+          "Seoul",
+          "Independence",
+          "Beijing"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 24,
+        "y_tick_labels": 20
+      },
+      "histogram": {
+        "bars": 22,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 10,
+        "y_tick_labels": 20
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "27af472f439958c53f0aab30b89cddaa411eedaf",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "980e731bb2e99b13ecc9d15c75480125d514e26c",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "5daa2bb0f58fe6b678ea0a572049b3311de52618"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2018"
+}
