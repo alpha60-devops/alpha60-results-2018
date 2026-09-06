@@ -1,0 +1,63 @@
+{
+  "archive_verification": {
+    "path": "/home/bkoz/src/alpha60-xperiments/year-2018-control/archive-verification.json",
+    "sha256": "3e4b2d878300f3b399cdd663a8fe4da854dd39d5c275b39c72af6306a2261b0a",
+    "size": 15106
+  },
+  "counts": {
+    "errors": 0,
+    "passed": 3,
+    "records": 3
+  },
+  "executor": "eureka",
+  "finished_at": "2026-09-06T19:59:21.075830+00:00",
+  "owner": "eureka",
+  "records": [
+    {
+      "aggregate": "pass",
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2018-archives/chilling-adventures-of-sabrina-01.cache/cache.20181101.tar.xz",
+      "collection_key": "chilling-adventures-of-sabrina-01",
+      "executor": "eureka",
+      "finished_at": "2026-09-06T19:56:36.615777+00:00",
+      "owner": "eureka",
+      "results_revision": "a41e2ca0a20cb916ba5f54c756cfc6b8dda8ca9d",
+      "started_at": "2026-09-06T19:56:11.748897+00:00",
+      "status": "pass",
+      "visualizations": "pass"
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2018-archives/into-the-badlands-308.cache/cache.20180625.tar.xz",
+      "collection_key": "into-the-badlands-308",
+      "executor": "eureka",
+      "finished_at": "2026-09-06T19:57:18.599531+00:00",
+      "owner": "eureka",
+      "results_revision": "ebbc3f780d3efc8ad949a8e7652c53bc01318f08",
+      "started_at": "2026-09-06T19:56:47.380563+00:00",
+      "status": "pass",
+      "visualizations": "pass"
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2018-archives/handmaids-tale-208.cache/cache.20180608.tar.xz",
+      "collection_key": "handmaids-tale-208",
+      "executor": "eureka",
+      "finished_at": "2026-09-06T19:59:21.075160+00:00",
+      "owner": "eureka",
+      "results_revision": "70a017bde4a542e787adf565c5afb6aeedcb1345",
+      "started_at": "2026-09-06T19:59:14.987869+00:00",
+      "status": "pass",
+      "visualizations": "pass"
+    }
+  ],
+  "schema": "alpha60-year-baseline-v2-worker-run/1",
+  "started_at": "2026-09-06T19:59:14.987012+00:00",
+  "status": "pass",
+  "stolen": false,
+  "worker_map": {
+    "path": "/home/bkoz/src/alpha60-xperiments/year-2018-control/worker-map.json",
+    "sha256": "0f0151a9d86552ffa4d2bdec8cc0b2a7ce1ff4f549d25d26b400c16672f3f222",
+    "size": 55881
+  },
+  "year": "2018"
+}

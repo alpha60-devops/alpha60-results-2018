@@ -1,0 +1,269 @@
+{
+  "schema": "alpha60-year-media-object-metadata-readiness/1",
+  "year": "2018",
+  "inventory": "/home/bkoz/src/alpha60-results-2018/data/txt/year-2018-0-media-objects.txt",
+  "metadata_directory": "/home/bkoz/src/alpha60-swarm-metadata/metadata",
+  "approved_empty_collection_ids": [
+    "black-panther",
+    "human-flow",
+    "legend-of-galactic-heroes-die-neue-these"
+  ],
+  "approved_not_applicable_identity_ids": [],
+  "status": "pass",
+  "counts": {
+    "inventory_entries": 49,
+    "unique_keys": 49,
+    "ready_records": 49,
+    "error_records": 0,
+    "errors": 0
+  },
+  "inventory_issues": [],
+  "duplicate_keys": [],
+  "records": [
+    {
+      "collection_key": "3-percent-02",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "altered-carbon-01",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "american-crime-story-201",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "american-crime-story-205",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "better-call-saul-406",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "black-panther",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "chilling-adventures-of-sabrina-01",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "doctor-who-1101",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "doctor-who-1105",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "expanse-301",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "expanse-313",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "glow-02",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "good-fight-202",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "good-fight-205",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "good-fight-210",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "good-fight-213",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "handmaids-tale-201",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "handmaids-tale-208",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "handmaids-tale-213",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "house-of-cards-06",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "human-flow",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "into-the-badlands-308",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "legend-of-galactic-heroes-die-neue-these",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "luke-cage-02",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "maniac-01",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "marvelous-mrs-maisel-02",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "narcos-mexico-01",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "orange-is-the-new-black-06",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "orville-201",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "ozark-02",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "queen-of-the-south-301",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "queen-of-the-south-311",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "queen-of-the-south-313",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "random-acts-of-flyness-104",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "random-acts-of-flyness-106",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "romanoffs-101",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "romanoffs-104",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "romanoffs-108",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "sense8-02.2",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "star-trek-discovery-110",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "star-trek-discovery-115",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "walking-dead-811",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "walking-dead-816",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "walking-dead-908",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "westworld-201",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "westworld-203",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "westworld-205",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "westworld-207",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "westworld-210",
+      "status": "ready",
+      "issues": []
+    }
+  ]
+}

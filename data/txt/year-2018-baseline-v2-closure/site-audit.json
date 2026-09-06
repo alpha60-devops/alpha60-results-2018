@@ -1,0 +1,261 @@
+{
+  "schema": "alpha60-results-baseline-v2-audit/1",
+  "year": "2018",
+  "status": "pass",
+  "counts": {
+    "passed": 49,
+    "absent": 0,
+    "old": 0,
+    "failed": 0,
+    "inventory": 49,
+    "unique": 49
+  },
+  "duplicate_keys": [],
+  "records": [
+    {
+      "collection_key": "3-percent-02",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "altered-carbon-01",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "american-crime-story-201",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "american-crime-story-205",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "better-call-saul-406",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "black-panther",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "chilling-adventures-of-sabrina-01",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "doctor-who-1101",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "doctor-who-1105",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "expanse-301",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "expanse-313",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "glow-02",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "good-fight-202",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "good-fight-205",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "good-fight-210",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "good-fight-213",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "handmaids-tale-201",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "handmaids-tale-208",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "handmaids-tale-213",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "house-of-cards-06",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "human-flow",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "into-the-badlands-308",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "legend-of-galactic-heroes-die-neue-these",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "luke-cage-02",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "maniac-01",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "marvelous-mrs-maisel-02",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "narcos-mexico-01",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "orange-is-the-new-black-06",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "orville-201",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "ozark-02",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "queen-of-the-south-301",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "queen-of-the-south-311",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "queen-of-the-south-313",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "random-acts-of-flyness-104",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "random-acts-of-flyness-106",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "romanoffs-101",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "romanoffs-104",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "romanoffs-108",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "sense8-02.2",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "star-trek-discovery-110",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "star-trek-discovery-115",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "walking-dead-811",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "walking-dead-816",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "walking-dead-908",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "westworld-201",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "westworld-203",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "westworld-205",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "westworld-207",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "westworld-210",
+      "status": "passed",
+      "issues": []
+    }
+  ]
+}

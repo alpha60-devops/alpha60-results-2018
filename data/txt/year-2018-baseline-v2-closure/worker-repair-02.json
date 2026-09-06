@@ -1,0 +1,60 @@
+{
+  "archive_verification": {
+    "path": "/home/bkoz/src/alpha60-xperiments/year-2018-control/archive-verification.json",
+    "sha256": "9ce445693f3b42cc2c14a77f80e06dea2a0fd95b5f219864e31cd08775739858",
+    "size": 15586
+  },
+  "counts": {
+    "errors": 0,
+    "passed": 3,
+    "records": 3
+  },
+  "executor": "ord",
+  "finished_at": "2026-09-06T19:59:26.602463+00:00",
+  "owner": "ord",
+  "records": [
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2018-archives/maniac-01.cache/cache.20190110.tar.xz",
+      "collection_key": "maniac-01",
+      "executor": "ord",
+      "finished_at": "2026-09-06T19:56:32.378402+00:00",
+      "owner": "ord",
+      "started_at": "2026-09-06T19:56:31.195104+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2018-archives/queen-of-the-south-301.cache/cache.20180628.tar.xz",
+      "collection_key": "queen-of-the-south-301",
+      "executor": "ord",
+      "finished_at": "2026-09-06T19:56:49.426386+00:00",
+      "owner": "ord",
+      "results_revision": "3fc1e76a0ee4e103209e8ffd3be1a739cbf81959",
+      "started_at": "2026-09-06T19:56:32.378739+00:00",
+      "status": "pass",
+      "visualizations": "pass"
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2018-archives/expanse-313.cache/cache.20180629.tar.xz",
+      "collection_key": "expanse-313",
+      "executor": "ord",
+      "finished_at": "2026-09-06T19:59:26.601879+00:00",
+      "owner": "ord",
+      "results_revision": "65575e16c5a24fde92186d3ceff27c5bcfc63337",
+      "started_at": "2026-09-06T19:59:14.993909+00:00",
+      "status": "pass",
+      "visualizations": "pass"
+    }
+  ],
+  "schema": "alpha60-year-baseline-v2-worker-run/1",
+  "started_at": "2026-09-06T19:59:14.993104+00:00",
+  "status": "pass",
+  "stolen": false,
+  "worker_map": {
+    "path": "/home/bkoz/src/alpha60-xperiments/year-2018-control/worker-map.json",
+    "sha256": "9fa8abf8526eeed113ee5caacdd56c59ca4dd79dc2693f35b4e875a60e3a1b94",
+    "size": 58051
+  },
+  "year": "2018"
+}
