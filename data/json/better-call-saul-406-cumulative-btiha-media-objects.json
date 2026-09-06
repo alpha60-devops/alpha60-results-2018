@@ -1,0 +1,4350 @@
+{
+    "collection_name": "Better Call Saul",
+    "collection_id": "4",
+    "collection_key": "better-call-saul-406",
+    "collection_notes": "",
+    "data_version": "2026-08-05",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "6:1777968300",
+    "collection_btiha_duplicates": [
+        {
+            "duplicate_id": 0,
+            "duplicate_btih": "91c217cefe17e9d983a5a7f4758931e2cbf9a2b7",
+            "duplicate_0_0": "Better Call Saul. Season 4. WEBRip (1080p).91c217cefe17e9d9",
+            "duplicate_0_1": "Лучше звоните Солу Better Call Saul Сезон 4 Серии 1-6 из 10 (Винс Гиллиган, Томас Шнауз, Адам Бернштейн) [2018, США, Драма [rutracker-5603433]"
+        },
+        {
+            "duplicate_id": 1,
+            "duplicate_btih": "02f07fff9a01546ab2e876f103293e8b5854dfb7",
+            "duplicate_1_0": "[limetorrents.info]Better.Call.Saul.S04E06.720p.HDTV.x264-AVS",
+            "duplicate_1_1": "Better.Call.Saul.S04E06.720p.HDTV.x264-AVS[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 2,
+            "duplicate_btih": "18a0d6059a727d6779329158937b7bab48956353",
+            "duplicate_2_0": "[limetorrents.info]Better.Call.Saul.S04E06.720p.HDTV.x264-AVS.EZTV",
+            "duplicate_2_1": "Better.Call.Saul.S04E06.720p.HDTV.x264-AVS[eztv].mkv"
+        },
+        {
+            "duplicate_id": 3,
+            "duplicate_btih": "9fbc6f72a80715668a119733046e72d787a2937f",
+            "duplicate_3_0": "[limetorrents.info]Better.Call.Saul.S04E06.HDTV.x264-SVA",
+            "duplicate_3_1": "Better.Call.Saul.S04E06.HDTV.x264-SVA[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 4,
+            "duplicate_btih": "5e03859645e3d1cc6e45a5f188cf02b077bd7425",
+            "duplicate_4_0": "[limetorrents.info]Better.Call.Saul.S04E06.HDTV.x264-SVA.EZTV",
+            "duplicate_4_1": "Better.Call.Saul.S04E06.HDTV.x264-SVA[eztv].mkv"
+        },
+        {
+            "duplicate_id": 5,
+            "duplicate_btih": "4a75481e83d700d81e325bb413d84aa8ffafa86a",
+            "duplicate_5_0": "[limetorrents.info]Better.Call.Saul.S04E06.PROPER.720p.HDTV.x264-KILLERS.EZTV",
+            "duplicate_5_1": "Better.Call.Saul.S04E06.PROPER.720p.HDTV.x264-KILLERS[eztv].mkv"
+        },
+        {
+            "duplicate_id": 6,
+            "duplicate_btih": "537330418374215619eb8b71600d864de6c84424",
+            "duplicate_6_0": "[limetorrents.info]Better.Call.Saul.S04E06.PROPER.HDTV.x264-KILLERS",
+            "duplicate_6_1": "Better.Call.Saul.S04E06.PROPER.HDTV.x264-KILLERS[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 7,
+            "duplicate_btih": "0fc5effdc3b533ace56a2e7c78d269ba030f7bea",
+            "duplicate_7_0": "[limetorrents.info]Better.Call.Saul.S04E06.PROPER.HDTV.x264-KILLERS.EZTV",
+            "duplicate_7_1": "Better.Call.Saul.S04E06.PROPER.HDTV.x264-KILLERS[eztv].mkv"
+        },
+        {
+            "duplicate_id": 8,
+            "duplicate_btih": "d481ecd17ac4b77528188bbbc8c09764de01db6a",
+            "duplicate_8_0": "[limetorrents.info]Better.Call.Saul.S04E06.REPACK.720p.HDTV.x264-MRSK",
+            "duplicate_8_1": "d912-Better.Call.Saul.S04E06.REPACK.720p.HDTV.x264-MRSK"
+        },
+        {
+            "duplicate_id": 9,
+            "duplicate_btih": "13caca7b9b62200e282ef03ae006c86c9e5abaa5",
+            "duplicate_9_0": "[rutor.is]BCS_s04_LF",
+            "duplicate_9_1": "Лучше звоните Солу Better Call Saul Сезон 4 Серии 1-6 из 10 (Винс Гиллиган, Джон Шибан, Мишель МакЛарен) [2018, США, драма [rutracker-5598785]"
+        },
+        {
+            "duplicate_id": 10,
+            "duplicate_btih": "77b84bbde4d65cc66fdeb72e9dbdd3a7c01f5dd2",
+            "duplicate_10_0": "[rutor.is]BCS_s04_LF_1080p",
+            "duplicate_10_1": "Лучше звоните Солу Better Call Saul Сезон 4 Серии 1-6 из 10 (Винс Гиллиган, Томас Шнауз, Адам Бернштейн) [2018, США, Драма [rutracker-5598625]"
+        },
+        {
+            "duplicate_id": 11,
+            "duplicate_btih": "edf4d3f4997be2faa23c135f9d0cdc0f1b46e0c7",
+            "duplicate_11_0": "[rutor.is]Better_Call_Saul._Season_4_WEBRip_l_1080p_l_Jas",
+            "duplicate_11_1": "Лучше звоните Солу Впору звонить Солу Better Call Saul Сезон 4 Серии 1-6 из 10 (Колин Бакси, Адам Бернштейн) [2018, США, [rutracker-5598980]"
+        },
+        {
+            "duplicate_id": 12,
+            "duplicate_btih": "2279bc0d0db07c332b0c1c27d2debf68be3676a7",
+            "duplicate_12_0": "[rutor.is]Better_Call_Saul._Season_4_WEBRip_l_400p_l_Jask",
+            "duplicate_12_1": "Лучше звоните Солу Впору звонить Солу Better Call Saul Сезон 4 Серии 1-6 из 10 (Колин Бакси, Адам Бернштейн) [2018, США, [rutracker-5598982]"
+        },
+        {
+            "duplicate_id": 13,
+            "duplicate_btih": "de61d428a79d833226476e33f6ad7302e1d8624f",
+            "duplicate_13_0": "[rutor.is]Better_Call_Saul._Season_4_WEBRip_l_720p_l_Jask",
+            "duplicate_13_1": "Лучше звоните Солу Впору звонить Солу Better Call Saul Сезон 4 Серии 1-6 из 10 (Колин Бакси, Адам Бернштейн) [2018, США, [rutracker-5598981]"
+        }
+    ],
+    "collection_btiha_metadata": [
+        {
+            "id": 1,
+            "name": "67bb-Better.Call.Saul.S04E06.PROPER.HDTV.x264-KILLERS[ettv]",
+            "size_total": 0.2292113,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.229211101,
+                    "path": "Better.Call.Saul.S04E06.PROPER.HDTV.x264-KILLERS[ettv]/Better.Call.Saul.S04E06.PROPER.HDTV.x264-KILLERS[ettv].mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.99e-7,
+                    "path": "Better.Call.Saul.S04E06.PROPER.HDTV.x264-KILLERS[ettv]/Downloaded from www.ETTV.tv .txt"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "[ATV 3] Лучше звоните Солу Better Call Saul Сезон 4, Эпизод 1-6 (10) (Винс Гиллиган, Томас Шнауз, Адам Бернштейн) [2018, США, [rutracker-5598649]",
+            "size_total": 12.9027849,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.190479883,
+                    "path": "Better Call Saul/Season 4/01 Smoke (1080p HD).m4v"
+                },
+                {
+                    "number": 2,
+                    "size": 2.078003325,
+                    "path": "Better Call Saul/Season 4/02 Breathe (1080p HD).m4v"
+                },
+                {
+                    "number": 3,
+                    "size": 1.983962341,
+                    "path": "Better Call Saul/Season 4/03 Something Beautiful (1080p HD).m4v"
+                },
+                {
+                    "number": 4,
+                    "size": 2.127067698,
+                    "path": "Better Call Saul/Season 4/04 Talk (1080p HD).m4v"
+                },
+                {
+                    "number": 5,
+                    "size": 2.36639456,
+                    "path": "Better Call Saul/Season 4/05 Quite a Ride (1080p HD).m4v"
+                },
+                {
+                    "number": 6,
+                    "size": 2.156877093,
+                    "path": "Better Call Saul/Season 4/06 Piñata (1080p HD).m4v"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "[limetorrents.info]Better.Call.Saul.S04E05.HDTV.x264-SVA",
+            "size_total": 0.259101687,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.259101597,
+                    "path": "Better.Call.Saul.S04E05.HDTV.x264-SVA[rarbg]/Better.Call.Saul.S04E05.HDTV.x264-SVA.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Better.Call.Saul.S04E05.HDTV.x264-SVA[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 6e-8,
+                    "path": "Better.Call.Saul.S04E05.HDTV.x264-SVA[rarbg]/better.call.saul.s04e05.hdtv.x264-sva.nfo"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "[limetorrents.info]Better.Call.Saul.S04E06.1080p.WEB.x264-STRiFE[TGx]",
+            "size_total": 2.298908974,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.001764116,
+                    "path": "Better.Call.Saul.S04E06.1080p.WEB.x264-STRiFE[TGx]/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.001763098,
+                    "path": "Better.Call.Saul.S04E06.1080p.WEB.x264-STRiFE[TGx]/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.002045223,
+                    "path": "Better.Call.Saul.S04E06.1080p.WEB.x264-STRiFE[TGx]/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001531664,
+                    "path": "Better.Call.Saul.S04E06.1080p.WEB.x264-STRiFE[TGx]/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 6.91e-7,
+                    "path": "Better.Call.Saul.S04E06.1080p.WEB.x264-STRiFE[TGx]/[TGx]Downloaded from torrentgalaxy.org .txt"
+                },
+                {
+                    "number": 6,
+                    "size": 2.291804125,
+                    "path": "Better.Call.Saul.S04E06.1080p.WEB.x264-STRiFE[TGx]/better.call.saul.s04e06.1080p.web.x264-strife.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 5.7e-8,
+                    "path": "Better.Call.Saul.S04E06.1080p.WEB.x264-STRiFE[TGx]/better.call.saul.s04e06.1080p.web.x264-strife.nfo"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "[limetorrents.info]Better.Call.Saul.S04E06.10Bit.720p.HDTV.x264-MRSK",
+            "size_total": 0.63265713,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.63265713,
+                    "path": "Better.Call.Saul.S04E06.10Bit.720p.HDTV.x264-MRSK/Better.Call.Saul.S04E06.10Bit.720p.HDTV.x264-MRSK.mkv"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "[limetorrents.info]Better.Call.Saul.S04E06.720p.10bit.WEBRip.2CH.x265.HEVC-PSA",
+            "size_total": 0.204340633,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.204340633,
+                    "path": "Better.Call.Saul.S04E06.Piñata.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "[limetorrents.info]Better.Call.Saul.S04E06.720p.HDTV.x264-AVS.EZTV",
+            "size_total": 0.795279439,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.795279439,
+                    "path": "Better.Call.Saul.S04E06.720p.HDTV.x264-AVS[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "[limetorrents.info]Better.Call.Saul.S04E06.720p.HDTV.x264-AVS",
+            "size_total": 0.795279533,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.795279439,
+                    "path": "Better.Call.Saul.S04E06.720p.HDTV.x264-AVS[rarbg]/Better.Call.Saul.S04E06.720p.HDTV.x264-AVS.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Better.Call.Saul.S04E06.720p.HDTV.x264-AVS[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 6.4e-8,
+                    "path": "Better.Call.Saul.S04E06.720p.HDTV.x264-AVS[rarbg]/better.call.saul.s04e06.720p.hdtv.x264-avs.nfo"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "[limetorrents.info]Better.Call.Saul.S04E06.720p.HDTV.x264-AVS[ettv]",
+            "size_total": 0.795279624,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.795279439,
+                    "path": "Better.Call.Saul.S04E06.720p.HDTV.x264-AVS[ettv]/Better.Call.Saul.S04E06.720p.HDTV.x264-AVS[ettv].mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.85e-7,
+                    "path": "Better.Call.Saul.S04E06.720p.HDTV.x264-AVS[ettv]/Downloaded from www.ETTV.tv .txt"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "[limetorrents.info]Better.Call.Saul.S04E06.720p.HDTV.x264-AVS[TGx]",
+            "size_total": 0.798566767,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.795279439,
+                    "path": "Better.Call.Saul.S04E06.720p.HDTV.x264-AVS[TGx]/Better.Call.Saul.S04E06.720p.HDTV.x264-AVS.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000797729,
+                    "path": "Better.Call.Saul.S04E06.720p.HDTV.x264-AVS[TGx]/Screens/screen0001.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000820544,
+                    "path": "Better.Call.Saul.S04E06.720p.HDTV.x264-AVS[TGx]/Screens/screen0002.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000894984,
+                    "path": "Better.Call.Saul.S04E06.720p.HDTV.x264-AVS[TGx]/Screens/screen0003.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000771318,
+                    "path": "Better.Call.Saul.S04E06.720p.HDTV.x264-AVS[TGx]/Screens/screen0004.png"
+                },
+                {
+                    "number": 6,
+                    "size": 6.91e-7,
+                    "path": "Better.Call.Saul.S04E06.720p.HDTV.x264-AVS[TGx]/[TGx]Downloaded from torrentgalaxy.org .txt"
+                },
+                {
+                    "number": 7,
+                    "size": 0.000002062,
+                    "path": "Better.Call.Saul.S04E06.720p.HDTV.x264-AVS[TGx]/tvmaze.nfo"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "[limetorrents.info]Better.Call.Saul.S04E06.720p.HDTV.x264-MRSK",
+            "size_total": 0.686794126,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.686794126,
+                    "path": "Better.Call.Saul.S04E06.720p.HDTV.x264-MRSK/Better.Call.Saul.S04E06.720p.HDTV.x264-MRSK.mkv"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "[limetorrents.info]Better.Call.Saul.S04E06.720p.HDTV.x265-MiNX[TGx]",
+            "size_total": 0.156697466,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.156696607,
+                    "path": "Better.Call.Saul.S04E06.720p.HDTV.x265-MiNX[TGx]/Better.Call.Saul.S04E06.720p.HDTV.x265-MiNX.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.68e-7,
+                    "path": "Better.Call.Saul.S04E06.720p.HDTV.x265-MiNX[TGx]/Better.Call.Saul.S04E06.720p.HDTV.x265-MiNX.srt"
+                },
+                {
+                    "number": 3,
+                    "size": 6.91e-7,
+                    "path": "Better.Call.Saul.S04E06.720p.HDTV.x265-MiNX[TGx]/[TGx]Downloaded from torrentgalaxy.org .txt"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "[limetorrents.info]Better.Call.Saul.S04E06.FRENCH.WEB.XviD-EXTREME",
+            "size_total": 0.381809684,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.381809684,
+                    "path": "Better.Call.Saul.S04E06.FRENCH.WEB.XviD-EXTREME [ www.Torrent9.PH ].avi"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "[limetorrents.info]Better.Call.Saul.S04E06.HDTV.x264-SVA.EZTV",
+            "size_total": 0.21674585,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.21674585,
+                    "path": "Better.Call.Saul.S04E06.HDTV.x264-SVA[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "[limetorrents.info]Better.Call.Saul.S04E06.HDTV.x264-SVA",
+            "size_total": 0.21674594,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.21674585,
+                    "path": "Better.Call.Saul.S04E06.HDTV.x264-SVA[rarbg]/Better.Call.Saul.S04E06.HDTV.x264-SVA.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Better.Call.Saul.S04E06.HDTV.x264-SVA[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 6e-8,
+                    "path": "Better.Call.Saul.S04E06.HDTV.x264-SVA[rarbg]/better.call.saul.s04e06.hdtv.x264-sva.nfo"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "[limetorrents.info]Better.Call.Saul.S04E06.HDTV.x264-SVA[ettv]",
+            "size_total": 0.216746049,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.21674585,
+                    "path": "Better.Call.Saul.S04E06.HDTV.x264-SVA[ettv]/Better.Call.Saul.S04E06.HDTV.x264-SVA[ettv].mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.99e-7,
+                    "path": "Better.Call.Saul.S04E06.HDTV.x264-SVA[ettv]/Downloaded from www.ETTV.tv .txt"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "[limetorrents.info]Better.Call.Saul.S04E06.PROPER.720p.HDTV.x264-KILLERS.EZTV",
+            "size_total": 0.897403838,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.897403838,
+                    "path": "Better.Call.Saul.S04E06.PROPER.720p.HDTV.x264-KILLERS[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": "[limetorrents.info]Better.Call.Saul.S04E06.PROPER.720p.HDTV.x264-KILLERS",
+            "size_total": 0.897404023,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.897403838,
+                    "path": "Better.Call.Saul.S04E06.PROPER.720p.HDTV.x264-KILLERS[ettv]/Better.Call.Saul.S04E06.PROPER.720p.HDTV.x264-KILLERS[ettv].mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.85e-7,
+                    "path": "Better.Call.Saul.S04E06.PROPER.720p.HDTV.x264-KILLERS[ettv]/Downloaded from www.ETTV.tv .txt"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "name": "[limetorrents.info]Better.Call.Saul.S04E06.PROPER.HDTV.x264-KILLERS.EZTV",
+            "size_total": 0.229211101,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.229211101,
+                    "path": "Better.Call.Saul.S04E06.PROPER.HDTV.x264-KILLERS[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "name": "[limetorrents.info]Better.Call.Saul.S04E06.PROPER.HDTV.x264-KILLERS",
+            "size_total": 0.229222061,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.229211101,
+                    "path": "Better.Call.Saul.S04E06.PROPER.HDTV.x264-KILLERS[rarbg]/Better.Call.Saul.S04E06.PROPER.HDTV.x264-KILLERS.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Better.Call.Saul.S04E06.PROPER.HDTV.x264-KILLERS[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00001093,
+                    "path": "Better.Call.Saul.S04E06.PROPER.HDTV.x264-KILLERS[rarbg]/better.call.saul.s04e06.proper.hdtv.x264-killers.nfo"
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "name": "[limetorrents.info]Better.Call.Saul.S04E06.REPACK.720p.HDTV.x264-MRSK",
+            "size_total": 0.650265313,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.650226543,
+                    "path": "Better.Call.Saul.S04E06.REPACK.720p.HDTV.x264-MRSK/Better.Call.Saul.S04E06.REPACK.720p.HDTV.x264-MRSK.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.00003877,
+                    "path": "Better.Call.Saul.S04E06.REPACK.720p.HDTV.x264-MRSK/Subs-FR/Better.Call.Saul.S04E06.REPACK.720p.HDTV.x264-MRSK.srt"
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "name": "[limetorrents.info]Better.Call.Saul.S04E06.XviD-AFG[TGx]",
+            "size_total": 0.312161801,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.311204728,
+                    "path": "Better.Call.Saul.S04E06.XviD-AFG[TGx]/Better.Call.Saul.S04E06.XviD-AFG.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001163,
+                    "path": "Better.Call.Saul.S04E06.XviD-AFG[TGx]/Better.Call.Saul.S04E06.XviD-AFG.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000132377,
+                    "path": "Better.Call.Saul.S04E06.XviD-AFG[TGx]/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000354814,
+                    "path": "Better.Call.Saul.S04E06.XviD-AFG[TGx]/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000287149,
+                    "path": "Better.Call.Saul.S04E06.XviD-AFG[TGx]/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000180879,
+                    "path": "Better.Call.Saul.S04E06.XviD-AFG[TGx]/Screens/screen0004.png"
+                },
+                {
+                    "number": 7,
+                    "size": 6.91e-7,
+                    "path": "Better.Call.Saul.S04E06.XviD-AFG[TGx]/[TGx]Downloaded from torrentgalaxy.org .txt"
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "name": "[rutor.is]BCS_s04_720p",
+            "size_total": 9.380354254,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.238405067,
+                    "path": "Better Call Saul - The Complete 4th Season - whip93/Better.Call.Saul.S04E01.Smoke.720p.WEBRip.DD5.1.x264.-whip93.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.843902699,
+                    "path": "Better Call Saul - The Complete 4th Season - whip93/Better.Call.Saul.S04E02.Breathe.720p.WEBRip.DD5.1.x264.-whip93.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 2.019761769,
+                    "path": "Better Call Saul - The Complete 4th Season - whip93/Better.Call.Saul.S04E03.Something.Beautiful.720p.WEBRip.DD5.1.x264.-whip93.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.511270812,
+                    "path": "Better Call Saul - The Complete 4th Season - whip93/Better.Call.Saul.S04E04.Talk.720p.WEBRip.DD5.1.x264.-whip93.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 1.767013907,
+                    "path": "Better Call Saul - The Complete 4th Season - whip93/Better.Call.Saul.S04E05.Quite.a.Ride.720p.WEBRip.DD5.1.x264.-whip93.mkv"
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "name": "[rutor.is]BCS_s04_LF",
+            "size_total": 3.753710974,
+            "files_total": 18,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.644397056,
+                    "path": "Лучше звоните Солу (сезон 4) Better Call Saul (2018) WEBRip - LostFilm/Better.Call.Saul.S04E01.WEBRip.Rus.Eng.DV.LostFilm.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.604985344,
+                    "path": "Лучше звоните Солу (сезон 4) Better Call Saul (2018) WEBRip - LostFilm/Better.Call.Saul.S04E02.WEBRip.Rus.Eng.DV.LostFilm.avi"
+                },
+                {
+                    "number": 3,
+                    "size": 0.563341312,
+                    "path": "Лучше звоните Солу (сезон 4) Better Call Saul (2018) WEBRip - LostFilm/Better.Call.Saul.S04E03.WEBRip.Rus.Eng.DV.LostFilm.avi"
+                },
+                {
+                    "number": 4,
+                    "size": 0.612282368,
+                    "path": "Лучше звоните Солу (сезон 4) Better Call Saul (2018) WEBRip - LostFilm/Better.Call.Saul.S04E04.WEBRip.Rus.Eng.DV.LostFilm.avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.700329984,
+                    "path": "Лучше звоните Солу (сезон 4) Better Call Saul (2018) WEBRip - LostFilm/Better.Call.Saul.S04E05.WEBRip.Rus.Eng.DV.LostFilm.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.62788608,
+                    "path": "Лучше звоните Солу (сезон 4) Better Call Saul (2018) WEBRip - LostFilm/Better.Call.Saul.S04E06.WEBRip.Rus.Eng.DV.LostFilm.avi"
+                },
+                {
+                    "number": 7,
+                    "size": 0.000027307,
+                    "path": "Лучше звоните Солу (сезон 4) Better Call Saul (2018) WEBRip - LostFilm/Subtitles/Better.Call.Saul.S04E01.WEBRip.Rus.Eng.DV.LostFilm.eng.srt"
+                },
+                {
+                    "number": 8,
+                    "size": 0.000035538,
+                    "path": "Лучше звоните Солу (сезон 4) Better Call Saul (2018) WEBRip - LostFilm/Subtitles/Better.Call.Saul.S04E01.WEBRip.Rus.Eng.DV.LostFilm.srt"
+                },
+                {
+                    "number": 9,
+                    "size": 0.000038823,
+                    "path": "Лучше звоните Солу (сезон 4) Better Call Saul (2018) WEBRip - LostFilm/Subtitles/Better.Call.Saul.S04E02.WEBRip.Rus.Eng.DV.LostFilm.eng.srt"
+                },
+                {
+                    "number": 10,
+                    "size": 0.000048428,
+                    "path": "Лучше звоните Солу (сезон 4) Better Call Saul (2018) WEBRip - LostFilm/Subtitles/Better.Call.Saul.S04E02.WEBRip.Rus.Eng.DV.LostFilm.srt"
+                },
+                {
+                    "number": 11,
+                    "size": 0.000033761,
+                    "path": "Лучше звоните Солу (сезон 4) Better Call Saul (2018) WEBRip - LostFilm/Subtitles/Better.Call.Saul.S04E03.WEBRip.Rus.Eng.DV.LostFilm.eng.srt"
+                },
+                {
+                    "number": 12,
+                    "size": 0.000038494,
+                    "path": "Лучше звоните Солу (сезон 4) Better Call Saul (2018) WEBRip - LostFilm/Subtitles/Better.Call.Saul.S04E03.WEBRip.Rus.Eng.DV.LostFilm.srt"
+                },
+                {
+                    "number": 13,
+                    "size": 0.000048689,
+                    "path": "Лучше звоните Солу (сезон 4) Better Call Saul (2018) WEBRip - LostFilm/Subtitles/Better.Call.Saul.S04E04.WEBRip.Rus.Eng.DV.LostFilm.eng.srt"
+                },
+                {
+                    "number": 14,
+                    "size": 0.000039278,
+                    "path": "Лучше звоните Солу (сезон 4) Better Call Saul (2018) WEBRip - LostFilm/Subtitles/Better.Call.Saul.S04E04.WEBRip.Rus.Eng.DV.LostFilm.srt"
+                },
+                {
+                    "number": 15,
+                    "size": 0.000035382,
+                    "path": "Лучше звоните Солу (сезон 4) Better Call Saul (2018) WEBRip - LostFilm/Subtitles/Better.Call.Saul.S04E05.WEBRip.Rus.Eng.DV.LostFilm.eng.srt"
+                },
+                {
+                    "number": 16,
+                    "size": 0.000044359,
+                    "path": "Лучше звоните Солу (сезон 4) Better Call Saul (2018) WEBRip - LostFilm/Subtitles/Better.Call.Saul.S04E05.WEBRip.Rus.Eng.DV.LostFilm.srt"
+                },
+                {
+                    "number": 17,
+                    "size": 0.000043526,
+                    "path": "Лучше звоните Солу (сезон 4) Better Call Saul (2018) WEBRip - LostFilm/Subtitles/Better.Call.Saul.S04E06.WEBRip.Rus.Eng.DV.LostFilm.eng.srt"
+                },
+                {
+                    "number": 18,
+                    "size": 0.000055245,
+                    "path": "Лучше звоните Солу (сезон 4) Better Call Saul (2018) WEBRip - LostFilm/Subtitles/Better.Call.Saul.S04E06.WEBRip.Rus.Eng.DV.LostFilm.srt"
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "name": "[rutor.is]BCS_s04_LF_1080p",
+            "size_total": 18.876578178,
+            "files_total": 12,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.987519948,
+                    "path": "Better_Call_Saul_(s04)_LostFilm_1080p/Better.Call.Saul.s04e01.WEBRip.1080p.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3.208659712,
+                    "path": "Better_Call_Saul_(s04)_LostFilm_1080p/Better.Call.Saul.s04e02.WEBRip.1080p.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 3.905321774,
+                    "path": "Better_Call_Saul_(s04)_LostFilm_1080p/Better.Call.Saul.s04e03.WEBRip.1080p.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 2.459916704,
+                    "path": "Better_Call_Saul_(s04)_LostFilm_1080p/Better.Call.Saul.s04e04.WEBRip.1080p.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 2.794124751,
+                    "path": "Better_Call_Saul_(s04)_LostFilm_1080p/Better.Call.Saul.s04e05.WEBRip.1080p.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 2.520774215,
+                    "path": "Better_Call_Saul_(s04)_LostFilm_1080p/Better.Call.Saul.s04e06.WEBRip.1080p.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 0.000035465,
+                    "path": "Better_Call_Saul_(s04)_LostFilm_1080p/Subtitles/Better.Call.Saul.s04e01.WEBRip.1080p.srt"
+                },
+                {
+                    "number": 8,
+                    "size": 0.000048355,
+                    "path": "Better_Call_Saul_(s04)_LostFilm_1080p/Subtitles/Better.Call.Saul.s04e02.WEBRip.1080p.srt"
+                },
+                {
+                    "number": 9,
+                    "size": 0.000038421,
+                    "path": "Better_Call_Saul_(s04)_LostFilm_1080p/Subtitles/Better.Call.Saul.s04e03.WEBRip.1080p.srt"
+                },
+                {
+                    "number": 10,
+                    "size": 0.000039358,
+                    "path": "Better_Call_Saul_(s04)_LostFilm_1080p/Subtitles/Better.Call.Saul.s04e04.WEBRip.1080p.srt"
+                },
+                {
+                    "number": 11,
+                    "size": 0.000044287,
+                    "path": "Better_Call_Saul_(s04)_LostFilm_1080p/Subtitles/Better.Call.Saul.s04e05.WEBRip.1080p.srt"
+                },
+                {
+                    "number": 12,
+                    "size": 0.000055188,
+                    "path": "Better_Call_Saul_(s04)_LostFilm_1080p/Subtitles/Better.Call.Saul.s04e06.WEBRip.1080p.srt"
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "name": "[rutor.is]BCS_s04_LF_2160p",
+            "size_total": 58.220164427,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 11.00777618,
+                    "path": "Better.Call.Saul.S04.2160p.WEBRip.Rus.Eng.LostFilm/Better.Call.Saul.S04E01.Smoke.2160p.WEBRip.Rus.Eng.LostFilm.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 9.033285957,
+                    "path": "Better.Call.Saul.S04.2160p.WEBRip.Rus.Eng.LostFilm/Better.Call.Saul.S04E02.Breathe.2160p.WEBRip.Rus.Eng.LostFilm.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 10.973096574,
+                    "path": "Better.Call.Saul.S04.2160p.WEBRip.Rus.Eng.LostFilm/Better.Call.Saul.S04E03.Something.Beautiful.2160p.WEBRip.Rus.Eng.LostFilm.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 8.432181321,
+                    "path": "Better.Call.Saul.S04.2160p.WEBRip.Rus.Eng.LostFilm/Better.Call.Saul.S04E04.Talk.2160p.WEBRip.Rus.Eng.LostFilm.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 8.036555888,
+                    "path": "Better.Call.Saul.S04.2160p.WEBRip.Rus.Eng.LostFilm/Better.Call.Saul.S04E05.Quite.a.Ride.2160p.WEBRip.Rus.Eng.LostFilm.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 10.737268507,
+                    "path": "Better.Call.Saul.S04.2160p.WEBRip.Rus.Eng.LostFilm/Better.Call.Saul.S04E06.Piñata.2160p.WEBRip.Rus.Eng.LostFilm.mkv"
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "name": "[rutor.is]Better.Call.Saul.S04.1080p.GostFilm",
+            "size_total": 16.504898118,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.302935915,
+                    "path": "Better.Call.Saul.S04.1080p.GostFilm/Better.Call.Saul.S04E04.1080p.GostFilm.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 2.360639348,
+                    "path": "Better.Call.Saul.S04.1080p.GostFilm/Better.Call.Saul.S04E06.1080p.GostFilm.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 2.408554561,
+                    "path": "Better.Call.Saul.S04.1080p.GostFilm/Better.Call.Saul.S04E01.1080p.GostFilm.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 2.616413598,
+                    "path": "Better.Call.Saul.S04.1080p.GostFilm/Better.Call.Saul.S04E05.1080p.GostFilm.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 3.053529906,
+                    "path": "Better.Call.Saul.S04.1080p.GostFilm/Better.Call.Saul.S04E02.1080p.GostFilm.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 3.76282479,
+                    "path": "Better.Call.Saul.S04.1080p.GostFilm/Better.Call.Saul.S04E03.1080p.GostFilm.mkv"
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "name": "[rutor.is]Better.Call.Saul.S04.400p.ColdFilm",
+            "size_total": 2.907757018,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.615200406,
+                    "path": "Better.Call.Saul.S04.400p.ColdFilm/Better.Call.Saul.S04E06.400p.ColdFilm.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.606346246,
+                    "path": "Better.Call.Saul.S04.400p.ColdFilm/Better.Call.Saul.S04E04.400p.ColdFilm.avi"
+                },
+                {
+                    "number": 3,
+                    "size": 0.591072588,
+                    "path": "Better.Call.Saul.S04.400p.ColdFilm/Better.Call.Saul.S04E05.400p.ColdFilm.avi"
+                },
+                {
+                    "number": 4,
+                    "size": 0.389484606,
+                    "path": "Better.Call.Saul.S04.400p.ColdFilm/Better.Call.Saul.S04E03.400p.ColdFilm.avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.361351294,
+                    "path": "Better.Call.Saul.S04.400p.ColdFilm/Better.Call.Saul.S04E01.400p.ColdFilm.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.344301878,
+                    "path": "Better.Call.Saul.S04.400p.ColdFilm/Better.Call.Saul.S04E02.400p.ColdFilm.avi"
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "name": "[rutor.is]Better.Call.Saul.S04.400p.GostFilm",
+            "size_total": 3.287357198,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.529671156,
+                    "path": "Better.Call.Saul.S04.400p.GostFilm/Better.Call.Saul.S04E02.400p.GostFilm.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.533999748,
+                    "path": "Better.Call.Saul.S04.400p.GostFilm/Better.Call.Saul.S04E06.400p.GostFilm.avi"
+                },
+                {
+                    "number": 3,
+                    "size": 0.546191664,
+                    "path": "Better.Call.Saul.S04.400p.GostFilm/Better.Call.Saul.S04E04.400p.GostFilm.avi"
+                },
+                {
+                    "number": 4,
+                    "size": 0.54774661,
+                    "path": "Better.Call.Saul.S04.400p.GostFilm/Better.Call.Saul.S04E01.400p.GostFilm.avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.548893288,
+                    "path": "Better.Call.Saul.S04.400p.GostFilm/Better.Call.Saul.S04E03.400p.GostFilm.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.580854732,
+                    "path": "Better.Call.Saul.S04.400p.GostFilm/Better.Call.Saul.S04E05.400p.GostFilm.avi"
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "name": "[rutor.is]Better.Call.Saul.S04.720p.ColdFilm",
+            "size_total": 8.303830196,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.488153398,
+                    "path": "Better.Call.Saul.S04.720p.ColdFilm/Better.Call.Saul.S04E01.720p.ColdFilm.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.454040378,
+                    "path": "Better.Call.Saul.S04.720p.ColdFilm/Better.Call.Saul.S04E05.720p.ColdFilm.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.436007451,
+                    "path": "Better.Call.Saul.S04.720p.ColdFilm/Better.Call.Saul.S04E02.720p.ColdFilm.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.323864176,
+                    "path": "Better.Call.Saul.S04.720p.ColdFilm/Better.Call.Saul.S04E06.720p.ColdFilm.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 1.304459976,
+                    "path": "Better.Call.Saul.S04.720p.ColdFilm/Better.Call.Saul.S04E03.720p.ColdFilm.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 1.297304817,
+                    "path": "Better.Call.Saul.S04.720p.ColdFilm/Better.Call.Saul.S04E04.720p.ColdFilm.mkv"
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "name": "[rutor.is]Better.Call.Saul.S04.720p.GostFilm",
+            "size_total": 8.116295714,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.082481944,
+                    "path": "Better.Call.Saul.S04.720p.GostFilm/Better.Call.Saul.S04E06.720p.GostFilm.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.083486117,
+                    "path": "Better.Call.Saul.S04.720p.GostFilm/Better.Call.Saul.S04E05.720p.GostFilm.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.086681938,
+                    "path": "Better.Call.Saul.S04.720p.GostFilm/Better.Call.Saul.S04E04.720p.GostFilm.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.46695499,
+                    "path": "Better.Call.Saul.S04.720p.GostFilm/Better.Call.Saul.S04E02.720p.GostFilm.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 1.67351936,
+                    "path": "Better.Call.Saul.S04.720p.GostFilm/Better.Call.Saul.S04E03.720p.GostFilm.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 1.723171365,
+                    "path": "Better.Call.Saul.S04.720p.GostFilm/Better.Call.Saul.S04E01.720p.GostFilm.mkv"
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "name": "[rutor.is]Better.Call.Saul.S04.720p.SunshineStudio",
+            "size_total": 4.434857746,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.810430624,
+                    "path": "Better.Call.Saul.S04.720p.SunshineStudio/Better.Call.Saul.S04E04.720p.SunshineStudio.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.807776253,
+                    "path": "Better.Call.Saul.S04.720p.SunshineStudio/Better.Call.Saul.S04E05.720p.SunshineStudio.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.755857089,
+                    "path": "Better.Call.Saul.S04.720p.SunshineStudio/Better.Call.Saul.S04E01.720p.SunshineStudio.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 0.727273945,
+                    "path": "Better.Call.Saul.S04.720p.SunshineStudio/Better.Call.Saul.S04E03.720p.SunshineStudio.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.675979988,
+                    "path": "Better.Call.Saul.S04.720p.SunshineStudio/Better.Call.Saul.S04E06.720p.SunshineStudio.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.657539847,
+                    "path": "Better.Call.Saul.S04.720p.SunshineStudio/Better.Call.Saul.S04E02.720p.SunshineStudio.mkv"
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "name": "[rutor.is]Better.Call.Saul.S04.WEB-DLRip.1080p.IdeaFilm",
+            "size_total": 17.024541485,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.15754716,
+                    "path": "Better.Call.Saul.S04.WEB-DLRip.1080p/Better.Call.Saul.S04E05.WEB-DLRip.1080p.IdeaFilm.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 2.771297245,
+                    "path": "Better.Call.Saul.S04.WEB-DLRip.1080p/Better.Call.Saul.S04E02.WEB-DLRip.1080p.IdeaFilm.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 2.549213809,
+                    "path": "Better.Call.Saul.S04.WEB-DLRip.1080p/Better.Call.Saul.S04E03.WEB-DLRip.1080p.IdeaFilm.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 2.792429173,
+                    "path": "Better.Call.Saul.S04.WEB-DLRip.1080p/Better.Call.Saul.S04E04.WEB-DLRip.1080p.IdeaFilm.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 2.904444812,
+                    "path": "Better.Call.Saul.S04.WEB-DLRip.1080p/Better.Call.Saul.S04E01.WEB-DLRip.1080p.IdeaFilm.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 2.849609286,
+                    "path": "Better.Call.Saul.S04.WEB-DLRip.1080p/Better.Call.Saul.S04E06.WEB-DLRip.1080p.IdeaFilm.mkv"
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "name": "[rutor.is]Better.Call.Saul.S04.WEB-DLRip.720p.IdeaFilm",
+            "size_total": 10.668629604,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.979543072,
+                    "path": "Better.Call.Saul.S04.WEB-DLRip.720p/Better.Call.Saul.S04E05.WEB-DLRip.720p.IdeaFilm.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.736315893,
+                    "path": "Better.Call.Saul.S04.WEB-DLRip.720p/Better.Call.Saul.S04E02.WEB-DLRip.720p.IdeaFilm.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.597072577,
+                    "path": "Better.Call.Saul.S04.WEB-DLRip.720p/Better.Call.Saul.S04E03.WEB-DLRip.720p.IdeaFilm.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.749678494,
+                    "path": "Better.Call.Saul.S04.WEB-DLRip.720p/Better.Call.Saul.S04E04.WEB-DLRip.720p.IdeaFilm.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 1.820259072,
+                    "path": "Better.Call.Saul.S04.WEB-DLRip.720p/Better.Call.Saul.S04E01.WEB-DLRip.720p.IdeaFilm.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 1.785760496,
+                    "path": "Better.Call.Saul.S04.WEB-DLRip.720p/Better.Call.Saul.S04E06.WEB-DLRip.720p.IdeaFilm.mkv"
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "name": "[rutor.is]Better.Call.Saul.S04.WEB-DLRip.IdeaFilm",
+            "size_total": 4.577853838,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.852808902,
+                    "path": "Better.Call.Saul.S04.WEB-DLRip/Better.Call.Saul.S04E05.WEB-DLRip.IdeaFilm.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.738081648,
+                    "path": "Better.Call.Saul.S04.WEB-DLRip/Better.Call.Saul.S04E02.WEB-DLRip.IdeaFilm.avi"
+                },
+                {
+                    "number": 3,
+                    "size": 0.700344988,
+                    "path": "Better.Call.Saul.S04.WEB-DLRip/Better.Call.Saul.S04E03.WEB-DLRip.IdeaFilm.avi"
+                },
+                {
+                    "number": 4,
+                    "size": 0.74028138,
+                    "path": "Better.Call.Saul.S04.WEB-DLRip/Better.Call.Saul.S04E04.WEB-DLRip.IdeaFilm.avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.782813268,
+                    "path": "Better.Call.Saul.S04.WEB-DLRip/Better.Call.Saul.S04E01.WEB-DLRip.IdeaFilm.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.763523652,
+                    "path": "Better.Call.Saul.S04.WEB-DLRip/Better.Call.Saul.S04E06.WEB-DLRip.IdeaFilm.avi"
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "name": "[rutor.is]Better_Call_Saul._Season_4_WEBRip_l_1080p_l_Goo",
+            "size_total": 19.509449334,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.987518687,
+                    "path": "Better Call Saul. Season 4 (WEBRip l 1080p l Good People)/Better.Call.Saul.S04E01.Smoke.1080p.NF.WEBRip.DDP5.1.x264-GoodPeople.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3.208651521,
+                    "path": "Better Call Saul. Season 4 (WEBRip l 1080p l Good People)/Better.Call.Saul.S04E02.Breathe.1080p.NF.WEBRip.DDP5.1.x264-GoodPeople.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 3.9053142260000002,
+                    "path": "Better Call Saul. Season 4 (WEBRip l 1080p l Good People)/Better.Call.Saul.S04E03.Something.Beautiful.1080p.NF.WEBRip.DDP5.1.x264-GoodPeople.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 2.688168029,
+                    "path": "Better Call Saul. Season 4 (WEBRip l 1080p l Good People)/Better.Call.Saul.S04E04.Talk.1080p.NF.WEBRip.DDP5.1.x264-GoodPeople.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 3.815699602,
+                    "path": "Better Call Saul. Season 4 (WEBRip l 1080p l Good People)/Better.Call.Saul.S04E05.Quite.a.Ride.1080p.NF.WEBRip.DDP5.1.x264-GoodPeople.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 1.904097269,
+                    "path": "Better Call Saul. Season 4 (WEBRip l 1080p l Good People)/Better.Call.Saul.S04E06.Piñata.1080p.NF.WEBRip.DDP5.1.x264-GoodPeople.mkv"
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "name": "[rutor.is]Better_Call_Saul._Season_4_WEBRip_l_1080p_l_Jas",
+            "size_total": 17.783629814,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.801159,
+                    "path": "Better Call Saul. Season 4 (WEBRip l 1080p l Jaskier)/Better.Call.Saul.S04E01.1080p.NF.DD5.1.x264-Jaskier.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3.031280032,
+                    "path": "Better Call Saul. Season 4 (WEBRip l 1080p l Jaskier)/Better.Call.Saul.S04E02.1080p.NF.DD5.1.x264-Jaskier.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 3.742392381,
+                    "path": "Better Call Saul. Season 4 (WEBRip l 1080p l Jaskier)/Better.Call.Saul.S04E03.1080p.NF.DD5.1.x264-Jaskier.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 2.280470344,
+                    "path": "Better Call Saul. Season 4 (WEBRip l 1080p l Jaskier)/Better.Call.Saul.S04E04.1080p.NF.DD5.1.x264-Jaskier.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 2.590834584,
+                    "path": "Better Call Saul. Season 4 (WEBRip l 1080p l Jaskier)/Better.Call.Saul.S04E05.1080p.NF.DD5.1.x264-Jaskier.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 2.337493473,
+                    "path": "Better Call Saul. Season 4 (WEBRip l 1080p l Jaskier)/Better.Call.Saul.S04E06.1080p.NF.DD5.1.x264-Jaskier.mkv"
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "name": "[rutor.is]Better_Call_Saul._Season_4_WEBRip_l_400p_l_Good",
+            "size_total": 3.709120512,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.62947328,
+                    "path": "Better Call Saul. Season 4 (WEBRip l 400p l Good People)/Better.Call.Saul.S04E01.WEBRip.Rus.Eng.GoodPeoplei.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.630536192,
+                    "path": "Better Call Saul. Season 4 (WEBRip l 400p l Good People)/Better.Call.Saul.S04E02.WEBRip.Rus.Eng.GoodPeoplei.avi"
+                },
+                {
+                    "number": 3,
+                    "size": 0.524869632,
+                    "path": "Better Call Saul. Season 4 (WEBRip l 400p l Good People)/Better.Call.Saul.S04E03.WEBRip.Rus.Eng.GoodPeoplei.avi"
+                },
+                {
+                    "number": 4,
+                    "size": 0.629209088,
+                    "path": "Better Call Saul. Season 4 (WEBRip l 400p l Good People)/Better.Call.Saul.S04E04.WEBRip.Rus.Eng.GoodPeoplei.avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.630157312,
+                    "path": "Better Call Saul. Season 4 (WEBRip l 400p l Good People)/Better.Call.Saul.S04E05.WEBRip.Rus.Eng.GoodPeoplei.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.664875008,
+                    "path": "Better Call Saul. Season 4 (WEBRip l 400p l Good People)/Better.Call.Saul.S04E06.WEBRip.Rus.Eng.GoodPeoplei.avi"
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "name": "[rutor.is]Better_Call_Saul._Season_4_WEBRip_l_400p_l_Jask",
+            "size_total": 3.674273792,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.62947328,
+                    "path": "Better Call Saul. Season 4 (WEBRip l 400p l Jaskier)/Better.Call.Saul.S04E01.WEBRip.Rus.Eng.Jaskier.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.630536192,
+                    "path": "Better Call Saul. Season 4 (WEBRip l 400p l Jaskier)/Better.Call.Saul.S04E02.WEBRip.Rus.Eng.Jaskier.avi"
+                },
+                {
+                    "number": 3,
+                    "size": 0.524869632,
+                    "path": "Better Call Saul. Season 4 (WEBRip l 400p l Jaskier)/Better.Call.Saul.S04E03.WEBRip.Rus.Eng.Jaskier.avi"
+                },
+                {
+                    "number": 4,
+                    "size": 0.629202944,
+                    "path": "Better Call Saul. Season 4 (WEBRip l 400p l Jaskier)/Better.Call.Saul.S04E04.WEBRip.Rus.Eng.Jaskier.avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.6302208,
+                    "path": "Better Call Saul. Season 4 (WEBRip l 400p l Jaskier)/Better.Call.Saul.S04E05.WEBRip.Rus.Eng.Jaskier.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.629970944,
+                    "path": "Better Call Saul. Season 4 (WEBRip l 400p l Jaskier)/Better.Call.Saul.S04E06.WEBRip.Rus.Eng.Jaskier.avi"
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "name": "[rutor.is]Better_Call_Saul._Season_4_WEBRip_l_720p_l_Jask",
+            "size_total": 9.161084751,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.816438185,
+                    "path": "Better Call Saul. Season 4 (WEBRip l 720p l Jaskier)/Better.Call.Saul.S04E01.720p.NF.DD5.1.x264-Jaskier.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.444704484,
+                    "path": "Better Call Saul. Season 4 (WEBRip l 720p l Jaskier)/Better.Call.Saul.S04E02.720p.NF.DD5.1.x264-Jaskier.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.653085662,
+                    "path": "Better Call Saul. Season 4 (WEBRip l 720p l Jaskier)/Better.Call.Saul.S04E03.720p.NF.DD5.1.x264-Jaskier.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.325200965,
+                    "path": "Better Call Saul. Season 4 (WEBRip l 720p l Jaskier)/Better.Call.Saul.S04E04.720p.NF.DD5.1.x264-Jaskier.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 1.57347411,
+                    "path": "Better Call Saul. Season 4 (WEBRip l 720p l Jaskier)/Better.Call.Saul.S04E05.720p.NF.DD5.1.x264-Jaskier.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 1.348181345,
+                    "path": "Better Call Saul. Season 4 (WEBRip l 720p l Jaskier)/Better.Call.Saul.S04E06.720p.NF.DD5.1.x264-Jaskier.mkv"
+                }
+            ]
+        },
+        {
+            "id": 41,
+            "name": "[rutor.is]Better_Call_Saul_S04_2018_720p_WEBRip_Gears_Med",
+            "size_total": 10.529706455,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.954684423,
+                    "path": "Better Call Saul S04 (2018) 720p WEBRip [Gears Media]/Better Call Saul S04E01 (2018) 720p WEBRip [Gears Media].mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.913094424,
+                    "path": "Better Call Saul S04 (2018) 720p WEBRip [Gears Media]/Better Call Saul S04E06 (2018) 720p WEBRip [Gears Media].mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.871989157,
+                    "path": "Better Call Saul S04 (2018) 720p WEBRip [Gears Media]/Better Call Saul S04E04 (2018) 720p WEBRip [Gears Media].mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.862636672,
+                    "path": "Better Call Saul S04 (2018) 720p WEBRip [Gears Media]/Better Call Saul S04E02 (2018) 720p WEBRip [Gears Media].mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 1.713804041,
+                    "path": "Better Call Saul S04 (2018) 720p WEBRip [Gears Media]/Better Call Saul S04E03 (2018) 720p WEBRip [Gears Media].mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 1.213497738,
+                    "path": "Better Call Saul S04 (2018) 720p WEBRip [Gears Media]/Better Call Saul S04E05 (2018) 720p WEBRip [Gears Media].mkv"
+                }
+            ]
+        },
+        {
+            "id": 42,
+            "name": "[rutor.is]Better_Call_Saul_S04_2018_WEBRip_Gears_Media",
+            "size_total": 2.880480166,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.501059596,
+                    "path": "Better Call Saul S04 (2018) WEBRip [Gears Media]/Better Call Saul S04E05 (2018) WEBRip [Gears Media].avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.487594908,
+                    "path": "Better Call Saul S04 (2018) WEBRip [Gears Media]/Better Call Saul S04E01 (2018) WEBRip [Gears Media].avi"
+                },
+                {
+                    "number": 3,
+                    "size": 0.485623548,
+                    "path": "Better Call Saul S04 (2018) WEBRip [Gears Media]/Better Call Saul S04E06 (2018) WEBRip [Gears Media].avi"
+                },
+                {
+                    "number": 4,
+                    "size": 0.48429051,
+                    "path": "Better Call Saul S04 (2018) WEBRip [Gears Media]/Better Call Saul S04E04 (2018) WEBRip [Gears Media].avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.469002716,
+                    "path": "Better Call Saul S04 (2018) WEBRip [Gears Media]/Better Call Saul S04E03 (2018) WEBRip [Gears Media].avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.452908888,
+                    "path": "Better Call Saul S04 (2018) WEBRip [Gears Media]/Better Call Saul S04E02 (2018) WEBRip [Gears Media].avi"
+                }
+            ]
+        },
+        {
+            "id": 43,
+            "name": "Better Call Saul S04E06 1080p Netflix WEBRip DD+ 5.1 x264-TrollHD [IPT]",
+            "size_total": 1.682846261,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.676222278,
+                    "path": "Better Call Saul S04E06 1080p Netflix WEBRip DD+ 5.1 x264-TrollHD/Better Call Saul S04E06 1080p Netflix WEBRip DD+ 5.1 x264-TrollHD.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001602,
+                    "path": "Better Call Saul S04E06 1080p Netflix WEBRip DD+ 5.1 x264-TrollHD/Better Call Saul S04E06 1080p Netflix WEBRip DD+ 5.1 x264-TrollHD.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001675521,
+                    "path": "Better Call Saul S04E06 1080p Netflix WEBRip DD+ 5.1 x264-TrollHD/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001642269,
+                    "path": "Better Call Saul S04E06 1080p Netflix WEBRip DD+ 5.1 x264-TrollHD/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.001910956,
+                    "path": "Better Call Saul S04E06 1080p Netflix WEBRip DD+ 5.1 x264-TrollHD/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.001393635,
+                    "path": "Better Call Saul S04E06 1080p Netflix WEBRip DD+ 5.1 x264-TrollHD/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 44,
+            "name": "Better Call Saul. Season 4. WEBRip (1080p).91c217cefe17e9d9",
+            "size_total": 17.510425251,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.754564587,
+                    "path": "Better Call Saul. Season 4. WEBRip (1080p)/Better.Call.Saul.S04E01.Smoke.1080p.NF.WEBRip.DDP5.1.x264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 2.986964606,
+                    "path": "Better Call Saul. Season 4. WEBRip (1080p)/Better.Call.Saul.S04E02.Breathe.1080p.NF.WEBRip.DDP5.1.x264-NTb.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 3.701672335,
+                    "path": "Better Call Saul. Season 4. WEBRip (1080p)/Better.Call.Saul.S04E03.Something.Beautiful.1080p.NF.WEBRip.DDP5.1.x264-NTb.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 2.23558422,
+                    "path": "Better Call Saul. Season 4. WEBRip (1080p)/Better.Call.Saul.S04E04.Talk.1080p.NF.WEBRip.DDP5.1.x264-METCON.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 2.539982181,
+                    "path": "Better Call Saul. Season 4. WEBRip (1080p)/Better.Call.Saul.S04E05.Quite.A.Ride.1080p.NF.WEBRip.DDP5.1.x264-METCON.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 2.291657322,
+                    "path": "Better Call Saul. Season 4. WEBRip (1080p)/Better.Call.Saul.S04E06.Piñata.1080p.NF.WEBRip.DDP5.1.x264-METCON.mkv"
+                }
+            ]
+        },
+        {
+            "id": 45,
+            "name": "Better.Call.Saul.S04E06.1080p.WEB.x264-STRiFE [IPT]",
+            "size_total": 2.341012399,
+            "files_total": 27,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 5.7e-8,
+                    "path": "Better.Call.Saul.S04E06.1080p.WEB.x264-STRiFE/better.call.saul.s04e06.1080p.web.x264-strife.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.1,
+                    "path": "Better.Call.Saul.S04E06.1080p.WEB.x264-STRiFE/better.call.saul.s04e06.1080p.web.x264-strife.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.1,
+                    "path": "Better.Call.Saul.S04E06.1080p.WEB.x264-STRiFE/better.call.saul.s04e06.1080p.web.x264-strife.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.1,
+                    "path": "Better.Call.Saul.S04E06.1080p.WEB.x264-STRiFE/better.call.saul.s04e06.1080p.web.x264-strife.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.1,
+                    "path": "Better.Call.Saul.S04E06.1080p.WEB.x264-STRiFE/better.call.saul.s04e06.1080p.web.x264-strife.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.1,
+                    "path": "Better.Call.Saul.S04E06.1080p.WEB.x264-STRiFE/better.call.saul.s04e06.1080p.web.x264-strife.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.1,
+                    "path": "Better.Call.Saul.S04E06.1080p.WEB.x264-STRiFE/better.call.saul.s04e06.1080p.web.x264-strife.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.1,
+                    "path": "Better.Call.Saul.S04E06.1080p.WEB.x264-STRiFE/better.call.saul.s04e06.1080p.web.x264-strife.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.1,
+                    "path": "Better.Call.Saul.S04E06.1080p.WEB.x264-STRiFE/better.call.saul.s04e06.1080p.web.x264-strife.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.1,
+                    "path": "Better.Call.Saul.S04E06.1080p.WEB.x264-STRiFE/better.call.saul.s04e06.1080p.web.x264-strife.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.1,
+                    "path": "Better.Call.Saul.S04E06.1080p.WEB.x264-STRiFE/better.call.saul.s04e06.1080p.web.x264-strife.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.1,
+                    "path": "Better.Call.Saul.S04E06.1080p.WEB.x264-STRiFE/better.call.saul.s04e06.1080p.web.x264-strife.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.1,
+                    "path": "Better.Call.Saul.S04E06.1080p.WEB.x264-STRiFE/better.call.saul.s04e06.1080p.web.x264-strife.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.1,
+                    "path": "Better.Call.Saul.S04E06.1080p.WEB.x264-STRiFE/better.call.saul.s04e06.1080p.web.x264-strife.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.1,
+                    "path": "Better.Call.Saul.S04E06.1080p.WEB.x264-STRiFE/better.call.saul.s04e06.1080p.web.x264-strife.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.1,
+                    "path": "Better.Call.Saul.S04E06.1080p.WEB.x264-STRiFE/better.call.saul.s04e06.1080p.web.x264-strife.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.1,
+                    "path": "Better.Call.Saul.S04E06.1080p.WEB.x264-STRiFE/better.call.saul.s04e06.1080p.web.x264-strife.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.1,
+                    "path": "Better.Call.Saul.S04E06.1080p.WEB.x264-STRiFE/better.call.saul.s04e06.1080p.web.x264-strife.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.1,
+                    "path": "Better.Call.Saul.S04E06.1080p.WEB.x264-STRiFE/better.call.saul.s04e06.1080p.web.x264-strife.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.1,
+                    "path": "Better.Call.Saul.S04E06.1080p.WEB.x264-STRiFE/better.call.saul.s04e06.1080p.web.x264-strife.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.1,
+                    "path": "Better.Call.Saul.S04E06.1080p.WEB.x264-STRiFE/better.call.saul.s04e06.1080p.web.x264-strife.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.1,
+                    "path": "Better.Call.Saul.S04E06.1080p.WEB.x264-STRiFE/better.call.saul.s04e06.1080p.web.x264-strife.r20"
+                },
+                {
+                    "number": 23,
+                    "size": 0.091807092,
+                    "path": "Better.Call.Saul.S04E06.1080p.WEB.x264-STRiFE/better.call.saul.s04e06.1080p.web.x264-strife.r21"
+                },
+                {
+                    "number": 24,
+                    "size": 0.1,
+                    "path": "Better.Call.Saul.S04E06.1080p.WEB.x264-STRiFE/better.call.saul.s04e06.1080p.web.x264-strife.rar"
+                },
+                {
+                    "number": 25,
+                    "size": 0.00000138,
+                    "path": "Better.Call.Saul.S04E06.1080p.WEB.x264-STRiFE/better.call.saul.s04e06.1080p.web.x264-strife.sfv"
+                },
+                {
+                    "number": 26,
+                    "size": 0.049201808,
+                    "path": "Better.Call.Saul.S04E06.1080p.WEB.x264-STRiFE/Sample/sample-better.call.saul.s04e06.1080p.web.x264-strife.mkv"
+                },
+                {
+                    "number": 27,
+                    "size": 0.000002062,
+                    "path": "Better.Call.Saul.S04E06.1080p.WEB.x264-STRiFE/tvmaze.nfo"
+                }
+            ]
+        },
+        {
+            "id": 46,
+            "name": "Better.Call.Saul.S04E06.1080p.WEB.x264-STRiFE[rartv]-[rarbg.to]",
+            "size_total": 2.291804212,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Better.Call.Saul.S04E06.1080p.WEB.x264-STRiFE[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 2.291804125,
+                    "path": "Better.Call.Saul.S04E06.1080p.WEB.x264-STRiFE[rarbg]/better.call.saul.s04e06.1080p.web.x264-strife.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 5.7e-8,
+                    "path": "Better.Call.Saul.S04E06.1080p.WEB.x264-STRiFE[rarbg]/better.call.saul.s04e06.1080p.web.x264-strife.nfo"
+                }
+            ]
+        },
+        {
+            "id": 47,
+            "name": "Better.Call.Saul.S04E06.2160p.NF.WEBRip.DD5.1.x264-TrollUHD[rartv]-[rarbg.to]",
+            "size_total": 10.508898019,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 10.508897988,
+                    "path": "Better.Call.Saul.S04E06.2160p.NF.WEBRip.DD5.1.x264-TrollUHD[rartv]/Better Call Saul S04E06 2160p Netflix WEBRip DD 5.1 x264-TrollUHD.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3.1e-8,
+                    "path": "Better.Call.Saul.S04E06.2160p.NF.WEBRip.DD5.1.x264-TrollUHD[rartv]/RARBG.txt"
+                }
+            ]
+        },
+        {
+            "id": 48,
+            "name": "Better.Call.Saul.S04E06.480p.x264-mSD [IPT]",
+            "size_total": 0.126551551,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.125710753,
+                    "path": "Better.Call.Saul.S04E06.480p.x264-mSD/Better.Call.Saul.S04E06.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001183,
+                    "path": "Better.Call.Saul.S04E06.480p.x264-mSD/Better.Call.Saul.S04E06.480p.x264-mSD.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000118025,
+                    "path": "Better.Call.Saul.S04E06.480p.x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000308097,
+                    "path": "Better.Call.Saul.S04E06.480p.x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000244361,
+                    "path": "Better.Call.Saul.S04E06.480p.x264-mSD/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000169132,
+                    "path": "Better.Call.Saul.S04E06.480p.x264-mSD/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 49,
+            "name": "Better.Call.Saul.S04E06.720p.HDTV.x264-AVS [IPT]",
+            "size_total": 0.817505929,
+            "files_total": 20,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 6.4e-8,
+                    "path": "Better.Call.Saul.S04E06.720p.HDTV.x264-AVS/better.call.saul.s04e06.720p.hdtv.x264-avs.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.05,
+                    "path": "Better.Call.Saul.S04E06.720p.HDTV.x264-AVS/better.call.saul.s04e06.720p.hdtv.x264-avs.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.05,
+                    "path": "Better.Call.Saul.S04E06.720p.HDTV.x264-AVS/better.call.saul.s04e06.720p.hdtv.x264-avs.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.05,
+                    "path": "Better.Call.Saul.S04E06.720p.HDTV.x264-AVS/better.call.saul.s04e06.720p.hdtv.x264-avs.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.05,
+                    "path": "Better.Call.Saul.S04E06.720p.HDTV.x264-AVS/better.call.saul.s04e06.720p.hdtv.x264-avs.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.05,
+                    "path": "Better.Call.Saul.S04E06.720p.HDTV.x264-AVS/better.call.saul.s04e06.720p.hdtv.x264-avs.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.05,
+                    "path": "Better.Call.Saul.S04E06.720p.HDTV.x264-AVS/better.call.saul.s04e06.720p.hdtv.x264-avs.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.05,
+                    "path": "Better.Call.Saul.S04E06.720p.HDTV.x264-AVS/better.call.saul.s04e06.720p.hdtv.x264-avs.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.05,
+                    "path": "Better.Call.Saul.S04E06.720p.HDTV.x264-AVS/better.call.saul.s04e06.720p.hdtv.x264-avs.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.05,
+                    "path": "Better.Call.Saul.S04E06.720p.HDTV.x264-AVS/better.call.saul.s04e06.720p.hdtv.x264-avs.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.05,
+                    "path": "Better.Call.Saul.S04E06.720p.HDTV.x264-AVS/better.call.saul.s04e06.720p.hdtv.x264-avs.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.05,
+                    "path": "Better.Call.Saul.S04E06.720p.HDTV.x264-AVS/better.call.saul.s04e06.720p.hdtv.x264-avs.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.05,
+                    "path": "Better.Call.Saul.S04E06.720p.HDTV.x264-AVS/better.call.saul.s04e06.720p.hdtv.x264-avs.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.05,
+                    "path": "Better.Call.Saul.S04E06.720p.HDTV.x264-AVS/better.call.saul.s04e06.720p.hdtv.x264-avs.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.05,
+                    "path": "Better.Call.Saul.S04E06.720p.HDTV.x264-AVS/better.call.saul.s04e06.720p.hdtv.x264-avs.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.045281007,
+                    "path": "Better.Call.Saul.S04E06.720p.HDTV.x264-AVS/better.call.saul.s04e06.720p.hdtv.x264-avs.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.05,
+                    "path": "Better.Call.Saul.S04E06.720p.HDTV.x264-AVS/better.call.saul.s04e06.720p.hdtv.x264-avs.rar"
+                },
+                {
+                    "number": 18,
+                    "size": 9.12e-7,
+                    "path": "Better.Call.Saul.S04E06.720p.HDTV.x264-AVS/better.call.saul.s04e06.720p.hdtv.x264-avs.sfv"
+                },
+                {
+                    "number": 19,
+                    "size": 0.022221884,
+                    "path": "Better.Call.Saul.S04E06.720p.HDTV.x264-AVS/Sample/sample-better.call.saul.s04e06.720p.hdtv.x264-avs.mkv"
+                },
+                {
+                    "number": 20,
+                    "size": 0.000002062,
+                    "path": "Better.Call.Saul.S04E06.720p.HDTV.x264-AVS/tvmaze.nfo"
+                }
+            ]
+        },
+        {
+            "id": 50,
+            "name": "Better.Call.Saul.S04E06.720p.HDTV.x264-AVS[eztv].mkv",
+            "size_total": 0.795279439,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.795279439,
+                    "path": "Better.Call.Saul.S04E06.720p.HDTV.x264-AVS[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 51,
+            "name": "Better.Call.Saul.S04E06.720p.HDTV.x264-AVS[rartv]-[rarbg.to]",
+            "size_total": 0.795279533,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.795279439,
+                    "path": "Better.Call.Saul.S04E06.720p.HDTV.x264-AVS[rarbg]/Better.Call.Saul.S04E06.720p.HDTV.x264-AVS.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Better.Call.Saul.S04E06.720p.HDTV.x264-AVS[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 6.4e-8,
+                    "path": "Better.Call.Saul.S04E06.720p.HDTV.x264-AVS[rarbg]/better.call.saul.s04e06.720p.hdtv.x264-avs.nfo"
+                }
+            ]
+        },
+        {
+            "id": 52,
+            "name": "Better.Call.Saul.S04E06.720p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.202005226,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.199113052,
+                    "path": "Better.Call.Saul.S04E06.720p.HEVC.x265-MeGusta/Better.Call.Saul.S04E06.720p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001193,
+                    "path": "Better.Call.Saul.S04E06.720p.HEVC.x265-MeGusta/Better.Call.Saul.S04E06.720p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000721445,
+                    "path": "Better.Call.Saul.S04E06.720p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000717501,
+                    "path": "Better.Call.Saul.S04E06.720p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000837434,
+                    "path": "Better.Call.Saul.S04E06.720p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000614601,
+                    "path": "Better.Call.Saul.S04E06.720p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 53,
+            "name": "Better.Call.Saul.S04E06.AAC.MP4-Mobile [IPT]",
+            "size_total": 0.137925708,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.136963829,
+                    "path": "Better.Call.Saul.S04E06.AAC.MP4-Mobile/Better.Call.Saul.S04E06.AAC.MP4-Mobile.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001289,
+                    "path": "Better.Call.Saul.S04E06.AAC.MP4-Mobile/Better.Call.Saul.S04E06.AAC.MP4-Mobile.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000140671,
+                    "path": "Better.Call.Saul.S04E06.AAC.MP4-Mobile/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000349523,
+                    "path": "Better.Call.Saul.S04E06.AAC.MP4-Mobile/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000276917,
+                    "path": "Better.Call.Saul.S04E06.AAC.MP4-Mobile/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000193479,
+                    "path": "Better.Call.Saul.S04E06.AAC.MP4-Mobile/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 54,
+            "name": "Better.Call.Saul.S04E06.HDTV.x264-SVA [IPT]",
+            "size_total": 0.223134578,
+            "files_total": 19,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 6e-8,
+                    "path": "Better.Call.Saul.S04E06.HDTV.x264-SVA/better.call.saul.s04e06.hdtv.x264-sva.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.015,
+                    "path": "Better.Call.Saul.S04E06.HDTV.x264-SVA/better.call.saul.s04e06.hdtv.x264-sva.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.015,
+                    "path": "Better.Call.Saul.S04E06.HDTV.x264-SVA/better.call.saul.s04e06.hdtv.x264-sva.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.015,
+                    "path": "Better.Call.Saul.S04E06.HDTV.x264-SVA/better.call.saul.s04e06.hdtv.x264-sva.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.015,
+                    "path": "Better.Call.Saul.S04E06.HDTV.x264-SVA/better.call.saul.s04e06.hdtv.x264-sva.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.015,
+                    "path": "Better.Call.Saul.S04E06.HDTV.x264-SVA/better.call.saul.s04e06.hdtv.x264-sva.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.015,
+                    "path": "Better.Call.Saul.S04E06.HDTV.x264-SVA/better.call.saul.s04e06.hdtv.x264-sva.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.015,
+                    "path": "Better.Call.Saul.S04E06.HDTV.x264-SVA/better.call.saul.s04e06.hdtv.x264-sva.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.015,
+                    "path": "Better.Call.Saul.S04E06.HDTV.x264-SVA/better.call.saul.s04e06.hdtv.x264-sva.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.015,
+                    "path": "Better.Call.Saul.S04E06.HDTV.x264-SVA/better.call.saul.s04e06.hdtv.x264-sva.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.015,
+                    "path": "Better.Call.Saul.S04E06.HDTV.x264-SVA/better.call.saul.s04e06.hdtv.x264-sva.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.015,
+                    "path": "Better.Call.Saul.S04E06.HDTV.x264-SVA/better.call.saul.s04e06.hdtv.x264-sva.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.015,
+                    "path": "Better.Call.Saul.S04E06.HDTV.x264-SVA/better.call.saul.s04e06.hdtv.x264-sva.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.015,
+                    "path": "Better.Call.Saul.S04E06.HDTV.x264-SVA/better.call.saul.s04e06.hdtv.x264-sva.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.006747245,
+                    "path": "Better.Call.Saul.S04E06.HDTV.x264-SVA/better.call.saul.s04e06.hdtv.x264-sva.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.015,
+                    "path": "Better.Call.Saul.S04E06.HDTV.x264-SVA/better.call.saul.s04e06.hdtv.x264-sva.rar"
+                },
+                {
+                    "number": 17,
+                    "size": 7.8e-7,
+                    "path": "Better.Call.Saul.S04E06.HDTV.x264-SVA/better.call.saul.s04e06.hdtv.x264-sva.sfv"
+                },
+                {
+                    "number": 18,
+                    "size": 0.006384431,
+                    "path": "Better.Call.Saul.S04E06.HDTV.x264-SVA/Sample/sample-better.call.saul.s04e06.hdtv.x264-sva.mkv"
+                },
+                {
+                    "number": 19,
+                    "size": 0.000002062,
+                    "path": "Better.Call.Saul.S04E06.HDTV.x264-SVA/tvmaze.nfo"
+                }
+            ]
+        },
+        {
+            "id": 55,
+            "name": "Better.Call.Saul.S04E06.HDTV.x264-SVA[eztv].mkv",
+            "size_total": 0.21674585,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.21674585,
+                    "path": "Better.Call.Saul.S04E06.HDTV.x264-SVA[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 56,
+            "name": "Better.Call.Saul.S04E06.HDTV.x264-SVA[rartv]-[rarbg.to]",
+            "size_total": 0.21674594,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.21674585,
+                    "path": "Better.Call.Saul.S04E06.HDTV.x264-SVA[rarbg]/Better.Call.Saul.S04E06.HDTV.x264-SVA.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Better.Call.Saul.S04E06.HDTV.x264-SVA[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 6e-8,
+                    "path": "Better.Call.Saul.S04E06.HDTV.x264-SVA[rarbg]/better.call.saul.s04e06.hdtv.x264-sva.nfo"
+                }
+            ]
+        },
+        {
+            "id": 57,
+            "name": "Better.Call.Saul.S04E06.iNTERNAL.1080p.WEB.X264-METCON[rartv]-[rarbg.to]",
+            "size_total": 2.291758111,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.29175769,
+                    "path": "Better.Call.Saul.S04E06.iNTERNAL.1080p.WEB.X264-METCON[rarbg]/Better.Call.Saul.S04E06.iNTERNAL.1080p.WEB.X264-METCON.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Better.Call.Saul.S04E06.iNTERNAL.1080p.WEB.X264-METCON[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 3.91e-7,
+                    "path": "Better.Call.Saul.S04E06.iNTERNAL.1080p.WEB.X264-METCON[rarbg]/better.call.saul.s04e06.internal.1080p.web.x264-metcon.nfo"
+                }
+            ]
+        },
+        {
+            "id": 58,
+            "name": "Better.Call.Saul.S04E06.MULTi.1080p.WEB.x264-CARAPiLS [IPT]",
+            "size_total": 2.573864651,
+            "files_total": 54,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.00000304,
+                    "path": "Better.Call.Saul.S04E06.MULTi.1080p.WEB.x264-CARAPiLS/better.call.saul.s04e06.multi.1080p.web.x264-carapils.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.05,
+                    "path": "Better.Call.Saul.S04E06.MULTi.1080p.WEB.x264-CARAPiLS/better.call.saul.s04e06.multi.1080p.web.x264-carapils.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.05,
+                    "path": "Better.Call.Saul.S04E06.MULTi.1080p.WEB.x264-CARAPiLS/better.call.saul.s04e06.multi.1080p.web.x264-carapils.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.05,
+                    "path": "Better.Call.Saul.S04E06.MULTi.1080p.WEB.x264-CARAPiLS/better.call.saul.s04e06.multi.1080p.web.x264-carapils.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.05,
+                    "path": "Better.Call.Saul.S04E06.MULTi.1080p.WEB.x264-CARAPiLS/better.call.saul.s04e06.multi.1080p.web.x264-carapils.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.05,
+                    "path": "Better.Call.Saul.S04E06.MULTi.1080p.WEB.x264-CARAPiLS/better.call.saul.s04e06.multi.1080p.web.x264-carapils.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.05,
+                    "path": "Better.Call.Saul.S04E06.MULTi.1080p.WEB.x264-CARAPiLS/better.call.saul.s04e06.multi.1080p.web.x264-carapils.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.05,
+                    "path": "Better.Call.Saul.S04E06.MULTi.1080p.WEB.x264-CARAPiLS/better.call.saul.s04e06.multi.1080p.web.x264-carapils.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.05,
+                    "path": "Better.Call.Saul.S04E06.MULTi.1080p.WEB.x264-CARAPiLS/better.call.saul.s04e06.multi.1080p.web.x264-carapils.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.05,
+                    "path": "Better.Call.Saul.S04E06.MULTi.1080p.WEB.x264-CARAPiLS/better.call.saul.s04e06.multi.1080p.web.x264-carapils.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.05,
+                    "path": "Better.Call.Saul.S04E06.MULTi.1080p.WEB.x264-CARAPiLS/better.call.saul.s04e06.multi.1080p.web.x264-carapils.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.05,
+                    "path": "Better.Call.Saul.S04E06.MULTi.1080p.WEB.x264-CARAPiLS/better.call.saul.s04e06.multi.1080p.web.x264-carapils.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.05,
+                    "path": "Better.Call.Saul.S04E06.MULTi.1080p.WEB.x264-CARAPiLS/better.call.saul.s04e06.multi.1080p.web.x264-carapils.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.05,
+                    "path": "Better.Call.Saul.S04E06.MULTi.1080p.WEB.x264-CARAPiLS/better.call.saul.s04e06.multi.1080p.web.x264-carapils.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.05,
+                    "path": "Better.Call.Saul.S04E06.MULTi.1080p.WEB.x264-CARAPiLS/better.call.saul.s04e06.multi.1080p.web.x264-carapils.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.05,
+                    "path": "Better.Call.Saul.S04E06.MULTi.1080p.WEB.x264-CARAPiLS/better.call.saul.s04e06.multi.1080p.web.x264-carapils.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.05,
+                    "path": "Better.Call.Saul.S04E06.MULTi.1080p.WEB.x264-CARAPiLS/better.call.saul.s04e06.multi.1080p.web.x264-carapils.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.05,
+                    "path": "Better.Call.Saul.S04E06.MULTi.1080p.WEB.x264-CARAPiLS/better.call.saul.s04e06.multi.1080p.web.x264-carapils.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.05,
+                    "path": "Better.Call.Saul.S04E06.MULTi.1080p.WEB.x264-CARAPiLS/better.call.saul.s04e06.multi.1080p.web.x264-carapils.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.05,
+                    "path": "Better.Call.Saul.S04E06.MULTi.1080p.WEB.x264-CARAPiLS/better.call.saul.s04e06.multi.1080p.web.x264-carapils.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.05,
+                    "path": "Better.Call.Saul.S04E06.MULTi.1080p.WEB.x264-CARAPiLS/better.call.saul.s04e06.multi.1080p.web.x264-carapils.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.05,
+                    "path": "Better.Call.Saul.S04E06.MULTi.1080p.WEB.x264-CARAPiLS/better.call.saul.s04e06.multi.1080p.web.x264-carapils.r20"
+                },
+                {
+                    "number": 23,
+                    "size": 0.05,
+                    "path": "Better.Call.Saul.S04E06.MULTi.1080p.WEB.x264-CARAPiLS/better.call.saul.s04e06.multi.1080p.web.x264-carapils.r21"
+                },
+                {
+                    "number": 24,
+                    "size": 0.05,
+                    "path": "Better.Call.Saul.S04E06.MULTi.1080p.WEB.x264-CARAPiLS/better.call.saul.s04e06.multi.1080p.web.x264-carapils.r22"
+                },
+                {
+                    "number": 25,
+                    "size": 0.05,
+                    "path": "Better.Call.Saul.S04E06.MULTi.1080p.WEB.x264-CARAPiLS/better.call.saul.s04e06.multi.1080p.web.x264-carapils.r23"
+                },
+                {
+                    "number": 26,
+                    "size": 0.05,
+                    "path": "Better.Call.Saul.S04E06.MULTi.1080p.WEB.x264-CARAPiLS/better.call.saul.s04e06.multi.1080p.web.x264-carapils.r24"
+                },
+                {
+                    "number": 27,
+                    "size": 0.05,
+                    "path": "Better.Call.Saul.S04E06.MULTi.1080p.WEB.x264-CARAPiLS/better.call.saul.s04e06.multi.1080p.web.x264-carapils.r25"
+                },
+                {
+                    "number": 28,
+                    "size": 0.05,
+                    "path": "Better.Call.Saul.S04E06.MULTi.1080p.WEB.x264-CARAPiLS/better.call.saul.s04e06.multi.1080p.web.x264-carapils.r26"
+                },
+                {
+                    "number": 29,
+                    "size": 0.05,
+                    "path": "Better.Call.Saul.S04E06.MULTi.1080p.WEB.x264-CARAPiLS/better.call.saul.s04e06.multi.1080p.web.x264-carapils.r27"
+                },
+                {
+                    "number": 30,
+                    "size": 0.05,
+                    "path": "Better.Call.Saul.S04E06.MULTi.1080p.WEB.x264-CARAPiLS/better.call.saul.s04e06.multi.1080p.web.x264-carapils.r28"
+                },
+                {
+                    "number": 31,
+                    "size": 0.05,
+                    "path": "Better.Call.Saul.S04E06.MULTi.1080p.WEB.x264-CARAPiLS/better.call.saul.s04e06.multi.1080p.web.x264-carapils.r29"
+                },
+                {
+                    "number": 32,
+                    "size": 0.05,
+                    "path": "Better.Call.Saul.S04E06.MULTi.1080p.WEB.x264-CARAPiLS/better.call.saul.s04e06.multi.1080p.web.x264-carapils.r30"
+                },
+                {
+                    "number": 33,
+                    "size": 0.05,
+                    "path": "Better.Call.Saul.S04E06.MULTi.1080p.WEB.x264-CARAPiLS/better.call.saul.s04e06.multi.1080p.web.x264-carapils.r31"
+                },
+                {
+                    "number": 34,
+                    "size": 0.05,
+                    "path": "Better.Call.Saul.S04E06.MULTi.1080p.WEB.x264-CARAPiLS/better.call.saul.s04e06.multi.1080p.web.x264-carapils.r32"
+                },
+                {
+                    "number": 35,
+                    "size": 0.05,
+                    "path": "Better.Call.Saul.S04E06.MULTi.1080p.WEB.x264-CARAPiLS/better.call.saul.s04e06.multi.1080p.web.x264-carapils.r33"
+                },
+                {
+                    "number": 36,
+                    "size": 0.05,
+                    "path": "Better.Call.Saul.S04E06.MULTi.1080p.WEB.x264-CARAPiLS/better.call.saul.s04e06.multi.1080p.web.x264-carapils.r34"
+                },
+                {
+                    "number": 37,
+                    "size": 0.05,
+                    "path": "Better.Call.Saul.S04E06.MULTi.1080p.WEB.x264-CARAPiLS/better.call.saul.s04e06.multi.1080p.web.x264-carapils.r35"
+                },
+                {
+                    "number": 38,
+                    "size": 0.05,
+                    "path": "Better.Call.Saul.S04E06.MULTi.1080p.WEB.x264-CARAPiLS/better.call.saul.s04e06.multi.1080p.web.x264-carapils.r36"
+                },
+                {
+                    "number": 39,
+                    "size": 0.05,
+                    "path": "Better.Call.Saul.S04E06.MULTi.1080p.WEB.x264-CARAPiLS/better.call.saul.s04e06.multi.1080p.web.x264-carapils.r37"
+                },
+                {
+                    "number": 40,
+                    "size": 0.05,
+                    "path": "Better.Call.Saul.S04E06.MULTi.1080p.WEB.x264-CARAPiLS/better.call.saul.s04e06.multi.1080p.web.x264-carapils.r38"
+                },
+                {
+                    "number": 41,
+                    "size": 0.05,
+                    "path": "Better.Call.Saul.S04E06.MULTi.1080p.WEB.x264-CARAPiLS/better.call.saul.s04e06.multi.1080p.web.x264-carapils.r39"
+                },
+                {
+                    "number": 42,
+                    "size": 0.05,
+                    "path": "Better.Call.Saul.S04E06.MULTi.1080p.WEB.x264-CARAPiLS/better.call.saul.s04e06.multi.1080p.web.x264-carapils.r40"
+                },
+                {
+                    "number": 43,
+                    "size": 0.05,
+                    "path": "Better.Call.Saul.S04E06.MULTi.1080p.WEB.x264-CARAPiLS/better.call.saul.s04e06.multi.1080p.web.x264-carapils.r41"
+                },
+                {
+                    "number": 44,
+                    "size": 0.05,
+                    "path": "Better.Call.Saul.S04E06.MULTi.1080p.WEB.x264-CARAPiLS/better.call.saul.s04e06.multi.1080p.web.x264-carapils.r42"
+                },
+                {
+                    "number": 45,
+                    "size": 0.05,
+                    "path": "Better.Call.Saul.S04E06.MULTi.1080p.WEB.x264-CARAPiLS/better.call.saul.s04e06.multi.1080p.web.x264-carapils.r43"
+                },
+                {
+                    "number": 46,
+                    "size": 0.05,
+                    "path": "Better.Call.Saul.S04E06.MULTi.1080p.WEB.x264-CARAPiLS/better.call.saul.s04e06.multi.1080p.web.x264-carapils.r44"
+                },
+                {
+                    "number": 47,
+                    "size": 0.05,
+                    "path": "Better.Call.Saul.S04E06.MULTi.1080p.WEB.x264-CARAPiLS/better.call.saul.s04e06.multi.1080p.web.x264-carapils.r45"
+                },
+                {
+                    "number": 48,
+                    "size": 0.05,
+                    "path": "Better.Call.Saul.S04E06.MULTi.1080p.WEB.x264-CARAPiLS/better.call.saul.s04e06.multi.1080p.web.x264-carapils.r46"
+                },
+                {
+                    "number": 49,
+                    "size": 0.05,
+                    "path": "Better.Call.Saul.S04E06.MULTi.1080p.WEB.x264-CARAPiLS/better.call.saul.s04e06.multi.1080p.web.x264-carapils.r47"
+                },
+                {
+                    "number": 50,
+                    "size": 0.05,
+                    "path": "Better.Call.Saul.S04E06.MULTi.1080p.WEB.x264-CARAPiLS/better.call.saul.s04e06.multi.1080p.web.x264-carapils.r48"
+                },
+                {
+                    "number": 51,
+                    "size": 0.020886672,
+                    "path": "Better.Call.Saul.S04E06.MULTi.1080p.WEB.x264-CARAPiLS/better.call.saul.s04e06.multi.1080p.web.x264-carapils.r49"
+                },
+                {
+                    "number": 52,
+                    "size": 0.05,
+                    "path": "Better.Call.Saul.S04E06.MULTi.1080p.WEB.x264-CARAPiLS/better.call.saul.s04e06.multi.1080p.web.x264-carapils.rar"
+                },
+                {
+                    "number": 53,
+                    "size": 0.000003468,
+                    "path": "Better.Call.Saul.S04E06.MULTi.1080p.WEB.x264-CARAPiLS/better.call.saul.s04e06.multi.1080p.web.x264-carapils.sfv"
+                },
+                {
+                    "number": 54,
+                    "size": 0.052971471,
+                    "path": "Better.Call.Saul.S04E06.MULTi.1080p.WEB.x264-CARAPiLS/Sample/better.call.saul.s04e06.multi.1080p.web.x264-carapils-sample.mkv"
+                }
+            ]
+        },
+        {
+            "id": 59,
+            "name": "Better.Call.Saul.S04E06.PROPER.480p.x264-mSD [IPT]",
+            "size_total": 0.126311647,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.125441094,
+                    "path": "Better.Call.Saul.S04E06.PROPER.480p.x264-mSD/Better.Call.Saul.S04E06.PROPER.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001199,
+                    "path": "Better.Call.Saul.S04E06.PROPER.480p.x264-mSD/Better.Call.Saul.S04E06.PROPER.480p.x264-mSD.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000114286,
+                    "path": "Better.Call.Saul.S04E06.PROPER.480p.x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000309429,
+                    "path": "Better.Call.Saul.S04E06.PROPER.480p.x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.00030037,
+                    "path": "Better.Call.Saul.S04E06.PROPER.480p.x264-mSD/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000145269,
+                    "path": "Better.Call.Saul.S04E06.PROPER.480p.x264-mSD/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 60,
+            "name": "Better.Call.Saul.S04E06.PROPER.720p.HDTV.x264-KILLERS [IPT]",
+            "size_total": 0.922067651,
+            "files_total": 22,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000010938,
+                    "path": "Better.Call.Saul.S04E06.PROPER.720p.HDTV.x264-KILLERS/better.call.saul.s04e06.proper.720p.hdtv.x264-killers.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.05,
+                    "path": "Better.Call.Saul.S04E06.PROPER.720p.HDTV.x264-KILLERS/better.call.saul.s04e06.proper.720p.hdtv.x264-killers.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.05,
+                    "path": "Better.Call.Saul.S04E06.PROPER.720p.HDTV.x264-KILLERS/better.call.saul.s04e06.proper.720p.hdtv.x264-killers.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.05,
+                    "path": "Better.Call.Saul.S04E06.PROPER.720p.HDTV.x264-KILLERS/better.call.saul.s04e06.proper.720p.hdtv.x264-killers.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.05,
+                    "path": "Better.Call.Saul.S04E06.PROPER.720p.HDTV.x264-KILLERS/better.call.saul.s04e06.proper.720p.hdtv.x264-killers.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.05,
+                    "path": "Better.Call.Saul.S04E06.PROPER.720p.HDTV.x264-KILLERS/better.call.saul.s04e06.proper.720p.hdtv.x264-killers.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.05,
+                    "path": "Better.Call.Saul.S04E06.PROPER.720p.HDTV.x264-KILLERS/better.call.saul.s04e06.proper.720p.hdtv.x264-killers.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.05,
+                    "path": "Better.Call.Saul.S04E06.PROPER.720p.HDTV.x264-KILLERS/better.call.saul.s04e06.proper.720p.hdtv.x264-killers.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.05,
+                    "path": "Better.Call.Saul.S04E06.PROPER.720p.HDTV.x264-KILLERS/better.call.saul.s04e06.proper.720p.hdtv.x264-killers.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.05,
+                    "path": "Better.Call.Saul.S04E06.PROPER.720p.HDTV.x264-KILLERS/better.call.saul.s04e06.proper.720p.hdtv.x264-killers.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.05,
+                    "path": "Better.Call.Saul.S04E06.PROPER.720p.HDTV.x264-KILLERS/better.call.saul.s04e06.proper.720p.hdtv.x264-killers.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.05,
+                    "path": "Better.Call.Saul.S04E06.PROPER.720p.HDTV.x264-KILLERS/better.call.saul.s04e06.proper.720p.hdtv.x264-killers.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.05,
+                    "path": "Better.Call.Saul.S04E06.PROPER.720p.HDTV.x264-KILLERS/better.call.saul.s04e06.proper.720p.hdtv.x264-killers.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.05,
+                    "path": "Better.Call.Saul.S04E06.PROPER.720p.HDTV.x264-KILLERS/better.call.saul.s04e06.proper.720p.hdtv.x264-killers.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.05,
+                    "path": "Better.Call.Saul.S04E06.PROPER.720p.HDTV.x264-KILLERS/better.call.saul.s04e06.proper.720p.hdtv.x264-killers.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.05,
+                    "path": "Better.Call.Saul.S04E06.PROPER.720p.HDTV.x264-KILLERS/better.call.saul.s04e06.proper.720p.hdtv.x264-killers.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.05,
+                    "path": "Better.Call.Saul.S04E06.PROPER.720p.HDTV.x264-KILLERS/better.call.saul.s04e06.proper.720p.hdtv.x264-killers.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.04740616,
+                    "path": "Better.Call.Saul.S04E06.PROPER.720p.HDTV.x264-KILLERS/better.call.saul.s04e06.proper.720p.hdtv.x264-killers.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.05,
+                    "path": "Better.Call.Saul.S04E06.PROPER.720p.HDTV.x264-KILLERS/better.call.saul.s04e06.proper.720p.hdtv.x264-killers.rar"
+                },
+                {
+                    "number": 20,
+                    "size": 0.000001224,
+                    "path": "Better.Call.Saul.S04E06.PROPER.720p.HDTV.x264-KILLERS/better.call.saul.s04e06.proper.720p.hdtv.x264-killers.sfv"
+                },
+                {
+                    "number": 21,
+                    "size": 0.024647267,
+                    "path": "Better.Call.Saul.S04E06.PROPER.720p.HDTV.x264-KILLERS/Sample/sample-better.call.saul.s04e06.proper.720p.hdtv.x264-killers.mkv"
+                },
+                {
+                    "number": 22,
+                    "size": 0.000002062,
+                    "path": "Better.Call.Saul.S04E06.PROPER.720p.HDTV.x264-KILLERS/tvmaze.nfo"
+                }
+            ]
+        },
+        {
+            "id": 61,
+            "name": "Better.Call.Saul.S04E06.PROPER.720p.HDTV.x264-KILLERS[eztv].mkv",
+            "size_total": 0.897403838,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.897403838,
+                    "path": "Better.Call.Saul.S04E06.PROPER.720p.HDTV.x264-KILLERS[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 62,
+            "name": "Better.Call.Saul.S04E06.PROPER.720p.HDTV.x264-KILLERS[rartv]-[rarbg.to]",
+            "size_total": 0.897414806,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.897403838,
+                    "path": "Better.Call.Saul.S04E06.PROPER.720p.HDTV.x264-KILLERS[rarbg]/Better.Call.Saul.S04E06.PROPER.720p.HDTV.x264-KILLERS.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Better.Call.Saul.S04E06.PROPER.720p.HDTV.x264-KILLERS[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000010938,
+                    "path": "Better.Call.Saul.S04E06.PROPER.720p.HDTV.x264-KILLERS[rarbg]/better.call.saul.s04e06.proper.720p.hdtv.x264-killers.nfo"
+                }
+            ]
+        },
+        {
+            "id": 63,
+            "name": "Better.Call.Saul.S04E06.PROPER.720p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.20354988,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.200665324,
+                    "path": "Better.Call.Saul.S04E06.PROPER.720p.HEVC.x265-MeGusta/Better.Call.Saul.S04E06.PROPER.720p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001205,
+                    "path": "Better.Call.Saul.S04E06.PROPER.720p.HEVC.x265-MeGusta/Better.Call.Saul.S04E06.PROPER.720p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000712864,
+                    "path": "Better.Call.Saul.S04E06.PROPER.720p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000719544,
+                    "path": "Better.Call.Saul.S04E06.PROPER.720p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000841024,
+                    "path": "Better.Call.Saul.S04E06.PROPER.720p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000609919,
+                    "path": "Better.Call.Saul.S04E06.PROPER.720p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 64,
+            "name": "Better.Call.Saul.S04E06.PROPER.AAC.MP4-Mobile [IPT]",
+            "size_total": 0.137981877,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.136987682,
+                    "path": "Better.Call.Saul.S04E06.PROPER.AAC.MP4-Mobile/Better.Call.Saul.S04E06.PROPER.AAC.MP4-Mobile.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001302,
+                    "path": "Better.Call.Saul.S04E06.PROPER.AAC.MP4-Mobile/Better.Call.Saul.S04E06.PROPER.AAC.MP4-Mobile.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000135335,
+                    "path": "Better.Call.Saul.S04E06.PROPER.AAC.MP4-Mobile/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000349776,
+                    "path": "Better.Call.Saul.S04E06.PROPER.AAC.MP4-Mobile/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000340237,
+                    "path": "Better.Call.Saul.S04E06.PROPER.AAC.MP4-Mobile/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000167545,
+                    "path": "Better.Call.Saul.S04E06.PROPER.AAC.MP4-Mobile/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 65,
+            "name": "Better.Call.Saul.S04E06.PROPER.HDTV.x264-KILLERS [IPT]",
+            "size_total": 0.235953346,
+            "files_total": 20,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.00001093,
+                    "path": "Better.Call.Saul.S04E06.PROPER.HDTV.x264-KILLERS/better.call.saul.s04e06.proper.hdtv.x264-killers.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.015,
+                    "path": "Better.Call.Saul.S04E06.PROPER.HDTV.x264-KILLERS/better.call.saul.s04e06.proper.hdtv.x264-killers.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.015,
+                    "path": "Better.Call.Saul.S04E06.PROPER.HDTV.x264-KILLERS/better.call.saul.s04e06.proper.hdtv.x264-killers.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.015,
+                    "path": "Better.Call.Saul.S04E06.PROPER.HDTV.x264-KILLERS/better.call.saul.s04e06.proper.hdtv.x264-killers.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.015,
+                    "path": "Better.Call.Saul.S04E06.PROPER.HDTV.x264-KILLERS/better.call.saul.s04e06.proper.hdtv.x264-killers.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.015,
+                    "path": "Better.Call.Saul.S04E06.PROPER.HDTV.x264-KILLERS/better.call.saul.s04e06.proper.hdtv.x264-killers.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.015,
+                    "path": "Better.Call.Saul.S04E06.PROPER.HDTV.x264-KILLERS/better.call.saul.s04e06.proper.hdtv.x264-killers.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.015,
+                    "path": "Better.Call.Saul.S04E06.PROPER.HDTV.x264-KILLERS/better.call.saul.s04e06.proper.hdtv.x264-killers.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.015,
+                    "path": "Better.Call.Saul.S04E06.PROPER.HDTV.x264-KILLERS/better.call.saul.s04e06.proper.hdtv.x264-killers.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.015,
+                    "path": "Better.Call.Saul.S04E06.PROPER.HDTV.x264-KILLERS/better.call.saul.s04e06.proper.hdtv.x264-killers.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.015,
+                    "path": "Better.Call.Saul.S04E06.PROPER.HDTV.x264-KILLERS/better.call.saul.s04e06.proper.hdtv.x264-killers.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.015,
+                    "path": "Better.Call.Saul.S04E06.PROPER.HDTV.x264-KILLERS/better.call.saul.s04e06.proper.hdtv.x264-killers.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.015,
+                    "path": "Better.Call.Saul.S04E06.PROPER.HDTV.x264-KILLERS/better.call.saul.s04e06.proper.hdtv.x264-killers.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.015,
+                    "path": "Better.Call.Saul.S04E06.PROPER.HDTV.x264-KILLERS/better.call.saul.s04e06.proper.hdtv.x264-killers.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.015,
+                    "path": "Better.Call.Saul.S04E06.PROPER.HDTV.x264-KILLERS/better.call.saul.s04e06.proper.hdtv.x264-killers.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.004213085,
+                    "path": "Better.Call.Saul.S04E06.PROPER.HDTV.x264-KILLERS/better.call.saul.s04e06.proper.hdtv.x264-killers.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.015,
+                    "path": "Better.Call.Saul.S04E06.PROPER.HDTV.x264-KILLERS/better.call.saul.s04e06.proper.hdtv.x264-killers.rar"
+                },
+                {
+                    "number": 18,
+                    "size": 0.000001008,
+                    "path": "Better.Call.Saul.S04E06.PROPER.HDTV.x264-KILLERS/better.call.saul.s04e06.proper.hdtv.x264-killers.sfv"
+                },
+                {
+                    "number": 19,
+                    "size": 0.006726261,
+                    "path": "Better.Call.Saul.S04E06.PROPER.HDTV.x264-KILLERS/Sample/sample-better.call.saul.s04e06.proper.hdtv.x264-killers.mkv"
+                },
+                {
+                    "number": 20,
+                    "size": 0.000002062,
+                    "path": "Better.Call.Saul.S04E06.PROPER.HDTV.x264-KILLERS/tvmaze.nfo"
+                }
+            ]
+        },
+        {
+            "id": 66,
+            "name": "Better.Call.Saul.S04E06.PROPER.HDTV.x264-KILLERS[eztv].mkv",
+            "size_total": 0.229211101,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.229211101,
+                    "path": "Better.Call.Saul.S04E06.PROPER.HDTV.x264-KILLERS[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 67,
+            "name": "Better.Call.Saul.S04E06.PROPER.HDTV.x264-KILLERS[rartv]-[rarbg.to]",
+            "size_total": 0.229222061,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.229211101,
+                    "path": "Better.Call.Saul.S04E06.PROPER.HDTV.x264-KILLERS[rarbg]/Better.Call.Saul.S04E06.PROPER.HDTV.x264-KILLERS.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Better.Call.Saul.S04E06.PROPER.HDTV.x264-KILLERS[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00001093,
+                    "path": "Better.Call.Saul.S04E06.PROPER.HDTV.x264-KILLERS[rarbg]/better.call.saul.s04e06.proper.hdtv.x264-killers.nfo"
+                }
+            ]
+        },
+        {
+            "id": 68,
+            "name": "Better.Call.Saul.S04E06.PROPER.XviD-AFG [IPT]",
+            "size_total": 0.313244348,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.312231714,
+                    "path": "Better.Call.Saul.S04E06.PROPER.XviD-AFG/Better.Call.Saul.S04E06.PROPER.XviD-AFG.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001179,
+                    "path": "Better.Call.Saul.S04E06.PROPER.XviD-AFG/Better.Call.Saul.S04E06.PROPER.XviD-AFG.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000137605,
+                    "path": "Better.Call.Saul.S04E06.PROPER.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000357331,
+                    "path": "Better.Call.Saul.S04E06.PROPER.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000345719,
+                    "path": "Better.Call.Saul.S04E06.PROPER.XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.0001708,
+                    "path": "Better.Call.Saul.S04E06.PROPER.XviD-AFG/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 69,
+            "name": "Better.Call.Saul.S04E06.WEBRip.x264-ION10-[rarbg.to]",
+            "size_total": 0.484949552,
+            "files_total": 9,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.484716616,
+                    "path": "Better.Call.Saul.S04E06.WEBRip.x264-ION10/Better.Call.Saul.S04E06.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Better.Call.Saul.S04E06.WEBRip.x264-ION10/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 5.76e-7,
+                    "path": "Better.Call.Saul.S04E06.WEBRip.x264-ION10/Subs/2_Eng.srt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000041165,
+                    "path": "Better.Call.Saul.S04E06.WEBRip.x264-ION10/Subs/3_Eng.srt"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000041165,
+                    "path": "Better.Call.Saul.S04E06.WEBRip.x264-ION10/Subs/4_Eng.srt"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000038153,
+                    "path": "Better.Call.Saul.S04E06.WEBRip.x264-ION10/Subs/5_Dan.srt"
+                },
+                {
+                    "number": 7,
+                    "size": 0.000034503,
+                    "path": "Better.Call.Saul.S04E06.WEBRip.x264-ION10/Subs/6_Fin.srt"
+                },
+                {
+                    "number": 8,
+                    "size": 0.000038655,
+                    "path": "Better.Call.Saul.S04E06.WEBRip.x264-ION10/Subs/7_Nob.srt"
+                },
+                {
+                    "number": 9,
+                    "size": 0.000038689,
+                    "path": "Better.Call.Saul.S04E06.WEBRip.x264-ION10/Subs/8_Swe.srt"
+                }
+            ]
+        },
+        {
+            "id": 70,
+            "name": "Better.Call.Saul.S04E06.XviD-AFG [IPT]",
+            "size_total": 0.31216111,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.311204728,
+                    "path": "Better.Call.Saul.S04E06.XviD-AFG/Better.Call.Saul.S04E06.XviD-AFG.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001163,
+                    "path": "Better.Call.Saul.S04E06.XviD-AFG/Better.Call.Saul.S04E06.XviD-AFG.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000132377,
+                    "path": "Better.Call.Saul.S04E06.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000354814,
+                    "path": "Better.Call.Saul.S04E06.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000287149,
+                    "path": "Better.Call.Saul.S04E06.XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000180879,
+                    "path": "Better.Call.Saul.S04E06.XviD-AFG/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 71,
+            "name": "d912-Better.Call.Saul.S04E06.REPACK.720p.HDTV.x264-MRSK",
+            "size_total": 0.650265313,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.650226543,
+                    "path": "Better.Call.Saul.S04E06.REPACK.720p.HDTV.x264-MRSK/Better.Call.Saul.S04E06.REPACK.720p.HDTV.x264-MRSK.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.00003877,
+                    "path": "Better.Call.Saul.S04E06.REPACK.720p.HDTV.x264-MRSK/Subs-FR/Better.Call.Saul.S04E06.REPACK.720p.HDTV.x264-MRSK.srt"
+                }
+            ]
+        },
+        {
+            "id": 72,
+            "name": "Лучше звоните Солу Better Call Saul Сезон 4 Серии 1-6 из 10 (Винс Гиллиган) [2018, США, драма, криминал, WEBRip] MVO (Baib [rutracker-5597648]",
+            "size_total": 5.947809695,
+            "files_total": 12,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.018187776,
+                    "path": "Better.Call.Saul.s04.WEBRip.BaibaKo/Better.Call.Saul.s04e01.WEBRip.BaibaKo.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000035569,
+                    "path": "Better.Call.Saul.s04.WEBRip.BaibaKo/Better.Call.Saul.s04e01.WEBRip.BaibaKo.srt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.96439296,
+                    "path": "Better.Call.Saul.s04.WEBRip.BaibaKo/Better.Call.Saul.s04e02.WEBRip.BaibaKo.avi"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000048459,
+                    "path": "Better.Call.Saul.s04.WEBRip.BaibaKo/Better.Call.Saul.s04e02.WEBRip.BaibaKo.srt"
+                },
+                {
+                    "number": 5,
+                    "size": 0.89085952,
+                    "path": "Better.Call.Saul.s04.WEBRip.BaibaKo/Better.Call.Saul.s04e03.WEBRip.BaibaKo.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000038525,
+                    "path": "Better.Call.Saul.s04.WEBRip.BaibaKo/Better.Call.Saul.s04e03.WEBRip.BaibaKo.srt"
+                },
+                {
+                    "number": 7,
+                    "size": 0.975388672,
+                    "path": "Better.Call.Saul.s04.WEBRip.BaibaKo/Better.Call.Saul.s04e04.WEBRip.BaibaKo.avi"
+                },
+                {
+                    "number": 8,
+                    "size": 0.000039534,
+                    "path": "Better.Call.Saul.s04.WEBRip.BaibaKo/Better.Call.Saul.s04e04.WEBRip.BaibaKo.srt"
+                },
+                {
+                    "number": 9,
+                    "size": 1.103978496,
+                    "path": "Better.Call.Saul.s04.WEBRip.BaibaKo/Better.Call.Saul.s04e05.WEBRip.BaibaKo.avi"
+                },
+                {
+                    "number": 10,
+                    "size": 0.000044463,
+                    "path": "Better.Call.Saul.s04.WEBRip.BaibaKo/Better.Call.Saul.s04e05.WEBRip.BaibaKo.srt"
+                },
+                {
+                    "number": 11,
+                    "size": 0.994740224,
+                    "path": "Better.Call.Saul.s04.WEBRip.BaibaKo/Better.Call.Saul.s04e06.WEBRip.BaibaKo.avi"
+                },
+                {
+                    "number": 12,
+                    "size": 0.000055497,
+                    "path": "Better.Call.Saul.s04.WEBRip.BaibaKo/Better.Call.Saul.s04e06.WEBRip.BaibaKo.srt"
+                }
+            ]
+        },
+        {
+            "id": 73,
+            "name": "Лучше звоните Солу Better Call Saul Сезон 4 Серии 1-6 из 10 (Винс Гиллиган, Джон Шибан, Мишель МакЛарен) [2018, США, драма [rutracker-5598785]",
+            "size_total": 3.753710974,
+            "files_total": 18,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.644397056,
+                    "path": "Лучше звоните Солу (сезон 4) Better Call Saul (2018) WEBRip - LostFilm/Better.Call.Saul.S04E01.WEBRip.Rus.Eng.DV.LostFilm.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.604985344,
+                    "path": "Лучше звоните Солу (сезон 4) Better Call Saul (2018) WEBRip - LostFilm/Better.Call.Saul.S04E02.WEBRip.Rus.Eng.DV.LostFilm.avi"
+                },
+                {
+                    "number": 3,
+                    "size": 0.563341312,
+                    "path": "Лучше звоните Солу (сезон 4) Better Call Saul (2018) WEBRip - LostFilm/Better.Call.Saul.S04E03.WEBRip.Rus.Eng.DV.LostFilm.avi"
+                },
+                {
+                    "number": 4,
+                    "size": 0.612282368,
+                    "path": "Лучше звоните Солу (сезон 4) Better Call Saul (2018) WEBRip - LostFilm/Better.Call.Saul.S04E04.WEBRip.Rus.Eng.DV.LostFilm.avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.700329984,
+                    "path": "Лучше звоните Солу (сезон 4) Better Call Saul (2018) WEBRip - LostFilm/Better.Call.Saul.S04E05.WEBRip.Rus.Eng.DV.LostFilm.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.62788608,
+                    "path": "Лучше звоните Солу (сезон 4) Better Call Saul (2018) WEBRip - LostFilm/Better.Call.Saul.S04E06.WEBRip.Rus.Eng.DV.LostFilm.avi"
+                },
+                {
+                    "number": 7,
+                    "size": 0.000027307,
+                    "path": "Лучше звоните Солу (сезон 4) Better Call Saul (2018) WEBRip - LostFilm/Subtitles/Better.Call.Saul.S04E01.WEBRip.Rus.Eng.DV.LostFilm.eng.srt"
+                },
+                {
+                    "number": 8,
+                    "size": 0.000035538,
+                    "path": "Лучше звоните Солу (сезон 4) Better Call Saul (2018) WEBRip - LostFilm/Subtitles/Better.Call.Saul.S04E01.WEBRip.Rus.Eng.DV.LostFilm.srt"
+                },
+                {
+                    "number": 9,
+                    "size": 0.000038823,
+                    "path": "Лучше звоните Солу (сезон 4) Better Call Saul (2018) WEBRip - LostFilm/Subtitles/Better.Call.Saul.S04E02.WEBRip.Rus.Eng.DV.LostFilm.eng.srt"
+                },
+                {
+                    "number": 10,
+                    "size": 0.000048428,
+                    "path": "Лучше звоните Солу (сезон 4) Better Call Saul (2018) WEBRip - LostFilm/Subtitles/Better.Call.Saul.S04E02.WEBRip.Rus.Eng.DV.LostFilm.srt"
+                },
+                {
+                    "number": 11,
+                    "size": 0.000033761,
+                    "path": "Лучше звоните Солу (сезон 4) Better Call Saul (2018) WEBRip - LostFilm/Subtitles/Better.Call.Saul.S04E03.WEBRip.Rus.Eng.DV.LostFilm.eng.srt"
+                },
+                {
+                    "number": 12,
+                    "size": 0.000038494,
+                    "path": "Лучше звоните Солу (сезон 4) Better Call Saul (2018) WEBRip - LostFilm/Subtitles/Better.Call.Saul.S04E03.WEBRip.Rus.Eng.DV.LostFilm.srt"
+                },
+                {
+                    "number": 13,
+                    "size": 0.000048689,
+                    "path": "Лучше звоните Солу (сезон 4) Better Call Saul (2018) WEBRip - LostFilm/Subtitles/Better.Call.Saul.S04E04.WEBRip.Rus.Eng.DV.LostFilm.eng.srt"
+                },
+                {
+                    "number": 14,
+                    "size": 0.000039278,
+                    "path": "Лучше звоните Солу (сезон 4) Better Call Saul (2018) WEBRip - LostFilm/Subtitles/Better.Call.Saul.S04E04.WEBRip.Rus.Eng.DV.LostFilm.srt"
+                },
+                {
+                    "number": 15,
+                    "size": 0.000035382,
+                    "path": "Лучше звоните Солу (сезон 4) Better Call Saul (2018) WEBRip - LostFilm/Subtitles/Better.Call.Saul.S04E05.WEBRip.Rus.Eng.DV.LostFilm.eng.srt"
+                },
+                {
+                    "number": 16,
+                    "size": 0.000044359,
+                    "path": "Лучше звоните Солу (сезон 4) Better Call Saul (2018) WEBRip - LostFilm/Subtitles/Better.Call.Saul.S04E05.WEBRip.Rus.Eng.DV.LostFilm.srt"
+                },
+                {
+                    "number": 17,
+                    "size": 0.000043526,
+                    "path": "Лучше звоните Солу (сезон 4) Better Call Saul (2018) WEBRip - LostFilm/Subtitles/Better.Call.Saul.S04E06.WEBRip.Rus.Eng.DV.LostFilm.eng.srt"
+                },
+                {
+                    "number": 18,
+                    "size": 0.000055245,
+                    "path": "Лучше звоните Солу (сезон 4) Better Call Saul (2018) WEBRip - LostFilm/Subtitles/Better.Call.Saul.S04E06.WEBRip.Rus.Eng.DV.LostFilm.srt"
+                }
+            ]
+        },
+        {
+            "id": 74,
+            "name": "Лучше звоните Солу Better Call Saul Сезон 4 Серии 1-6 из 10 (Винс Гиллиган, Томас Шнауз, Адам Бернштейн) [2018, США, Драма [rutracker-5598625]",
+            "size_total": 18.876578178,
+            "files_total": 12,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.987519948,
+                    "path": "Better_Call_Saul_(s04)_LostFilm_1080p/Better.Call.Saul.s04e01.WEBRip.1080p.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3.208659712,
+                    "path": "Better_Call_Saul_(s04)_LostFilm_1080p/Better.Call.Saul.s04e02.WEBRip.1080p.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 3.905321774,
+                    "path": "Better_Call_Saul_(s04)_LostFilm_1080p/Better.Call.Saul.s04e03.WEBRip.1080p.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 2.459916704,
+                    "path": "Better_Call_Saul_(s04)_LostFilm_1080p/Better.Call.Saul.s04e04.WEBRip.1080p.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 2.794124751,
+                    "path": "Better_Call_Saul_(s04)_LostFilm_1080p/Better.Call.Saul.s04e05.WEBRip.1080p.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 2.520774215,
+                    "path": "Better_Call_Saul_(s04)_LostFilm_1080p/Better.Call.Saul.s04e06.WEBRip.1080p.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 0.000035465,
+                    "path": "Better_Call_Saul_(s04)_LostFilm_1080p/Subtitles/Better.Call.Saul.s04e01.WEBRip.1080p.srt"
+                },
+                {
+                    "number": 8,
+                    "size": 0.000048355,
+                    "path": "Better_Call_Saul_(s04)_LostFilm_1080p/Subtitles/Better.Call.Saul.s04e02.WEBRip.1080p.srt"
+                },
+                {
+                    "number": 9,
+                    "size": 0.000038421,
+                    "path": "Better_Call_Saul_(s04)_LostFilm_1080p/Subtitles/Better.Call.Saul.s04e03.WEBRip.1080p.srt"
+                },
+                {
+                    "number": 10,
+                    "size": 0.000039358,
+                    "path": "Better_Call_Saul_(s04)_LostFilm_1080p/Subtitles/Better.Call.Saul.s04e04.WEBRip.1080p.srt"
+                },
+                {
+                    "number": 11,
+                    "size": 0.000044287,
+                    "path": "Better_Call_Saul_(s04)_LostFilm_1080p/Subtitles/Better.Call.Saul.s04e05.WEBRip.1080p.srt"
+                },
+                {
+                    "number": 12,
+                    "size": 0.000055188,
+                    "path": "Better_Call_Saul_(s04)_LostFilm_1080p/Subtitles/Better.Call.Saul.s04e06.WEBRip.1080p.srt"
+                }
+            ]
+        },
+        {
+            "id": 75,
+            "name": "Лучше звоните Солу Better Call Saul Сезон 4 Серии 1-6 из 10 (Винс Гиллиган, Томас Шнауз, Адам Бернштейн) [2018, США, Драма [rutracker-5603433]",
+            "size_total": 17.510425251,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.754564587,
+                    "path": "Better Call Saul. Season 4. WEBRip (1080p)/Better.Call.Saul.S04E01.Smoke.1080p.NF.WEBRip.DDP5.1.x264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 2.986964606,
+                    "path": "Better Call Saul. Season 4. WEBRip (1080p)/Better.Call.Saul.S04E02.Breathe.1080p.NF.WEBRip.DDP5.1.x264-NTb.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 3.701672335,
+                    "path": "Better Call Saul. Season 4. WEBRip (1080p)/Better.Call.Saul.S04E03.Something.Beautiful.1080p.NF.WEBRip.DDP5.1.x264-NTb.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 2.23558422,
+                    "path": "Better Call Saul. Season 4. WEBRip (1080p)/Better.Call.Saul.S04E04.Talk.1080p.NF.WEBRip.DDP5.1.x264-METCON.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 2.539982181,
+                    "path": "Better Call Saul. Season 4. WEBRip (1080p)/Better.Call.Saul.S04E05.Quite.A.Ride.1080p.NF.WEBRip.DDP5.1.x264-METCON.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 2.291657322,
+                    "path": "Better Call Saul. Season 4. WEBRip (1080p)/Better.Call.Saul.S04E06.Piñata.1080p.NF.WEBRip.DDP5.1.x264-METCON.mkv"
+                }
+            ]
+        },
+        {
+            "id": 76,
+            "name": "Лучше звоните Солу Better Call Saul Сезон 4 Серии 1-6 из 10 (Колин Бакси, Адам Бернштейн, Винс Гиллиган) [2018, США, драма [rutracker-5599013]",
+            "size_total": 11.41940043,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.172214441,
+                    "path": "Better Call Saul S04 (2018) 720p WEBRip (Gears Media)/Better Call Saul S04E01 (2018) 720p WEBRip (Gears Media).mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 2.121879877,
+                    "path": "Better Call Saul S04 (2018) 720p WEBRip (Gears Media)/Better Call Saul S04E06 (2018) 720p WEBRip (Gears Media).mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 2.091953284,
+                    "path": "Better Call Saul S04 (2018) 720p WEBRip (Gears Media)/Better Call Saul S04E02 (2018) 720p WEBRip (Gears Media).mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 2.084484766,
+                    "path": "Better Call Saul S04 (2018) 720p WEBRip (Gears Media)/Better Call Saul S04E04 (2018) 720p WEBRip (Gears Media).mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 1.734518324,
+                    "path": "Better Call Saul S04 (2018) 720p WEBRip (Gears Media)/Better Call Saul S04E03 (2018) 720p WEBRip (Gears Media).mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 1.214349738,
+                    "path": "Better Call Saul S04 (2018) 720p WEBRip (Gears Media)/Better Call Saul S04E05 (2018) 720p WEBRip (Gears Media).mkv"
+                }
+            ]
+        },
+        {
+            "id": 77,
+            "name": "Лучше звоните Солу Better Call Saul Сезон 4 Серии 1-6 из 10 (Колин Бакси, Адам Бернштейн, Винс Гиллиган) [2018, США, драма [rutracker-5599015]",
+            "size_total": 3.10248244,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.545748426,
+                    "path": "Better Call Saul S04 (2018) WEBRip (Gears Media)/Better Call Saul S04E05 (2018) WEBRip (Gears Media).avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.525833108,
+                    "path": "Better Call Saul S04 (2018) WEBRip (Gears Media)/Better Call Saul S04E01 (2018) WEBRip (Gears Media).avi"
+                },
+                {
+                    "number": 3,
+                    "size": 0.522097456,
+                    "path": "Better Call Saul S04 (2018) WEBRip (Gears Media)/Better Call Saul S04E06 (2018) WEBRip (Gears Media).avi"
+                },
+                {
+                    "number": 4,
+                    "size": 0.519317528,
+                    "path": "Better Call Saul S04 (2018) WEBRip (Gears Media)/Better Call Saul S04E04 (2018) WEBRip (Gears Media).avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.501783174,
+                    "path": "Better Call Saul S04 (2018) WEBRip (Gears Media)/Better Call Saul S04E03 (2018) WEBRip (Gears Media).avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.487702748,
+                    "path": "Better Call Saul S04 (2018) WEBRip (Gears Media)/Better Call Saul S04E02 (2018) WEBRip (Gears Media).avi"
+                }
+            ]
+        },
+        {
+            "id": 78,
+            "name": "Лучше звоните Солу Впору звонить Солу Better Call Saul Сезон 4 Серии 1-6 из 10 (Колин Бакси, Адам Бернштейн) [2018, США, [rutracker-5598980]",
+            "size_total": 17.783629814,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.801159,
+                    "path": "Better Call Saul. Season 4 (WEBRip l 1080p l Jaskier)/Better.Call.Saul.S04E01.1080p.NF.DD5.1.x264-Jaskier.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3.031280032,
+                    "path": "Better Call Saul. Season 4 (WEBRip l 1080p l Jaskier)/Better.Call.Saul.S04E02.1080p.NF.DD5.1.x264-Jaskier.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 3.742392381,
+                    "path": "Better Call Saul. Season 4 (WEBRip l 1080p l Jaskier)/Better.Call.Saul.S04E03.1080p.NF.DD5.1.x264-Jaskier.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 2.280470344,
+                    "path": "Better Call Saul. Season 4 (WEBRip l 1080p l Jaskier)/Better.Call.Saul.S04E04.1080p.NF.DD5.1.x264-Jaskier.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 2.590834584,
+                    "path": "Better Call Saul. Season 4 (WEBRip l 1080p l Jaskier)/Better.Call.Saul.S04E05.1080p.NF.DD5.1.x264-Jaskier.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 2.337493473,
+                    "path": "Better Call Saul. Season 4 (WEBRip l 1080p l Jaskier)/Better.Call.Saul.S04E06.1080p.NF.DD5.1.x264-Jaskier.mkv"
+                }
+            ]
+        },
+        {
+            "id": 79,
+            "name": "Лучше звоните Солу Впору звонить Солу Better Call Saul Сезон 4 Серии 1-6 из 10 (Колин Бакси, Адам Бернштейн) [2018, США, [rutracker-5598981]",
+            "size_total": 9.161084751,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.816438185,
+                    "path": "Better Call Saul. Season 4 (WEBRip l 720p l Jaskier)/Better.Call.Saul.S04E01.720p.NF.DD5.1.x264-Jaskier.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.444704484,
+                    "path": "Better Call Saul. Season 4 (WEBRip l 720p l Jaskier)/Better.Call.Saul.S04E02.720p.NF.DD5.1.x264-Jaskier.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.653085662,
+                    "path": "Better Call Saul. Season 4 (WEBRip l 720p l Jaskier)/Better.Call.Saul.S04E03.720p.NF.DD5.1.x264-Jaskier.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.325200965,
+                    "path": "Better Call Saul. Season 4 (WEBRip l 720p l Jaskier)/Better.Call.Saul.S04E04.720p.NF.DD5.1.x264-Jaskier.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 1.57347411,
+                    "path": "Better Call Saul. Season 4 (WEBRip l 720p l Jaskier)/Better.Call.Saul.S04E05.720p.NF.DD5.1.x264-Jaskier.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 1.348181345,
+                    "path": "Better Call Saul. Season 4 (WEBRip l 720p l Jaskier)/Better.Call.Saul.S04E06.720p.NF.DD5.1.x264-Jaskier.mkv"
+                }
+            ]
+        },
+        {
+            "id": 80,
+            "name": "Лучше звоните Солу Впору звонить Солу Better Call Saul Сезон 4 Серии 1-6 из 10 (Колин Бакси, Адам Бернштейн) [2018, США, [rutracker-5598982]",
+            "size_total": 3.674273792,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.62947328,
+                    "path": "Better Call Saul. Season 4 (WEBRip l 400p l Jaskier)/Better.Call.Saul.S04E01.WEBRip.Rus.Eng.Jaskier.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.630536192,
+                    "path": "Better Call Saul. Season 4 (WEBRip l 400p l Jaskier)/Better.Call.Saul.S04E02.WEBRip.Rus.Eng.Jaskier.avi"
+                },
+                {
+                    "number": 3,
+                    "size": 0.524869632,
+                    "path": "Better Call Saul. Season 4 (WEBRip l 400p l Jaskier)/Better.Call.Saul.S04E03.WEBRip.Rus.Eng.Jaskier.avi"
+                },
+                {
+                    "number": 4,
+                    "size": 0.629202944,
+                    "path": "Better Call Saul. Season 4 (WEBRip l 400p l Jaskier)/Better.Call.Saul.S04E04.WEBRip.Rus.Eng.Jaskier.avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.6302208,
+                    "path": "Better Call Saul. Season 4 (WEBRip l 400p l Jaskier)/Better.Call.Saul.S04E05.WEBRip.Rus.Eng.Jaskier.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.629970944,
+                    "path": "Better Call Saul. Season 4 (WEBRip l 400p l Jaskier)/Better.Call.Saul.S04E06.WEBRip.Rus.Eng.Jaskier.avi"
+                }
+            ]
+        },
+        {
+            "id": 81,
+            "name": "风骚律师.Better.Call.Saul.S04E06.720p-天天美剧字幕组.mp4.539c3e86de9761ba",
+            "size_total": 0.397417472,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.397417472,
+                    "path": "风骚律师.Better.Call.Saul.S04E06.720p-天天美剧字幕组.mp4"
+                }
+            ]
+        }
+    ],
+    "collection_cumulative_by_btiha": [
+        {
+            "id": 86,
+            "name": "multi-btih-4-2-x-[limetorrents.info]Better.Call.Saul.S04E06.HDTV.x264-SVA.EZTV",
+            "btih": "5e03859645e3d1cc6e45a5f188cf02b077bd7425",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.21674585,
+            "creation": "2018-09-11T02:30:03.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 235551,
+            "uuploaders": 83980
+        },
+        {
+            "id": 84,
+            "name": "multi-btih-2-2-x-[limetorrents.info]Better.Call.Saul.S04E06.720p.HDTV.x264-AVS.EZTV",
+            "btih": "18a0d6059a727d6779329158937b7bab48956353",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.795279439,
+            "creation": "2018-09-11T03:00:03.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 125438,
+            "uuploaders": 62304
+        },
+        {
+            "id": 87,
+            "name": "multi-btih-5-2-x-[limetorrents.info]Better.Call.Saul.S04E06.PROPER.720p.HDTV.x264-KILLERS.EZTV",
+            "btih": "4a75481e83d700d81e325bb413d84aa8ffafa86a",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.897403838,
+            "creation": "2018-09-12T00:27:03.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 96862,
+            "uuploaders": 23278
+        },
+        {
+            "id": 83,
+            "name": "multi-btih-1-2-x-[limetorrents.info]Better.Call.Saul.S04E06.720p.HDTV.x264-AVS",
+            "btih": "02f07fff9a01546ab2e876f103293e8b5854dfb7",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.795279533,
+            "creation": "2018-09-11T06:00:04.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 88823,
+            "uuploaders": 32623
+        },
+        {
+            "id": 88,
+            "name": "multi-btih-6-2-x-[limetorrents.info]Better.Call.Saul.S04E06.PROPER.HDTV.x264-KILLERS",
+            "btih": "537330418374215619eb8b71600d864de6c84424",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.229222061,
+            "creation": "2018-09-11T08:31:02.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 85926,
+            "uuploaders": 13116
+        },
+        {
+            "id": 89,
+            "name": "multi-btih-7-2-x-[limetorrents.info]Better.Call.Saul.S04E06.PROPER.HDTV.x264-KILLERS.EZTV",
+            "btih": "0fc5effdc3b533ace56a2e7c78d269ba030f7bea",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.229211101,
+            "creation": "2018-09-11T16:50:04.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 85528,
+            "uuploaders": 32340
+        },
+        {
+            "id": 16,
+            "name": "[limetorrents.info]Better.Call.Saul.S04E06.HDTV.x264-SVA[ettv]",
+            "btih": "6367fe604885f7e1953a7ec2f23f9e5ee405804a",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.216746049,
+            "creation": "2018-09-11T02:10:02.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 74498,
+            "uuploaders": 15914
+        },
+        {
+            "id": 62,
+            "name": "Better.Call.Saul.S04E06.PROPER.720p.HDTV.x264-KILLERS[rartv]-[rarbg.to]",
+            "btih": "ab1ea0aea12afc70b3421c87aed8a42c712605bc",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.897414806,
+            "creation": "2018-09-11T07:58:05.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 67741,
+            "uuploaders": 14067
+        },
+        {
+            "id": 9,
+            "name": "[limetorrents.info]Better.Call.Saul.S04E06.720p.HDTV.x264-AVS[ettv]",
+            "btih": "92716ed528fa8ee13277c1069f2bc2eb135b7e46",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.795279624,
+            "creation": "2018-09-11T02:10:02.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 64618,
+            "uuploaders": 6201
+        },
+        {
+            "id": 85,
+            "name": "multi-btih-3-2-x-[limetorrents.info]Better.Call.Saul.S04E06.HDTV.x264-SVA",
+            "btih": "9fbc6f72a80715668a119733046e72d787a2937f",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.21674594,
+            "creation": "2018-09-11T03:07:02.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 63899,
+            "uuploaders": 15755
+        },
+        {
+            "id": 94,
+            "name": "multi-btih-12-2-x-[rutor.is]Better_Call_Saul._Season_4_WEBRip_l_400p_l_Jask",
+            "btih": "2279bc0d0db07c332b0c1c27d2debf68be3676a7",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 3.674273792,
+            "creation": "2018-09-14T12:04:38.000000000Z,uTorrent/2210,http://rutor.is/torrent/646635",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 63233,
+            "uuploaders": 1146
+        },
+        {
+            "id": 92,
+            "name": "multi-btih-10-2-x-[rutor.is]BCS_s04_LF_1080p",
+            "btih": "77b84bbde4d65cc66fdeb72e9dbdd3a7c01f5dd2",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 18.876578178,
+            "creation": "2018-09-14T07:07:13.000000000Z,uTorrent/3.5,http://rutor.is/torrent/646446",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 61210,
+            "uuploaders": 7886
+        },
+        {
+            "id": 69,
+            "name": "Better.Call.Saul.S04E06.WEBRip.x264-ION10-[rarbg.to]",
+            "btih": "cd94467d6cf0a67a443c54b5d2496e3939d8c5d5",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.484949552,
+            "creation": "2018-09-11T07:19:05.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 60576,
+            "uuploaders": 6198
+        },
+        {
+            "id": 32,
+            "name": "[rutor.is]Better.Call.Saul.S04.720p.SunshineStudio",
+            "btih": "a33ed553a614087f0d32ee7f2b29c472d3c9a4b9",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 4.434857746,
+            "creation": "2018-09-11T11:31:19.000000000Z,Sunny (koshara.co),http://rutor.is/torrent/645903",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 60245,
+            "uuploaders": 3051
+        },
+        {
+            "id": 30,
+            "name": "[rutor.is]Better.Call.Saul.S04.720p.ColdFilm",
+            "btih": "4194168236b572841254dfc061328ec867621a59",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 8.303830196,
+            "creation": "2018-09-11T09:56:48.000000000Z,uTorrent/2210,http://rutor.is/torrent/652656",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 59332,
+            "uuploaders": 2659
+        },
+        {
+            "id": 82,
+            "name": "multi-btih-0-2-x-Better Call Saul. Season 4. WEBRip (1080p).91c217cefe17e9d9",
+            "btih": "91c217cefe17e9d983a5a7f4758931e2cbf9a2b7",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 17.510425251,
+            "creation": "2018-09-11T15:48:38.000000000Z,uTorrent/3.5.4,https://rutracker.org/forum/viewtopic.php?t=5603433",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 56459,
+            "uuploaders": 3488
+        },
+        {
+            "id": 29,
+            "name": "[rutor.is]Better.Call.Saul.S04.400p.GostFilm",
+            "btih": "604a9cb2d4f4feffc7cbca16d6e154722ac4198a",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 3.287357198,
+            "creation": "2018-09-11T16:14:37.000000000Z,uTorrent/3.5,http://rutor.is/torrent/652713",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 53654,
+            "uuploaders": 2384
+        },
+        {
+            "id": 93,
+            "name": "multi-btih-11-2-x-[rutor.is]Better_Call_Saul._Season_4_WEBRip_l_1080p_l_Jas",
+            "btih": "edf4d3f4997be2faa23c135f9d0cdc0f1b46e0c7",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 17.783629814,
+            "creation": "2018-09-14T12:08:55.000000000Z,uTorrent/2210,http://rutor.is/torrent/646633",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 53033,
+            "uuploaders": 848
+        },
+        {
+            "id": 23,
+            "name": "[rutor.is]BCS_s04_720p",
+            "btih": "f398acc007b9229fdb5d329a389275b54ec57cf1",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 9.380354254,
+            "creation": "2018-09-12T12:16:57.000000000Z,http://rutor.is/torrent/646562",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 50081,
+            "uuploaders": 1888
+        },
+        {
+            "id": 57,
+            "name": "Better.Call.Saul.S04E06.iNTERNAL.1080p.WEB.X264-METCON[rartv]-[rarbg.to]",
+            "btih": "f0152422faed0d9ec2b88d7134ce22cede74e7d0",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.291758111,
+            "creation": "2018-09-11T07:16:49.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 49720,
+            "uuploaders": 5167
+        },
+        {
+            "id": 95,
+            "name": "multi-btih-13-2-x-[rutor.is]Better_Call_Saul._Season_4_WEBRip_l_720p_l_Jask",
+            "btih": "de61d428a79d833226476e33f6ad7302e1d8624f",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 9.161084751,
+            "creation": "2018-09-14T12:07:17.000000000Z,uTorrent/2210,http://rutor.is/torrent/646634",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 49672,
+            "uuploaders": 1330
+        },
+        {
+            "id": 10,
+            "name": "[limetorrents.info]Better.Call.Saul.S04E06.720p.HDTV.x264-AVS[TGx]",
+            "btih": "e18742bac4f3d0c4308381f3b874b11d9c5f2bd6",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.798566767,
+            "creation": "2018-09-11T02:30:02.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 49647,
+            "uuploaders": 1519
+        },
+        {
+            "id": 13,
+            "name": "[limetorrents.info]Better.Call.Saul.S04E06.FRENCH.WEB.XviD-EXTREME",
+            "btih": "3a1055b2053fa6e74e4f2f3a048e88cc4f28bdef",
+            "resolution": "720",
+            "encoding": "xvid",
+            "gigabytes": 0.381809684,
+            "creation": "2018-09-11T12:51:50.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 46637,
+            "uuploaders": 12258
+        },
+        {
+            "id": 46,
+            "name": "Better.Call.Saul.S04E06.1080p.WEB.x264-STRiFE[rartv]-[rarbg.to]",
+            "btih": "9fd906f2b14c4558df89736c307e9d94733a2ade",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.291804212,
+            "creation": "2018-09-11T07:02:52.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 45899,
+            "uuploaders": 11282
+        },
+        {
+            "id": 72,
+            "name": "Лучше звоните Солу Better Call Saul Сезон 4 Серии 1-6 из 10 (Винс Гиллиган) [2018, США, драма, криминал, WEBRip] MVO (Baib [rutracker-5597648]",
+            "btih": "b02f5b42cd0f85241828e0502895b789f4fb569a",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 5.947809695,
+            "creation": "2018-09-11T19:15:06.000000000Z,uTorrent/1820,https://rutracker.org/forum/viewtopic.php?t=5597648",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 45122,
+            "uuploaders": 2452
+        },
+        {
+            "id": 90,
+            "name": "multi-btih-8-2-x-[limetorrents.info]Better.Call.Saul.S04E06.REPACK.720p.HDTV.x264-MRSK",
+            "btih": "d481ecd17ac4b77528188bbbc8c09764de01db6a",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.650265313,
+            "creation": "2018-09-12T13:48:34.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 44763,
+            "uuploaders": 2020
+        },
+        {
+            "id": 1,
+            "name": "67bb-Better.Call.Saul.S04E06.PROPER.HDTV.x264-KILLERS[ettv]",
+            "btih": "8449a6b8cd718eaf92f185516146e30aa5a267e6",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.2292113,
+            "creation": "2018-09-11T08:02:08.000000000Z,mktorrent 1.0",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 44709,
+            "uuploaders": 1961
+        },
+        {
+            "id": 3,
+            "name": "[limetorrents.info]Better.Call.Saul.S04E05.HDTV.x264-SVA",
+            "btih": "1156fdc62e504fa6d5e2cfd50f3bffb442b85061",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.259101687,
+            "creation": "2018-09-08T07:00:02.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 43864,
+            "uuploaders": 10760
+        },
+        {
+            "id": 12,
+            "name": "[limetorrents.info]Better.Call.Saul.S04E06.720p.HDTV.x265-MiNX[TGx]",
+            "btih": "6732e8f00672ce0ef6375fd8e221bcb1845111a9",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.156697466,
+            "creation": "2018-09-11T03:00:08.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 43550,
+            "uuploaders": 2217
+        },
+        {
+            "id": 91,
+            "name": "multi-btih-9-2-x-[rutor.is]BCS_s04_LF",
+            "btih": "13caca7b9b62200e282ef03ae006c86c9e5abaa5",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 3.753710974,
+            "creation": "2018-09-14T15:05:15.000000000Z,uTorrent/3.5,http://rutor.is/torrent/646443",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 43317,
+            "uuploaders": 6052
+        },
+        {
+            "id": 11,
+            "name": "[limetorrents.info]Better.Call.Saul.S04E06.720p.HDTV.x264-MRSK",
+            "btih": "fd3f0f55d0304bf483c265a5b07ed9d1c1642f13",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.686794126,
+            "creation": "2018-09-11T04:40:03.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 42116,
+            "uuploaders": 1446
+        },
+        {
+            "id": 22,
+            "name": "[limetorrents.info]Better.Call.Saul.S04E06.XviD-AFG[TGx]",
+            "btih": "152b3e6307f131414cb57fdfd8357af4af3f89df",
+            "resolution": "720",
+            "encoding": "xvid",
+            "gigabytes": 0.312161801,
+            "creation": "2018-09-11T02:50:05.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 40980,
+            "uuploaders": 2538
+        },
+        {
+            "id": 27,
+            "name": "[rutor.is]Better.Call.Saul.S04.1080p.GostFilm",
+            "btih": "e417ec528713879c3a1fdfc5a4d1c40dd73418f3",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 16.504898118,
+            "creation": "2018-09-11T16:20:47.000000000Z,uTorrent/3.5,http://rutor.is/torrent/652710",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 40468,
+            "uuploaders": 1569
+        },
+        {
+            "id": 18,
+            "name": "[limetorrents.info]Better.Call.Saul.S04E06.PROPER.720p.HDTV.x264-KILLERS",
+            "btih": "73a434667025cee9f4f59575227983797393ab3b",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.897404023,
+            "creation": "2018-09-12T05:18:02.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 39843,
+            "uuploaders": 1349
+        },
+        {
+            "id": 47,
+            "name": "Better.Call.Saul.S04E06.2160p.NF.WEBRip.DD5.1.x264-TrollUHD[rartv]-[rarbg.to]",
+            "btih": "b8250288a125bc51064c537934b6138e5f6bc7c6",
+            "resolution": "2160",
+            "encoding": "264",
+            "gigabytes": 10.508898019,
+            "creation": "2018-09-12T06:34:10.000000000Z,mktorrent 1.0,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 39340,
+            "uuploaders": 2140
+        },
+        {
+            "id": 4,
+            "name": "[limetorrents.info]Better.Call.Saul.S04E06.1080p.WEB.x264-STRiFE[TGx]",
+            "btih": "9c0bd371e682ba2d8d8769a374bfcbe726820cf7",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.298908974,
+            "creation": "2018-09-11T07:30:04.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 38317,
+            "uuploaders": 7845
+        },
+        {
+            "id": 6,
+            "name": "[limetorrents.info]Better.Call.Saul.S04E06.720p.10bit.WEBRip.2CH.x265.HEVC-PSA",
+            "btih": "bf1fad012b2bcd55afc7b3f63218f06e66c295d7",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.204340633,
+            "creation": "2018-09-12T03:37:19.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 37467,
+            "uuploaders": 1874
+        },
+        {
+            "id": 81,
+            "name": "风骚律师.Better.Call.Saul.S04E06.720p-天天美剧字幕组.mp4.539c3e86de9761ba",
+            "btih": "539c3e86de9761babad10ee8ecd46a84264f23e4",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.397417472,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 37354,
+            "uuploaders": 4205
+        },
+        {
+            "id": 31,
+            "name": "[rutor.is]Better.Call.Saul.S04.720p.GostFilm",
+            "btih": "68e94148a261e0e71e359f9b8e5c26aeddc77340",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 8.116295714,
+            "creation": "2018-09-11T16:16:48.000000000Z,uTorrent/3.5,http://rutor.is/torrent/652706",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 35792,
+            "uuploaders": 1469
+        },
+        {
+            "id": 33,
+            "name": "[rutor.is]Better.Call.Saul.S04.WEB-DLRip.1080p.IdeaFilm",
+            "btih": "7e3b69c5b73e133df4ca155a0bf653d0658e6d1a",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 17.024541485,
+            "creation": "2018-09-11T17:56:25.000000000Z,qBittorrent v4.1.2,http://rutor.is/torrent/646178",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 35626,
+            "uuploaders": 1107
+        },
+        {
+            "id": 26,
+            "name": "[rutor.is]BCS_s04_LF_2160p",
+            "btih": "dc5e986a945509df27c255383ad699425be3959e",
+            "resolution": "2160",
+            "encoding": "none",
+            "gigabytes": 58.220164427,
+            "creation": "2018-09-14T09:15:09.000000000Z,ruTorrent (PHP Class - Adrien Gibrat),http://rutor.is/torrent/646546",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 35391,
+            "uuploaders": 1014
+        },
+        {
+            "id": 5,
+            "name": "[limetorrents.info]Better.Call.Saul.S04E06.10Bit.720p.HDTV.x264-MRSK",
+            "btih": "71d83986619955a75216f172c287d016f7d2fe1d",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.63265713,
+            "creation": "2018-09-11T05:51:57.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 31695,
+            "uuploaders": 1075
+        },
+        {
+            "id": 2,
+            "name": "[ATV 3] Лучше звоните Солу Better Call Saul Сезон 4, Эпизод 1-6 (10) (Винс Гиллиган, Томас Шнауз, Адам Бернштейн) [2018, США, [rutracker-5598649]",
+            "btih": "8b310e23ec035611ecc2f42d912920d1941c43f6",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 12.9027849,
+            "creation": "2018-09-14T06:26:23.000000000Z,ruTorrent (PHP Class - Adrien Gibrat),https://rutracker.org/forum/viewtopic.php?t=5598649",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 31247,
+            "uuploaders": 956
+        },
+        {
+            "id": 77,
+            "name": "Лучше звоните Солу Better Call Saul Сезон 4 Серии 1-6 из 10 (Колин Бакси, Адам Бернштейн, Винс Гиллиган) [2018, США, драма [rutracker-5599015]",
+            "btih": "99ba6875f6da8a0e0cf1f9d20e3bac5424d6a3d0",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 3.10248244,
+            "creation": "2018-09-12T23:22:45.000000000Z,uTorrent/2210,https://rutracker.org/forum/viewtopic.php?t=5599015",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 30263,
+            "uuploaders": 545
+        },
+        {
+            "id": 35,
+            "name": "[rutor.is]Better.Call.Saul.S04.WEB-DLRip.IdeaFilm",
+            "btih": "3d446da616963313e2d2d623dc85f74f536dfafd",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 4.577853838,
+            "creation": "2018-09-11T18:01:26.000000000Z,qBittorrent v4.1.2,http://rutor.is/torrent/646180",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 28578,
+            "uuploaders": 1292
+        },
+        {
+            "id": 42,
+            "name": "[rutor.is]Better_Call_Saul_S04_2018_WEBRip_Gears_Media",
+            "btih": "061e33ae26a5e01590c3ac882ce1ee8ddb161b80",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 2.880480166,
+            "creation": "2018-09-12T23:22:47.000000000Z,uTorrent/2210,http://rutor.is/torrent/652943",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 26260,
+            "uuploaders": 957
+        },
+        {
+            "id": 34,
+            "name": "[rutor.is]Better.Call.Saul.S04.WEB-DLRip.720p.IdeaFilm",
+            "btih": "8e3bd575d1a06084b45d421e58e1c57c83d62553",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 10.668629604,
+            "creation": "2018-09-11T17:59:23.000000000Z,qBittorrent v4.1.2,http://rutor.is/torrent/646179",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 26144,
+            "uuploaders": 1130
+        },
+        {
+            "id": 28,
+            "name": "[rutor.is]Better.Call.Saul.S04.400p.ColdFilm",
+            "btih": "1aec21058570606772a27688feff906a50fcaf1e",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 2.907757018,
+            "creation": "2018-09-11T09:55:19.000000000Z,uTorrent/2210,http://rutor.is/torrent/652655",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 25021,
+            "uuploaders": 1450
+        },
+        {
+            "id": 36,
+            "name": "[rutor.is]Better_Call_Saul._Season_4_WEBRip_l_1080p_l_Goo",
+            "btih": "7b2187fef94e51928edfec53b451b4403eebabe0",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 19.509449334,
+            "creation": "2018-09-17T21:56:47.000000000Z,uTorrent/3130,http://rutor.is/torrent/653967",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 21583,
+            "uuploaders": 243
+        },
+        {
+            "id": 38,
+            "name": "[rutor.is]Better_Call_Saul._Season_4_WEBRip_l_400p_l_Good",
+            "btih": "cc31156ff68e978a5ddea58ac13195a7e136f34c",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 3.709120512,
+            "creation": "2018-09-17T22:02:03.000000000Z,uTorrent/2210,http://rutor.is/torrent/651622",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 20268,
+            "uuploaders": 457
+        },
+        {
+            "id": 41,
+            "name": "[rutor.is]Better_Call_Saul_S04_2018_720p_WEBRip_Gears_Med",
+            "btih": "2cd48eaee3cb33383af04ad8ca30d69a6eb5470f",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 10.529706455,
+            "creation": "2018-09-12T20:24:03.000000000Z,uTorrent/2210,http://rutor.is/torrent/652924",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 17919,
+            "uuploaders": 836
+        },
+        {
+            "id": 76,
+            "name": "Лучше звоните Солу Better Call Saul Сезон 4 Серии 1-6 из 10 (Колин Бакси, Адам Бернштейн, Винс Гиллиган) [2018, США, драма [rutracker-5599013]",
+            "btih": "275291be1754fbebd148bb7df09ab02fe2ce6537",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 11.41940043,
+            "creation": "2018-09-12T20:23:59.000000000Z,uTorrent/2210,https://rutracker.org/forum/viewtopic.php?t=5599013",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 13669,
+            "uuploaders": 582
+        },
+        {
+            "id": 49,
+            "name": "Better.Call.Saul.S04E06.720p.HDTV.x264-AVS [IPT]",
+            "btih": "863c890369f63f50172dd46e9704e160621017ab",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.817505929,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 10104,
+            "uuploaders": 5505
+        },
+        {
+            "id": 60,
+            "name": "Better.Call.Saul.S04E06.PROPER.720p.HDTV.x264-KILLERS [IPT]",
+            "btih": "19622dbdf07c43b33537c4d91f2c117414bc63d0",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.922067651,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 3581,
+            "uuploaders": 1844
+        },
+        {
+            "id": 52,
+            "name": "Better.Call.Saul.S04E06.720p.HEVC.x265-MeGusta [IPT]",
+            "btih": "e32c74eb707424e23df15ab713a3dc3494d842b0",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.202005226,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 3317,
+            "uuploaders": 1473
+        },
+        {
+            "id": 45,
+            "name": "Better.Call.Saul.S04E06.1080p.WEB.x264-STRiFE [IPT]",
+            "btih": "27979c3234925ce8b590b09c9ca766377f3e8b63",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.341012399,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 3006,
+            "uuploaders": 1530
+        },
+        {
+            "id": 63,
+            "name": "Better.Call.Saul.S04E06.PROPER.720p.HEVC.x265-MeGusta [IPT]",
+            "btih": "b3615b09289c0495b908d9c8443653958db4b3d3",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.20354988,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 2701,
+            "uuploaders": 1142
+        },
+        {
+            "id": 70,
+            "name": "Better.Call.Saul.S04E06.XviD-AFG [IPT]",
+            "btih": "bbadd83a7e1ca02e60f3f110d90144e15359a1cb",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.31216111,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 2385,
+            "uuploaders": 1124
+        },
+        {
+            "id": 68,
+            "name": "Better.Call.Saul.S04E06.PROPER.XviD-AFG [IPT]",
+            "btih": "7910fde68ca41226136f35ac76be1446bac4da52",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.313244348,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 1962,
+            "uuploaders": 910
+        },
+        {
+            "id": 58,
+            "name": "Better.Call.Saul.S04E06.MULTi.1080p.WEB.x264-CARAPiLS [IPT]",
+            "btih": "0b8b256c41ec3320074e7a778641aaafba5cef9b",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.573864651,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 1337,
+            "uuploaders": 693
+        },
+        {
+            "id": 54,
+            "name": "Better.Call.Saul.S04E06.HDTV.x264-SVA [IPT]",
+            "btih": "50c1fa2c3fd9fc7ac3eb9b4e4a43b75bb059b4c9",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.223134578,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 1066,
+            "uuploaders": 564
+        },
+        {
+            "id": 65,
+            "name": "Better.Call.Saul.S04E06.PROPER.HDTV.x264-KILLERS [IPT]",
+            "btih": "c31eeaf889852a5092a1b1e085f8de102fc1736f",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.235953346,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 775,
+            "uuploaders": 319
+        },
+        {
+            "id": 59,
+            "name": "Better.Call.Saul.S04E06.PROPER.480p.x264-mSD [IPT]",
+            "btih": "1244b2e712c2ea2a536d7ebe3163806e87dfc145",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.126311647,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 662,
+            "uuploaders": 287
+        },
+        {
+            "id": 53,
+            "name": "Better.Call.Saul.S04E06.AAC.MP4-Mobile [IPT]",
+            "btih": "382c09e12d10af3753b55fd15a5489aad1272f1e",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.137925708,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 546,
+            "uuploaders": 340
+        },
+        {
+            "id": 48,
+            "name": "Better.Call.Saul.S04E06.480p.x264-mSD [IPT]",
+            "btih": "3abe658fae3eb1201977940d7e01181168ff262c",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.126551551,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 514,
+            "uuploaders": 239
+        },
+        {
+            "id": 64,
+            "name": "Better.Call.Saul.S04E06.PROPER.AAC.MP4-Mobile [IPT]",
+            "btih": "5232720084b5078dba2e2cbc2faedaf27404efb8",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.137981877,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 486,
+            "uuploaders": 341
+        },
+        {
+            "id": 43,
+            "name": "Better Call Saul S04E06 1080p Netflix WEBRip DD+ 5.1 x264-TrollHD [IPT]",
+            "btih": "746d807e464c35625b1ff1af05de22c5355a7fe9",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.682846261,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 465,
+            "uuploaders": 244
+        }
+    ]
+}

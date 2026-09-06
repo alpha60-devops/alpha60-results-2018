@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt3032476",
+    "imdb_id": "tt3032476",
+    "revision": "5daa2bb0f58fe6b678ea0a572049b3311de52618",
+    "wikidata_id": "Q14925221",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Better_Call_Saul"
+  },
+  "coverage_sha256": "44e4ef1d4c9683d4b2f2febff286cd40f4ced9097e42142af2c906357b0eef96",
+  "generated_at": "2026-09-06T18:16:31.037435+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2018-archives/better-call-saul-406.cache/cache.20181001.tar.xz",
+      "sha256": "a3da049c5d28b24ed4dc30a34c386af7a529f60b8993e97fea9570fe8c4a47a7",
+      "size": 195397860
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2018/data/txt/year-2018-coverage-evidence/better-call-saul-406.md",
+      "sha256": "48b18c652becae9c499707fee014698c906828bc0196e11e5ae28887a6347d90",
+      "size": 598
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2018/data/txt/year-2018-day-cache-stream-receipts/better-call-saul-406.json",
+      "sha256": "557c1b54cc98b63ce2980c74250a9f4e2e7ca7a514ceafb5fa210c3e2d5a84b0",
+      "size": 2076
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2018/data/txt/year-2018-day-product-receipts/better-call-saul-406.json",
+      "sha256": "9292b69b1f6c16d5ec045cac697f49841c196f6ad6dc4f06f5b91bf7b34d22f6",
+      "size": 372
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2018-control/worker-map.json",
+      "sha256": "9fa8abf8526eeed113ee5caacdd56c59ca4dd79dc2693f35b4e875a60e3a1b94",
+      "size": 58051
+    }
+  },
+  "media_object": "better-call-saul-406",
+  "published_files": {
+    "data/csv/bytes/better-call-saul-406-cumulative-detail.2018-btiha-itemized-by-bytes.csv": "64a7edb1bec934ac060f4ea849447bfdb8fb9de961aab9b152bf4fa8a0a4b993",
+    "docs/itemized/better-call-saul-406-sample-cache-audit.md": "4cc4108ffa99465e53232c17566d8db02d8c16d412dba59bf9d5c9e7928c2407",
+    "docs/itemized/figures/better-call-saul-406-carto-4k.webp": "408a4745d7e348857d9c439886c7c089e839ae12d77a32f8508c0ed18f205355",
+    "docs/itemized/figures/better-call-saul-406-carto.png": "a2cb628a927499c6023a32ef72a85234877750bcbbeef444127d54ee6a0b06c8",
+    "docs/itemized/figures/better-call-saul-406-cumulative-detail-btiha-itemized-by-bytes.svg": "0a4ee0eb6d7c0dc535dde54e2f293193ddf0f559b37979315452f3025c53c26c",
+    "docs/itemized/figures/better-call-saul-406-data-ge-1080p-4k.webp": "ca0f9e6ff2f7ebb402bd1f798c75184967a767d20601dc70c30baa38e9aca714",
+    "docs/itemized/figures/better-call-saul-406-data-ge-1080p.webp": "c0706031c274a606bae97025972ed67a3c690a9cc629c73343bc6e3c481a36c3",
+    "docs/itemized/figures/better-call-saul-406-data-lt-1080p-4k.webp": "3928ffb0da467a7a1df3bc5cd263c90acc62e8c9a96f417893d52f09785ce5cc",
+    "docs/itemized/figures/better-call-saul-406-data-lt-1080p.webp": "4eaee5c70a0aebe560d7c191c64702f25a37e3df480e207dc3700cc9fed33e28",
+    "docs/itemized/figures/better-call-saul-406-downloads-by-day-day.svg": "1667fbbc4f69cb86790fc3d4bc407fb95b8e96b8ddaa9205167eb4a9d0412e9c",
+    "docs/itemized/figures/better-call-saul-406-downloads-by-week-better-call-saul-406-week.svg": "cf29cf614260fbd3590760dbd9357f29cfdaf5741d6096686c74767aac52cda2",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "27af472f439958c53f0aab30b89cddaa411eedaf",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2018/better-call-saul-406/tmp/better-call-saul-406-cumulative-btiha.geojson",
+        "sha256": "29732ab24d014bf9faa97296d7add91d3089cbddb2ff45dd3f237346da339c58",
+        "size": 43136144
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2018/better-call-saul-406/tmp/better-call-saul-406-cumulative-btiha-media-objects.json",
+        "sha256": "9085a0ff9bb5e133b4ab290b0e47e95df92e7f47d5f127dff7de0991c282c51c",
+        "size": 187940
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2018-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "better-call-saul-406",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "3e6a87ec7490ec3b39db0dba09ab6311a015621eb704ac975c05f399296c8393",
+      "size": 8759376
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2018-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          61.0,
+          54.0,
+          54.0,
+          47.0,
+          47.0,
+          41.0,
+          36.0,
+          32.0,
+          30.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Columbus",
+          "Ashburn",
+          "Seattle",
+          "London",
+          "Seoul",
+          "New York City",
+          "Independence",
+          "Shanghai",
+          "Tokyo",
+          "Beijing"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          78.0,
+          65.0,
+          61.0,
+          54.0,
+          49.0,
+          44.0,
+          40.0,
+          39.0,
+          30.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Columbus",
+          "Ashburn",
+          "London",
+          "New York City",
+          "Seattle",
+          "Tokyo",
+          "Seoul",
+          "Independence",
+          "Shanghai",
+          "Beijing"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 21,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 22,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 4,
+        "x_tick_marks": 4,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 3,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "27af472f439958c53f0aab30b89cddaa411eedaf",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "980e731bb2e99b13ecc9d15c75480125d514e26c",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "5daa2bb0f58fe6b678ea0a572049b3311de52618"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2018"
+}
