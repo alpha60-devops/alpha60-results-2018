@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt0475784",
+    "imdb_id": "tt0475784",
+    "revision": "5daa2bb0f58fe6b678ea0a572049b3311de52618",
+    "wikidata_id": "Q17572811",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Westworld_(TV_series)"
+  },
+  "coverage_sha256": "7219c4d2ae31d3cfcf7361832a17f3b8cded6e99ec7e5a7ce09d781b60bd94ed",
+  "generated_at": "2026-09-06T18:55:54.562504+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2018-archives/westworld-201.cache/cache.20180506.tar.xz",
+      "sha256": "80e7090af55291fb7f87524e38bfb0cc0769e89ed98e1e0a0c1dfd1cf13a502b",
+      "size": 304701304
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2018/data/txt/year-2018-coverage-evidence/westworld-201.md",
+      "sha256": "70197557cc2dbaa801737e470df02b5dca26d7b8a3b269861a2bee52bb13d74f",
+      "size": 591
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2018/data/txt/year-2018-day-cache-stream-receipts/westworld-201.json",
+      "sha256": "cb80e838eb10ee9aaf7590a0a18bdbaced68145ceed9fac32f454debcd554622",
+      "size": 1999
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2018/data/txt/year-2018-day-product-receipts/westworld-201.json",
+      "sha256": "7dfd0b976f91f703647d42f742fe7af6c309da7663c5c2b0d5e57648aeac5c53",
+      "size": 365
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2018-control/worker-map.json",
+      "sha256": "0f0151a9d86552ffa4d2bdec8cc0b2a7ce1ff4f549d25d26b400c16672f3f222",
+      "size": 55881
+    }
+  },
+  "media_object": "westworld-201",
+  "published_files": {
+    "data/csv/bytes/westworld-201-cumulative-detail.2018-btiha-itemized-by-bytes.csv": "03c8a02ea2fe2f5ddaa8ec0d68bb16feb9158837ca622c36fecd8749537b6ebc",
+    "docs/itemized/figures/westworld-201-carto-4k.webp": "c2de6fd3ef592cd7f0f8cd0f94559b265f96758faf82f31a056498578fad3f09",
+    "docs/itemized/figures/westworld-201-carto.png": "565522e11c9f4a6d69da9dd2ec26c980d39cf129e9d6c5eb484899639c31d6e1",
+    "docs/itemized/figures/westworld-201-cumulative-detail-btiha-itemized-by-bytes.svg": "3f1b6e4cd1749c61aa3e4938104d05443fe776a4010c6dfe192b3ce40204fb1b",
+    "docs/itemized/figures/westworld-201-data-ge-1080p-4k.webp": "172877021752fbac11a1564c42ef3d89536da0926c133632ac455b0c08b1e963",
+    "docs/itemized/figures/westworld-201-data-ge-1080p.webp": "d69bbcb8e14f4bc7c66f8c2bca9abfd186ea39abe735c3f9b578cbad7e06eab1",
+    "docs/itemized/figures/westworld-201-data-lt-1080p-4k.webp": "ec5c9ff9506691f8bd2e34020e504c0b477ec456f42667a35a3ec2323ae51712",
+    "docs/itemized/figures/westworld-201-data-lt-1080p.webp": "c06772662b71856c6591b3a2e62984d63db0ef89eb58f591479b518ede99deb6",
+    "docs/itemized/figures/westworld-201-downloads-by-day-day.svg": "34c0c0cb60bf1d7848f0d09f2a32338c391fb12fb96ef06083a6ec238fd13a38",
+    "docs/itemized/figures/westworld-201-downloads-by-week-westworld-201-week.svg": "febdeb5aec82b24a8e41c7512298cb7f715f12b22821e490723e61850646c582",
+    "docs/itemized/westworld-201-sample-cache-audit.md": "588ea9145f388a463a994b88d4c7e83cd3dd4410d6db7ee5d226fce0ac4cdf0a",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "7348341a0e25ea12760cadfc7f1f5ae5554a7da5",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2018/westworld-201/tmp/westworld-201-cumulative-btiha.geojson",
+        "sha256": "3c1a9cbbf46996e75443833ea2042b64bb9d70bb8a3ed1bacb9f5af51e70f31b",
+        "size": 25387967
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2018/westworld-201/tmp/westworld-201-cumulative-btiha-media-objects.json",
+        "sha256": "34ae7a8ec5ef5ea75bd976dc290bfe81d6f214105ff8f75d6ddd2782060110c9",
+        "size": 139544
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2018-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "westworld-201",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "3e6a87ec7490ec3b39db0dba09ab6311a015621eb704ac975c05f399296c8393",
+      "size": 8759376
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2018-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          76.0,
+          60.0,
+          54.0,
+          45.0,
+          38.0,
+          36.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Shanghai",
+          "Moscow",
+          "Shenzhen",
+          "London",
+          "Saint Petersburg",
+          "Beijing",
+          "Nanjing",
+          "Chengdu",
+          "Lelystad",
+          "Amsterdam"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          33.0,
+          32.0,
+          30.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "London",
+          "Sydney",
+          "S\u00e3o Paulo",
+          "Shanghai",
+          "Melbourne",
+          "Moscow",
+          "Mumbai",
+          "Shenzhen",
+          "Stockholm",
+          "Warsaw"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 14,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 30,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 2,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "27af472f439958c53f0aab30b89cddaa411eedaf",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "980e731bb2e99b13ecc9d15c75480125d514e26c",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "5daa2bb0f58fe6b678ea0a572049b3311de52618"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2018"
+}
