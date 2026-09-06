@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt5171438",
+    "imdb_id": "tt5171438",
+    "revision": "5daa2bb0f58fe6b678ea0a572049b3311de52618",
+    "wikidata_id": "Q21296543",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Star_Trek:_Discovery"
+  },
+  "coverage_sha256": "2bac2596052cf3832465038ddefed4f20f4a6959ac3a0648eb88d4c3b87b5980",
+  "generated_at": "2026-09-06T18:50:52.273146+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2018-archives/star-trek-discovery-115.cache/cache.20180304.tar.xz",
+      "sha256": "0ef3fd9f82a1d56a5ef15bec82c122f6a57cfbe8ea00e17c6408cda2416ba821",
+      "size": 117639424
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2018/data/txt/year-2018-coverage-evidence/star-trek-discovery-115.md",
+      "sha256": "3a2e37d4a7b3a2084ac16f0b9bd865ff50da82d8702af3a7da6c6e0a2c5f9f65",
+      "size": 601
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2018/data/txt/year-2018-day-cache-stream-receipts/star-trek-discovery-115.json",
+      "sha256": "7efab8b666adc9bcccaf1de04d37bd07668ba187003f1559265f630ec3f11d27",
+      "size": 2085
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2018/data/txt/year-2018-day-product-receipts/star-trek-discovery-115.json",
+      "sha256": "a0864eebd08b150874e70fd7d550c15378f5871782eb4ad3903a1f67a720523c",
+      "size": 375
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2018-control/worker-map.json",
+      "sha256": "0f0151a9d86552ffa4d2bdec8cc0b2a7ce1ff4f549d25d26b400c16672f3f222",
+      "size": 55881
+    }
+  },
+  "media_object": "star-trek-discovery-115",
+  "published_files": {
+    "data/csv/bytes/star-trek-discovery-115-cumulative-detail.2018-btiha-itemized-by-bytes.csv": "c054c0118d989516605414cf5ef3970dff5d17ddea05c9a521574b58395577be",
+    "docs/itemized/figures/star-trek-discovery-115-carto-4k.webp": "4e47f02c9fcf80601b95677fe10b7c870446ef56a72d99ffc6e5697c47194ecd",
+    "docs/itemized/figures/star-trek-discovery-115-carto.png": "73000da27a0c62561da00ed64ca30b69f76f2ea172aad1923f229cca70381139",
+    "docs/itemized/figures/star-trek-discovery-115-cumulative-detail-btiha-itemized-by-bytes.svg": "d7e6e35bbc693be9b7e7b67c674a411c8db36f8d265879d122aafeb883a52ccd",
+    "docs/itemized/figures/star-trek-discovery-115-data-ge-1080p-4k.webp": "6e4dd4460932e7dd993bb144e805916b1f50db53cc18f6b27bc0c63c59189a9e",
+    "docs/itemized/figures/star-trek-discovery-115-data-ge-1080p.webp": "8e30ead2a3680f302712a02d898a3f6cf1c75c8df57bb32b081f39a5821d5f15",
+    "docs/itemized/figures/star-trek-discovery-115-data-lt-1080p-4k.webp": "ad63e2c8781367f15730a120101da23b0535bbe3d35e63db25715474bbbb1b22",
+    "docs/itemized/figures/star-trek-discovery-115-data-lt-1080p.webp": "d669ca848c373039d26911161fb25629174ef6118a1225feaca72dba2c35972c",
+    "docs/itemized/figures/star-trek-discovery-115-downloads-by-day-day.svg": "dffefb522712ae494cc0f82144618dee4aa2f5bdff1a56cdea386929e50d3878",
+    "docs/itemized/figures/star-trek-discovery-115-downloads-by-week-star-trek-discovery-115-week.svg": "1ccb4f8f872866ff64656aaf076df49da0643170de9994bc6f759005863f09ab",
+    "docs/itemized/star-trek-discovery-115-sample-cache-audit.md": "162acbb2218a790d6f61b3a859e4709a1f0c5c7154b71856948d2da1cfd54bf1",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "27af472f439958c53f0aab30b89cddaa411eedaf",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2018/star-trek-discovery-115/tmp/star-trek-discovery-115-cumulative-btiha.geojson",
+        "sha256": "843e339c99f7954c04a0b46e6a99cbb10f6df1420a6ea6010e509103603ee072",
+        "size": 15976690
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2018/star-trek-discovery-115/tmp/star-trek-discovery-115-cumulative-btiha-media-objects.json",
+        "sha256": "d0425377818f6e9dba0192238db6bdd9261def6f996dd112740885418885e2e8",
+        "size": 238067
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2018-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "star-trek-discovery-115",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "3e6a87ec7490ec3b39db0dba09ab6311a015621eb704ac975c05f399296c8393",
+      "size": 8759376
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2018-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          88.0,
+          45.0,
+          39.0,
+          33.0,
+          31.0,
+          29.0,
+          28.0,
+          27.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Ashburn",
+          "London",
+          "Lelystad",
+          "New York City",
+          "Frankfurt am Main",
+          "Amsterdam",
+          "Moscow",
+          "Toronto",
+          "Breda",
+          "Milan"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          79.0,
+          27.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "London",
+          "Ashburn",
+          "New York City",
+          "Sydney",
+          "Frankfurt am Main",
+          "Lelystad",
+          "Paris",
+          "Dallas",
+          "Toronto",
+          "Zagreb"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 21,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 19,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 3,
+        "y_tick_labels": 20
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "27af472f439958c53f0aab30b89cddaa411eedaf",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "980e731bb2e99b13ecc9d15c75480125d514e26c",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "5daa2bb0f58fe6b678ea0a572049b3311de52618"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2018"
+}
