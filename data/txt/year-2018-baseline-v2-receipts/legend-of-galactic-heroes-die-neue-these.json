@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt7407236",
+    "imdb_id": "tt7407236",
+    "revision": "5daa2bb0f58fe6b678ea0a572049b3311de52618",
+    "wikidata_id": "Q113531598",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Legend_of_the_Galactic_Heroes#Die_Neue_These"
+  },
+  "coverage_sha256": "c0f39483bfe898c07d8a6e5ec253088d2d1a0027661a89cf9c4a6ce9d847873e",
+  "generated_at": "2026-09-06T18:20:59.956303+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2018-archives/legend-of-galactic-heroes-die-neue-these.cache/cache.20180412.tar.xz",
+      "sha256": "3d88c2552eaf36e89eb2a64a9721e8b8e77cb6e23fb46ae7f5953f7a44408b64",
+      "size": 19953108
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2018/data/txt/year-2018-coverage-evidence/legend-of-galactic-heroes-die-neue-these.md",
+      "sha256": "30f1a4fe51b9c4b41126a4bb0c7f672fdaee979668e46dfd8076ff9bb4b0eeb9",
+      "size": 618
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2018/data/txt/year-2018-day-cache-stream-receipts/legend-of-galactic-heroes-die-neue-these.json",
+      "sha256": "c4fb393f9d28df2a1b93674bf854a8140873f4c06ad837413042817651a96139",
+      "size": 2044
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2018/data/txt/year-2018-day-product-receipts/legend-of-galactic-heroes-die-neue-these.json",
+      "sha256": "cafe8758da5a26e0806b40526348f0cac12cf593234f6daaa4113794dc25ac9c",
+      "size": 392
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2018-control/worker-map.json",
+      "sha256": "0f0151a9d86552ffa4d2bdec8cc0b2a7ce1ff4f549d25d26b400c16672f3f222",
+      "size": 55881
+    }
+  },
+  "media_object": "legend-of-galactic-heroes-die-neue-these",
+  "published_files": {
+    "data/csv/bytes/legend-of-galactic-heroes-die-neue-these-cumulative-detail.2018-btiha-itemized-by-bytes.csv": "a552aa3ac050cbbd79643cc4374b7290ebaf5f7c874a71a67cb8cc3bcba54709",
+    "docs/itemized/figures/legend-of-galactic-heroes-die-neue-these-carto-4k.webp": "ccf29c5b7735305c0785342c7123f73ea972a184bbb60c38afc84a2e14ae747a",
+    "docs/itemized/figures/legend-of-galactic-heroes-die-neue-these-carto.png": "7ad8d20067deced62a86ab8069101f48b485c1be14f71f35e47efc7103c833dd",
+    "docs/itemized/figures/legend-of-galactic-heroes-die-neue-these-cumulative-detail-btiha-itemized-by-bytes.svg": "8da0cbb6c76b554bbb660ddd6cf34f0cbe59437982cd7ae5469bd59abdf2f99d",
+    "docs/itemized/figures/legend-of-galactic-heroes-die-neue-these-data-ge-1080p-4k.webp": "f704fa08fa2947a8545823453b9b59131e5729e38e33333a55bcf08aa68d72c8",
+    "docs/itemized/figures/legend-of-galactic-heroes-die-neue-these-data-ge-1080p.webp": "4ecc13a82c8bd385a7e10dccfb160a65bcefb456a5d5978aedf08e4d48fc4825",
+    "docs/itemized/figures/legend-of-galactic-heroes-die-neue-these-data-lt-1080p-4k.webp": "2388336e6482fc57b9f5f8434d4fa64d149285163fe7081a46512e93f206e833",
+    "docs/itemized/figures/legend-of-galactic-heroes-die-neue-these-data-lt-1080p.webp": "8aab609332f4cbb1e1abee3a490f9efabb8f1c24ddb27fcb0ea458e723910a57",
+    "docs/itemized/figures/legend-of-galactic-heroes-die-neue-these-downloads-by-day-day.svg": "10b4017387d7b567e731e26ada1bd2e9b47319f16fdf819cb6170d26f3013a5e",
+    "docs/itemized/figures/legend-of-galactic-heroes-die-neue-these-downloads-by-week-legend-of-galactic-heroes-die-neue-these-week.svg": "971737c4e5101c7e819298b9640b6bc18d264e0e0e7f143c2f219fa245daf1fd",
+    "docs/itemized/legend-of-galactic-heroes-die-neue-these-sample-cache-audit.md": "8f15471e9b940935566c83ef0d850ee7de1ba934b65a4470a64bd04e78934ccf",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "27af472f439958c53f0aab30b89cddaa411eedaf",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2018/legend-of-galactic-heroes-die-neue-these/tmp/legend-of-galactic-heroes-die-neue-these-cumulative-btiha.geojson",
+        "sha256": "069d9246e0fe66adb3b1897487021c81c7e25b2a0f0dd18dcaa3ba99e02a4cf2",
+        "size": 2239860
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2018/legend-of-galactic-heroes-die-neue-these/tmp/legend-of-galactic-heroes-die-neue-these-cumulative-btiha-media-objects.json",
+        "sha256": "0a9448d081eb74f77b2efde1ad9f5e15340902059682b42cb96f53bb2949fc0b",
+        "size": 45153
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2018-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "legend-of-galactic-heroes-die-neue-these",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "3e6a87ec7490ec3b39db0dba09ab6311a015621eb704ac975c05f399296c8393",
+      "size": 8759376
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2018-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          33.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Seoul",
+          "Paris",
+          "Tokyo",
+          "Incheon",
+          "Shanghai",
+          "Santiago",
+          "San Jose",
+          "Osaka",
+          "San Francisco",
+          "London"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          60.0,
+          48.0,
+          45.0,
+          44.0,
+          37.0,
+          33.0,
+          28.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Seoul",
+          "Shanghai",
+          "Hong Kong",
+          "Tokyo",
+          "Quezon City",
+          "Taipei",
+          "Shenzhen",
+          "Paris",
+          "Jakarta",
+          "Beijing"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 10,
+        "y_tick_labels": 20
+      },
+      "histogram": {
+        "bars": 18,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 6,
+        "x_tick_marks": 6,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 2,
+        "y_tick_labels": 20
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "27af472f439958c53f0aab30b89cddaa411eedaf",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "980e731bb2e99b13ecc9d15c75480125d514e26c",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "5daa2bb0f58fe6b678ea0a572049b3311de52618"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2018"
+}
