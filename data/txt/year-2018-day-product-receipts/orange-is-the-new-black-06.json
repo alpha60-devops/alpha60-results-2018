@@ -1,0 +1,14 @@
+{
+  "collection_key": "orange-is-the-new-black-06",
+  "day_products": 50,
+  "first_date": "2018-07-27",
+  "first_index": 1,
+  "geojson_data_version": "20260701",
+  "ip_geolocation_version": "6:1777968300",
+  "json_data_version": "2026-08-05",
+  "last_date": "2018-09-14",
+  "last_index": 50,
+  "schema": "alpha60-day-product-contract/1",
+  "sparse": false,
+  "status": "pass"
+}
